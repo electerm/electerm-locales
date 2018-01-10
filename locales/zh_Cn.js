@@ -6,96 +6,96 @@ module.exports = {
   //app menu
   menu: {
     //mac app
-    hide: 'hide',
-    hideothers: 'hide others',
-    unhide: 'unhide',
-    quit: 'quit',
+    hide: '隐藏',
+    hideothers: '隐藏其他',
+    unhide: '显示',
+    quit: '退出',
 
     //edit
-    edit: 'edit',
-    undo: 'undo',
-    redo: 'redo',
-    cut: 'cut',
-    copy: 'copy',
-    paste: 'paste',
-    pasteandmatchstyle: 'paste and match style',
-    del: 'delete',
-    selectall: 'select all',
-    startspeaking: 'start speaking',
-    stopspeaking: 'stop speaking',
+    edit: '编辑',
+    undo: '撤销',
+    redo: '重做',
+    cut: '剪切',
+    copy: '复制',
+    paste: '粘贴',
+    pasteandmatchstyle: '带格式粘贴',
+    del: '删除',
+    selectall: '全选',
+    startspeaking: '开始录音',
+    stopspeaking: '停止录音',
 
     //view
-    view: 'view',
-    reload: 'reload',
-    forcereload: 'force reload',
-    toggledevtools: 'toggle dev tools',
-    resetzoom: 'reset zoom',
-    zoomin: 'zoom in',
-    zoomout: 'zoom out',
-    togglefullscreen: 'toggle fullscreen',
+    view: '视图',
+    reload: '刷新',
+    forcereload: '强制刷新',
+    toggledevtools: '切换',
+    resetzoom: '重设大小',
+    zoomin: '缩小',
+    zoomout: '放大',
+    togglefullscreen: '切换全屏',
 
     //window
-    window: 'window',
-    minimize: 'minimize',
-    close: 'close',
-    front: 'front',
+    window: '窗口',
+    minimize: '最小化',
+    close: '关闭',
+    front: '到最前',
 
     //help
-    help: 'help',
-    about: 'about',
-    checkUpdate: 'check update',
-    reportIssue: 'report issue',
-    homepage: 'homepage'
+    help: '帮助',
+    about: '关于',
+    checkUpdate: '检查更新',
+    reportIssue: '报告问题',
+    homepage: '官网'
   },
 
   //common
   common: {
-    history: 'history',
-    bookmarks: 'bookmarks',
-    setting: 'setting',
-    about: 'about',
+    history: '访问历史',
+    bookmarks: '书签',
+    setting: '设置',
+    about: '关于'
   },
 
   //control buttons
   control: {
-    author: 'author',
-    download: 'download',
-    bugReport: 'bug report',
-    checkForUpdate: 'check for update',
-    homepage: 'homepage',
-    notFoundContent: 'no item',
-    newSsh: 'new ssh',
-    newTerminal: 'new terminal',
-    dependencies: 'dependencies',
-    env: 'env',
-    os: 'os',
-    userTips: 'user tips'
+    author: '作者',
+    download: '下载',
+    bugReport: '提交bug',
+    checkUpdate: '检查更新',
+    homepage: '官网',
+    notFoundContent: '还没有内容',
+    newSsh: '新建ssh',
+    newTerminal: '新连接',
+    dependencies: '依赖组件',
+    env: '环境变量',
+    os: '操作系统',
+    userTips: '使用小技巧'
   },
 
   //ssh tabs
   tabs: {
-    titleEmptyWarn: 'title can not be empty',
-    close: 'close',
-    closeOtherTabs: 'close other tabs',
-    closeTabRight: 'close tabs on the right',
-    newTab: 'new tab',
-    duplicate: 'duplicate',
-    rename: 'rename',
-    openNewTerm: 'open new terminal'
+    titleEmptyWarn: '标题不能为空',
+    close: '关闭',
+    closeOtherTabs: '关闭其他连接',
+    closeTabRight: '关闭右侧接',
+    newTab: '新建连接',
+    duplicate: '复制',
+    rename: '重命名',
+    openNewTerm: '打开新连接'
   },
 
   //main warpper
   main: {
-    error: 'Something went wrong.'
+    error: '出错了.'
   },
 
   //updater check
   updater: {
-    noNeed: 'no need to update',
-    noNeedDesc: 'you are using the latest release',
-    fail: 'check update fails',
-    goGetIt: 'go get it!',
-    newVersion: 'new version found'
+    noNeed: '无需升级',
+    noNeedDesc: '你已经在使用最新版本',
+    fail: '检查升级失败了',
+    goGetIt: '前往升级!',
+    newVersion: '发现新版本'
   },
 
   //setting
