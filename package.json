@@ -4,7 +4,7 @@
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,23 @@
   "bugs": {
     "url": "https://github.com/electerm/electerm-locales/issues"
   },
-  "homepage": "https://github.com/electerm/electerm-locales#readme"
+  "homepage": "https://github.com/electerm/electerm-locales#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-watch": "^4.3.11",
+    "mkdirp": "^0.5.1",
+    "recursive-assign": "0.2.0",
+    "run-sequence": "^2.0.0",
+    "syncy": "^2.2.2"
+  }
 }

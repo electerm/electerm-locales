@@ -1,110 +1,113 @@
 /**
- * language: en_US
+ * language: english
  */
-module.exports = {
+const lang = {
 
   //app menu
   menu: {
     //mac app
-    hide: '隐藏',
-    hideothers: '隐藏其他',
-    unhide: '显示',
-    quit: '退出',
+    hide: 'hide',
+    hideothers: 'hide others',
+    unhide: 'unhide',
+    quit: 'quit',
 
     //edit
-    edit: '编辑',
-    undo: '撤销',
-    redo: '重做',
-    cut: '剪切',
-    copy: '复制',
-    paste: '粘贴',
-    pasteandmatchstyle: '带格式粘贴',
-    del: '删除',
-    selectall: '全选',
-    startspeaking: '开始录音',
-    stopspeaking: '停止录音',
+    edit: 'edit',
+    undo: 'undo',
+    redo: 'redo',
+    cut: 'cut',
+    copy: 'copy',
+    paste: 'paste',
+    pasteandmatchstyle: 'paste and match style',
+    del: 'delete',
+    selectall: 'select all',
+    startspeaking: 'start speaking',
+    stopspeaking: 'stop speaking',
 
     //view
-    view: '视图',
-    reload: '刷新',
-    forcereload: '强制刷新',
-    toggledevtools: '切换',
-    resetzoom: '重设大小',
-    zoomin: '缩小',
-    zoomout: '放大',
-    togglefullscreen: '切换全屏',
+    view: 'view',
+    reload: 'reload',
+    forcereload: 'force reload',
+    toggledevtools: 'toggle dev tools',
+    resetzoom: 'reset zoom',
+    zoomin: 'zoom in',
+    zoomout: 'zoom out',
+    togglefullscreen: 'toggle fullscreen',
 
     //window
-    window: '窗口',
-    minimize: '最小化',
-    close: '关闭',
-    front: '到最前',
+    window: 'window',
+    minimize: 'minimize',
+    close: 'close',
+    front: 'front',
 
     //help
-    help: '帮助',
-    about: '关于',
-    checkUpdate: '检查更新',
-    reportIssue: '报告问题',
-    homepage: '官网'
+    help: 'help',
+    about: 'about',
+    checkUpdate: 'check update',
+    reportIssue: 'report issue',
+    homepage: 'homepage'
   },
 
   //common
   common: {
-    history: '访问历史',
-    bookmarks: '书签',
-    setting: '设置',
-    about: '关于'
+    history: 'history',
+    bookmarks: 'bookmarks',
+    setting: 'setting',
+    about: 'about'
   },
 
   //control buttons
   control: {
-    author: '作者',
-    download: '下载',
-    bugReport: '提交bug',
-    checkUpdate: '检查更新',
-    homepage: '官网',
-    notFoundContent: '还没有内容',
-    newSsh: '新建ssh',
-    newTerminal: '新连接',
-    dependencies: '依赖组件',
-    env: '环境变量',
-    os: '操作系统',
-    userTips: '使用小技巧'
+    author: 'author',
+    download: 'download',
+    bugReport: 'bug report',
+    checkForUpdate: 'check for update',
+    homepage: 'homepage',
+    notFoundContent: 'no item',
+    newSsh: 'new ssh',
+    newTerminal: 'new terminal',
+    dependencies: 'dependencies',
+    env: 'env',
+    os: 'os',
+    userTips: 'user tips'
   },
 
   //ssh tabs
   tabs: {
-    titleEmptyWarn: '标题不能为空',
-    close: '关闭',
-    closeOtherTabs: '关闭其他连接',
-    closeTabRight: '关闭右侧接',
-    newTab: '新建连接',
-    duplicate: '复制',
-    rename: '重命名',
-    openNewTerm: '打开新连接'
+    titleEmptyWarn: 'title can not be empty',
+    close: 'close',
+    closeOtherTabs: 'close other tabs',
+    closeTabRight: 'close tabs on the right',
+    newTab: 'new tab',
+    duplicate: 'duplicate',
+    rename: 'rename',
+    openNewTerm: 'open new terminal'
   },
 
   //main warpper
   main: {
-    error: '出错了.'
+    error: 'Something went wrong.'
   },
 
   //updater check
   updater: {
-    noNeed: '无需升级',
-    noNeedDesc: '你已经在使用最新版本',
-    fail: '检查升级失败了',
-    goGetIt: '前往升级!',
-    newVersion: '发现新版本'
+    noNeed: 'no need to update',
+    noNeedDesc: 'you are using the latest release',
+    fail: 'check update fails',
+    goGetIt: 'go get it!',
+    newVersion: 'new version found'
   },
 
   //setting
   setting: {
     hotkeyNotOk: 'hotkey can not be registe, please use another one',
     saved: 'saved',
+    saveLang: 'saved, restart to take effect',
+    restartNow: 'restart now',
     hotkeyDesc: 'system hotkey(bring window back to front)',
     settings: 'settings',
-    timeoutDesc: 'ssh timeout(in millisecond)'
+    timeoutDesc: 'ssh timeout(in millisecond)',
+    language: 'language'
   },
 
   //sftp
@@ -136,7 +139,6 @@ module.exports = {
     enter: 'enter',
     deleteAll: 'delete all',
     selected: 'selected',
-    rename: 'rename',
     newFile: 'new file',
     newFolder: 'new folder',
     selectAll: 'select all',
@@ -153,8 +155,12 @@ module.exports = {
     hfd: 'hidden files and directories',
     remote: 'remote',
     local: 'local',
-    'fileTransfers': 'file transfers',
-    cancelAll: 'cancel all'
+    fileTransfers: 'file transfers',
+    cancelAll: 'cancel all',
+    upload: 'upload',
+    download: 'download',
+    resume: 'resume',
+    pause: 'pause'
   },
 
   //ssh form
@@ -169,7 +175,7 @@ module.exports = {
     username: 'username',
     port: 'port',
     title: 'title',
-    saveSndConnect: 'save and connect',
+    saveAndConnect: 'save and connect',
     save: 'save',
     connect: 'connect',
     testConnection: 'test connection',
@@ -182,4 +188,9 @@ module.exports = {
     selectAll: 'select all'
   }
 
+}
+
+module.exports = {
+  lang,
+  name: 'english'
 }
