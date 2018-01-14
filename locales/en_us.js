@@ -100,6 +100,9 @@ const lang = {
 
   //setting
   setting: {
+    new: 'new',
+    settings: 'settings',
+    common: 'common',
     hotkeyNotOk: 'hotkey can not be registe, please use another one',
     saved: 'saved',
     saveLang: 'saved, restart to take effect',

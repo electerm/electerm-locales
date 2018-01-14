@@ -61,7 +61,7 @@ const lang = {
     author: '作者',
     download: '下载',
     bugReport: '提交bug',
-    checkUpdate: '检查更新',
+    checkForUpdate: '检查更新',
     homepage: '官网',
     notFoundContent: '还没有内容',
     newSsh: '新建ssh',
@@ -100,6 +100,9 @@ const lang = {
 
   //setting
   setting: {
+    new: '新建',
+    settings: '设置',
+    common: '通用',
     hotkeyNotOk: '快捷键无法使用，请换一个试试',
     saved: '已保存',
     saveLang: '已保存, 重启生效',
