@@ -28,7 +28,7 @@ const lang = {
     view: '视图',
     reload: '刷新',
     forcereload: '强制刷新',
-    toggledevtools: '切换',
+    toggledevtools: '切换开发者工具',
     resetzoom: '重设大小',
     zoomin: '缩小',
     zoomout: '放大',
