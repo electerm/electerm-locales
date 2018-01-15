@@ -54,8 +54,8 @@ const lang = {
     bookmarks: 'bookmarks',
     setting: 'setting',
     about: 'about',
-    ok: '好的',
-    cancel: '取消'
+    ok: 'ok',
+    cancel: 'cancel'
   },
 
   //control buttons
