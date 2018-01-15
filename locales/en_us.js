@@ -53,7 +53,9 @@ const lang = {
     history: 'history',
     bookmarks: 'bookmarks',
     setting: 'setting',
-    about: 'about'
+    about: 'about',
+    ok: '好的',
+    cancel: '取消'
   },
 
   //control buttons
@@ -164,6 +166,15 @@ const lang = {
     download: 'download',
     resume: 'resume',
     pause: 'pause'
+  },
+
+  permission: {
+    read: 'read',
+    write: 'write',
+    exec: 'exec',
+    owner: 'owner',
+    group: 'group',
+    other: 'other'
   },
 
   //ssh form

@@ -53,7 +53,9 @@ const lang = {
     history: '访问历史',
     bookmarks: '书签',
     setting: '设置',
-    about: '关于'
+    about: '关于',
+    ok: '好的',
+    cancel: '取消'
   },
 
   //control buttons
@@ -77,7 +79,7 @@ const lang = {
     titleEmptyWarn: '标题不能为空',
     close: '关闭',
     closeOtherTabs: '关闭其他连接',
-    closeTabRight: '关闭右侧接',
+    closeTabRight: '关闭右侧连接',
     newTab: '新建连接',
     duplicate: '复制',
     rename: '重命名',
@@ -108,7 +110,6 @@ const lang = {
     saveLang: '已保存, 重启生效',
     restartNow: '立刻重启',
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
-    settings: '设置',
     timeoutDesc: 'ssh超时时间(毫秒)',
     language: '语言'
   },
@@ -164,6 +165,15 @@ const lang = {
     download: '下载',
     resume: '继续',
     pause: '暂停'
+  },
+
+  permission: {
+    read: '读',
+    write: '写',
+    exec: '执行',
+    owner: '所有者',
+    group: '组',
+    other: '其他'
   },
 
   //ssh form
