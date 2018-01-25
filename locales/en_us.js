@@ -110,8 +110,8 @@ const lang = {
     saveLang: 'saved, restart to take effect',
     restartNow: 'restart now',
     hotkeyDesc: 'system hotkey(bring window back to front)',
-    settings: 'settings',
     timeoutDesc: 'ssh timeout(in millisecond)',
+    scrollBackDesc: 'scrollback lines',
     language: 'language'
   },
 

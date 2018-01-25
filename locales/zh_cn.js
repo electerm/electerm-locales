@@ -111,6 +111,7 @@ const lang = {
     restartNow: '立刻重启',
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
     timeoutDesc: 'ssh超时时间(毫秒)',
+    scrollBackDesc: '保留的行数',
     language: '语言'
   },
 
