@@ -3,6 +3,11 @@
  */
 const lang = {
 
+  //app desc
+  app: {
+    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/node-pty/xterm/antd and many other libs, it works like a combination of guake and xshell.'
+  },
+
   //app menu
   menu: {
     //mac app
@@ -200,7 +205,16 @@ const lang = {
   ssh: {
     clear: 'clear',
     selectAll: 'select all'
-  }
+  },
+
+  //user tips
+  userTips: [
+    '<b>double click</b> a ssh tab will duplicate a same tab, and enter same path as original tab(limited support)',
+    '<b>double click</b> blank area of tab bar will open a new ssh terminal too',
+    '<b>right click</b> a ssh tab you can open context menu, from context menu there are <b>close other tabs</b>, <b>close tabs on the right</b>, and other functions',
+    'by default, <b>Ctrl + 2</b> will bring electerm window to front, hotkey can be set in <b>setting</b> menu',
+    'sftp copy and paste works in both local and remote'
+  ]
 
 }
 
