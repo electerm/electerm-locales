@@ -214,8 +214,17 @@ const lang = {
     '<b>right click</b> a ssh tab you can open context menu, from context menu there are <b>close other tabs</b>, <b>close tabs on the right</b>, and other functions',
     'by default, <b>Ctrl + 2</b> will bring electerm window to front, hotkey can be set in <b>setting</b> menu',
     'sftp copy and paste works in both local and remote'
-  ]
+  ],
 
+  //features
+  features: [
+    'work as a terminal or ssh/sftp client(similar to xshell)',
+    'hotkey to bring window back to front(simliar to guake, default is ctrl + 2)',
+    'support multi platform(linux, mac, windows)',
+    'support multi-language(en, cn only for now)'
+  ],
+
+  featuresName: 'features'
 }
 
 module.exports = {

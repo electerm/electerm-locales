@@ -214,7 +214,17 @@ const lang = {
     '<b>右键单击</b>标签页打开菜单, 有<b>关闭其他标签</b>, <b>关闭右侧连接</b>等功能',
     '默认情况下, 按下组合键<b>Ctrl + 2</b>就会把窗口重新激活置于最前, 热键可以在设置页面设置',
     'sftp的复制粘贴功能可以任意使用在远程和本地文件管理器'
-  ]
+  ],
+
+  //features
+  features: [
+    'terminal/ssh/sftp客户端(类似xshell)',
+    '支持热键唤醒',
+    '多平台支持(linux, mac, windows)',
+    '多语言支持'
+  ],
+
+  featuresName: '特性'
 }
 
 module.exports = {
