@@ -34,6 +34,7 @@ const lang = {
     reload: 'reload',
     forcereload: 'force reload',
     toggledevtools: 'toggle dev tools',
+    toggleControl: 'toggle control buttons',
     resetzoom: 'reset zoom',
     zoomin: 'zoom in',
     zoomout: 'zoom out',

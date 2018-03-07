@@ -34,6 +34,7 @@ const lang = {
     reload: '刷新',
     forcereload: '强制刷新',
     toggledevtools: '切换开发者工具',
+    toggleControl: '切换显示/隐藏控制按钮',
     resetzoom: '重设大小',
     zoomin: '缩小',
     zoomout: '放大',
