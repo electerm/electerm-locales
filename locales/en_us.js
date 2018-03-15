@@ -80,6 +80,18 @@ const lang = {
     userTips: 'user tips'
   },
 
+  //transferHistory
+  transferHistory: {
+    transferHistory: 'transfer history',
+    localPath: 'local path',
+    remotePath: 'remote path',
+    type: 'type',
+    startTime: 'start time',
+    finishTime: 'finish time',
+    speed: 'speed',
+    clear: 'clear'
+  },
+
   //ssh tabs
   tabs: {
     titleEmptyWarn: 'title can not be empty',

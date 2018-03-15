@@ -80,6 +80,18 @@ const lang = {
     userTips: '使用小技巧'
   },
 
+  //transferHistory
+  transferHistory: {
+    transferHistory: '传输历史记录',
+    localPath: '本地路径',
+    remotePath: '远程路径',
+    type: '类型',
+    startTime: '开始时间',
+    finishTime: '结束时间',
+    speed: '速度',
+    clear: '清空'
+  },
+
   //ssh tabs
   tabs: {
     titleEmptyWarn: '标题不能为空',
