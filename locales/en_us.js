@@ -217,7 +217,8 @@ const lang = {
   //ssh terminal
   ssh: {
     clear: 'clear',
-    selectAll: 'select all'
+    selectAll: 'select all',
+    savePassword: 'save password'
   },
 
   //user tips

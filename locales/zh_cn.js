@@ -217,7 +217,8 @@ const lang = {
   //ssh terminal
   ssh: {
     clear: '清屏',
-    selectAll: '全选'
+    selectAll: '全选',
+    savePassword: '保存密码'
   },
 
   //user tips
