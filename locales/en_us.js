@@ -218,7 +218,12 @@ const lang = {
   ssh: {
     clear: 'clear',
     selectAll: 'select all',
-    savePassword: 'save password'
+    savePassword: 'save password',
+    search: 'search',
+    nextMatch: 'next match',
+    prevMatch: 'prev match',
+    split: 'split',
+    changeDirection: 'change direction'
   },
 
   //user tips

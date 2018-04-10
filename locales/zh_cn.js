@@ -218,7 +218,12 @@ const lang = {
   ssh: {
     clear: '清屏',
     selectAll: '全选',
-    savePassword: '保存密码'
+    savePassword: '保存密码',
+    search: '搜索',
+    nextMatch: '下一处',
+    prevMatch: '上一处',
+    split: '分割',
+    changeDirection: '切换布局'
   },
 
   //user tips
