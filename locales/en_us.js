@@ -243,7 +243,17 @@ const lang = {
     'support multi-language(en, cn only for now)'
   ],
 
-  featuresName: 'features'
+  featuresName: 'features',
+
+  //terminal themes
+  terminalThemes: {
+    terminalThemes: 'terminal themes',
+    export: 'export',
+    themeName: 'theme name',
+    saveAndApply: 'save and apply',
+    newTheme: 'new theme',
+    themeConfig: 'theme config'
+  }
 }
 
 module.exports = {

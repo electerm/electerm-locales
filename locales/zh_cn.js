@@ -243,7 +243,17 @@ const lang = {
     '多语言支持'
   ],
 
-  featuresName: '特性'
+  featuresName: '特性',
+
+  //terminal themes
+  terminalThemes: {
+    terminalThemes: 'terminal主题',
+    export: '导出',
+    themeName: '主题名称',
+    saveAndApply: '保存并应用',
+    newTheme: '新主题',
+    themeConfig: '主题定义'
+  }
 }
 
 module.exports = {
