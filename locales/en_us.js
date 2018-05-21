@@ -151,6 +151,7 @@ const lang = {
     fileConflict: 'file conflict',
     submit: 'submit',
     edit: 'edit',
+    open: 'open',
     permission: 'permission',
     name: 'name',
     mode: 'mode',

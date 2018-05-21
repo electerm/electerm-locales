@@ -151,6 +151,7 @@ const lang = {
     fileConflict: '文件冲突',
     submit: '提交',
     edit: '编辑',
+    open: '打开',
     permission: '权限',
     name: '名称',
     mode: '模式',
