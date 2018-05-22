@@ -253,6 +253,7 @@ const lang = {
     themeName: '主题名称',
     saveAndApply: '保存并应用',
     apply: '应用',
+    default: '默认',
     newTheme: '新主题',
     themeConfig: '主题定义'
   }

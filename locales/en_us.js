@@ -253,6 +253,7 @@ const lang = {
     themeName: 'theme name',
     saveAndApply: 'save and apply',
     apply: 'apply',
+    default: 'default',
     newTheme: 'new theme',
     themeConfig: 'theme config'
   }
