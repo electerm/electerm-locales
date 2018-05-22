@@ -1,3 +1,8 @@
 /config.js
 /test/
 /temp/
+.eslintignore
+.eslintrc
+/*.js
+/.vscode/
+/README.md
