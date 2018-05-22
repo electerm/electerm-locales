@@ -252,6 +252,7 @@ const lang = {
     export: '导出',
     themeName: '主题名称',
     saveAndApply: '保存并应用',
+    apply: '应用',
     newTheme: '新主题',
     themeConfig: '主题定义'
   }

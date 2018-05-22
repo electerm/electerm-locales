@@ -252,6 +252,7 @@ const lang = {
     export: 'export',
     themeName: 'theme name',
     saveAndApply: 'save and apply',
+    apply: 'apply',
     newTheme: 'new theme',
     themeConfig: 'theme config'
   }
