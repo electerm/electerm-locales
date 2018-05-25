@@ -1,6 +1,6 @@
 {
   "name": "electerm-locales",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {

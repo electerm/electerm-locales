@@ -250,7 +250,7 @@ const lang = {
 
   //terminal themes
   terminalThemes: {
-    terminalThemes: 'terminal主题',
+    terminalThemes: '终端主题',
     export: '导出',
     themeName: '主题名称',
     saveAndApply: '保存并应用',
