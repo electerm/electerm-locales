@@ -221,6 +221,7 @@ const lang = {
     selectAll: '全选',
     savePassword: '保存密码',
     search: '搜索',
+    terminal: '终端',
     nextMatch: '下一处',
     prevMatch: '上一处',
     split: '分割',

@@ -221,6 +221,7 @@ const lang = {
     selectAll: 'select all',
     savePassword: 'save password',
     search: 'search',
+    terminal: 'terminal',
     nextMatch: 'next match',
     prevMatch: 'prev match',
     split: 'split',
