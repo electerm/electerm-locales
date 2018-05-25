@@ -224,6 +224,7 @@ const lang = {
     nextMatch: '下一处',
     prevMatch: '上一处',
     split: '分割',
+    fileManager: '文件管理器',
     changeDirection: '切换布局'
   },
 

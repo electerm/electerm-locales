@@ -224,6 +224,7 @@ const lang = {
     nextMatch: 'next match',
     prevMatch: 'prev match',
     split: 'split',
+    fileManager: 'file manager',
     changeDirection: 'change direction'
   },
 
