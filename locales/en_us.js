@@ -263,5 +263,5 @@ const lang = {
 
 module.exports = {
   lang,
-  name: 'english'
+  name: 'English'
 }
