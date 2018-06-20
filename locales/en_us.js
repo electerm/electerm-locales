@@ -44,6 +44,7 @@ const lang = {
     window: 'window',
     minimize: 'minimize',
     close: 'close',
+    restart: 'restart',
     front: 'front',
 
     //help
@@ -155,6 +156,7 @@ const lang = {
     permission: 'permission',
     name: 'name',
     mode: 'mode',
+    path: 'path',
     fullPath: 'full path',
     size: 'size',
     accessTime: 'access time',

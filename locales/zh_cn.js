@@ -44,6 +44,7 @@ const lang = {
     window: '窗口',
     minimize: '最小化',
     close: '关闭',
+    restart: '重启',
     front: '到最前',
 
     //help
@@ -155,6 +156,7 @@ const lang = {
     permission: '权限',
     name: '名称',
     mode: '模式',
+    path: '路径',
     fullPath: '完整路径',
     size: '大小',
     accessTime: '访问时间',
