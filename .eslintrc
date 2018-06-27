@@ -6,7 +6,9 @@
     "node": true
   },
   "globals": {
-    "debug": true
+    "debug": true,
+    "describe": true,
+    "it": true
   },
   "extends": "eslint:recommended",
   "parserOptions": {
