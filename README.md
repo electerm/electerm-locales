@@ -1,6 +1,6 @@
 # electerm-locales
 
-[![Build Status](https://travis-ci.org/electerm/electerm-locales.svg?branch=master)](https://travis-ci.org/electerm/electerm-locales)
+[![Build Status](https://travis-ci.org/electerm/electerm-locales.svg?branch=release)](https://travis-ci.org/electerm/electerm-locales)
 
 electerm multi-language support pack
 
