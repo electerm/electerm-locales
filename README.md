@@ -1,8 +1,12 @@
 # electerm-locales
+
+[![Build Status](https://travis-ci.org/electerm/electerm-locales.svg?branch=master)](https://travis-ci.org/electerm/electerm-locales)
+
 electerm multi-language support pack
 
 ## dev
-```
+
+```bash
 git clone git://github.com/electerm/electerm-locales.git
 cd electerm-locales
 npm i
@@ -12,4 +16,5 @@ npm start
 ```
 
 ## contribute
+
 just use `locales/en_us.js` as a example
