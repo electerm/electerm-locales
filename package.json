@@ -1,10 +1,11 @@
 {
   "name": "electerm-locales",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
-    "start": "node_modules/.bin/gulp"
+    "start": "node_modules/.bin/gulp",
+    "gulp": "node_modules/.bin/gulp"
   },
   "repository": {
     "type": "git",
@@ -35,6 +36,7 @@
     "gulp-babel": "^6.1.2",
     "gulp-watch": "^4.3.11",
     "mkdirp": "^0.5.1",
+    "mocha": "5.2.0",
     "recursive-assign": "0.2.0",
     "run-sequence": "^2.0.0",
     "syncy": "^2.2.2"
