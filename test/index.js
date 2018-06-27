@@ -4,7 +4,7 @@
 
 const { equal } = require('assert')
 const pack = require('../package.json')
-const {readdirSync, readFileSync} = require('fs')
+const {readdirSync} = require('fs')
 const {resolve} = require('path')
 const _ = require('lodash')
 
