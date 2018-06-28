@@ -7,3 +7,5 @@
 /.vscode/
 /README.md
 /bin/
+/.travis.yml
+/*.js
