@@ -5,7 +5,10 @@ const lang = {
 
   //app desc
   app: {
-    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/node-pty/xterm/antd and many other libs, it works like a combination of guake and xshell.'
+    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/node-pty/xterm/antd and many other libs',
+    isRunning: 'is running',
+    press: 'press',
+    toShow: 'to show'
   },
 
   //app menu
