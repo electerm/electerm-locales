@@ -1,13 +1,13 @@
 {
   "name": "electerm-locales",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
     "start": "npm run gulp",
     "lint": "./node_modules/.bin/eslint --max-warnings 0 --ext .js --ext .jsx locales test",
     "test": "mocha",
-    "postinstall": "node bin/post-install",
+    "prestart": "node bin/post-install",
     "pre-push": "npm run lint && npm run test",
     "gulp": "node_modules/.bin/gulp"
   },
