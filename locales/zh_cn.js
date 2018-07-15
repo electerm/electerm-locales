@@ -62,6 +62,7 @@ const lang = {
   common: {
     history: '访问历史',
     bookmarks: '书签',
+    bookmarkCategory: '书签分类',
     setting: '设置',
     about: '关于',
     ok: '好的',

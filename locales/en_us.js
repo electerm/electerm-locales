@@ -62,6 +62,7 @@ const lang = {
   common: {
     history: 'history',
     bookmarks: 'bookmarks',
+    bookmarkCategory: 'category',
     setting: 'setting',
     about: 'about',
     ok: 'ok',
