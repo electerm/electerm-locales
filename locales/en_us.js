@@ -216,6 +216,8 @@ const lang = {
     title: 'title',
     saveAndConnect: 'save and connect',
     save: 'save',
+    loginScript: 'run script',
+    loginScriptTip: 'run script after logined',
     connect: 'connect',
     testConnection: 'test connection',
     required: 'required'
