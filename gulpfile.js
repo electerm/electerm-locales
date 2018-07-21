@@ -19,7 +19,8 @@ gulp.task('sync', function() {
   }
 
   syncy([
-    './locales/*'
+    './locales/*',
+    './package.js*'
   ], syncTo, {
     // // Display log messages when copying and removing files
     verbose: true
@@ -41,7 +42,7 @@ gulp.task('sync', function() {
 })
 
 gulp.task('watch-extend', function() {
-  watch(['./locales/*'], function() {
+  watch(['./locales/*', './package.js*'], function() {
     run('sync')
   })
 })
