@@ -220,7 +220,14 @@ const lang = {
     loginScriptTip: 'run script after logined',
     connect: 'connect',
     testConnection: 'test connection',
-    required: 'required'
+    required: 'required',
+    proxyIp: 'proxy ip',
+    proxyPort: 'proxy port',
+    proxyType: 'proxy type',
+    proxyIpPlaceholder: 'proxy ip address',
+    selectProxy: 'select proxy',
+    auth: 'auth',
+    proxy: 'proxy'
   },
 
   //ssh terminal

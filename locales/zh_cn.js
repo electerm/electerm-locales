@@ -220,7 +220,14 @@ const lang = {
     loginScriptTip: '登陆后运行脚本',
     connect: '连接',
     testConnection: '测试连接',
-    required: '必填'
+    required: '必填',
+    proxyIp: '代理ip',
+    proxyPort: '代理端口',
+    proxyType: '代理类型',
+    proxyIpPlaceholder: '代理ip地址',
+    selectProxy: '选择代理',
+    auth: '授权信息',
+    proxy: '代理'
   },
 
   //ssh terminal
