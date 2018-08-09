@@ -12,9 +12,15 @@ cd electerm-locales
 npm i
 cp config.sample.js config.js
 npm start
-//automatic sync locales/* to ../electerm/node_modules/electerm-locales/locales/ for test
+# automatic sync locales/* to ../electerm/node_modules/electerm-locales/locales/ for test
+# and add pre-push hook, do lint and test before every push
+```
+## test
+```bash
+npm run test
+# test only make sure all locale file keys and orders are match.
 ```
 
 ## contribute
 
-just use `locales/en_us.js` as a example
+just use `locales/en_us.js` as a example, fork this repo, add your edit, then submit a pull request.
