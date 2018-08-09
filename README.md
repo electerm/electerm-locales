@@ -26,3 +26,6 @@ npm run test
 just use `locales/en_us.js` as a example, fork this repo, add your edit, then submit a pull request.
 
 make sure you run `npm run test` before push.
+
+## contributors
+- Português do Brasil (pt_br.js): [@Meirinaldo Júnior](https://github.com/meirinaldojunior)
