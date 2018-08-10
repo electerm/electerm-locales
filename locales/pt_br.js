@@ -66,7 +66,8 @@ const lang = {
     setting: 'configurações',
     about: 'sobre',
     ok: 'ok',
-    cancel: 'cancelar'
+    cancel: 'cancelar',
+    restoreSessions: 'Restaurar sesiones de incorrecto shutdown?'
   },
   
   //control buttons

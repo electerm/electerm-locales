@@ -66,7 +66,8 @@ const lang = {
     setting: '设置',
     about: '关于',
     ok: '好的',
-    cancel: '取消'
+    cancel: '取消',
+    restoreSessions: '恢复未正确关闭的连接?'
   },
 
   //control buttons
