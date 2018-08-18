@@ -228,7 +228,8 @@ const lang = {
     proxyIpPlaceholder: 'proxy ip address',
     selectProxy: 'select proxy',
     auth: 'auth',
-    proxy: 'proxy'
+    proxy: 'proxy',
+    use: 'use'
   },
 
   //ssh terminal

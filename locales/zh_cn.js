@@ -228,7 +228,8 @@ const lang = {
     proxyIpPlaceholder: '代理ip地址',
     selectProxy: '选择代理',
     auth: '授权信息',
-    proxy: '代理'
+    proxy: '代理',
+    use: '使用'
   },
 
   //ssh terminal
