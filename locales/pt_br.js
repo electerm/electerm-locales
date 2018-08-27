@@ -136,7 +136,9 @@ const lang = {
     hotkeyDesc: 'teclas de atalho do sistema(traga a janela de volta para frente)',
     timeoutDesc: 'ssh timeout(em milisegundos)',
     scrollBackDesc: 'linhas de rolagem',
-    language: 'língua'
+    language: 'língua',
+    copyWhenSelect: 'copiar texto selecionado quando selecionar',
+    pasteWhenContextMenu: 'colar quando clique direito'
   },
   
   //sftp

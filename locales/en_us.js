@@ -136,7 +136,9 @@ const lang = {
     hotkeyDesc: 'system hotkey(bring window back to front)',
     timeoutDesc: 'ssh timeout(in millisecond)',
     scrollBackDesc: 'scrollback lines',
-    language: 'language'
+    language: 'language',
+    copyWhenSelect: 'copy selected text when select',
+    pasteWhenContextMenu: 'paste when right click'
   },
 
   //sftp

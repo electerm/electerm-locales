@@ -136,7 +136,9 @@ const lang = {
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
     timeoutDesc: 'ssh超时时间(毫秒)',
     scrollBackDesc: '保留的行数',
-    language: '语言'
+    language: '语言',
+    copyWhenSelect: '选中文字后自动拷贝到剪贴板',
+    pasteWhenContextMenu: '右键自动粘贴'
   },
 
   //sftp
