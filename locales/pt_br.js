@@ -46,6 +46,7 @@ const lang = {
     //window
     window: 'janela',
     minimize: 'minimizar',
+    maximize: 'maximizar',
     close: 'fechar',
     restart: 'restartar',
     front: 'frente',
