@@ -47,6 +47,7 @@ const lang = {
     window: '窗口',
     minimize: '最小化',
     maximize: '最大化',
+    unmaximize: '取消最大化',
     close: '关闭',
     restart: '重启',
     front: '到最前',
