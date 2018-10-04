@@ -140,6 +140,7 @@ const lang = {
     scrollBackDesc: 'linhas de rolagem',
     language: 'língua',
     copyWhenSelect: 'copiar texto selecionado quando selecionar',
+    rightClickSelectsWord: 'clique direito  auto selecionar palavra',
     pasteWhenContextMenu: 'colar quando clique direito'
   },
   

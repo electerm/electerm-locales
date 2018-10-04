@@ -140,6 +140,7 @@ const lang = {
     scrollBackDesc: '保留的行数',
     language: '语言',
     copyWhenSelect: '选中文字后自动拷贝到剪贴板',
+    rightClickSelectsWord: '右键自动选择单词',
     pasteWhenContextMenu: '右键自动粘贴'
   },
 

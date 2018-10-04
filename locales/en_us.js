@@ -140,6 +140,7 @@ const lang = {
     scrollBackDesc: 'scrollback lines',
     language: 'language',
     copyWhenSelect: 'copy selected text when select',
+    rightClickSelectsWord: 'right click auto select word',
     pasteWhenContextMenu: 'paste when right click'
   },
 
