@@ -136,12 +136,14 @@ const lang = {
     saveLang: 'saved, restart to take effect',
     restartNow: 'restart now',
     hotkeyDesc: 'system hotkey(bring window back to front)',
-    timeoutDesc: 'ssh timeout(in millisecond)',
+    timeoutDesc: 'ssh/sftp timeout(in millisecond)',
     scrollBackDesc: 'scrollback lines',
     language: 'language',
     copyWhenSelect: 'copy selected text when select',
     rightClickSelectsWord: 'right click auto select word',
-    pasteWhenContextMenu: 'paste when right click'
+    pasteWhenContextMenu: 'paste when right click',
+    fontSize: 'font size',
+    fontFamily: 'font family'
   },
 
   //sftp

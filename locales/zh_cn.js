@@ -136,12 +136,14 @@ const lang = {
     saveLang: '已保存, 重启生效',
     restartNow: '立刻重启',
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
-    timeoutDesc: 'ssh超时时间(毫秒)',
+    timeoutDesc: 'ssh/sftp超时时间(毫秒)',
     scrollBackDesc: '保留的行数',
     language: '语言',
     copyWhenSelect: '选中文字后自动拷贝到剪贴板',
     rightClickSelectsWord: '右键自动选择单词',
-    pasteWhenContextMenu: '右键自动粘贴'
+    pasteWhenContextMenu: '右键自动粘贴',
+    fontSize: '字体大小',
+    fontFamily: '字体'
   },
 
   //sftp
