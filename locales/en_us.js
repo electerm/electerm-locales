@@ -143,7 +143,8 @@ const lang = {
     rightClickSelectsWord: 'right click auto select word',
     pasteWhenContextMenu: 'paste when right click',
     fontSize: 'font size',
-    fontFamily: 'font family'
+    fontFamily: 'font family',
+    resetAllToDefault: 'Restaurar configurações para seus padrões originais'
   },
 
   //sftp

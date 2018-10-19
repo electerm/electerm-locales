@@ -143,7 +143,8 @@ const lang = {
     rightClickSelectsWord: '右键自动选择单词',
     pasteWhenContextMenu: '右键自动粘贴',
     fontSize: '字体大小',
-    fontFamily: '字体'
+    fontFamily: '字体',
+    resetAllToDefault: '重置为默认设置'
   },
 
   //sftp

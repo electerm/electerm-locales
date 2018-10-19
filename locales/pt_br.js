@@ -143,7 +143,8 @@ const lang = {
     rightClickSelectsWord: 'clique direito  auto selecionar palavra',
     pasteWhenContextMenu: 'colar quando clique direito',
     fontSize: 'tamanho da fonte',
-    fontFamily: 'família de fontes'
+    fontFamily: 'família de fontes',
+    resetAllToDefault: '重置为默认设置'
   },
   
   //sftp
