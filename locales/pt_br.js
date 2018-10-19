@@ -144,7 +144,7 @@ const lang = {
     pasteWhenContextMenu: 'colar quando clique direito',
     fontSize: 'tamanho da fonte',
     fontFamily: 'família de fontes',
-    resetAllToDefault: '重置为默认设置'
+    resetAllToDefault: 'restaurar configurações para seus padrões originais'
   },
   
   //sftp

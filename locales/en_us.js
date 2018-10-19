@@ -144,7 +144,7 @@ const lang = {
     pasteWhenContextMenu: 'paste when right click',
     fontSize: 'font size',
     fontFamily: 'font family',
-    resetAllToDefault: 'Restaurar configurações para seus padrões originais'
+    resetAllToDefault: 'restore settings to their original defaults'
   },
 
   //sftp
