@@ -199,7 +199,8 @@ const lang = {
     upload: 'upload',
     download: 'download',
     resume: 'continuar',
-    pause: 'pausar'
+    pause: 'pausar',
+    reset: 'restaurar'
   },
   
   permission: {

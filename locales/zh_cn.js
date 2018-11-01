@@ -199,7 +199,8 @@ const lang = {
     upload: '上传',
     download: '下载',
     resume: '继续',
-    pause: '暂停'
+    pause: '暂停',
+    reset: '重置'
   },
 
   permission: {
