@@ -283,7 +283,8 @@ const lang = {
     apply: 'aplicar',
     default: 'padrão',
     newTheme: 'novo tema',
-    themeConfig: 'configuração do tema'
+    themeConfig: 'configuração do tema',
+    updated: 'Atualizada'
   }
 }
 
