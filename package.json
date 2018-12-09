@@ -1,6 +1,6 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
     "test": "mocha",
     "prestart": "node bin/post-install",
     "pre-push": "npm run lint && npm run test",
-    "gulp": "node_modules/.bin/gulp"
+    "gulp": "node_modules/.bin/gulp",
+    "pub": "bin/publish"
   },
   "repository": {
     "type": "git",
