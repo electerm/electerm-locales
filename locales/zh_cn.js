@@ -5,7 +5,7 @@ const lang = {
 
   //app desc
   app: {
-    desc: 'electerm是一个terminal/ssh/sftp客户端(支持linux, mac, win), 基于electron/node-pty/xterm/antd等组件',
+    desc: 'electerm是一个terminal/ssh/sftp客户端(支持linux, mac, win), 基于electron/ssh2/node-pty/xterm/antd等组件',
     isRunning: '运行中',
     press: '按',
     toShow: '显示'
@@ -290,5 +290,6 @@ const lang = {
 
 module.exports = {
   lang,
-  name: '中文'
+  name: '中文',
+  match: /zh/
 }
