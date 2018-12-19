@@ -34,3 +34,4 @@ npm-debug.log*
 
 tests/e2e/reports/
 yarn.lock
+venv

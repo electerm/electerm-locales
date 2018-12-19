@@ -5,7 +5,7 @@ const lang = {
 
   //app desc
   app: {
-    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/node-pty/xterm/antd and many other libs',
+    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/ss2/node-pty/xterm/antd and many other libs',
     isRunning: 'is running',
     press: 'press',
     toShow: 'to show'
@@ -290,5 +290,6 @@ const lang = {
 
 module.exports = {
   lang,
-  name: 'English'
+  name: 'English',
+  match: /en/
 }
