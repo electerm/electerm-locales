@@ -291,5 +291,5 @@ const lang = {
 module.exports = {
   lang,
   name: '中文',
-  match: /zh_cn|zh_sg/
+  match: /zh/
 }

@@ -291,6 +291,6 @@ const lang = {
 module.exports = {
   lang,
   name: 'Português do Brasil',
-  match: /pt_br/
+  match: /pt/
 }
 
