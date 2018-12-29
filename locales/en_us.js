@@ -144,6 +144,7 @@ const lang = {
     pasteWhenContextMenu: 'paste when right click',
     fontSize: 'font size',
     fontFamily: 'font family',
+    opacity: 'opacity',
     resetAllToDefault: 'restore settings to their original defaults'
   },
 

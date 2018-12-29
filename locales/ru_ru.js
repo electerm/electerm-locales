@@ -144,6 +144,7 @@ const lang = {
     pasteWhenContextMenu: 'вставка по нажатию правой кнопки мыши',
     fontSize: 'размер шрифта',
     fontFamily: 'семейство шрифта',
+    opacity: 'помутнение',
     resetAllToDefault: 'восстановить настройки по умолчанию'
   },
 

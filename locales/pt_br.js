@@ -144,6 +144,7 @@ const lang = {
     pasteWhenContextMenu: 'colar quando clique direito',
     fontSize: 'tamanho da fonte',
     fontFamily: 'família de fontes',
+    opacity: 'opacidade',
     resetAllToDefault: 'restaurar configurações para seus padrões originais'
   },
   
