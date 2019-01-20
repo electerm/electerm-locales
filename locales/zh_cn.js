@@ -123,7 +123,9 @@ const lang = {
     noNeedDesc: '你已经在使用最新版本',
     fail: '检查升级失败了',
     goGetIt: '前往升级!',
-    newVersion: '发现新版本'
+    newVersion: '发现新版本',
+    upgrade: '升级',
+    upgrading: '升级中'
   },
 
   //setting

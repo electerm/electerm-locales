@@ -123,7 +123,9 @@ const lang = {
     noNeedDesc: 'you are using the latest release',
     fail: 'check update fails',
     goGetIt: 'go get it!',
-    newVersion: 'new version found'
+    newVersion: 'new version found',
+    upgrade: 'upgrade',
+    upgrading: 'upgrading'
   },
 
   //setting
