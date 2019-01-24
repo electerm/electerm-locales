@@ -35,4 +35,4 @@ Make sure you run `npm run test` before push.
 - [Chinese](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
 - [Português do Brasil](locales/pt_br.js): [@Meirinaldo Júnior](https://github.com/meirinaldojunior)
 - [русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
-- [Española](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
+- [Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>

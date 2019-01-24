@@ -1,6 +1,6 @@
 /**
- * language: Española
- * Federico Pereira <fpereira@cnsoluciones.com>
+ * language: Español
+ * By Federico Pereira <fpereira@cnsoluciones.com>
  */
 const lang = {
 
@@ -294,6 +294,6 @@ const lang = {
 
 module.exports = {
   lang,
-  name: 'Española',
+  name: 'Español',
   match: /es/
 }
