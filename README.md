@@ -4,7 +4,7 @@
 
 [electerm](https://electerm.html5beta.com) multi-language support pack.
 
-## dev
+## Dev
 
 ```bash
 git clone git://github.com/electerm/electerm-locales.git
