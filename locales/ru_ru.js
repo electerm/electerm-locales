@@ -109,7 +109,8 @@ const lang = {
     newTab: 'новая вкладка',
     duplicate: 'дублировать',
     rename: 'переименовать',
-    openNewTerm: 'открыть новый терминал'
+    openNewTerm: 'открыть новый терминал',
+    sessions: 'сессий'
   },
 
   //main warpper

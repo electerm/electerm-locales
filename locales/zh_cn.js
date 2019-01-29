@@ -109,7 +109,8 @@ const lang = {
     newTab: '新建连接',
     duplicate: '复制',
     rename: '重命名',
-    openNewTerm: '打开新连接'
+    openNewTerm: '打开新连接',
+    sessions: '连接'
   },
 
   //main warpper

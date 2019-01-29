@@ -109,7 +109,8 @@ const lang = {
     newTab: 'new tab',
     duplicate: 'duplicate',
     rename: 'rename',
-    openNewTerm: 'open new terminal'
+    openNewTerm: 'open new terminal',
+    sessions: 'sessions'
   },
 
   //main warpper
