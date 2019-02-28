@@ -148,6 +148,7 @@ const lang = {
     fontSize: 'размер шрифта',
     fontFamily: 'семейство шрифта',
     opacity: 'помутнение',
+    global: 'глобальной',
     resetAllToDefault: 'восстановить настройки по умолчанию'
   },
 

@@ -7,7 +7,7 @@ const watch = require('gulp-watch')
 const run = require('run-sequence')
 
 console.log('syncTo', syncTo)
-gulp.task('sync', function() {
+gulp.task('sync', function(done) {
   try {
     let state = fs.statSync(syncTo)
     if (!state.isDirectory()) {
@@ -37,16 +37,22 @@ gulp.task('sync', function() {
     // Never remove js files from destination. Default: false
     //ignoreInDest: './src/**/*'
   })
-    .then(() => console.log('sync ok'))
-    .catch(e => console.log(e))
+    .then(() => {
+      console.log('sync ok')
+      done()
+    })
+    .catch(e => {
+      console.log(e)
+      done()
+    })
 })
 
 gulp.task('watch-extend', function() {
   watch(['./locales/*', './package.js*'], function() {
-    run('sync')
+    gulp.task('sync')
   })
 })
 
-gulp.task('watch', ['watch-extend'])
+gulp.task('watch', gulp.series('watch-extend'))
 
-gulp.task('default', ['sync', 'watch'])
+gulp.task('default', gulp.series('sync', 'watch'))

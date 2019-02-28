@@ -1,7 +1,7 @@
 const extend = require('recursive-assign')
 const {resolve} = require('path')
 let config = {
-  syncTo: resolve(__dirname, '../electerm/node_modules/electerm-locales')
+  syncTo: resolve(__dirname, '../electerm/node_modules/@electerm/electerm-locales')
 }
 
 let custom = {}

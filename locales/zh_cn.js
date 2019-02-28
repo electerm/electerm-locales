@@ -148,6 +148,7 @@ const lang = {
     fontSize: '字体大小',
     fontFamily: '字体',
     opacity: '不透明度',
+    global: '全局',
     resetAllToDefault: '重置为默认设置'
   },
 

@@ -1,6 +1,6 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/electerm/electerm-locales#readme",
   "devDependencies": {
     "babel-eslint": "10.0.1",
-    "eslint": "5.7.0",
+    "eslint": "^5.14.1",
     "eslint-config-standard": "12.0.0",
     "eslint-formatter-pretty": "1.3.0",
     "eslint-plugin-compat": "2.6.2",
@@ -40,11 +40,10 @@
     "gulp": "4.0.0",
     "gulp-babel": "6.1.3",
     "gulp-watch": "4.3.11",
-    "lodash": "4.17.10",
+    "lodash": "^4.17.11",
     "mkdirp": "0.5.1",
     "mocha": "5.2.0",
     "recursive-assign": "0.2.0",
-    "run-sequence": "2.2.1",
     "shelljs": "0.8.2",
     "syncy": "2.2.2"
   }
