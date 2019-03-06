@@ -34,7 +34,7 @@ Make sure you run `npm run test` before push.
 ## Supported languages & Contributors
 
 - 🇺🇸[English](locales/en_us.js): [@zxdong262](https://github.com/zxdong262)
-- 🇨🇳[Chinese](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
+- 🇨🇳[中文](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
 - 🇧🇷[Português do Brasil](locales/pt_br.js): [@Meirinaldo Júnior](https://github.com/meirinaldojunior)
 - 🇷🇺[русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸[Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>

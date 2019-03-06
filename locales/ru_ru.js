@@ -296,5 +296,6 @@ const lang = {
 module.exports = {
   lang,
   name: 'Русский',
-  match: /ru/
+  match: /ru/,
+  flag: '🇷🇺'
 }

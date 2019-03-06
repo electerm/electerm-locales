@@ -297,5 +297,6 @@ const lang = {
 module.exports = {
   lang,
   name: 'Español',
-  match: /es/
+  match: /es/,
+  flag: '🇪🇸'
 }
