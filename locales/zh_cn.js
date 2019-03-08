@@ -260,25 +260,6 @@ const lang = {
     changeDirection: '切换布局'
   },
 
-  //user tips
-  userTips: [
-    '<b>双击</b>一个标签即可复制一个新标签，并且自动进入相同的路径(有限支持)',
-    '<b>双击</b>标签栏空白处也可以打开一个新标签',
-    '<b>右键单击</b>标签页打开菜单, 有<b>关闭其他标签</b>, <b>关闭右侧连接</b>等功能',
-    '默认情况下, 按下组合键<b>Ctrl + 2</b>就会把窗口重新激活置于最前, 热键可以在设置页面设置',
-    'sftp的复制粘贴功能可以任意使用在远程和本地文件管理器'
-  ],
-
-  //features
-  features: [
-    'terminal/ssh/sftp客户端(类似xshell)',
-    '支持热键唤醒',
-    '多平台支持(linux, mac, windows)',
-    '多语言支持'
-  ],
-
-  featuresName: '特性',
-
   //terminal themes
   terminalThemes: {
     terminalThemes: '终端主题',

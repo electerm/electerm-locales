@@ -259,26 +259,7 @@ const lang = {
     fileManager: 'gerenciador de arquivo',
     changeDirection: 'alterar direção'
   },
-  
-  //user tips
-  userTips: [
-    '<b>clique duplo</b> uma guia ssh duplicará uma mesma guia e inserirá o mesmo caminho da guia original (suporte limitado)',
-    '<b>clique duplo</b> área em branco da barra de abas também abrirá um novo terminal ssh',
-    '<b>botão direito</b> em uma aba SHH você pode abrir o menu de contexto, no menu de contexto existe <b>fechar outras tabs</b>, <b>feche as tabs a direita</b>, e outras funções',
-    'por padrão, <b>Ctrl + 2</b> vai trazer a janela de emergência para frente, tecla de atalho pode ser definido no menu de <b>configurações</b> ',
-    'sftp copiar e colar funciona em local e remoto'
-  ],
-  
-  //features
-  features: [
-    'tabalhe com o terminal ou cliente ssh/sftp (similar ao xshell)',
-    'tecla de atalho para trazer a janela de volta para frente (simliar para guake, por padrão é ctrl + 2)',
-    'suporte a múltiplas plataformas(linux, mac, windows)',
-    'suporte a múltiplas linguagens(en, cn, pt-br only for now)'
-  ],
-  
-  featuresName: 'funcionalidades',
-  
+
   //terminal themes
   terminalThemes: {
     terminalThemes: 'temas do terminal',

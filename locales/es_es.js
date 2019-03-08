@@ -261,25 +261,6 @@ const lang = {
     changeDirection: 'cambiar dirección'
   },
 
-  //user tips
-  userTips: [
-    '<b>double click</b> una pestaña ssh duplicará una misma pestaña, e ingresará a la misma ruta que la pestaña original (soporte limitado)',
-    '<b>double click</b> área en blanco de la barra de pestañas abrirá un nuevo terminal ssh también',
-    '<b>right click</b> Una pestaña ssh puede abrir el menú contextual, desde el menú contextual hay<b>cerrar otras pestañas</b>, <b>cerrar pestañas a la derecha</b>, y otras funciones',
-    'por default, <b>Ctrl + 2</b> traerá la ventana del electerm al frente, la tecla de acceso rápido se puede configurar en<b>setting</b> menu',
-    'sftp copiar y pegar funciona en local y remoto'
-  ],
-
-  //features
-  features: [
-    'funciona como un terminal o cliente ssh / sftp (similar a xshell)',
-    'tecla de acceso rápido para traer la ventana al frente (similar a guake, el valor predeterminado es ctrl + 2)',
-    'soporte multiplataforma (linux, mac, windows)',
-    'soporte multi-idioma (en, cn solo por ahora)'
-  ],
-
-  featuresName: 'caracteristicas',
-
   //terminal themes
   terminalThemes: {
     terminalThemes: 'temas terminales',
