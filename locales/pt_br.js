@@ -243,7 +243,8 @@ const lang = {
     selectProxy: 'selecione o proxy',
     auth: 'autenticação',
     proxy: 'proxy',
-    use: 'usar'
+    use: 'usar',
+    encode: 'codificar'
   },
   
   //ssh terminal

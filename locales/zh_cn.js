@@ -243,7 +243,8 @@ const lang = {
     selectProxy: '选择代理',
     auth: '授权信息',
     proxy: '代理',
-    use: '使用'
+    use: '使用',
+    encode: '编码'
   },
 
   //ssh terminal
