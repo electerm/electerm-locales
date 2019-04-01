@@ -149,6 +149,8 @@ const lang = {
     fontFamily: 'família de fontes',
     opacity: 'opacidade',
     global: 'global',
+    disableSshHistory: 'desativar o histórico do ssh',
+    disableTransferHistory: 'desativar histórico de transferência do sftp',
     resetAllToDefault: 'restaurar configurações para seus padrões originais'
   },
   
