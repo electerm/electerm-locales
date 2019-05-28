@@ -152,7 +152,8 @@ const lang = {
     disableSshHistory: 'Отключить историю SSH',
     disableTransferHistory: 'Отключить историю переводов sftp',
     resetAllToDefault: 'восстановить настройки по умолчанию',
-    terminalBackgroundImage: 'терминал фоновое изображение'
+    terminalBackgroundImage: 'терминал фоновое изображение',
+    chooseFile: 'выберите файл'
   },
 
   //sftp

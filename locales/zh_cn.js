@@ -152,7 +152,8 @@ const lang = {
     disableSshHistory: '关闭SSH连接历史',
     disableTransferHistory: '关闭传输SFTP传输历史',
     resetAllToDefault: '重置为默认设置',
-    terminalBackgroundImage: '终端背景图片'
+    terminalBackgroundImage: '终端背景图片',
+    chooseFile: '选择文件'
   },
 
   //sftp
