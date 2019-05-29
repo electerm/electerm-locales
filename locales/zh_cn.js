@@ -153,7 +153,8 @@ const lang = {
     disableTransferHistory: '关闭传输SFTP传输历史',
     resetAllToDefault: '重置为默认设置',
     terminalBackgroundImage: '终端背景图片',
-    chooseFile: '选择文件'
+    chooseFile: '选择文件',
+    rendererType: '渲染类型'
   },
 
   //sftp

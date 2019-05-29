@@ -154,7 +154,8 @@ const lang = {
     disableTransferHistory: 'deshabilitar el historial de transferencia sftp',
     resetAllToDefault: 'restaurar la configuración a sus valores predeterminados originales',
     terminalBackgroundImage: 'imagen de fondo terminal',
-    chooseFile: 'Elija el archivo'
+    chooseFile: 'Elija el archivo',
+    rendererType: 'tipo de renderizador'
   },
 
   //sftp
