@@ -3,23 +3,23 @@
  */
 const lang = {
 
-  //app desc
+  // app desc
   app: {
-    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/ssh2/node-pty/xterm/antd and many other libs',
+    desc: 'electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/ssh2/node-pty/xterm/antd/subx and many other libs',
     isRunning: 'is running',
     press: 'press',
     toShow: 'to show'
   },
 
-  //app menu
+  // app menu
   menu: {
-    //mac app
+    // mac app
     hide: 'hide',
     hideothers: 'hide others',
     unhide: 'unhide',
     quit: 'quit',
 
-    //edit
+    // edit
     edit: 'edit',
     undo: 'undo',
     redo: 'redo',
@@ -32,7 +32,7 @@ const lang = {
     startspeaking: 'start speaking',
     stopspeaking: 'stop speaking',
 
-    //view
+    // view
     view: 'view',
     reload: 'reload',
     forcereload: 'force reload',
@@ -43,7 +43,7 @@ const lang = {
     zoomout: 'zoom out',
     togglefullscreen: 'toggle fullscreen',
 
-    //window
+    // window
     window: 'window',
     minimize: 'minimize',
     maximize: 'maximize',
@@ -52,7 +52,7 @@ const lang = {
     restart: 'restart',
     front: 'front',
 
-    //help
+    // help
     help: 'help',
     about: 'about',
     checkUpdate: 'check update',
@@ -60,7 +60,7 @@ const lang = {
     homepage: 'homepage'
   },
 
-  //common
+  // common
   common: {
     history: 'history',
     bookmarks: 'bookmarks',
@@ -72,7 +72,7 @@ const lang = {
     restoreSessions: 'restore sessions from uncorrect shutdown?'
   },
 
-  //control buttons
+  // control buttons
   control: {
     author: 'author',
     download: 'download',
@@ -88,7 +88,7 @@ const lang = {
     userTips: 'user tips'
   },
 
-  //transferHistory
+  // transferHistory
   transferHistory: {
     transferHistory: 'transfer history',
     localPath: 'local path',
@@ -100,7 +100,7 @@ const lang = {
     clear: 'clear'
   },
 
-  //ssh tabs
+  // ssh tabs
   tabs: {
     titleEmptyWarn: 'title can not be empty',
     close: 'close',
@@ -113,12 +113,12 @@ const lang = {
     sessions: 'sessions'
   },
 
-  //main warpper
+  // main warpper
   main: {
     error: 'Something went wrong.'
   },
 
-  //updater check
+  // updater check
   updater: {
     noNeed: 'no need to update',
     noNeedDesc: 'you are using the latest release',
@@ -129,7 +129,7 @@ const lang = {
     upgrading: 'upgrading'
   },
 
-  //setting
+  // setting
   setting: {
     new: 'new',
     settings: 'settings',
@@ -157,7 +157,7 @@ const lang = {
     rendererType: 'renderer type'
   },
 
-  //sftp
+  // sftp
   sftp: {
     cancel: 'cancel',
     skip: 'skip',
@@ -222,7 +222,7 @@ const lang = {
     other: 'other'
   },
 
-  //ssh form
+  // ssh form
   form: {
     password: 'password',
     privateKey: 'privateKey',
@@ -252,7 +252,7 @@ const lang = {
     encode: 'encode'
   },
 
-  //ssh terminal
+  // ssh terminal
   ssh: {
     clear: 'clear',
     selectAll: 'select all',
@@ -266,7 +266,7 @@ const lang = {
     changeDirection: 'change direction'
   },
 
-  //terminal themes
+  // terminal themes
   terminalThemes: {
     terminalThemes: 'terminal themes',
     export: 'export',

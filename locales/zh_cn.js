@@ -3,23 +3,23 @@
  */
 const lang = {
 
-  //app desc
+  // app desc
   app: {
-    desc: 'electerm是一个terminal/ssh/sftp客户端(支持linux, mac, win), 基于electron/ssh2/node-pty/xterm/antd等组件',
+    desc: 'electerm是一个terminal/ssh/sftp客户端(支持linux, mac, win), 基于electron/ssh2/node-pty/xterm/antd/subx等组件',
     isRunning: '运行中',
     press: '按',
     toShow: '显示'
   },
 
-  //app menu
+  // app menu
   menu: {
-    //mac app
+    // mac app
     hide: '隐藏',
     hideothers: '隐藏其他',
     unhide: '显示',
     quit: '退出',
 
-    //edit
+    // edit
     edit: '编辑',
     undo: '撤销',
     redo: '重做',
@@ -32,7 +32,7 @@ const lang = {
     startspeaking: '开始录音',
     stopspeaking: '停止录音',
 
-    //view
+    // view
     view: '视图',
     reload: '刷新',
     forcereload: '强制刷新',
@@ -43,7 +43,7 @@ const lang = {
     zoomout: '放大',
     togglefullscreen: '切换全屏',
 
-    //window
+    // window
     window: '窗口',
     minimize: '最小化',
     maximize: '最大化',
@@ -52,7 +52,7 @@ const lang = {
     restart: '重启',
     front: '到最前',
 
-    //help
+    // help
     help: '帮助',
     about: '关于',
     checkUpdate: '检查更新',
@@ -60,7 +60,7 @@ const lang = {
     homepage: '官网'
   },
 
-  //common
+  // common
   common: {
     history: '访问历史',
     bookmarks: '书签',
@@ -72,7 +72,7 @@ const lang = {
     restoreSessions: '恢复未正确关闭的连接?'
   },
 
-  //control buttons
+  // control buttons
   control: {
     author: '作者',
     download: '下载',
@@ -88,7 +88,7 @@ const lang = {
     userTips: '使用小技巧'
   },
 
-  //transferHistory
+  // transferHistory
   transferHistory: {
     transferHistory: '传输历史记录',
     localPath: '本地路径',
@@ -100,7 +100,7 @@ const lang = {
     clear: '清空'
   },
 
-  //ssh tabs
+  // ssh tabs
   tabs: {
     titleEmptyWarn: '标题不能为空',
     close: '关闭',
@@ -113,12 +113,12 @@ const lang = {
     sessions: '连接'
   },
 
-  //main warpper
+  // main warpper
   main: {
     error: '出错了.'
   },
 
-  //updater check
+  // updater check
   updater: {
     noNeed: '无需升级',
     noNeedDesc: '你已经在使用最新版本',
@@ -129,7 +129,7 @@ const lang = {
     upgrading: '升级中'
   },
 
-  //setting
+  // setting
   setting: {
     new: '新建',
     settings: '设置',
@@ -157,7 +157,7 @@ const lang = {
     rendererType: '渲染类型'
   },
 
-  //sftp
+  // sftp
   sftp: {
     cancel: '取消',
     skip: '跳过',
@@ -222,7 +222,7 @@ const lang = {
     other: '其他'
   },
 
-  //ssh form
+  // ssh form
   form: {
     password: '密码',
     privateKey: '私匙',
@@ -252,7 +252,7 @@ const lang = {
     encode: '编码'
   },
 
-  //ssh terminal
+  // ssh terminal
   ssh: {
     clear: '清屏',
     selectAll: '全选',
@@ -266,7 +266,7 @@ const lang = {
     changeDirection: '切换布局'
   },
 
-  //terminal themes
+  // terminal themes
   terminalThemes: {
     terminalThemes: '终端主题',
     export: '导出',

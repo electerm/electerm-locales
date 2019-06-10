@@ -1,13 +1,12 @@
 const gulp = require('gulp')
 const syncy = require('syncy')
-const {syncTo} = require('./config.default')
+const { syncTo } = require('./config.default')
 const mkdirp = require('mkdirp')
 const fs = require('fs')
 const watch = require('gulp-watch')
-const run = require('run-sequence')
 
 console.log('syncTo', syncTo)
-gulp.task('sync', function(done) {
+gulp.task('sync', function (done) {
   try {
     let state = fs.statSync(syncTo)
     if (!state.isDirectory()) {
@@ -31,11 +30,11 @@ gulp.task('sync', function(done) {
     //   console.log(stamp.action + ' | ' + stamp.from + ' | ' + stamp.to);
     // },
     // The base path to be removed from the path. Default: none
-    //base: 'base_path',
+    // base: 'base_path',
     // Remove all files from dest that are not found in src. Default: true
-    //updateAndDelete: true,
+    // updateAndDelete: true,
     // Never remove js files from destination. Default: false
-    //ignoreInDest: './src/**/*'
+    // ignoreInDest: './src/**/*'
   })
     .then(() => {
       console.log('sync ok')
@@ -47,8 +46,8 @@ gulp.task('sync', function(done) {
     })
 })
 
-gulp.task('watch-extend', function() {
-  watch(['./locales/*', './package.js*'], function() {
+gulp.task('watch-extend', function () {
+  watch(['./locales/*', './package.js*'], function () {
     gulp.task('sync')
   })
 })

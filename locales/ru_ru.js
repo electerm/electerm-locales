@@ -3,23 +3,23 @@
  */
 const lang = {
 
-  //app desc
+  // app desc
   app: {
-    desc: 'electerm - это мультиплатформенный терминал и ssh/sftp клиент (linux, mac, win) на основе electron/ssh2/node-pty/xterm/antd и многих других библиотек',
+    desc: 'electerm - это мультиплатформенный терминал и ssh/sftp клиент (linux, mac, win) на основе electron/ssh2/node-pty/xterm/antd/subx и многих других библиотек',
     isRunning: 'выполняется',
     press: 'нажмите',
     toShow: 'для отображения'
   },
 
-  //app menu
+  // app menu
   menu: {
-    //mac app
+    // mac app
     hide: 'скрыть',
     hideothers: 'скрыть другие',
     unhide: 'показать',
     quit: 'выход',
 
-    //edit
+    // edit
     edit: 'правка',
     undo: 'отменить',
     redo: 'повторить',
@@ -32,7 +32,7 @@ const lang = {
     startspeaking: 'начать говорить',
     stopspeaking: 'перестать говорить',
 
-    //view
+    // view
     view: 'вид',
     reload: 'перезапустить',
     forcereload: 'принудительно перезапустить',
@@ -43,7 +43,7 @@ const lang = {
     zoomout: 'уменьшить масштаб',
     togglefullscreen: 'полноэкранный режим',
 
-    //window
+    // window
     window: 'окно',
     minimize: 'свернуть',
     maximize: 'развернуть',
@@ -52,7 +52,7 @@ const lang = {
     restart: 'перезапустить',
     front: 'поверх других окон',
 
-    //help
+    // help
     help: 'помощь',
     about: 'о программе',
     checkUpdate: 'проверить наличие обновлений',
@@ -60,7 +60,7 @@ const lang = {
     homepage: 'домашняя страница'
   },
 
-  //common
+  // common
   common: {
     history: 'история',
     bookmarks: 'закладки',
@@ -72,7 +72,7 @@ const lang = {
     restoreSessions: 'восстановить сессии после некорректного завершения?'
   },
 
-  //control buttons
+  // control buttons
   control: {
     author: 'автор',
     download: 'скачать',
@@ -88,7 +88,7 @@ const lang = {
     userTips: 'советы'
   },
 
-  //transferHistory
+  // transferHistory
   transferHistory: {
     transferHistory: 'история передач',
     localPath: 'локальный путь',
@@ -100,7 +100,7 @@ const lang = {
     clear: 'очистить'
   },
 
-  //ssh tabs
+  // ssh tabs
   tabs: {
     titleEmptyWarn: 'заголовок не может быть пустым',
     close: 'закрыть',
@@ -113,12 +113,12 @@ const lang = {
     sessions: 'сессий'
   },
 
-  //main warpper
+  // main warpper
   main: {
     error: 'Что-то пошло не так.'
   },
 
-  //updater check
+  // updater check
   updater: {
     noNeed: 'нет необходимости для обновления',
     noNeedDesc: 'вы используете последнюю релизную версию',
@@ -129,7 +129,7 @@ const lang = {
     upgrading: 'модернизация'
   },
 
-  //setting
+  // setting
   setting: {
     new: 'новый',
     settings: 'настройки',
@@ -157,7 +157,7 @@ const lang = {
     rendererType: 'тип рендерера'
   },
 
-  //sftp
+  // sftp
   sftp: {
     cancel: 'отменить',
     skip: 'пропустить',
@@ -222,7 +222,7 @@ const lang = {
     other: 'другие'
   },
 
-  //ssh form
+  // ssh form
   form: {
     password: 'пароль',
     privateKey: 'приватный ключ',
@@ -252,7 +252,7 @@ const lang = {
     encode: 'шифровать'
   },
 
-  //ssh terminal
+  // ssh terminal
   ssh: {
     clear: 'очистить',
     selectAll: 'выделить все',
@@ -266,7 +266,7 @@ const lang = {
     changeDirection: 'изменить направление'
   },
 
-  //terminal themes
+  // terminal themes
   terminalThemes: {
     terminalThemes: 'темы терминала',
     export: 'экспорт',

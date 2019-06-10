@@ -2,24 +2,24 @@
  * language: Português do Brasil
  */
 const lang = {
-  
-  //app desc
+
+  // app desc
   app: {
-    desc: 'electerm é um cliente terminal/ssh/sftp para (linux, mac, win) baseado em electron/ssh2/node-pty/xterm/antd e muitas outras libs',
+    desc: 'electerm é um cliente terminal/ssh/sftp para (linux, mac, win) baseado em electron/ssh2/node-pty/xterm/antd/subx e muitas outras libs',
     isRunning: 'está rodando',
     press: 'pressione',
     toShow: 'para exibir'
   },
-  
-  //app menu
+
+  // app menu
   menu: {
-    //mac app
+    // mac app
     hide: 'ocultar',
     hideothers: 'ocultar outros',
     unhide: 'exibir',
     quit: 'sair',
-    
-    //edit
+
+    // edit
     edit: 'editar',
     undo: 'desfazer',
     redo: 'refazer',
@@ -31,8 +31,8 @@ const lang = {
     selectall: 'selecionar todos',
     startspeaking: 'começar falar',
     stopspeaking: 'parar de falar',
-    
-    //view
+
+    // view
     view: 'ver',
     reload: 'recarregar',
     forcereload: 'forçar recarregamento',
@@ -42,8 +42,8 @@ const lang = {
     zoomin: 'zoom in',
     zoomout: 'zoom out',
     togglefullscreen: 'entrar/sair tela cheia',
-    
-    //window
+
+    // window
     window: 'janela',
     minimize: 'minimizar',
     maximize: 'maximizar',
@@ -51,16 +51,16 @@ const lang = {
     close: 'fechar',
     restart: 'restartar',
     front: 'frente',
-    
-    //help
+
+    // help
     help: 'ajuda',
     about: 'sobre',
     checkUpdate: 'checkar atualizações',
     reportIssue: 'reportar problema',
     homepage: 'homepage'
   },
-  
-  //common
+
+  // common
   common: {
     history: 'histórico',
     bookmarks: 'favoritos',
@@ -71,8 +71,8 @@ const lang = {
     cancel: 'cancelar',
     restoreSessions: 'Restaurar sesiones de incorrecto shutdown?'
   },
-  
-  //control buttons
+
+  // control buttons
   control: {
     author: 'autor',
     download: 'download',
@@ -87,8 +87,8 @@ const lang = {
     os: 'os',
     userTips: 'dicas do usuário'
   },
-  
-  //transferHistory
+
+  // transferHistory
   transferHistory: {
     transferHistory: 'transferir histórico',
     localPath: 'caminho local',
@@ -99,8 +99,8 @@ const lang = {
     speed: 'velocidade',
     clear: 'limpar'
   },
-  
-  //ssh tabs
+
+  // ssh tabs
   tabs: {
     titleEmptyWarn: 'o título não pode ficar em branco',
     close: 'fechar',
@@ -112,13 +112,13 @@ const lang = {
     openNewTerm: 'abrir novo terminal',
     sessions: 'Sessões'
   },
-  
-  //main warpper
+
+  // main warpper
   main: {
     error: 'Algo deu errado.'
   },
-  
-  //updater check
+
+  // updater check
   updater: {
     noNeed: 'não precisa atualizar',
     noNeedDesc: 'você está usando a última versão',
@@ -128,8 +128,8 @@ const lang = {
     upgrade: 'atualizar',
     upgrading: 'atualizando'
   },
-  
-  //setting
+
+  // setting
   setting: {
     new: 'novo',
     settings: 'configurações',
@@ -156,8 +156,8 @@ const lang = {
     chooseFile: 'escolher arquivo',
     rendererType: 'tipo renderizador'
   },
-  
-  //sftp
+
+  // sftp
   sftp: {
     cancel: 'cancelar',
     skip: 'avançar',
@@ -212,7 +212,7 @@ const lang = {
     pause: 'pausar',
     reset: 'restaurar'
   },
-  
+
   permission: {
     read: 'leitura',
     write: 'escrita',
@@ -221,8 +221,8 @@ const lang = {
     group: 'grupo',
     other: 'outro'
   },
-  
-  //ssh form
+
+  // ssh form
   form: {
     password: 'senha',
     privateKey: 'chave privada',
@@ -251,8 +251,8 @@ const lang = {
     use: 'usar',
     encode: 'codificar'
   },
-  
-  //ssh terminal
+
+  // ssh terminal
   ssh: {
     clear: 'limpar',
     selectAll: 'selecionar tudo',
@@ -266,7 +266,7 @@ const lang = {
     changeDirection: 'alterar direção'
   },
 
-  //terminal themes
+  // terminal themes
   terminalThemes: {
     terminalThemes: 'temas do terminal',
     export: 'exportar',
@@ -286,4 +286,3 @@ module.exports = {
   match: /pt/,
   flag: '🇧🇷'
 }
-
