@@ -284,7 +284,8 @@ const lang = {
     quickCommand: '快速命令',
     quickCommands: '快速命令',
     quickCommandName: '快速命令名称',
-    addQuickCommands: '添加快速命令'
+    addQuickCommands: '添加快速命令',
+    newQuickCommand: '新建快速命令'
   }
 }
 

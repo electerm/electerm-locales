@@ -285,7 +285,8 @@ const lang = {
     quickCommand: 'comando rápido',
     quickCommands: 'comando rápidos',
     quickCommandName: 'nombre de comando rápido',
-    addQuickCommands: 'agregar comandos rápidos'
+    addQuickCommands: 'agregar comandos rápidos',
+    newQuickCommand: 'nuevo comando rápido'
   }
 }
 
