@@ -277,6 +277,14 @@ const lang = {
     newTheme: '新主题',
     themeConfig: '主题定义',
     updated: '已更新'
+  },
+
+  // quick commands
+  quickCommands: {
+    quickCommand: '快速命令',
+    quickCommands: '快速命令',
+    quickCommandName: '快速命令名称',
+    addQuickCommands: '添加快速命令'
   }
 }
 

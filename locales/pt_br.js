@@ -277,6 +277,14 @@ const lang = {
     newTheme: 'novo tema',
     themeConfig: 'configuração do tema',
     updated: 'Atualizada'
+  },
+
+  // quick commands
+  quickCommands: {
+    quickCommand: 'comando rápido',
+    quickCommands: 'comandos rápidos',
+    quickCommandName: 'nome de comando rápido',
+    addQuickCommands: 'adicionar comandos rápidos'
   }
 }
 

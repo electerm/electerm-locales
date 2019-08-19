@@ -277,7 +277,16 @@ const lang = {
     newTheme: 'новая тема',
     themeConfig: 'конфигурация темы',
     updated: 'обновлено'
+  },
+
+  // quick commands
+  quickCommands: {
+    quickCommand: 'быстрая команда',
+    quickCommands: 'быстрые команды',
+    quickCommandName: 'быстрое имя команды',
+    addQuickCommands: 'добавить быстрые команды'
   }
+
 }
 
 module.exports = {
