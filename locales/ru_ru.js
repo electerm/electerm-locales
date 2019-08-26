@@ -286,6 +286,19 @@ const lang = {
     quickCommandName: 'быстрое имя команды',
     addQuickCommands: 'добавить быстрые команды',
     newQuickCommand: 'новая быстрая команда'
+  },
+
+  // setting sync
+  settingSync: {
+    settingSync: 'настройка синхронизации',
+    sync: 'синхронизировать',
+    syncing: 'синхронизации',
+    syncSettings: 'настройки синхронизации',
+    uploadSettings: 'загрузить настройки',
+    downloadSettings: 'скачать настройки',
+    synced: 'синхронизирован',
+    syncDesc: 'синхронизировать закладку / историю / настройку в github секретный гист',
+    autoSync: 'автосинхронизация'
   }
 
 }

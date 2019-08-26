@@ -287,6 +287,19 @@ const lang = {
     quickCommandName: 'nombre de comando rápido',
     addQuickCommands: 'agregar comandos rápidos',
     newQuickCommand: 'nuevo comando rápido'
+  },
+
+  // setting sync
+  settingSync: {
+    settingSync: 'ajuste de sincronización',
+    sync: 'sincronizar',
+    syncing: 'sincronización',
+    syncSettings: 'ajustes de sincronización',
+    uploadSettings: 'subir configuraciones',
+    downloadSettings: 'configuración de descarga',
+    synced: 'sincronizado',
+    syncDesc: 'sincronizar marcador / historial / configuración a github secret gist',
+    autoSync: 'sincronización automática'
   }
 }
 

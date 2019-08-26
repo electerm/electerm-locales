@@ -286,6 +286,19 @@ const lang = {
     quickCommandName: '快速命令名称',
     addQuickCommands: '添加快速命令',
     newQuickCommand: '新建快速命令'
+  },
+
+  // setting sync
+  settingSync: {
+    settingSync: '设定同步',
+    sync: '同步',
+    syncing: '同步中...',
+    syncSettings: '设定同步',
+    uploadSettings: '上传设定',
+    downloadSettings: '下载设定',
+    synced: '已同步',
+    syncDesc: '同步书签/历史/设定到github私有gist',
+    autoSync: '自动同步'
   }
 }
 
