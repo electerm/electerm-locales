@@ -298,7 +298,8 @@ const lang = {
     downloadSettings: 'configurações de download',
     synced: 'sincronizado',
     syncDesc: 'sincronizar marcador / history / setting para github secret gist',
-    autoSync: 'sincronização automática'
+    autoSync: 'sincronização automática',
+    lastSyncTime: 'hora da última sincronização'
   }
 }
 

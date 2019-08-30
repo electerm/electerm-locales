@@ -298,7 +298,8 @@ const lang = {
     downloadSettings: '下载设定',
     synced: '已同步',
     syncDesc: '同步书签/历史/设定到github私有gist',
-    autoSync: '自动同步'
+    autoSync: '自动同步',
+    lastSyncTime: 'last sync time'
   }
 }
 
