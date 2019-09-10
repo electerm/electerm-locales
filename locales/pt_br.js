@@ -285,7 +285,8 @@ const lang = {
     quickCommands: 'comandos rápidos',
     quickCommandName: 'nome de comando rápido',
     addQuickCommands: 'adicionar comandos rápidos',
-    newQuickCommand: 'novo comando rápido'
+    newQuickCommand: 'novo comando rápido',
+    inputOnly: 'somente entrada'
   },
 
   // setting sync

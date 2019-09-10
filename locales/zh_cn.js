@@ -285,7 +285,8 @@ const lang = {
     quickCommands: '快速命令',
     quickCommandName: '快速命令名称',
     addQuickCommands: '添加快速命令',
-    newQuickCommand: '新建快速命令'
+    newQuickCommand: '新建快速命令',
+    inputOnly: '仅输入'
   },
 
   // setting sync
