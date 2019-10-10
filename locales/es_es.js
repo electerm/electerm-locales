@@ -155,7 +155,8 @@ const lang = {
     resetAllToDefault: 'restaurar la configuración a sus valores predeterminados originales',
     terminalBackgroundImage: 'imagen de fondo terminal',
     chooseFile: 'Elija el archivo',
-    rendererType: 'tipo de renderizador'
+    rendererType: 'tipo de renderizador',
+    defaultTerminalType: 'tipo de terminal predeterminado'
   },
 
   // sftp
@@ -250,7 +251,8 @@ const lang = {
     auth: 'autenticacción',
     proxy: 'proxy',
     use: 'usar',
-    encode: 'codificar'
+    encode: 'codificar',
+    terminalType: 'tipo de terminal'
   },
 
   // ssh terminal

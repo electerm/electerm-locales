@@ -154,7 +154,8 @@ const lang = {
     resetAllToDefault: '重置为默认设置',
     terminalBackgroundImage: '终端背景图片',
     chooseFile: '选择文件',
-    rendererType: '渲染类型'
+    rendererType: '渲染类型',
+    defaultTerminalType: '默认终端类型'
   },
 
   // sftp
@@ -249,7 +250,8 @@ const lang = {
     auth: '授权信息',
     proxy: '代理',
     use: '使用',
-    encode: '编码'
+    encode: '编码',
+    terminalType: '终端类型'
   },
 
   // ssh terminal
