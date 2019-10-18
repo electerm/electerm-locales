@@ -239,6 +239,7 @@ const lang = {
     saveAndConnect: 'guardar y conectar',
     save: 'guardar',
     loginScript: 'ejecutar script',
+    loginScriptDelay: 'executar atraso do script',
     loginScriptTip: 'ejecutar script después de iniciar sesión',
     connect: 'conectar',
     testConnection: 'conexión de prueba',

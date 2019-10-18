@@ -238,6 +238,7 @@ const lang = {
     saveAndConnect: 'сохранить и соединиться',
     save: 'сохранить',
     loginScript: 'запустить скрипт',
+    loginScriptDelay: 'задержка запуска скрипта',
     loginScriptTip: 'запустить скрипт после логина',
     connect: 'соединиться',
     testConnection: 'проверить соединение',

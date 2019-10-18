@@ -238,6 +238,7 @@ const lang = {
     saveAndConnect: '保存并连接',
     save: '保存',
     loginScript: '运行脚本',
+    loginScriptDelay: '运行脚本延迟',
     loginScriptTip: '登陆后运行脚本',
     connect: '连接',
     testConnection: '测试连接',

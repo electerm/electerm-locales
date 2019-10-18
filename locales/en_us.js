@@ -238,6 +238,7 @@ const lang = {
     saveAndConnect: 'save and connect',
     save: 'save',
     loginScript: 'run script',
+    loginScriptDelay: 'run script delay',
     loginScriptTip: 'run script after logined',
     connect: 'connect',
     testConnection: 'test connection',
