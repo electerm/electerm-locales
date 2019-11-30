@@ -155,7 +155,8 @@ const lang = {
     terminalBackgroundImage: '终端背景图片',
     chooseFile: '选择文件',
     rendererType: '渲染类型',
-    defaultTerminalType: '默认终端类型'
+    defaultTerminalType: '默认终端类型',
+    ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接'
   },
 
   // sftp

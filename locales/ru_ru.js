@@ -155,7 +155,8 @@ const lang = {
     terminalBackgroundImage: 'терминал фоновое изображение',
     chooseFile: 'выберите файл',
     rendererType: 'тип рендерера',
-    defaultTerminalType: 'тип терминала по умолчанию'
+    defaultTerminalType: 'тип терминала по умолчанию',
+    ctrlOrMetaOpenTerminalLink: 'должен удерживать Ctrl или Meta (в Mac) при нажатии, чтобы открыть ссылку терминала'
   },
 
   // sftp

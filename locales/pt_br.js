@@ -155,7 +155,8 @@ const lang = {
     terminalBackgroundImage: 'imagem de fundo do terminal',
     chooseFile: 'escolher arquivo',
     rendererType: 'tipo renderizador',
-    defaultTerminalType: 'tipo de terminal padrão'
+    defaultTerminalType: 'tipo de terminal padrão',
+    ctrlOrMetaOpenTerminalLink: 'deve segurar ctrl ou meta (no mac) quando clicar para abrir o link do terminal'
   },
 
   // sftp
