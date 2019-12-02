@@ -126,7 +126,8 @@ const lang = {
     goGetIt: 'получите ее!',
     newVersion: 'найдена новая версия',
     upgrade: 'Обновить',
-    upgrading: 'модернизация'
+    upgrading: 'модернизация',
+    skipThisVersion: 'пропустить эту версию'
   },
 
   // setting

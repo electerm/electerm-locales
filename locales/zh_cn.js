@@ -126,7 +126,8 @@ const lang = {
     goGetIt: '前往升级!',
     newVersion: '发现新版本',
     upgrade: '升级',
-    upgrading: '升级中'
+    upgrading: '升级中',
+    skipThisVersion: '不再提示这个版本'
   },
 
   // setting
