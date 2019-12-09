@@ -238,6 +238,7 @@ const lang = {
     port: '端口',
     title: '标题',
     saveAndConnect: '保存并连接',
+    saveAndCreateNew: '保存并新建',
     save: '保存',
     loginScript: '运行脚本',
     loginScriptDelay: '运行脚本延迟',

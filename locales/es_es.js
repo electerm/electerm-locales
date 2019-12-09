@@ -239,6 +239,7 @@ const lang = {
     port: 'puerto',
     title: 'título',
     saveAndConnect: 'guardar y conectar',
+    saveAndCreateNew: 'guardar y crear nuevos',
     save: 'guardar',
     loginScript: 'ejecutar script',
     loginScriptDelay: 'executar atraso do script',

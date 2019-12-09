@@ -238,6 +238,7 @@ const lang = {
     port: 'порт',
     title: 'название',
     saveAndConnect: 'сохранить и соединиться',
+    saveAndCreateNew: 'сохранить и создать новый',
     save: 'сохранить',
     loginScript: 'запустить скрипт',
     loginScriptDelay: 'задержка запуска скрипта',
