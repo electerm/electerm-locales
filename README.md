@@ -38,3 +38,4 @@ Make sure you run `npm run test` before push.
 - 🇧🇷[Português do Brasil](locales/pt_br.js): [@Meirinaldo Júnior](https://github.com/meirinaldojunior)
 - 🇷🇺[русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸[Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
+- 🇫🇷[Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
