@@ -4,7 +4,7 @@
 
 [electerm](https://electerm.html5beta.com) multi-language support pack.
 
-🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸🇫🇷
+🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷
 
 ## Dev
 
