@@ -70,8 +70,8 @@ const lang = {
     ok: '好的',
     cancel: '取消',
     restoreSessions: '恢复未正确关闭的连接?',
-    expandAll: 'Expand all',
-    collapseAll: 'Collapse all'
+    expandAll: '展开所有',
+    collapseAll: '收起所有'
   },
 
   // control buttons
