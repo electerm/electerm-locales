@@ -69,7 +69,9 @@ const lang = {
     about: 'A propos',
     ok: 'Ok',
     cancel: 'Annuler',
-    restoreSessions: 'Restaurer les sessions précédentes ?'
+    restoreSessions: 'Restaurer les sessions précédentes ?',
+    expandAll: 'Déplier tout',
+    collapseAll: 'Réduire tout'
   },
 
   // control buttons
