@@ -215,7 +215,8 @@ const lang = {
     download: '下载',
     resume: '继续',
     pause: '暂停',
-    reset: '重置'
+    reset: '重置',
+    showInDefaultFileMananger: '在文件管理器中显示'
   },
 
   permission: {

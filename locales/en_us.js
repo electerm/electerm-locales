@@ -215,7 +215,8 @@ const lang = {
     download: 'download',
     resume: 'resume',
     pause: 'pause',
-    reset: 'reset'
+    reset: 'reset',
+    showInDefaultFileMananger: 'show in file manager'
   },
 
   permission: {

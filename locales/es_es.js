@@ -216,7 +216,8 @@ const lang = {
     download: 'descargar',
     resume: 'resumir',
     pause: 'pausar',
-    reset: 'reiniciar'
+    reset: 'reiniciar',
+    showInDefaultFileMananger: 'mostrar en el administrador de archivos'
   },
 
   permission: {
