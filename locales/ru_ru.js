@@ -159,7 +159,8 @@ const lang = {
     chooseFile: 'выберите файл',
     rendererType: 'тип рендерера',
     defaultTerminalType: 'тип терминала по умолчанию',
-    ctrlOrMetaOpenTerminalLink: 'должен удерживать Ctrl или Meta (в Mac) при нажатии, чтобы открыть ссылку терминала'
+    ctrlOrMetaOpenTerminalLink: 'должен удерживать Ctrl или Meta (в Mac) при нажатии, чтобы открыть ссылку терминала',
+    noTerminalBg: 'без фонового изображения'
   },
 
   // sftp

@@ -159,7 +159,8 @@ const lang = {
     chooseFile: '选择文件',
     rendererType: '渲染类型',
     defaultTerminalType: '默认终端类型',
-    ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接'
+    ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接',
+    noTerminalBg: '无背景图片'
   },
 
   // sftp

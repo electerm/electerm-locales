@@ -159,7 +159,8 @@ const lang = {
     chooseFile: 'Sélectionner un fichier',
     rendererType: 'Type de rendu',
     defaultTerminalType: 'Type de terminal par défaut',
-    ctrlOrMetaOpenTerminalLink: 'Doit maintenir la touche ctrl ou meta (sur mac) enfoncée pour ouvrir les liens dans le terminal'
+    ctrlOrMetaOpenTerminalLink: 'Doit maintenir la touche ctrl ou meta (sur mac) enfoncée pour ouvrir les liens dans le terminal',
+    noTerminalBg: 'pas d\'image d\'arrière-plan'
   },
 
   // sftp
