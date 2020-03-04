@@ -9,3 +9,4 @@
 /bin/
 /.travis.yml
 /*.js
+/locales/
