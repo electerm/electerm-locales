@@ -31,7 +31,7 @@ Just use `locales/en_us.js` as a example, fork this repo, add your edit, then su
 
 Make sure you run `npm run test` before push.
 
-## Supported languages & Contributors
+## Supported languages & creators
 
 - 🇺🇸[English](locales/en_us.js): [@zxdong262](https://github.com/zxdong262)
 - 🇨🇳[中文](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
@@ -39,3 +39,7 @@ Make sure you run `npm run test` before push.
 - 🇷🇺[русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸[Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
 - 🇫🇷[Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
+
+## Contributors
+
+[https://github.com/electerm/electerm-locales/graphs/contributors](https://github.com/electerm/electerm-locales/graphs/contributors)
