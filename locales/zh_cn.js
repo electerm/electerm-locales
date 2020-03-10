@@ -39,8 +39,8 @@ const lang = {
     toggledevtools: '切换开发者工具',
     toggleControl: '切换显示/隐藏控制按钮',
     resetzoom: '重设大小',
-    zoomin: '缩小',
-    zoomout: '放大',
+    zoomin: '放大',
+    zoomout: '缩小',
     togglefullscreen: '切换全屏',
 
     // window
