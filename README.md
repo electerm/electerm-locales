@@ -4,7 +4,7 @@
 
 [electerm](https://electerm.html5beta.com) multi-language support pack.
 
-🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷
+🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷 🇹🇷
 
 ## Dev
 
@@ -39,6 +39,7 @@ Make sure you run `npm run test` before push.
 - 🇷🇺[русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸[Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
 - 🇫🇷[Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
+- 🇹🇷[Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydındoğmuş](https://github.com/gediz)
 
 ## Contributors
 
