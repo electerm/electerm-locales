@@ -31,6 +31,17 @@ Just use `locales/en_us.js` as a example, fork this repo, add your edit, then su
 
 Make sure you run `npm run test` before push.
 
+## Add a new entry using google translate api
+
+You can certainly translate it one by one, but I also provide a script to do it.
+
+```bash
+# entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" original="{language code, default is en}"node bin/add-new-entry.js
+# check https://github.com/hua1995116/google-translate-open-api/blob/master/src/language.ts for language code
+# example:
+entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
+```
+
 ## Supported languages & creators
 
 - 🇺🇸[English](locales/en_us.js): [@zxdong262](https://github.com/zxdong262)

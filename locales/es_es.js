@@ -161,7 +161,8 @@ const lang = {
     rendererType: 'tipo de renderizador',
     defaultTerminalType: 'tipo de terminal predeterminado',
     ctrlOrMetaOpenTerminalLink: 'debe contener ctrl o meta (en mac) al hacer clic para abrir el enlace del terminal',
-    noTerminalBg: 'sin imagen de fondo'
+    noTerminalBg: 'sin imagen de fondo',
+    saveTerminalLogToFile: 'guardar el registro del terminal en el archivo'
   },
 
   // sftp

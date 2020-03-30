@@ -160,7 +160,8 @@ const lang = {
     rendererType: '渲染类型',
     defaultTerminalType: '默认终端类型',
     ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接',
-    noTerminalBg: '无背景图片'
+    noTerminalBg: '无背景图片',
+    saveTerminalLogToFile: '将终端日志保存到文件'
   },
 
   // sftp
