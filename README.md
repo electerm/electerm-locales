@@ -31,15 +31,33 @@ Just use `locales/en_us.js` as a example, fork this repo, add your edit, then su
 
 Make sure you run `npm run test` before push.
 
+## Script to create a new language file
+
+To make the work easier, I have create a script to help creating a language file, it will use google translate API to translate all entry and create a whole language file.
+
+```bash
+# use
+# lang={language code} node bin/create-new-lang.js
+# then it will create a {language code}_{language code}.js in locales folder
+
+# for example:
+# this will create a German language file `locales/de_de.js`
+lang=de node bin/create-new-lang.js
+# then you can review and edit to make sure every entry is right
+```
+
 ## Add a new entry using google translate api
 
 You can certainly translate it one by one, but I also provide a script to do it.
 
 ```bash
-# entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" original="{language code, default is en}"node bin/add-new-entry.js
+# entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" original="{language code, default is en}" node bin/add-new-entry.js
 # check https://github.com/hua1995116/google-translate-open-api/blob/master/src/language.ts for language code
+
 # example:
 entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
+
+# then it will add saveTerminalLogToFile entry to all language file in setting namespace with google translate
 ```
 
 ## Supported languages & creators
