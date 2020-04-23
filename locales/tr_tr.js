@@ -260,7 +260,8 @@ const lang = {
     proxy: 'vekil sunucu',
     use: 'kullan',
     encode: 'şifrele',
-    terminalType: 'terminal türü'
+    terminalType: 'terminal türü',
+    startDirectory: 'başlangıç dizini'
   },
 
   // ssh terminal

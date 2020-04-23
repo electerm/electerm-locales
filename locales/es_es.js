@@ -261,7 +261,8 @@ const lang = {
     proxy: 'proxy',
     use: 'usar',
     encode: 'codificar',
-    terminalType: 'tipo de terminal'
+    terminalType: 'tipo de terminal',
+    startDirectory: 'directorio de inicio'
   },
 
   // ssh terminal

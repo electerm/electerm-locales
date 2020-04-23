@@ -260,7 +260,8 @@ const lang = {
     proxy: '代理',
     use: '使用',
     encode: '编码',
-    terminalType: '终端类型'
+    terminalType: '终端类型',
+    startDirectory: '开始目录'
   },
 
   // ssh terminal

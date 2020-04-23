@@ -7,7 +7,7 @@ const { writeFileSync } = require('fs')
 const _ = require('lodash')
 const json5 = require('json5')
 const countryFlagEmoji = require('country-flag-emoji')
-const puppeteer = require('puppeteer')
+const { translate, endTranslate } = require('./translate')
 
 // from https://github.com/hua1995116/google-translate-open-api/blob/master/src/language.ts
 const supportedLangs = {
@@ -26,8 +26,8 @@ const supportedLangs = {
   Catalan: 'ca',
   Cebuano: 'ceb',
   Chichewa: 'ny',
-  'Chinese Simplified': 'zh-cn',
-  'Chinese Traditional': 'zh-tw',
+  'Chinese Simplified': 'zh-CN',
+  'Chinese Traditional': 'zh-TW',
   Corsican: 'co',
   Croatian: 'hr',
   Czech: 'cs',
@@ -130,60 +130,6 @@ function delay (ms) {
   })
 }
 
-const glob = {
-  browser: null,
-  page: null
-}
-
-async function init () {
-  if (glob.page) {
-    return glob
-  }
-  const launchOptions = { headless: false, args: ['--start-maximized'] }
-  const browser = await puppeteer.launch(launchOptions)
-  const page = await browser.newPage()
-
-  // set viewport and user agent (just in case for nice viewing)
-  await page.setViewport({ width: 1366, height: 768 })
-  await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36')
-  await page.goto(`https://translate.google.com/#view=home&op=translate&sl=${from}&tl=${lang}`)
-
-  // detect the source textarea for input data (source string)
-  await page.waitForSelector('#source')
-  await page.waitFor(1000)
-  glob.browser = browser
-  glob.page = page
-  return glob
-}
-
-async function clear (page, selector) {
-  await page.evaluate(selector => {
-    document.querySelector(selector).value = ''
-  }, selector)
-}
-
-async function translate ({
-  text, from, to
-}) {
-  const {
-    page
-  } = await init()
-  const sel = '#source'
-  await clear(page, sel)
-  await page.type(sel, text)
-
-  // wait for the result container available
-  await page.waitForSelector('.result-shield-container')
-  await page.waitFor(3000)
-
-  // get the result string (translated text)
-  const translatedResult = await page.evaluate(() => {
-    return document.querySelectorAll('.result-shield-container')[0].textContent
-  })
-
-  return translatedResult
-}
-
 async function create () {
   console.log('creating, please wait')
   const langName = getLangName(lang)
@@ -201,7 +147,7 @@ async function create () {
       const v = obj[kk]
       let txt = await translate({
         text: v,
-        from: 'en',
+        from,
         to: lang
       })
       // txt = txt.data
@@ -231,7 +177,7 @@ module.exports = {
   const p = resolve(__dirname, '..', `locales/${lang}_${lang}.js`)
   writeFileSync(p, tow)
   console.log('done => ', p)
-  glob.browser.close()
+  endTranslate()
 }
 
 create()

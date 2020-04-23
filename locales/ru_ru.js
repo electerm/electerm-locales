@@ -260,7 +260,8 @@ const lang = {
     proxy: 'прокси',
     use: 'использовать',
     encode: 'шифровать',
-    terminalType: 'тип терминала'
+    terminalType: 'тип терминала',
+    startDirectory: 'начальный каталог'
   },
 
   // ssh terminal

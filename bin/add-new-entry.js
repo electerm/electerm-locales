@@ -5,11 +5,11 @@
 const { resolve } = require('path')
 const { writeFileSync, readFileSync } = require('fs')
 const { entry = 'app', name = 'test1', text = 'whatever', original = 'en' } = process.env
-const translate = require('google-translate-open-api').default
+const { translate } = require('./translate')
 
 const supported = {
   en: 'en_us',
-  'zh-cn': 'zh_cn',
+  'zh-CN': 'zh_cn',
   es: 'es_es',
   ru: 'ru_ru',
   tr: 'tr_tr',
@@ -25,11 +25,12 @@ async function run () {
       console.log(k, text)
       await add(v, text)
     } else {
-      let translated = await translate(text, {
+      let translated = await translate({
+        text,
         from: 'en',
-        to: k
+        to: k,
+        reusePage: false
       })
-      translated = translated.data
       console.log(k, translated)
       await add(v, translated)
     }
