@@ -5,9 +5,9 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'electerm是一个terminal/ssh/sftp客户端(支持linux, mac, win), 基于electron/ssh2/node-pty/xterm/antd/subx等组件',
+    desc: 'electerm是一个跨平台的Terminal/SSH/SFTP客户端工具，同时支持Linux、MacOS、Windows，包含electron/ssh2/node-pty/xterm/antd/subx等开源组件。',
     isRunning: '运行中',
-    press: '按',
+    press: '新闻',
     toShow: '显示'
   },
 
@@ -50,7 +50,7 @@ const lang = {
     unmaximize: '取消最大化',
     close: '关闭',
     restart: '重启',
-    front: '到最前',
+    front: '窗口置顶',
 
     // help
     help: '帮助',
@@ -67,7 +67,7 @@ const lang = {
     bookmarkCategory: '书签分类',
     setting: '设置',
     about: '关于',
-    ok: '好的',
+    ok: '确定',
     cancel: '取消',
     restoreSessions: '恢复未正确关闭的连接?',
     expandAll: '展开所有',
@@ -143,7 +143,7 @@ const lang = {
     restartNow: '立刻重启',
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
     timeoutDesc: 'ssh/sftp超时时间(毫秒)',
-    scrollBackDesc: '保留的行数',
+    scrollBackDesc: '保留终端显示行数',
     language: '语言',
     copyWhenSelect: '选中文字后自动拷贝到剪贴板',
     rightClickSelectsWord: '右键自动选择单词',
@@ -273,7 +273,7 @@ const lang = {
     terminal: '终端',
     nextMatch: '下一处',
     prevMatch: '上一处',
-    split: '分割',
+    split: '分屏',
     fileManager: '文件管理器',
     changeDirection: '切换布局'
   },
@@ -287,7 +287,7 @@ const lang = {
     apply: '应用',
     default: '默认',
     newTheme: '新主题',
-    themeConfig: '主题定义',
+    themeConfig: '主题配置',
     updated: '已更新'
   },
 
@@ -303,16 +303,16 @@ const lang = {
 
   // setting sync
   settingSync: {
-    settingSync: '设定同步',
+    settingSync: '设置同步',
     sync: '同步',
     syncing: '同步中...',
-    syncSettings: '设定同步',
-    uploadSettings: '上传设定',
-    downloadSettings: '下载设定',
+    syncSettings: '同步设置',
+    uploadSettings: '上传设置',
+    downloadSettings: '下载设置',
     synced: '已同步',
-    syncDesc: '同步书签/历史/设定到github私有gist',
+    syncDesc: '把书签/历史/系统设置同步到Github的私有Gist',
     autoSync: '自动同步',
-    lastSyncTime: 'last sync time'
+    lastSyncTime: '最后同步时间'
   }
 }
 
