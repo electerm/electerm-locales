@@ -69,9 +69,9 @@ const lang = {
     about: 'hakkında',
     ok: 'tamam',
     cancel: 'iptal',
-    restoreSessions: 'hatalı kapanma öncesindeki oturumu geri yükle?',
     expandAll: 'Tümünü genişlet',
-    collapseAll: 'Tümünü daralt'
+    collapseAll: 'Tümünü daralt',
+    restoreSessions: 'oturumları geri yükle'
   },
 
   // control buttons

@@ -70,9 +70,9 @@ const lang = {
     about: 'acerca de',
     ok: 'ok',
     cancel: 'cancelar',
-    restoreSessions: 'restaurar sesiones desde apagado incorrecto?',
     expandAll: 'Expandir todos',
-    collapseAll: 'Contraer todos'
+    collapseAll: 'Contraer todos',
+    restoreSessions: 'restaurar sesiones'
   },
 
   // control buttons

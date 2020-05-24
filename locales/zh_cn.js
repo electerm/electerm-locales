@@ -69,9 +69,9 @@ const lang = {
     about: '关于',
     ok: '确定',
     cancel: '取消',
-    restoreSessions: '恢复未正确关闭的连接?',
     expandAll: '展开所有',
-    collapseAll: '收起所有'
+    collapseAll: '收起所有',
+    restoreSessions: '恢复会话'
   },
 
   // control buttons

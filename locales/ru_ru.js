@@ -69,9 +69,9 @@ const lang = {
     about: 'о программе',
     ok: 'ок',
     cancel: 'отмена',
-    restoreSessions: 'восстановить сессии после некорректного завершения?',
     expandAll: 'развернуть',
-    collapseAll: 'свернуть'
+    collapseAll: 'свернуть',
+    restoreSessions: 'восстановить сеансы'
   },
 
   // control buttons

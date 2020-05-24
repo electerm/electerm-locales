@@ -69,9 +69,9 @@ const lang = {
     about: 'sobre',
     ok: 'ok',
     cancel: 'cancelar',
-    restoreSessions: 'Restaurar sesiones de incorrecto shutdown?',
     expandAll: 'Expandir todo',
-    collapseAll: 'Recolher todo'
+    collapseAll: 'Recolher todo',
+    restoreSessions: 'restaurar sessões'
   },
 
   // control buttons
