@@ -161,7 +161,8 @@ const lang = {
     defaultTerminalType: 'тип терминала по умолчанию',
     ctrlOrMetaOpenTerminalLink: 'должен удерживать Ctrl или Meta (в Mac) при нажатии, чтобы открыть ссылку терминала',
     noTerminalBg: 'без фонового изображения',
-    saveTerminalLogToFile: 'сохранить журнал терминала в файл'
+    saveTerminalLogToFile: 'сохранить журнал терминала в файл',
+    checkUpdateOnStart: 'проверить обновление при запуске приложения'
   },
 
   // sftp

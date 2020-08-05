@@ -161,7 +161,8 @@ const lang = {
     defaultTerminalType: 'default terminal type',
     ctrlOrMetaOpenTerminalLink: 'must hold ctrl or meta (in mac) when click to open terminal link',
     noTerminalBg: 'no background image',
-    saveTerminalLogToFile: 'save terminal log to file'
+    saveTerminalLogToFile: 'save terminal log to file',
+    checkUpdateOnStart: 'check update on app start'
   },
 
   // sftp

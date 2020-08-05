@@ -161,7 +161,8 @@ const lang = {
     defaultTerminalType: 'Type de terminal par défaut',
     ctrlOrMetaOpenTerminalLink: 'Doit maintenir la touche ctrl ou meta (sur mac) enfoncée pour ouvrir les liens dans le terminal',
     noTerminalBg: 'pas d\'image d\'arrière-plan',
-    saveTerminalLogToFile: 'enregistrer le journal du terminal dans un fichier'
+    saveTerminalLogToFile: 'enregistrer le journal du terminal dans un fichier',
+    checkUpdateOnStart: 'vérifier la mise à jour au démarrage de l'application'
   },
 
   // sftp

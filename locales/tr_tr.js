@@ -161,7 +161,8 @@ const lang = {
     defaultTerminalType: 'varsayılan terminal türü',
     ctrlOrMetaOpenTerminalLink: 'terminal bağlantısını açmak için ctrl (veya mac ise meta) basılı iken bağlantıya tıklanmalıdır',
     noTerminalBg: 'arkaplan resmi yok',
-    saveTerminalLogToFile: 'terminal günlüğünü dosyaya kaydet'
+    saveTerminalLogToFile: 'terminal günlüğünü dosyaya kaydet',
+    checkUpdateOnStart: 'uygulama başlangıcında güncellemeyi kontrol et'
   },
 
   // sftp
