@@ -319,7 +319,7 @@ const lang = {
 
 module.exports = {
   lang,
-  name: '正體中文',
-  match: /zh-tw/,
+  name: '繁體中文',
+  match: /zh(-|_)TW|zh(-|_)HK/,
   flag: 'tw'
 }
