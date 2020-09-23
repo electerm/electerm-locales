@@ -57,20 +57,19 @@ You can certainly translate it one by one, but I also provide a script to do it.
 # example:
 entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
 
-entry=transferHistory name=fromPath text="source path" original=en node bin/add-new-entry.js
-entry=transferHistory name=toPath text="target path" original=en node bin/add-new-entry.js
 # then it will add saveTerminalLogToFile entry to all language file in setting namespace with google translate
 ```
 
 ## Supported languages & creators
 
 - 🇺🇸[English](locales/en_us.js): [@zxdong262](https://github.com/zxdong262)
-- 🇨🇳[中文](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
+- 🇨🇳[简体中文](locales/zh_cn.js): [@zxdong262](https://github.com/zxdong262)
 - 🇧🇷[Português do Brasil](locales/pt_br.js): [@Meirinaldo Júnior](https://github.com/meirinaldojunior)
 - 🇷🇺[русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸[Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
 - 🇫🇷[Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
 - 🇹🇷[Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydındoğmuş](https://github.com/gediz)
+- 🇭🇰[繁体中文](locales/zh_tw.js): [@ycku](https://github.com/ycku)
 
 ## Contributors
 
