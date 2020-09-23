@@ -99,7 +99,9 @@ const lang = {
     startTime: '開始時間',
     finishTime: '結束時間',
     speed: '速度',
-    clear: '清空白'
+    clear: '清空白',
+    fromPath: '源路徑',
+    toPath: '目標路徑'
   },
 
   // ssh tabs

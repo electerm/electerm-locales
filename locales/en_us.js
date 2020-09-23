@@ -99,7 +99,9 @@ const lang = {
     startTime: 'start time',
     finishTime: 'finish time',
     speed: 'speed',
-    clear: 'clear'
+    clear: 'clear',
+    fromPath: 'source path',
+    toPath: 'target path'
   },
 
   // ssh tabs

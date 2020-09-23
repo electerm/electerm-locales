@@ -14,7 +14,8 @@ const supported = {
   ru: 'ru_ru',
   tr: 'tr_tr',
   fr: 'fr_fr',
-  pt: 'pt_br'
+  pt: 'pt_br',
+  'zh-TW': 'zh_tw'
 }
 
 async function run () {

@@ -99,7 +99,9 @@ const lang = {
     startTime: 'Démarré le',
     finishTime: 'Terminé le',
     speed: 'Vitesse',
-    clear: 'Vider'
+    clear: 'Vider',
+    fromPath: 'chemin source',
+    toPath: 'chemin cible'
   },
 
   // ssh tabs

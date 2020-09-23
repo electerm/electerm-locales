@@ -99,7 +99,9 @@ const lang = {
     startTime: 'başlangıç zamanı',
     finishTime: 'bitiş zamanı',
     speed: 'hız',
-    clear: 'temizle'
+    clear: 'temizle',
+    fromPath: 'kaynak yolu',
+    toPath: 'hedef yol'
   },
 
   // ssh tabs
