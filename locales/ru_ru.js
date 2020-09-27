@@ -278,7 +278,8 @@ const lang = {
     prevMatch: 'предыдущее соответствие',
     split: 'разделить',
     fileManager: 'файловый менеджер',
-    changeDirection: 'изменить направление'
+    changeDirection: 'изменить направление',
+    batchInput: 'пакетный ввод'
   },
 
   // terminal themes

@@ -33,7 +33,7 @@ Make sure you run `npm run test` before push.
 
 ## Script to create a new language file
 
-To make the work easier, I have create a script to help creating a language file, it will use google translate API to translate all entry and create a whole language file.
+To make the work easier, I have create a script to help creating a language file, it will use google translate API to translate all entry and create a new language file.
 
 ```bash
 # use
@@ -48,7 +48,7 @@ lang=de node bin/create-new-lang.js
 
 ## Add a new entry using google translate api
 
-You can certainly translate it one by one, but I also provide a script to do it.
+You can certainly translate it one by one, I also provide a script to do it.
 
 ```bash
 # entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" original="{language code, default is en}" node bin/add-new-entry.js

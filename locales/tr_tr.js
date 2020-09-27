@@ -278,7 +278,8 @@ const lang = {
     prevMatch: 'önceki eşleşme',
     split: 'ikiye böl',
     fileManager: 'dosya yöneticisi',
-    changeDirection: 'yönü değiştir'
+    changeDirection: 'yönü değiştir',
+    batchInput: 'Toplu giriş'
   },
 
   // terminal themes

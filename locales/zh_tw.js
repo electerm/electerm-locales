@@ -278,7 +278,8 @@ const lang = {
     prevMatch: '上一個',
     split: '分隔畫面',
     fileManager: '檔案瀏覽器',
-    changeDirection: '切換排列'
+    changeDirection: '切換排列',
+    batchInput: '批量輸入'
   },
 
   // terminal themes

@@ -279,7 +279,8 @@ const lang = {
     prevMatch: 'anterior',
     split: 'dividir',
     fileManager: 'administrador de archivos',
-    changeDirection: 'cambiar dirección'
+    changeDirection: 'cambiar dirección',
+    batchInput: 'entrada por lotes'
   },
 
   // terminal themes

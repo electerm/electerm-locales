@@ -278,7 +278,8 @@ const lang = {
     prevMatch: 'prev match',
     split: 'split',
     fileManager: 'file manager',
-    changeDirection: 'change direction'
+    changeDirection: 'change direction',
+    batchInput: 'batch input'
   },
 
   // terminal themes

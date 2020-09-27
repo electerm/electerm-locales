@@ -278,7 +278,8 @@ const lang = {
     prevMatch: 'Précédent',
     split: 'Séparer',
     fileManager: 'Gestionnaire de fichiers SFTP',
-    changeDirection: 'Changer d\'orientation'
+    changeDirection: 'Changer d\'orientation',
+    batchInput: 'entrée par lots'
   },
 
   // terminal themes
