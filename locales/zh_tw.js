@@ -324,5 +324,5 @@ module.exports = {
   lang,
   name: '繁體中文',
   match: /zh(-|_)TW|zh(-|_)HK/,
-  flag: 'tw'
+  flag: 'hk'
 }
