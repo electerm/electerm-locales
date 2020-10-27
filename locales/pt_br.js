@@ -316,7 +316,8 @@ const lang = {
     synced: 'sincronizado',
     syncDesc: 'sincronizar marcador / history / setting para github secret gist',
     autoSync: 'sincronização automática',
-    lastSyncTime: 'hora da última sincronização'
+    lastSyncTime: 'hora da última sincronização',
+    useExistingGistId: 'usar existente'
   }
 }
 

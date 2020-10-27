@@ -21,7 +21,7 @@ async function init (from, lang, reusePage) {
 
   // detect the source textarea for input data (source string)
   await page.waitForSelector('#source')
-  await page.waitFor(1000)
+  await page.waitFor(2000)
   glob.browser = browser
   glob.page = page
   return glob

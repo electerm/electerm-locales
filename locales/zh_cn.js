@@ -316,7 +316,8 @@ const lang = {
     synced: '已同步',
     syncDesc: '把书签/历史/系统设置同步到Github的私有Gist',
     autoSync: '自动同步',
-    lastSyncTime: '最后同步时间'
+    lastSyncTime: '最后同步时间',
+    useExistingGistId: '利用现有的'
   }
 }
 

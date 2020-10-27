@@ -316,7 +316,8 @@ const lang = {
     synced: 'senkronize edildi',
     syncDesc: 'yer imlerini / geçmişi / ayarları gizli github gist adresine senkronize et',
     autoSync: 'otomatik senkronizasyon',
-    lastSyncTime: 'son senkronizasyon zamanı'
+    lastSyncTime: 'son senkronizasyon zamanı',
+    useExistingGistId: 'var olanı kullan'
   }
 }
 
