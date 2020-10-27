@@ -279,7 +279,8 @@ const lang = {
     split: 'split',
     fileManager: 'file manager',
     changeDirection: 'change direction',
-    batchInput: 'batch input'
+    batchInput: 'batch input',
+    runInAllTerminals: 'run in all terminals'
   },
 
   // terminal themes

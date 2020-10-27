@@ -279,7 +279,8 @@ const lang = {
     split: 'ikiye böl',
     fileManager: 'dosya yöneticisi',
     changeDirection: 'yönü değiştir',
-    batchInput: 'Toplu giriş'
+    batchInput: 'Toplu giriş',
+    runInAllTerminals: 'tüm terminallerde çalıştır'
   },
 
   // terminal themes

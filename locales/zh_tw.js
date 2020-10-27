@@ -279,7 +279,8 @@ const lang = {
     split: '分隔畫面',
     fileManager: '檔案瀏覽器',
     changeDirection: '切換排列',
-    batchInput: '批量輸入'
+    batchInput: '批量輸入',
+    runInAllTerminals: '在所有終端上運行'
   },
 
   // terminal themes

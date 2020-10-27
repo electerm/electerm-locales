@@ -280,7 +280,8 @@ const lang = {
     split: 'dividir',
     fileManager: 'administrador de archivos',
     changeDirection: 'cambiar dirección',
-    batchInput: 'entrada por lotes'
+    batchInput: 'entrada por lotes',
+    runInAllTerminals: 'correr en todas las terminales'
   },
 
   // terminal themes

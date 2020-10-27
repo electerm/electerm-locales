@@ -279,7 +279,8 @@ const lang = {
     split: 'разделить',
     fileManager: 'файловый менеджер',
     changeDirection: 'изменить направление',
-    batchInput: 'пакетный ввод'
+    batchInput: 'пакетный ввод',
+    runInAllTerminals: 'запустить во всех терминалах'
   },
 
   // terminal themes

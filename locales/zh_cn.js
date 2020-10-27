@@ -279,7 +279,8 @@ const lang = {
     split: '分屏',
     fileManager: '文件管理器',
     changeDirection: '切换布局',
-    batchInput: '批量输入'
+    batchInput: '批量输入',
+    runInAllTerminals: '在所有终端上运行'
   },
 
   // terminal themes
