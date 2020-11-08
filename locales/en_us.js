@@ -293,7 +293,8 @@ const lang = {
     default: 'default',
     newTheme: 'new theme',
     themeConfig: 'theme config',
-    updated: 'updated'
+    updated: 'updated',
+    uiThemes: 'UI Themes'
   },
 
   // quick commands

@@ -293,7 +293,8 @@ const lang = {
     default: 'padrão',
     newTheme: 'novo tema',
     themeConfig: 'configuração do tema',
-    updated: 'Atualizada'
+    updated: 'Atualizada',
+    uiThemes: 'Temas de IU'
   },
 
   // quick commands

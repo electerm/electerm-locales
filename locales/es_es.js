@@ -294,7 +294,8 @@ const lang = {
     default: 'defecto',
     newTheme: 'nuevo tema',
     themeConfig: 'configuración del tema',
-    updated: 'actualizado'
+    updated: 'actualizado',
+    uiThemes: 'Temas de UI'
   },
 
   // quick commands

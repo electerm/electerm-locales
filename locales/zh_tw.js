@@ -293,7 +293,8 @@ const lang = {
     default: '預設',
     newTheme: '新主題',
     themeConfig: '主題設定',
-    updated: '已更新'
+    updated: '已更新',
+    uiThemes: 'UI主題'
   },
 
   // quick commands

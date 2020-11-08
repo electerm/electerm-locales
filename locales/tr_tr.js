@@ -293,7 +293,8 @@ const lang = {
     default: 'varsayılan',
     newTheme: 'yeni tema',
     themeConfig: 'tema ayarları',
-    updated: 'güncellendi'
+    updated: 'güncellendi',
+    uiThemes: 'UI Temaları'
   },
 
   // quick commands

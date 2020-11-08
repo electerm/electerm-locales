@@ -293,7 +293,8 @@ const lang = {
     default: 'по умолчанию',
     newTheme: 'новая тема',
     themeConfig: 'конфигурация темы',
-    updated: 'обновлено'
+    updated: 'обновлено',
+    uiThemes: 'Темы пользовательского интерфейса'
   },
 
   // quick commands
