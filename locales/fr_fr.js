@@ -294,7 +294,7 @@ const lang = {
     newTheme: 'Nouveau thème',
     themeConfig: 'Configuration du thème',
     updated: 'Mis à jour',
-    uiThemes: 'Thèmes de l'interface utilisateur'
+    uiThemes: 'Thèmes de l\'interface utilisateur'
   },
 
   // quick commands
