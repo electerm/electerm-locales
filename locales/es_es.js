@@ -72,7 +72,8 @@ const lang = {
     cancel: 'cancelar',
     expandAll: 'Expandir todos',
     collapseAll: 'Contraer todos',
-    restoreSessions: 'restaurar sesiones'
+    restoreSessions: 'restaurar sesiones',
+    ignore: 'ignorar'
   },
 
   // control buttons

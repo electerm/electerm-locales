@@ -71,7 +71,8 @@ const lang = {
     cancel: '取消',
     expandAll: '展开所有',
     collapseAll: '收起所有',
-    restoreSessions: '恢复会话'
+    restoreSessions: '恢复会话',
+    ignore: '忽视'
   },
 
   // control buttons

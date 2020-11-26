@@ -71,7 +71,8 @@ const lang = {
     cancel: '取消',
     expandAll: '展開全部',
     collapseAll: '收起全部',
-    restoreSessions: '回復連線'
+    restoreSessions: '回復連線',
+    ignore: '忽視'
   },
 
   // control buttons

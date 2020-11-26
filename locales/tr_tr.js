@@ -71,7 +71,8 @@ const lang = {
     cancel: 'iptal',
     expandAll: 'Tümünü genişlet',
     collapseAll: 'Tümünü daralt',
-    restoreSessions: 'oturumları geri yükle'
+    restoreSessions: 'oturumları geri yükle',
+    ignore: 'aldırmamak'
   },
 
   // control buttons

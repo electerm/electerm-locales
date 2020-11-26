@@ -71,7 +71,8 @@ const lang = {
     cancel: 'отмена',
     expandAll: 'развернуть',
     collapseAll: 'свернуть',
-    restoreSessions: 'восстановить сеансы'
+    restoreSessions: 'восстановить сеансы',
+    ignore: 'игнорировать'
   },
 
   // control buttons
