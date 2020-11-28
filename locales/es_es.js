@@ -266,7 +266,8 @@ const lang = {
     use: 'usar',
     encode: 'codificar',
     terminalType: 'tipo de terminal',
-    startDirectory: 'directorio de inicio'
+    startDirectory: 'directorio de inicio',
+    ignoreKeyboardInteractive: 'ignorar el teclado interactivo'
   },
 
   // ssh terminal

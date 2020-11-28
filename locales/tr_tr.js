@@ -265,7 +265,8 @@ const lang = {
     use: 'kullan',
     encode: 'şifrele',
     terminalType: 'terminal türü',
-    startDirectory: 'başlangıç dizini'
+    startDirectory: 'başlangıç dizini',
+    ignoreKeyboardInteractive: 'klavye etkileşimini yoksay'
   },
 
   // ssh terminal

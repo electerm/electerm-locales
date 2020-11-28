@@ -265,7 +265,8 @@ const lang = {
     use: '使用',
     encode: '編碼',
     terminalType: '終端機類型',
-    startDirectory: '啓動目錄'
+    startDirectory: '啓動目錄',
+    ignoreKeyboardInteractive: '忽略鍵盤互動'
   },
 
   // ssh terminal

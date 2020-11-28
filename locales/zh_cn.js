@@ -265,7 +265,8 @@ const lang = {
     use: '使用',
     encode: '编码',
     terminalType: '终端类型',
-    startDirectory: '开始目录'
+    startDirectory: '开始目录',
+    ignoreKeyboardInteractive: '忽略键盘互动'
   },
 
   // ssh terminal
