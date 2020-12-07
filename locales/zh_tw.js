@@ -165,7 +165,8 @@ const lang = {
     ctrlOrMetaOpenTerminalLink: '按住 ctrl 或者 meta (mac 系统) 才能開啓終端機裡的連結',
     noTerminalBg: '無背景圖片',
     saveTerminalLogToFile: '將終端機日誌儲存到檔案',
-    checkUpdateOnStart: '啓動時檢查更新'
+    checkUpdateOnStart: '啓動時檢查更新',
+    encrypt: '加密'
   },
 
   // sftp

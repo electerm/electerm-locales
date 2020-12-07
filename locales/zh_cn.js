@@ -165,7 +165,8 @@ const lang = {
     ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接',
     noTerminalBg: '无背景图片',
     saveTerminalLogToFile: '将终端日志保存到文件',
-    checkUpdateOnStart: '检查应用程序启动时的更新'
+    checkUpdateOnStart: '检查应用程序启动时的更新',
+    encrypt: '加密'
   },
 
   // sftp

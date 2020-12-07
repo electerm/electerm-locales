@@ -165,7 +165,8 @@ const lang = {
     ctrlOrMetaOpenTerminalLink: 'must hold ctrl or meta (in mac) when click to open terminal link',
     noTerminalBg: 'no background image',
     saveTerminalLogToFile: 'save terminal log to file',
-    checkUpdateOnStart: 'check update on app start'
+    checkUpdateOnStart: 'check update on app start',
+    encrypt: 'encrypt'
   },
 
   // sftp
