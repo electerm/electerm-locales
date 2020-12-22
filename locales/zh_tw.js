@@ -72,7 +72,8 @@ const lang = {
     expandAll: '展開全部',
     collapseAll: '收起全部',
     restoreSessions: '回復連線',
-    ignore: '忽視'
+    ignore: '忽視',
+    pin: '保持面板打開'
   },
 
   // control buttons

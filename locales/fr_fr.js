@@ -72,7 +72,8 @@ const lang = {
     expandAll: 'Déplier tout',
     collapseAll: 'Réduire tout',
     restoreSessions: 'restaurer des sessions',
-    ignore: 'ignorer'
+    ignore: 'ignorer',
+    pin: 'garder le panneau ouvert'
   },
 
   // control buttons

@@ -72,7 +72,8 @@ const lang = {
     expandAll: 'развернуть',
     collapseAll: 'свернуть',
     restoreSessions: 'восстановить сеансы',
-    ignore: 'игнорировать'
+    ignore: 'игнорировать',
+    pin: 'держите панель открытой'
   },
 
   // control buttons
