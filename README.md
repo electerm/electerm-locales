@@ -70,6 +70,7 @@ entry=setting name=saveTerminalLogToFile text="save terminal log to file" origin
 - 🇫🇷[Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
 - 🇹🇷[Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydındoğmuş](https://github.com/gediz)
 - 🇭🇰[繁体中文](locales/zh_tw.js): [@ycku](https://github.com/ycku)
+- 🇯🇵[日本語](locales/ja_jp.js): [@hououinkami](https://github.com/hououinkami)
 
 ## Contributors
 
