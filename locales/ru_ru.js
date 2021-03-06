@@ -89,7 +89,8 @@ const lang = {
     dependencies: 'зависимости',
     env: 'окружение',
     os: 'ос',
-    userTips: 'советы'
+    userTips: 'советы',
+    commandLineUsage: 'Использование командной строки'
   },
 
   // transferHistory

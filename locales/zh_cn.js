@@ -89,7 +89,8 @@ const lang = {
     dependencies: '依赖组件',
     env: '环境变量',
     os: '操作系统',
-    userTips: '使用小技巧'
+    userTips: '使用小技巧',
+    commandLineUsage: '命令行用法'
   },
 
   // transferHistory

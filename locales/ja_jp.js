@@ -89,7 +89,8 @@ const lang = {
     dependencies: '依存',
     env: '環境変数',
     os: 'システム',
-    userTips: 'ヒント'
+    userTips: 'ヒント',
+    commandLineUsage: 'コマンドラインの使用法'
   },
 
   // transferHistory

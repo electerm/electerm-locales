@@ -90,7 +90,8 @@ const lang = {
     dependencies: 'dependencias',
     env: 'env',
     os: 'os',
-    userTips: 'consejos para el usuario'
+    userTips: 'consejos para el usuario',
+    commandLineUsage: 'Uso de la línea de comandos'
   },
 
   // transferHistory

@@ -89,7 +89,8 @@ const lang = {
     dependencies: 'bağımlılıklar',
     env: 'ortam',
     os: 'işletim sistemi',
-    userTips: 'kullanım ipuçları'
+    userTips: 'kullanım ipuçları',
+    commandLineUsage: 'Komut satırı kullanımı'
   },
 
   // transferHistory

@@ -15,7 +15,8 @@ const supported = {
   tr: 'tr_tr',
   fr: 'fr_fr',
   pt: 'pt_br',
-  'zh-TW': 'zh_tw'
+  'zh-TW': 'zh_tw',
+  jp: 'ja_jp'
 }
 
 async function run () {
