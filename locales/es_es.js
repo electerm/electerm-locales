@@ -169,7 +169,8 @@ const lang = {
     noTerminalBg: 'sin imagen de fondo',
     saveTerminalLogToFile: 'guardar el registro del terminal en el archivo',
     checkUpdateOnStart: 'comprobar actualización al inicio de la aplicación',
-    encrypt: 'cifrar'
+    encrypt: 'cifrar',
+    cursorBlink: 'Cursor Blink'
   },
 
   // sftp

@@ -168,7 +168,8 @@ const lang = {
     noTerminalBg: '無背景圖片',
     saveTerminalLogToFile: '將終端機日誌儲存到檔案',
     checkUpdateOnStart: '啓動時檢查更新',
-    encrypt: '加密'
+    encrypt: '加密',
+    cursorBlink: '光標閃爍'
   },
 
   // sftp

@@ -168,7 +168,8 @@ const lang = {
     noTerminalBg: '无背景图片',
     saveTerminalLogToFile: '将终端日志保存到文件',
     checkUpdateOnStart: '检查应用程序启动时的更新',
-    encrypt: '加密'
+    encrypt: '加密',
+    cursorBlink: '光标闪烁'
   },
 
   // sftp

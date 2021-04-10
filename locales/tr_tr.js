@@ -168,7 +168,8 @@ const lang = {
     noTerminalBg: 'arkaplan resmi yok',
     saveTerminalLogToFile: 'terminal günlüğünü dosyaya kaydet',
     checkUpdateOnStart: 'uygulama başlangıcında güncellemeyi kontrol et',
-    encrypt: 'şifrelemek'
+    encrypt: 'şifrelemek',
+    cursorBlink: 'imleç yanıp'
   },
 
   // sftp

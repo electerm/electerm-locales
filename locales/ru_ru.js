@@ -168,7 +168,8 @@ const lang = {
     noTerminalBg: 'без фонового изображения',
     saveTerminalLogToFile: 'сохранить журнал терминала в файл',
     checkUpdateOnStart: 'проверить обновление при запуске приложения',
-    encrypt: 'зашифровать'
+    encrypt: 'зашифровать',
+    cursorBlink: 'Курсор мигает'
   },
 
   // sftp
