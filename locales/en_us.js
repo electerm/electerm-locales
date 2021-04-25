@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: 'save terminal log to file',
     checkUpdateOnStart: 'check update on app start',
     encrypt: 'encrypt',
-    cursorBlink: 'cursor blink'
+    cursorBlink: 'cursor blink',
+    openAll: 'open all bookmark in this category'
   },
 
   // sftp

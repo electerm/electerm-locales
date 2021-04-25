@@ -170,7 +170,8 @@ const lang = {
     saveTerminalLogToFile: 'guardar el registro del terminal en el archivo',
     checkUpdateOnStart: 'comprobar actualización al inicio de la aplicación',
     encrypt: 'cifrar',
-    cursorBlink: 'Cursor Blink'
+    cursorBlink: 'Cursor Blink',
+    openAll: 'Abrir todo marcador en esta categoría'
   },
 
   // sftp

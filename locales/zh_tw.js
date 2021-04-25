@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: '將終端機日誌儲存到檔案',
     checkUpdateOnStart: '啓動時檢查更新',
     encrypt: '加密',
-    cursorBlink: '光標閃爍'
+    cursorBlink: '光標閃爍',
+    openAll: '在此類別中打開所有書籤'
   },
 
   // sftp

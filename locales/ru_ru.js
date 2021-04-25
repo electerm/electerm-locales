@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: 'сохранить журнал терминала в файл',
     checkUpdateOnStart: 'проверить обновление при запуске приложения',
     encrypt: 'зашифровать',
-    cursorBlink: 'Курсор мигает'
+    cursorBlink: 'Курсор мигает',
+    openAll: 'Открыть всю закладку в этой категории'
   },
 
   // sftp

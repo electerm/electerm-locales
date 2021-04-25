@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: 'terminal günlüğünü dosyaya kaydet',
     checkUpdateOnStart: 'uygulama başlangıcında güncellemeyi kontrol et',
     encrypt: 'şifrelemek',
-    cursorBlink: 'imleç yanıp'
+    cursorBlink: 'imleç yanıp',
+    openAll: 'Bu kategorideki tüm yer imini aç'
   },
 
   // sftp

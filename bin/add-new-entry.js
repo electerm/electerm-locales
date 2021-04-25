@@ -16,7 +16,7 @@ const supported = {
   fr: 'fr_fr',
   pt: 'pt_br',
   'zh-TW': 'zh_tw',
-  jp: 'ja_jp'
+  ja: 'ja_jp'
 }
 
 async function run () {

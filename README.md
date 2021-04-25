@@ -57,6 +57,8 @@ You can certainly translate it one by one, I also provide a script to do it.
 # example:
 entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
 
+entry=setting name=openAll text="open all bookmark in this category" original=en node bin/add-new-entry.js
+
 # then it will add saveTerminalLogToFile entry to all language file in setting namespace with google translate
 ```
 

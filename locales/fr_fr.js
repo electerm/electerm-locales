@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: 'enregistrer le journal du terminal dans un fichier',
     checkUpdateOnStart: 'vérifier la mise à jour au démarrage de l\'application',
     encrypt: 'Crypter',
-    cursorBlink: 'curseur clignote'
+    cursorBlink: 'curseur clignote',
+    openAll: 'Ouvrir tous les signets de cette catégorie'
   },
 
   // sftp

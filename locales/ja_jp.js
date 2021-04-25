@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: 'ターミナルログをファイルに保存',
     checkUpdateOnStart: 'アプリの起動時に更新を確認する',
     encrypt: '暗号化',
-    cursorBlink: 'カーソル点滅'
+    cursorBlink: 'カーソル点滅',
+    openAll: 'このカテゴリのすべてのブックマークを開く'
   },
 
   // sftp

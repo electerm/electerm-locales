@@ -169,7 +169,8 @@ const lang = {
     saveTerminalLogToFile: '将终端日志保存到文件',
     checkUpdateOnStart: '检查应用程序启动时的更新',
     encrypt: '加密',
-    cursorBlink: '光标闪烁'
+    cursorBlink: '光标闪烁',
+    openAll: '在此类别中打开所有书签'
   },
 
   // sftp
