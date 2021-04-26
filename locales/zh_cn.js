@@ -14,10 +14,10 @@ const lang = {
   // app menu
   menu: {
     // mac app
-    hide: '隐藏',
+    hide: '隐藏 Electerm',
     hideothers: '隐藏其他',
     unhide: '显示',
-    quit: '退出',
+    quit: '退出 Electerm',
 
     // edit
     edit: '编辑',
@@ -26,22 +26,22 @@ const lang = {
     cut: '剪切',
     copy: '复制',
     paste: '粘贴',
-    pasteandmatchstyle: '带格式粘贴',
+    pasteandmatchstyle: '粘贴(保留格式)',
     del: '删除',
     selectall: '全选',
-    startspeaking: '开始录音',
-    stopspeaking: '停止录音',
+    startspeaking: '开始朗读',
+    stopspeaking: '停止朗读',
 
     // view
     view: '视图',
     reload: '刷新',
     forcereload: '强制刷新',
-    toggledevtools: '切换开发者工具',
-    toggleControl: '切换显示/隐藏控制按钮',
+    toggledevtools: '显示开发者工具',
+    toggleControl: '显示/隐藏控制按钮',
     resetzoom: '重设大小',
-    zoomin: '放大',
-    zoomout: '缩小',
-    togglefullscreen: '切换全屏',
+    zoomin: '放大程序界面',
+    zoomout: '缩小程序界面',
+    togglefullscreen: '全屏',
 
     // window
     window: '窗口',
@@ -49,8 +49,8 @@ const lang = {
     maximize: '最大化',
     unmaximize: '取消最大化',
     close: '关闭',
-    restart: '重启',
-    front: '窗口置顶',
+    restart: '重启程序',
+    front: '前置所有窗口',
 
     // help
     help: '帮助',
@@ -62,7 +62,7 @@ const lang = {
 
   // common
   common: {
-    history: '访问历史',
+    history: '历史记录',
     bookmarks: '书签',
     bookmarkCategory: '书签分类',
     setting: '设置',
@@ -80,17 +80,17 @@ const lang = {
   control: {
     author: '作者',
     download: '下载',
-    bugReport: '提交bug',
+    bugReport: '汇报BUG',
     checkForUpdate: '检查更新',
     homepage: '官网',
     notFoundContent: '还没有内容',
-    newSsh: '新建ssh',
-    newTerminal: '新连接',
+    newSsh: '新建SSH连接',
+    newTerminal: '新建终端',
     dependencies: '依赖组件',
     env: '环境变量',
-    os: '操作系统',
+    os: '操作系统信息',
     userTips: '使用小技巧',
-    commandLineUsage: '命令行用法'
+    commandLineUsage: 'CLI用法'
   },
 
   // transferHistory
@@ -113,10 +113,10 @@ const lang = {
     close: '关闭',
     closeOtherTabs: '关闭其他连接',
     closeTabRight: '关闭右侧连接',
-    newTab: '新建连接',
+    newTab: '打开新标签',
     duplicate: '复制',
     rename: '重命名',
-    openNewTerm: '打开新连接',
+    openNewTerm: '打开新终端',
     sessions: '连接'
   },
 
@@ -147,8 +147,8 @@ const lang = {
     saveLang: '已保存, 重启生效',
     restartNow: '立刻重启',
     hotkeyDesc: '系统快捷键(重新把窗口带到最前面)',
-    timeoutDesc: 'ssh/sftp超时时间(毫秒)',
-    scrollBackDesc: '保留终端显示行数',
+    timeoutDesc: 'SSH/SFTP超时时间(毫秒)',
+    scrollBackDesc: '终端最大显示行数',
     language: '语言',
     copyWhenSelect: '选中文字后自动拷贝到剪贴板',
     rightClickSelectsWord: '右键自动选择单词',
@@ -167,7 +167,7 @@ const lang = {
     ctrlOrMetaOpenTerminalLink: '按住ctrl或者meta(mac系统)才能点击打开终端里的链接',
     noTerminalBg: '无背景图片',
     saveTerminalLogToFile: '将终端日志保存到文件',
-    checkUpdateOnStart: '检查应用程序启动时的更新',
+    checkUpdateOnStart: '启动时检查更新',
     encrypt: '加密',
     cursorBlink: '光标闪烁',
     openAll: '在此类别中打开所有书签'
@@ -242,11 +242,11 @@ const lang = {
   // ssh form
   form: {
     password: '密码',
-    privateKey: '私匙',
-    privateKeyDesc: '私匙字符串',
+    privateKey: '私钥',
+    privateKeyDesc: '私钥字符串',
     importFromFile: '从文件导入',
-    passphrase: '私匙密码',
-    passphraseDesc: '私匙的密码',
+    passphrase: '密码',
+    passphraseDesc: '私钥的密码',
     host: '主机地址',
     username: '用户名',
     port: '端口',
@@ -260,18 +260,18 @@ const lang = {
     connect: '连接',
     testConnection: '测试连接',
     required: '必填',
-    proxyIp: '代理ip',
+    proxyIp: '代理地址',
     proxyPort: '代理端口',
     proxyType: '代理类型',
-    proxyIpPlaceholder: '代理ip地址',
+    proxyIpPlaceholder: '代理服务器的地址',
     selectProxy: '选择代理',
-    auth: '授权信息',
+    auth: '连接信息',
     proxy: '代理',
     use: '使用',
     encode: '编码',
     terminalType: '终端类型',
-    startDirectory: '开始目录',
-    ignoreKeyboardInteractive: '忽略键盘互动'
+    startDirectory: '启动目录',
+    ignoreKeyboardInteractive: '忽略键盘输入'
   },
 
   // ssh terminal
@@ -318,7 +318,7 @@ const lang = {
   settingSync: {
     settingSync: '设置同步',
     sync: '同步',
-    syncing: '同步中...',
+    syncing: '同步中……',
     syncSettings: '同步设置',
     uploadSettings: '上传设置',
     downloadSettings: '下载设置',
