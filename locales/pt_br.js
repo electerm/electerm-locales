@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: 'verifique a atualização no início do aplicativo',
     encrypt: 'criptografar',
     cursorBlink: 'Cursor Piscar',
-    openAll: 'D.'
+    openAll: 'D.',
+    useSystemTitleBar: 'Use a barra de título do sistema',
+    useSystemTitleBarTip: 'Precisa de reinicializar o aplicativo para entrar em vigor, quando usar barra de título do sistema, transparente não funciona'
   },
 
   // sftp

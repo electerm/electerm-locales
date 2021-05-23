@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: 'アプリの起動時に更新を確認する',
     encrypt: '暗号化',
     cursorBlink: 'カーソル点滅',
-    openAll: 'このカテゴリのすべてのブックマークを開く'
+    openAll: 'このカテゴリのすべてのブックマークを開く',
+    useSystemTitleBar: 'システムタイトルバーを使用してください',
+    useSystemTitleBarTip: 'システムのタイトルバーを使用するときは、透明に機能しない場合に、再起動アプリを再起動する必要があります。'
   },
 
   // sftp

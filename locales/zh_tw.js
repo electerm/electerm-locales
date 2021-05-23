@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: '啓動時檢查更新',
     encrypt: '加密',
     cursorBlink: '光標閃爍',
-    openAll: '在此類別中打開所有書籤'
+    openAll: '在此類別中打開所有書籤',
+    useSystemTitleBar: '使用系統標題欄',
+    useSystemTitleBarTip: '需要重新啟動應用程序生效，使用系統標題欄時，透明不起作用'
   },
 
   // sftp

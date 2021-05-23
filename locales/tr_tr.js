@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: 'uygulama başlangıcında güncellemeyi kontrol et',
     encrypt: 'şifrelemek',
     cursorBlink: 'imleç yanıp',
-    openAll: 'Bu kategorideki tüm yer imini aç'
+    openAll: 'Bu kategorideki tüm yer imini aç',
+    useSystemTitleBar: 'Sistem başlık çubuğunu kullanın',
+    useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.'
   },
 
   // sftp

@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: 'check update on app start',
     encrypt: 'encrypt',
     cursorBlink: 'cursor blink',
-    openAll: 'open all bookmark in this category'
+    openAll: 'open all bookmark in this category',
+    useSystemTitleBar: 'use system title bar',
+    useSystemTitleBarTip: 'Need restart app to take effect, when use system title bar, transparent do not work'
   },
 
   // sftp

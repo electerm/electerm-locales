@@ -170,7 +170,9 @@ const lang = {
     checkUpdateOnStart: '检查应用程序启动时的更新',
     encrypt: '加密',
     cursorBlink: '光标闪烁',
-    openAll: '在此类别中打开所有书签'
+    openAll: '在此类别中打开所有书签',
+    useSystemTitleBar: '使用系统标题栏',
+    useSystemTitleBarTip: '需要重新启动应用程序生效，使用系统标题栏时，透明不起作用'
   },
 
   // sftp
