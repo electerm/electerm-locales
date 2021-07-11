@@ -229,7 +229,9 @@ const lang = {
     resume: '継続',
     pause: '一時停止',
     reset: 'リセット',
-    showInDefaultFileMananger: 'ファイルマネージャに表示'
+    showInDefaultFileMananger: 'ファイルマネージャに表示',
+    compressAndDownload: '圧縮してダウンロードします',
+    compressAndUpload: '圧縮してアップロードします'
   },
 
   permission: {

@@ -229,7 +229,9 @@ const lang = {
     resume: '繼續',
     pause: '暫停',
     reset: '重置',
-    showInDefaultFileMananger: '在檔案瀏覽器中顯示'
+    showInDefaultFileMananger: '在檔案瀏覽器中顯示',
+    compressAndDownload: '壓縮和下載',
+    compressAndUpload: '壓縮和上傳'
   },
 
   permission: {

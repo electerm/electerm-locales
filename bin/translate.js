@@ -9,7 +9,14 @@ async function init (from, lang, reusePage) {
   if (reusePage && glob.page) {
     return glob
   }
-  const launchOptions = { headless: false, args: ['--start-maximized'] }
+  const launchOptions = {
+    headless: false,
+    args: ['--start-maximized']
+  }
+  const { PROXY } = process.env
+  if (PROXY) {
+    launchOptions.args.push(`--proxy-server=${PROXY}`)
+  }
   const browser = await puppeteer.launch(launchOptions)
   const page = await browser.newPage()
 

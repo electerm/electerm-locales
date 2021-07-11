@@ -229,7 +229,9 @@ const lang = {
     resume: 'возобновить',
     pause: 'приостановить',
     reset: 'сбросить',
-    showInDefaultFileMananger: 'показать в файловом менеджере'
+    showInDefaultFileMananger: 'показать в файловом менеджере',
+    compressAndDownload: 'Сжатие и загрузка',
+    compressAndUpload: 'Сжать и загружать'
   },
 
   permission: {

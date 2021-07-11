@@ -230,7 +230,9 @@ const lang = {
     resume: 'resumir',
     pause: 'pausar',
     reset: 'reiniciar',
-    showInDefaultFileMananger: 'mostrar en el administrador de archivos'
+    showInDefaultFileMananger: 'mostrar en el administrador de archivos',
+    compressAndDownload: 'comprimir y descargar',
+    compressAndUpload: 'comprimir y subir'
   },
 
   permission: {

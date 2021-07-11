@@ -229,7 +229,9 @@ const lang = {
     resume: 'devam et',
     pause: 'duraklat',
     reset: 'yeniden başlat',
-    showInDefaultFileMananger: 'dosya yöneticisinde göster'
+    showInDefaultFileMananger: 'dosya yöneticisinde göster',
+    compressAndDownload: 'sıkıştır ve indir',
+    compressAndUpload: 'sıkıştırın ve yükleyin'
   },
 
   permission: {
