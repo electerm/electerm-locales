@@ -174,7 +174,8 @@ const lang = {
     openAll: 'Abrir todo marcador en esta categoría',
     useSystemTitleBar: 'Usa la barra de título del sistema',
     useSystemTitleBarTip: 'Necesito reiniciar la aplicación para tener efecto, cuando se usa la barra de título del sistema, transparente no funciona',
-    onStartBookmarks: 'Bookmarks abiertos en el inicio'
+    onStartBookmarks: 'Bookmarks abiertos en el inicio',
+    pleaseSelect: 'por favor seleccione'
   },
 
   // sftp

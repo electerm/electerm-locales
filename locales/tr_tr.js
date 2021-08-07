@@ -173,7 +173,8 @@ const lang = {
     openAll: 'Bu kategorideki tüm yer imini aç',
     useSystemTitleBar: 'Sistem başlık çubuğunu kullanın',
     useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.',
-    onStartBookmarks: 'Başlangıçta yer imlerini açın'
+    onStartBookmarks: 'Başlangıçta yer imlerini açın',
+    pleaseSelect: 'lütfen seçin'
   },
 
   // sftp

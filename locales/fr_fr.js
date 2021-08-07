@@ -173,7 +173,8 @@ const lang = {
     openAll: 'Ouvrir tous les signets de cette catégorie',
     useSystemTitleBar: 'Utiliser la barre de titre du système',
     useSystemTitleBarTip: 'Besoin d\'une application de redémarrage pour prendre effet, lors de l\'utilisation de la barre de titre du système, transparent ne fonctionne pas',
-    onStartBookmarks: 'Ouvrir des signets au démarrage'
+    onStartBookmarks: 'Ouvrir des signets au démarrage',
+    pleaseSelect: 'Veuillez sélectionner'
   },
 
   // sftp

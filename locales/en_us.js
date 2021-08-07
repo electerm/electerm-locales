@@ -173,7 +173,8 @@ const lang = {
     openAll: 'open all bookmark in this category',
     useSystemTitleBar: 'use system title bar',
     useSystemTitleBarTip: 'Need restart app to take effect, when use system title bar, transparent do not work',
-    onStartBookmarks: 'open bookmarks on startup'
+    onStartBookmarks: 'open bookmarks on startup',
+    pleaseSelect: 'please select'
   },
 
   // sftp
