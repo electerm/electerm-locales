@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: 'システムタイトルバーを使用してください',
     useSystemTitleBarTip: 'システムのタイトルバーを使用するときは、透明に機能しない場合に、再起動アプリを再起動する必要があります。',
     onStartBookmarks: '起動時のブックマークを開く',
-    pleaseSelect: '選んでください'
+    pleaseSelect: '選んでください',
+    keepaliveIntervalDesc: 'キープアライブ間隔'
   },
 
   // sftp

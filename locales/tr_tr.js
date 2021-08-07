@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: 'Sistem başlık çubuğunu kullanın',
     useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.',
     onStartBookmarks: 'Başlangıçta yer imlerini açın',
-    pleaseSelect: 'lütfen seçin'
+    pleaseSelect: 'lütfen seçin',
+    keepaliveIntervalDesc: 'Keepalive aralığı'
   },
 
   // sftp

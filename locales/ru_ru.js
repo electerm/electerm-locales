@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: 'Использовать строку заголовка системы',
     useSystemTitleBarTip: 'Нужно восстановить приложение, чтобы вступить в силу, при использовании строки заголовка системы, прозрачные не работают',
     onStartBookmarks: 'Открытые закладки на запуск',
-    pleaseSelect: 'пожалуйста выберите'
+    pleaseSelect: 'пожалуйста выберите',
+    keepaliveIntervalDesc: 'keepalive интервал'
   },
 
   // sftp

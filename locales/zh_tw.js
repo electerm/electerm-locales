@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: '使用系統標題欄',
     useSystemTitleBarTip: '需要重新啟動應用程序生效，使用系統標題欄時，透明不起作用',
     onStartBookmarks: '在啟動時打開書籤',
-    pleaseSelect: '請選擇'
+    pleaseSelect: '請選擇',
+    keepaliveIntervalDesc: 'Keepalive間隔'
   },
 
   // sftp

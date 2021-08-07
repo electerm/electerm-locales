@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBar: 'Usa la barra de título del sistema',
     useSystemTitleBarTip: 'Necesito reiniciar la aplicación para tener efecto, cuando se usa la barra de título del sistema, transparente no funciona',
     onStartBookmarks: 'Bookmarks abiertos en el inicio',
-    pleaseSelect: 'por favor seleccione'
+    pleaseSelect: 'por favor seleccione',
+    keepaliveIntervalDesc: 'intervalo de keepalive'
   },
 
   // sftp

@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: '使用系统标题栏',
     useSystemTitleBarTip: '需要重新启动应用程序生效，使用系统标题栏时，透明不起作用',
     onStartBookmarks: '在启动时打开书签',
-    pleaseSelect: '请选择'
+    pleaseSelect: '请选择',
+    keepaliveIntervalDesc: 'Keepalive间隔'
   },
 
   // sftp

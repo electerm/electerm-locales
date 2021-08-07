@@ -174,7 +174,8 @@ const lang = {
     useSystemTitleBar: 'use system title bar',
     useSystemTitleBarTip: 'Need restart app to take effect, when use system title bar, transparent do not work',
     onStartBookmarks: 'open bookmarks on startup',
-    pleaseSelect: 'please select'
+    pleaseSelect: 'please select',
+    keepaliveIntervalDesc: 'keepalive interval'
   },
 
   // sftp
