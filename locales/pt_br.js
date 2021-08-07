@@ -172,7 +172,8 @@ const lang = {
     cursorBlink: 'Cursor Piscar',
     openAll: 'D.',
     useSystemTitleBar: 'Use a barra de título do sistema',
-    useSystemTitleBarTip: 'Precisa de reinicializar o aplicativo para entrar em vigor, quando usar barra de título do sistema, transparente não funciona'
+    useSystemTitleBarTip: 'Precisa de reinicializar o aplicativo para entrar em vigor, quando usar barra de título do sistema, transparente não funciona',
+    onStartBookmarks: 'Abra os marcadores na inicialização'
   },
 
   // sftp

@@ -172,7 +172,8 @@ const lang = {
     cursorBlink: '光標閃爍',
     openAll: '在此類別中打開所有書籤',
     useSystemTitleBar: '使用系統標題欄',
-    useSystemTitleBarTip: '需要重新啟動應用程序生效，使用系統標題欄時，透明不起作用'
+    useSystemTitleBarTip: '需要重新啟動應用程序生效，使用系統標題欄時，透明不起作用',
+    onStartBookmarks: '在啟動時打開書籤'
   },
 
   // sftp

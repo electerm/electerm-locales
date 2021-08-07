@@ -172,7 +172,8 @@ const lang = {
     cursorBlink: '光标闪烁',
     openAll: '在此类别中打开所有书签',
     useSystemTitleBar: '使用系统标题栏',
-    useSystemTitleBarTip: '需要重新启动应用程序生效，使用系统标题栏时，透明不起作用'
+    useSystemTitleBarTip: '需要重新启动应用程序生效，使用系统标题栏时，透明不起作用',
+    onStartBookmarks: '在启动时打开书签'
   },
 
   // sftp

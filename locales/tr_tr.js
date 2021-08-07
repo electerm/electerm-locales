@@ -172,7 +172,8 @@ const lang = {
     cursorBlink: 'imleç yanıp',
     openAll: 'Bu kategorideki tüm yer imini aç',
     useSystemTitleBar: 'Sistem başlık çubuğunu kullanın',
-    useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.'
+    useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.',
+    onStartBookmarks: 'Başlangıçta yer imlerini açın'
   },
 
   // sftp
