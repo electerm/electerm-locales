@@ -318,7 +318,8 @@ const lang = {
     quickCommandName: '快速指令名稱',
     addQuickCommands: '加入快速指令',
     newQuickCommand: '新建快速指令',
-    inputOnly: '僅能輸入'
+    inputOnly: '僅能輸入',
+    labels: '標籤'
   },
 
   // setting sync

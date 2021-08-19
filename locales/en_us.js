@@ -318,7 +318,8 @@ const lang = {
     quickCommandName: 'quick command name',
     addQuickCommands: 'add quick commands',
     newQuickCommand: 'new quick command',
-    inputOnly: 'input only'
+    inputOnly: 'input only',
+    labels: 'labels'
   },
 
   // setting sync

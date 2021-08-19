@@ -318,7 +318,8 @@ const lang = {
     quickCommandName: 'быстрое имя команды',
     addQuickCommands: 'добавить быстрые команды',
     newQuickCommand: 'новая быстрая команда',
-    inputOnly: 'только вход'
+    inputOnly: 'только вход',
+    labels: 'ярлыки'
   },
 
   // setting sync

@@ -318,7 +318,8 @@ const lang = {
     quickCommandName: 'Nom du raccourci',
     addQuickCommands: 'Ajouter un raccourci',
     newQuickCommand: 'Nouveau raccourci',
-    inputOnly: 'Saisie uniquement (ne termine pas par la touche entrée)'
+    inputOnly: 'Saisie uniquement (ne termine pas par la touche entrée)',
+    labels: 'Étiquettes'
   },
 
   // setting sync
