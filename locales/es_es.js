@@ -176,7 +176,8 @@ const lang = {
     useSystemTitleBarTip: 'Necesito reiniciar la aplicación para tener efecto, cuando se usa la barra de título del sistema, transparente no funciona',
     onStartBookmarks: 'Bookmarks abiertos en el inicio',
     pleaseSelect: 'por favor seleccione',
-    keepaliveIntervalDesc: 'intervalo de keepalive'
+    keepaliveIntervalDesc: 'intervalo de keepalive',
+    editorTip: 'Comando o ruta del editor'
   },
 
   // sftp
@@ -235,7 +236,8 @@ const lang = {
     reset: 'reiniciar',
     showInDefaultFileMananger: 'mostrar en el administrador de archivos',
     compressAndDownload: 'comprimir y descargar',
-    compressAndUpload: 'comprimir y subir'
+    compressAndUpload: 'comprimir y subir',
+    editWith: 'Editar con ...'
   },
 
   permission: {

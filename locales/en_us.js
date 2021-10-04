@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: 'Need restart app to take effect, when use system title bar, transparent do not work',
     onStartBookmarks: 'open bookmarks on startup',
     pleaseSelect: 'please select',
-    keepaliveIntervalDesc: 'keepalive interval'
+    keepaliveIntervalDesc: 'keepalive interval',
+    editorTip: 'editor\'s command or path'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: 'reset',
     showInDefaultFileMananger: 'show in file manager',
     compressAndDownload: 'compress and download',
-    compressAndUpload: 'compress and upload'
+    compressAndUpload: 'compress and upload',
+    editWith: 'edit with...'
   },
 
   permission: {

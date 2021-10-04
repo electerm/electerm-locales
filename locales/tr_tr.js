@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: 'Sistem başlık çubuğunu kullanırken, şeffaf çalıştırdığında etkili olmak için uygulamanın yeniden başlatılması gerekir.',
     onStartBookmarks: 'Başlangıçta yer imlerini açın',
     pleaseSelect: 'lütfen seçin',
-    keepaliveIntervalDesc: 'Keepalive aralığı'
+    keepaliveIntervalDesc: 'Keepalive aralığı',
+    editorTip: 'editörün komutu veya yolu'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: 'yeniden başlat',
     showInDefaultFileMananger: 'dosya yöneticisinde göster',
     compressAndDownload: 'sıkıştır ve indir',
-    compressAndUpload: 'sıkıştırın ve yükleyin'
+    compressAndUpload: 'sıkıştırın ve yükleyin',
+    editWith: 'Düzenle ...'
   },
 
   permission: {

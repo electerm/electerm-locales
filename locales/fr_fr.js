@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: 'Besoin d\'une application de redémarrage pour prendre effet, lors de l\'utilisation de la barre de titre du système, transparent ne fonctionne pas',
     onStartBookmarks: 'Ouvrir des signets au démarrage',
     pleaseSelect: 'Veuillez sélectionner',
-    keepaliveIntervalDesc: 'intervalle de garde'
+    keepaliveIntervalDesc: 'intervalle de garde',
+    editorTip: 'Commande ou chemin de l\'éditeur'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: 'Réinitialiser',
     showInDefaultFileMananger: 'afficher dans le gestionnaire de fichiers',
     compressAndDownload: 'compresser et télécharger',
-    compressAndUpload: 'Compresser et télécharger'
+    compressAndUpload: 'Compresser et télécharger',
+    editWith: 'éditer avec ...'
   },
 
   permission: {

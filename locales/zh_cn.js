@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: '需要重新启动应用程序生效，使用系统标题栏时，透明不起作用',
     onStartBookmarks: '在启动时打开书签',
     pleaseSelect: '请选择',
-    keepaliveIntervalDesc: 'Keepalive间隔'
+    keepaliveIntervalDesc: 'Keepalive间隔',
+    editorTip: '编辑器的命令或路径'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: '重置',
     showInDefaultFileMananger: '在文件管理器中显示',
     compressAndDownload: '压缩和下载',
-    compressAndUpload: '压缩和上传'
+    compressAndUpload: '压缩和上传',
+    editWith: '编辑...'
   },
 
   permission: {

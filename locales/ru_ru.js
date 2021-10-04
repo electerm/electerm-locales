@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: 'Нужно восстановить приложение, чтобы вступить в силу, при использовании строки заголовка системы, прозрачные не работают',
     onStartBookmarks: 'Открытые закладки на запуск',
     pleaseSelect: 'пожалуйста выберите',
-    keepaliveIntervalDesc: 'keepalive интервал'
+    keepaliveIntervalDesc: 'keepalive интервал',
+    editorTip: 'команда или путь редактора'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: 'сбросить',
     showInDefaultFileMananger: 'показать в файловом менеджере',
     compressAndDownload: 'Сжатие и загрузка',
-    compressAndUpload: 'Сжать и загружать'
+    compressAndUpload: 'Сжать и загружать',
+    editWith: 'редактировать с ...'
   },
 
   permission: {

@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: '需要重新啟動應用程序生效，使用系統標題欄時，透明不起作用',
     onStartBookmarks: '在啟動時打開書籤',
     pleaseSelect: '請選擇',
-    keepaliveIntervalDesc: 'Keepalive間隔'
+    keepaliveIntervalDesc: 'Keepalive間隔',
+    editorTip: '編輯器的命令或路徑'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: '重置',
     showInDefaultFileMananger: '在檔案瀏覽器中顯示',
     compressAndDownload: '壓縮和下載',
-    compressAndUpload: '壓縮和上傳'
+    compressAndUpload: '壓縮和上傳',
+    editWith: '編輯...'
   },
 
   permission: {

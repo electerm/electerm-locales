@@ -175,7 +175,8 @@ const lang = {
     useSystemTitleBarTip: 'システムのタイトルバーを使用するときは、透明に機能しない場合に、再起動アプリを再起動する必要があります。',
     onStartBookmarks: '起動時のブックマークを開く',
     pleaseSelect: '選んでください',
-    keepaliveIntervalDesc: 'キープアライブ間隔'
+    keepaliveIntervalDesc: 'キープアライブ間隔',
+    editorTip: 'エディタのコマンドまたはパス'
   },
 
   // sftp
@@ -234,7 +235,8 @@ const lang = {
     reset: 'リセット',
     showInDefaultFileMananger: 'ファイルマネージャに表示',
     compressAndDownload: '圧縮してダウンロードします',
-    compressAndUpload: '圧縮してアップロードします'
+    compressAndUpload: '圧縮してアップロードします',
+    editWith: '編集...'
   },
 
   permission: {
