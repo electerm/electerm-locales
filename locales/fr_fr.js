@@ -280,7 +280,8 @@ const lang = {
     encode: 'encode',
     terminalType: 'Type de terminal',
     startDirectory: 'répertoire de démarrage',
-    ignoreKeyboardInteractive: 'ignorer le clavier interactif'
+    ignoreKeyboardInteractive: 'ignorer le clavier interactif',
+    description: 'la description'
   },
 
   // ssh terminal

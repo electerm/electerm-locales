@@ -280,7 +280,8 @@ const lang = {
     encode: 'şifrele',
     terminalType: 'terminal türü',
     startDirectory: 'başlangıç dizini',
-    ignoreKeyboardInteractive: 'klavye etkileşimini yoksay'
+    ignoreKeyboardInteractive: 'klavye etkileşimini yoksay',
+    description: 'NS'
   },
 
   // ssh terminal

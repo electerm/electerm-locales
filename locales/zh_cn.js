@@ -280,7 +280,8 @@ const lang = {
     encode: '编码',
     terminalType: '终端类型',
     startDirectory: '开始目录',
-    ignoreKeyboardInteractive: '忽略键盘互动'
+    ignoreKeyboardInteractive: '忽略键盘互动',
+    description: '描述'
   },
 
   // ssh terminal

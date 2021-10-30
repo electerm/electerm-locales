@@ -280,7 +280,8 @@ const lang = {
     encode: '編碼',
     terminalType: '終端機類型',
     startDirectory: '啓動目錄',
-    ignoreKeyboardInteractive: '忽略鍵盤互動'
+    ignoreKeyboardInteractive: '忽略鍵盤互動',
+    description: '描述'
   },
 
   // ssh terminal

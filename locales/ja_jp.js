@@ -280,7 +280,8 @@ const lang = {
     encode: 'エンコード',
     terminalType: 'ターミナルタイプ',
     startDirectory: '開始パス',
-    ignoreKeyboardInteractive: 'キーボードインタラクティブを無視'
+    ignoreKeyboardInteractive: 'キーボードインタラクティブを無視',
+    description: '説明'
   },
 
   // ssh terminal
