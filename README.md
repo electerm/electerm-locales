@@ -33,7 +33,7 @@ Make sure you run `npm run test` before push.
 
 ## Script to create a new language file
 
-To make the work easier, I have create a script to help creating a language file, it will use google translate API to translate all entry and create a new language file.
+To make the work easier, I have created a script to help creating a language file, it uses google translate API to translate all entry and create a new language file.
 
 ```bash
 # use
