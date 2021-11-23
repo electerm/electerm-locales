@@ -4,7 +4,7 @@
 
 [electerm](https://electerm.html5beta.com) multi-language support pack.
 
-🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷 🇹🇷 🇭🇰 🇯🇵
+🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷 🇹🇷 🇭🇰 🇯🇵 🇸🇦
 
 ## Dev
 
@@ -78,6 +78,7 @@ cp sample.env .env
 - 🇹🇷[Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydındoğmuş](https://github.com/gediz)
 - 🇭🇰[繁体中文](locales/zh_tw.js): [@ycku](https://github.com/ycku)
 - 🇯🇵[日本語](locales/ja_jp.js): [@hououinkami](https://github.com/hououinkami)
+- 🇸🇦[العربية](locales/ar_ar.js): [@haithamalnaeb](https://github.com/haithamalnaeb)
 
 ## Contributors
 
