@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: 'فتح الإشارات المرجعية عند بدء التشغيل',
     pleaseSelect: 'الرجاء تحديد',
     keepaliveIntervalDesc: 'الفاصل الزمني للحفاظ على الاتصال',
-    editorTip: 'أمر أو مسار المحرر'
+    editorTip: 'أمر أو مسار المحرر',
+    cursorStyle: 'نمط المؤشر'
   },
 
   // sftp

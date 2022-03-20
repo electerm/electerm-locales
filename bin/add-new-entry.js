@@ -4,7 +4,13 @@
 
 const { resolve } = require('path')
 const { writeFileSync, readFileSync } = require('fs')
-const { entry = 'app', name = 'test1', text = 'whatever', original = 'en' } = process.env
+const {
+  entry = 'app',
+  name = 'test1',
+  text = 'whatever',
+  original = 'en',
+  to = ''
+} = process.env
 const { translate } = require('./translate')
 
 const supported = {
@@ -16,23 +22,31 @@ const supported = {
   fr: 'fr_fr',
   pt: 'pt_br',
   'zh-TW': 'zh_tw',
-  ja: 'ja_jp'
+  ja: 'ja_jp',
+  ar: 'ar_ar'
 }
 
 async function run () {
-  const keys = Object.keys(supported)
+  const keys = to
+    ? to.split(',')
+    : Object.keys(supported)
   for (const k of keys) {
     const v = supported[k]
     if (k === original) {
       console.log(k, text)
       await add(v, text)
     } else {
-      let translated = await translate({
-        text,
-        from: 'en',
-        to: k,
-        reusePage: false
-      })
+      let translated = false
+      while (!translated) {
+        translated = await translate({
+          text,
+          from: 'en',
+          to: k,
+          reusePage: false
+        }).catch(e => {
+          console.log('trans error', e)
+        })
+      }
       console.log(k, translated)
       await add(v, translated)
     }
