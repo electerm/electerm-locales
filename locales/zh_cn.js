@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: '在启动时打开书签',
     pleaseSelect: '请选择',
     keepaliveIntervalDesc: 'Keepalive间隔',
-    editorTip: '编辑器的命令或路径'
+    editorTip: '编辑器的命令或路径',
+    cursorStyle: '光标风格'
   },
 
   // sftp

@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: '起動時のブックマークを開く',
     pleaseSelect: '選んでください',
     keepaliveIntervalDesc: 'キープアライブ間隔',
-    editorTip: 'エディタのコマンドまたはパス'
+    editorTip: 'エディタのコマンドまたはパス',
+    cursorStyle: 'カーソルスタイル'
   },
 
   // sftp

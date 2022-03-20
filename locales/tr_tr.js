@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: 'Başlangıçta yer imlerini açın',
     pleaseSelect: 'lütfen seçin',
     keepaliveIntervalDesc: 'Keepalive aralığı',
-    editorTip: 'editörün komutu veya yolu'
+    editorTip: 'editörün komutu veya yolu',
+    cursorStyle: 'imleç tarzı'
   },
 
   // sftp

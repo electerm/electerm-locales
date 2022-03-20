@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: '在啟動時打開書籤',
     pleaseSelect: '請選擇',
     keepaliveIntervalDesc: 'Keepalive間隔',
-    editorTip: '編輯器的命令或路徑'
+    editorTip: '編輯器的命令或路徑',
+    cursorStyle: '光標風格'
   },
 
   // sftp

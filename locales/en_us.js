@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: 'open bookmarks on startup',
     pleaseSelect: 'please select',
     keepaliveIntervalDesc: 'keepalive interval',
-    editorTip: 'editor\'s command or path'
+    editorTip: 'editor\'s command or path',
+    cursorStyle: 'cursor style'
   },
 
   // sftp

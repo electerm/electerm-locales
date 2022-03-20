@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: 'Abra os marcadores na inicialização',
     pleaseSelect: 'por favor selecione',
     keepaliveIntervalDesc: 'Intervalo Keepalive',
-    editorTip: 'comando ou caminho do editor'
+    editorTip: 'comando ou caminho do editor',
+    cursorStyle: 'Estilo do cursor'
   },
 
   // sftp

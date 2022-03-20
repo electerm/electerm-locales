@@ -176,7 +176,8 @@ const lang = {
     onStartBookmarks: 'Открытые закладки на запуск',
     pleaseSelect: 'пожалуйста выберите',
     keepaliveIntervalDesc: 'keepalive интервал',
-    editorTip: 'команда или путь редактора'
+    editorTip: 'команда или путь редактора',
+    cursorStyle: 'Стиль курсора'
   },
 
   // sftp
