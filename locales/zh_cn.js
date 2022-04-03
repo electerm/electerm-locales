@@ -90,7 +90,8 @@ const lang = {
     env: '环境变量',
     os: '操作系统',
     userTips: '使用小技巧',
-    commandLineUsage: '命令行用法'
+    commandLineUsage: '命令行用法',
+    newBookmark: '新书签'
   },
 
   // transferHistory

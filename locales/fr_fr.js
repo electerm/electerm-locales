@@ -90,7 +90,8 @@ const lang = {
     env: 'Environnement',
     os: 'Système',
     userTips: 'user tips',
-    commandLineUsage: 'Utilisation de la ligne de commande'
+    commandLineUsage: 'Utilisation de la ligne de commande',
+    newBookmark: 'Nouveau signet'
   },
 
   // transferHistory

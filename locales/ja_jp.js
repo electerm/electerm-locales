@@ -90,7 +90,8 @@ const lang = {
     env: '環境変数',
     os: 'システム',
     userTips: 'ヒント',
-    commandLineUsage: 'コマンドラインの使用法'
+    commandLineUsage: 'コマンドラインの使用法',
+    newBookmark: '新しいブックマーク'
   },
 
   // transferHistory

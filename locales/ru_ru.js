@@ -90,7 +90,8 @@ const lang = {
     env: 'окружение',
     os: 'ос',
     userTips: 'советы',
-    commandLineUsage: 'Использование командной строки'
+    commandLineUsage: 'Использование командной строки',
+    newBookmark: 'Новая закладка'
   },
 
   // transferHistory

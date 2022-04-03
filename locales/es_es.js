@@ -91,7 +91,8 @@ const lang = {
     env: 'env',
     os: 'os',
     userTips: 'consejos para el usuario',
-    commandLineUsage: 'Uso de la línea de comandos'
+    commandLineUsage: 'Uso de la línea de comandos',
+    newBookmark: 'nuevo marcador'
   },
 
   // transferHistory

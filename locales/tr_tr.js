@@ -90,7 +90,8 @@ const lang = {
     env: 'ortam',
     os: 'işletim sistemi',
     userTips: 'kullanım ipuçları',
-    commandLineUsage: 'Komut satırı kullanımı'
+    commandLineUsage: 'Komut satırı kullanımı',
+    newBookmark: 'Yeni Yer imi'
   },
 
   // transferHistory

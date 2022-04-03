@@ -90,7 +90,8 @@ const lang = {
     env: 'بيئة',
     os: 'نظام التشغيل',
     userTips: 'نصائح المستخدم',
-    commandLineUsage: 'استخدام سطر الأوامر'
+    commandLineUsage: 'استخدام سطر الأوامر',
+    newBookmark: 'إشارة مرجعية جديدة'
   },
 
   // transferHistory
