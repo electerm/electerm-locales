@@ -57,7 +57,8 @@ const lang = {
     about: 'about',
     checkUpdate: 'check update',
     reportIssue: 'report issue',
-    homepage: 'homepage'
+    homepage: 'homepage',
+    sencondInstanceTip: 'can only do this in main window'
   },
 
   // common

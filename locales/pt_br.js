@@ -57,7 +57,8 @@ const lang = {
     about: 'sobre',
     checkUpdate: 'checkar atualizações',
     reportIssue: 'reportar problema',
-    homepage: 'homepage'
+    homepage: 'homepage',
+    sencondInstanceTip: 'só pode fazer isso na janela principal'
   },
 
   // common

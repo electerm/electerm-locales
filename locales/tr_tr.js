@@ -57,7 +57,8 @@ const lang = {
     about: 'hakkında',
     checkUpdate: 'güncellemeleri denetle',
     reportIssue: 'sorun bildir',
-    homepage: 'anasayfa'
+    homepage: 'anasayfa',
+    sencondInstanceTip: 'bunu sadece ana pencerede yapabilir'
   },
 
   // common

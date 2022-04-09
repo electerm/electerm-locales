@@ -57,7 +57,8 @@ const lang = {
     about: 'アプリについで',
     checkUpdate: '更新を確認',
     reportIssue: '問題を報告',
-    homepage: 'ホームページ'
+    homepage: 'ホームページ',
+    sencondInstanceTip: 'これをメインウィンドウで行うことができます'
   },
 
   // common

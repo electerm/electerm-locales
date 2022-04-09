@@ -57,7 +57,8 @@ const lang = {
     about: 'о программе',
     checkUpdate: 'проверить наличие обновлений',
     reportIssue: 'сообщить о проблеме',
-    homepage: 'домашняя страница'
+    homepage: 'домашняя страница',
+    sencondInstanceTip: 'можно сделать только в главном окне'
   },
 
   // common

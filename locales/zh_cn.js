@@ -57,7 +57,8 @@ const lang = {
     about: '关于',
     checkUpdate: '检查更新',
     reportIssue: '报告问题',
-    homepage: '官网'
+    homepage: '官网',
+    sencondInstanceTip: '只能在主窗口中执行此操作'
   },
 
   // common
