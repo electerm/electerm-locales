@@ -92,7 +92,8 @@ const lang = {
     os: 'نظام التشغيل',
     userTips: 'نصائح المستخدم',
     commandLineUsage: 'استخدام سطر الأوامر',
-    newBookmark: 'إشارة مرجعية جديدة'
+    newBookmark: 'إشارة مرجعية جديدة',
+    newWindow: 'مثيل جديد'
   },
 
   // transferHistory

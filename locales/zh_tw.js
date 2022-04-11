@@ -92,7 +92,8 @@ const lang = {
     os: '作業系統',
     userTips: '小技巧',
     commandLineUsage: '命令行用法',
-    newBookmark: '新書籤'
+    newBookmark: '新書籤',
+    newWindow: '新實例'
   },
 
   // transferHistory

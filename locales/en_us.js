@@ -92,7 +92,8 @@ const lang = {
     os: 'os',
     userTips: 'user tips',
     commandLineUsage: 'command line usage',
-    newBookmark: 'new bookmark'
+    newBookmark: 'new bookmark',
+    newWindow: 'new window'
   },
 
   // transferHistory

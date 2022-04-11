@@ -92,7 +92,8 @@ const lang = {
     os: 'Système',
     userTips: 'user tips',
     commandLineUsage: 'Utilisation de la ligne de commande',
-    newBookmark: 'Nouveau signet'
+    newBookmark: 'Nouveau signet',
+    newWindow: 'nouvelle instance'
   },
 
   // transferHistory

@@ -92,7 +92,8 @@ const lang = {
     os: 'ос',
     userTips: 'советы',
     commandLineUsage: 'Использование командной строки',
-    newBookmark: 'Новая закладка'
+    newBookmark: 'Новая закладка',
+    newWindow: 'новый экземпляр'
   },
 
   // transferHistory

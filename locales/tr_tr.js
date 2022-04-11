@@ -92,7 +92,8 @@ const lang = {
     os: 'işletim sistemi',
     userTips: 'kullanım ipuçları',
     commandLineUsage: 'Komut satırı kullanımı',
-    newBookmark: 'Yeni Yer imi'
+    newBookmark: 'Yeni Yer imi',
+    newWindow: 'yeni örnek'
   },
 
   // transferHistory

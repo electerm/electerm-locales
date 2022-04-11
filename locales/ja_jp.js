@@ -92,7 +92,8 @@ const lang = {
     os: 'システム',
     userTips: 'ヒント',
     commandLineUsage: 'コマンドラインの使用法',
-    newBookmark: '新しいブックマーク'
+    newBookmark: '新しいブックマーク',
+    newWindow: '新しいインスタンス'
   },
 
   // transferHistory
