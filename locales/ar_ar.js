@@ -180,7 +180,8 @@ const lang = {
     pleaseSelect: 'الرجاء تحديد',
     keepaliveIntervalDesc: 'الفاصل الزمني للحفاظ على الاتصال',
     editorTip: 'أمر أو مسار المحرر',
-    cursorStyle: 'نمط المؤشر'
+    cursorStyle: 'نمط المؤشر',
+    confirmBeforeExit: 'تأكيد قبل الخروج'
   },
 
   // sftp

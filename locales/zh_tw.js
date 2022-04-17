@@ -180,7 +180,8 @@ const lang = {
     pleaseSelect: '請選擇',
     keepaliveIntervalDesc: 'Keepalive間隔',
     editorTip: '編輯器的命令或路徑',
-    cursorStyle: '光標風格'
+    cursorStyle: '光標風格',
+    confirmBeforeExit: '退出前確認'
   },
 
   // sftp

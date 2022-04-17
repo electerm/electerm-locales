@@ -180,7 +180,8 @@ const lang = {
     pleaseSelect: 'lütfen seçin',
     keepaliveIntervalDesc: 'Keepalive aralığı',
     editorTip: 'editörün komutu veya yolu',
-    cursorStyle: 'imleç tarzı'
+    cursorStyle: 'imleç tarzı',
+    confirmBeforeExit: 'Çıkmadan önce onaylayın'
   },
 
   // sftp

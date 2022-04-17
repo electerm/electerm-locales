@@ -180,7 +180,8 @@ const lang = {
     pleaseSelect: '選んでください',
     keepaliveIntervalDesc: 'キープアライブ間隔',
     editorTip: 'エディタのコマンドまたはパス',
-    cursorStyle: 'カーソルスタイル'
+    cursorStyle: 'カーソルスタイル',
+    confirmBeforeExit: '終了前に確認してください'
   },
 
   // sftp

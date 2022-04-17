@@ -180,7 +180,8 @@ const lang = {
     pleaseSelect: 'Veuillez sélectionner',
     keepaliveIntervalDesc: 'intervalle de garde',
     editorTip: 'Commande ou chemin de l\'éditeur',
-    cursorStyle: 'style du curseur'
+    cursorStyle: 'style du curseur',
+    confirmBeforeExit: 'Confirmer avant la sortie'
   },
 
   // sftp
