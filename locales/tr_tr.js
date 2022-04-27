@@ -304,7 +304,8 @@ const lang = {
     batchInput: 'Toplu giriş',
     runInAllTerminals: 'tüm terminallerde çalıştır',
     matchCase: 'harfe duyarlı',
-    matchWholeWord: 'Tüm kelimeyi eşleştir'
+    matchWholeWord: 'Tüm kelimeyi eşleştir',
+    useRegExp: 'Normal ifade kullanın'
   },
 
   // terminal themes

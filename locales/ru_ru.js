@@ -304,7 +304,8 @@ const lang = {
     batchInput: 'пакетный ввод',
     runInAllTerminals: 'запустить во всех терминалах',
     matchCase: 'с учетом регистра',
-    matchWholeWord: 'Сопоставьте целое слово'
+    matchWholeWord: 'Сопоставьте целое слово',
+    useRegExp: 'Используйте регулярное выражение'
   },
 
   // terminal themes

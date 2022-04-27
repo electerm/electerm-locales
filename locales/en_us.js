@@ -304,7 +304,8 @@ const lang = {
     batchInput: 'batch input',
     runInAllTerminals: 'run in all terminals',
     matchCase: 'case sensitive',
-    matchWholeWord: 'match whole word'
+    matchWholeWord: 'match whole word',
+    useRegExp: 'use regular expression'
   },
 
   // terminal themes

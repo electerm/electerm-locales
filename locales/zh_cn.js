@@ -304,7 +304,8 @@ const lang = {
     batchInput: '批量输入',
     runInAllTerminals: '在所有终端上运行',
     matchCase: '区分大小写',
-    matchWholeWord: '匹配整个单词'
+    matchWholeWord: '匹配整个单词',
+    useRegExp: '使用正则表达式'
   },
 
   // terminal themes

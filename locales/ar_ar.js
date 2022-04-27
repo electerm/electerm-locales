@@ -304,7 +304,8 @@ const lang = {
     batchInput: 'إدخال جماعي',
     runInAllTerminals: 'تشغيل في كافة الطرفيات',
     matchCase: 'حساسية الموضوع',
-    matchWholeWord: 'تطابق الكلمة بالكامل'
+    matchWholeWord: 'تطابق الكلمة بالكامل',
+    useRegExp: 'استخدم التعبير العادي'
   },
 
   // terminal themes

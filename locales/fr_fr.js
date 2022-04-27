@@ -304,7 +304,8 @@ const lang = {
     batchInput: 'entrée par lots',
     runInAllTerminals: 'courir dans tous les terminaux',
     matchCase: 'sensible aux majuscules et minuscules',
-    matchWholeWord: 'Correspond à un mot entier'
+    matchWholeWord: 'Correspond à un mot entier',
+    useRegExp: 'Utilisez une expression régulière'
   },
 
   // terminal themes
