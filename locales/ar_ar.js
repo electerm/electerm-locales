@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'تغيير الاتجاه',
     batchInput: 'إدخال جماعي',
     runInAllTerminals: 'تشغيل في كافة الطرفيات',
-    matchCase: 'حساسية الموضوع'
+    matchCase: 'حساسية الموضوع',
+    matchWholeWord: 'تطابق الكلمة بالكامل'
   },
 
   // terminal themes

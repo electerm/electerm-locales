@@ -303,7 +303,8 @@ const lang = {
     changeDirection: '切換排列',
     batchInput: '批量輸入',
     runInAllTerminals: '在所有終端上運行',
-    matchCase: '區分大小寫'
+    matchCase: '區分大小寫',
+    matchWholeWord: '匹配整個單詞'
   },
 
   // terminal themes

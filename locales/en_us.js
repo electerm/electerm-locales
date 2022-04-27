@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'change direction',
     batchInput: 'batch input',
     runInAllTerminals: 'run in all terminals',
-    matchCase: 'case sensitive'
+    matchCase: 'case sensitive',
+    matchWholeWord: 'match whole word'
   },
 
   // terminal themes

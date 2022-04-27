@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'Changer d\'orientation',
     batchInput: 'entrée par lots',
     runInAllTerminals: 'courir dans tous les terminaux',
-    matchCase: 'sensible aux majuscules et minuscules'
+    matchCase: 'sensible aux majuscules et minuscules',
+    matchWholeWord: 'Correspond à un mot entier'
   },
 
   // terminal themes

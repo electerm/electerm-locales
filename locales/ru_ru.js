@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'изменить направление',
     batchInput: 'пакетный ввод',
     runInAllTerminals: 'запустить во всех терминалах',
-    matchCase: 'с учетом регистра'
+    matchCase: 'с учетом регистра',
+    matchWholeWord: 'Сопоставьте целое слово'
   },
 
   // terminal themes

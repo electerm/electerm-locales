@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'yönü değiştir',
     batchInput: 'Toplu giriş',
     runInAllTerminals: 'tüm terminallerde çalıştır',
-    matchCase: 'harfe duyarlı'
+    matchCase: 'harfe duyarlı',
+    matchWholeWord: 'Tüm kelimeyi eşleştir'
   },
 
   // terminal themes

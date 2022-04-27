@@ -303,7 +303,8 @@ const lang = {
     changeDirection: 'レイアウトの切替',
     batchInput: 'バッチ入力',
     runInAllTerminals: 'すべてのターミナルで実行',
-    matchCase: '大文字と小文字を区別'
+    matchCase: '大文字と小文字を区別',
+    matchWholeWord: '単語全体に一致します'
   },
 
   // terminal themes
