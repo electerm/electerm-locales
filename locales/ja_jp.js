@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'ファイルマネージャー',
     changeDirection: 'レイアウトの切替',
     batchInput: 'バッチ入力',
-    runInAllTerminals: 'すべてのターミナルで実行'
+    runInAllTerminals: 'すべてのターミナルで実行',
+    matchCase: '大文字と小文字を区別'
   },
 
   // terminal themes

@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'مدير الملفات',
     changeDirection: 'تغيير الاتجاه',
     batchInput: 'إدخال جماعي',
-    runInAllTerminals: 'تشغيل في كافة الطرفيات'
+    runInAllTerminals: 'تشغيل في كافة الطرفيات',
+    matchCase: 'حساسية الموضوع'
   },
 
   // terminal themes

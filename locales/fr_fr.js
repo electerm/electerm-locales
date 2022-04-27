@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'Gestionnaire de fichiers SFTP',
     changeDirection: 'Changer d\'orientation',
     batchInput: 'entrée par lots',
-    runInAllTerminals: 'courir dans tous les terminaux'
+    runInAllTerminals: 'courir dans tous les terminaux',
+    matchCase: 'sensible aux majuscules et minuscules'
   },
 
   // terminal themes

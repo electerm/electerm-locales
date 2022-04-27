@@ -303,7 +303,8 @@ const lang = {
     fileManager: 'administrador de archivos',
     changeDirection: 'cambiar dirección',
     batchInput: 'entrada por lotes',
-    runInAllTerminals: 'correr en todas las terminales'
+    runInAllTerminals: 'correr en todas las terminales',
+    matchCase: 'distingue mayúsculas y minúsculas'
   },
 
   // terminal themes

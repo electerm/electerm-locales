@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'dosya yöneticisi',
     changeDirection: 'yönü değiştir',
     batchInput: 'Toplu giriş',
-    runInAllTerminals: 'tüm terminallerde çalıştır'
+    runInAllTerminals: 'tüm terminallerde çalıştır',
+    matchCase: 'harfe duyarlı'
   },
 
   // terminal themes

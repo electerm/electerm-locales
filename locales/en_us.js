@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'file manager',
     changeDirection: 'change direction',
     batchInput: 'batch input',
-    runInAllTerminals: 'run in all terminals'
+    runInAllTerminals: 'run in all terminals',
+    matchCase: 'case sensitive'
   },
 
   // terminal themes

@@ -302,7 +302,8 @@ const lang = {
     fileManager: 'файловый менеджер',
     changeDirection: 'изменить направление',
     batchInput: 'пакетный ввод',
-    runInAllTerminals: 'запустить во всех терминалах'
+    runInAllTerminals: 'запустить во всех терминалах',
+    matchCase: 'с учетом регистра'
   },
 
   // terminal themes
