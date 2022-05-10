@@ -220,7 +220,7 @@ const lang = {
     selectAll: 'Alle auswählen',
     refresh: 'Aktualisieren',
     editPermission: 'Berechtigung bearbeiten',
-    info: 'Info',	
+    info: 'Info',
     filesAndFolders: 'Dateien und Ordner',
     files: 'Dateien',
     delTip: 'Sind Sie sicher? Diese werden gelöscht',
@@ -241,7 +241,7 @@ const lang = {
     showInDefaultFileMananger: 'In Dateimanager anzeigen',
     compressAndDownload: 'Komprimieren und herunterladen',
     compressAndUpload: 'Komprimieren und hochladen',
-    editWith: 'Bearbeiten mit...',
+    editWith: 'Bearbeiten mit...'
   },
 
   permission: {
@@ -250,7 +250,7 @@ const lang = {
     exec: 'Ausführen',
     owner: 'Besitzer',
     group: 'Gruppe',
-    other: 'Andere',
+    other: 'Andere'
   },
 
   // ssh form
@@ -286,7 +286,7 @@ const lang = {
     terminalType: 'Terminal-Typ',
     startDirectory: 'Start-Verzeichnis',
     ignoreKeyboardInteractive: 'Ignoriere interaktives Keyboard',
-    description: 'Beschreibung',
+    description: 'Beschreibung'
   },
 
   // ssh terminal
@@ -305,7 +305,7 @@ const lang = {
     runInAllTerminals: 'In allen Terminals ausführen',
     matchCase: 'Groß-/Kleinschreibung beachten',
     matchWholeWord: 'Ganzes Wort',
-    useRegExp: 'Reguläre Ausdrücke verwenden',
+    useRegExp: 'Reguläre Ausdrücke verwenden'
   },
 
   // terminal themes
@@ -319,7 +319,7 @@ const lang = {
     newTheme: 'Neues Design',
     themeConfig: 'Design-Konfiguration',
     updated: 'Design aktualisiert',
-    uiThemes: 'UI-Design',
+    uiThemes: 'UI-Design'
   },
 
   // quick commands
@@ -330,7 +330,7 @@ const lang = {
     addQuickCommands: 'Schnell-Befehle hinzufügen',
     newQuickCommand: 'Neuer Schnell-Befehl',
     inputOnly: 'Nur Eingabe',
-    labels: 'Beschriftungen',
+    labels: 'Beschriftungen'
   },
 
   // setting sync
@@ -345,7 +345,7 @@ const lang = {
     syncDesc: 'Synchronisiere Lesezeichen / Verlauf / Einstellung für GitHub secret gist',
     autoSync: 'Automatische Synchronisierung',
     lastSyncTime: 'Letzte Synchronisierungszeit',
-    useExistingGistId: 'Verwende existierende Gist-ID',
+    useExistingGistId: 'Verwende existierende Gist-ID'
   }
 }
 

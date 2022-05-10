@@ -1,11 +1,12 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "0.12.9",
+  "version": "0.13.0",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
     "start": "npm run gulp",
     "lint": "./node_modules/.bin/standard",
+    "fix": "./node_modules/.bin/standard --fix",
     "test": "mocha",
     "prestart": "node bin/post-install",
     "pre-push": "npm run lint && npm run test",

@@ -23,7 +23,8 @@ const supported = {
   pt: 'pt_br',
   'zh-TW': 'zh_tw',
   ja: 'ja_jp',
-  ar: 'ar_ar'
+  ar: 'ar_ar',
+  de: 'de_de'
 }
 
 async function run () {
