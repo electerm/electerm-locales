@@ -23,7 +23,9 @@ async function init (from, lang, reusePage) {
   // set viewport and user agent (just in case for nice viewing)
   await page.setViewport({ width: 1366, height: 768 })
   await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36')
-  await page.goto(`https://translate.google.com/?sl=${from}&tl=${lang}&text=d&op=translate`)
+  await page.goto(`https://translate.google.com/?sl=${from}&tl=${lang}&text=d&op=translate`, {
+    waitUntil: 'load', timeout: 0
+  })
 
   // detect the source textarea for input data (source string)
   await page.waitFor(() => {
@@ -63,7 +65,7 @@ exports.translate = async function ({
     const tarSelectror = ['[data-phrase-index] span', '.result-shield-container']
     return document.querySelectorAll(tarSelectror.join(', ')).length
   })
-  await page.waitFor(3000)
+  await page.waitFor(9000)
 
   // get the result string (translated text)
   const translatedResult = await page.evaluate(() => {
