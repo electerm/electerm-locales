@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: 'tüm terminallerde çalıştır',
     matchCase: 'harfe duyarlı',
     matchWholeWord: 'Tüm kelimeyi eşleştir',
-    useRegExp: 'Normal ifade kullanın'
+    useRegExp: 'Normal ifade kullanın',
+    socketCloseTip: 'Terminal Bağlantısı Kayıp'
   },
 
   // terminal themes

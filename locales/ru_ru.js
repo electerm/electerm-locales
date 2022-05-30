@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: 'запустить во всех терминалах',
     matchCase: 'с учетом регистра',
     matchWholeWord: 'Сопоставьте целое слово',
-    useRegExp: 'Используйте регулярное выражение'
+    useRegExp: 'Используйте регулярное выражение',
+    socketCloseTip: 'Терминальное соединение потеряно'
   },
 
   // terminal themes

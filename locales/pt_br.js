@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: 'correr em todos os terminais',
     matchCase: 'maiúsculas e minúsculas',
     matchWholeWord: 'Combine a palavra inteira',
-    useRegExp: 'Use expressão regular'
+    useRegExp: 'Use expressão regular',
+    socketCloseTip: 'conexão terminal perdida'
   },
 
   // terminal themes

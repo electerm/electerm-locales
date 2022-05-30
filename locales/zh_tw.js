@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: '在所有終端上運行',
     matchCase: '區分大小寫',
     matchWholeWord: '匹配整個單詞',
-    useRegExp: '使用正則表達式'
+    useRegExp: '使用正則表達式',
+    socketCloseTip: '終端連接丟失'
   },
 
   // terminal themes

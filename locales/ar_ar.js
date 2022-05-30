@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: 'تشغيل في كافة الطرفيات',
     matchCase: 'حساسية الموضوع',
     matchWholeWord: 'تطابق الكلمة بالكامل',
-    useRegExp: 'استخدم التعبير العادي'
+    useRegExp: 'استخدم التعبير العادي',
+    socketCloseTip: 'اتصال الطرفي فقد'
   },
 
   // terminal themes

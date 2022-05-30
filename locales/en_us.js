@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: 'run in all terminals',
     matchCase: 'case sensitive',
     matchWholeWord: 'match whole word',
-    useRegExp: 'use regular expression'
+    useRegExp: 'use regular expression',
+    socketCloseTip: 'terminal connection lost'
   },
 
   // terminal themes

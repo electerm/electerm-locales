@@ -305,7 +305,8 @@ const lang = {
     runInAllTerminals: '在所有终端上运行',
     matchCase: '区分大小写',
     matchWholeWord: '匹配整个单词',
-    useRegExp: '使用正则表达式'
+    useRegExp: '使用正则表达式',
+    socketCloseTip: '终端连接丢失'
   },
 
   // terminal themes
