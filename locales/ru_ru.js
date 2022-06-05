@@ -240,8 +240,7 @@ const lang = {
     reset: 'сбросить',
     showInDefaultFileMananger: 'показать в файловом менеджере',
     compressAndDownload: 'Сжатие и загрузка',
-    compressAndUpload: 'Сжать и загружать',
-    editWith: 'редактировать с ...'
+    compressAndUpload: 'Сжать и загружать'
   },
 
   permission: {

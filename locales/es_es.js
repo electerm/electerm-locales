@@ -241,8 +241,7 @@ const lang = {
     reset: 'reiniciar',
     showInDefaultFileMananger: 'mostrar en el administrador de archivos',
     compressAndDownload: 'comprimir y descargar',
-    compressAndUpload: 'comprimir y subir',
-    editWith: 'Editar con ...'
+    compressAndUpload: 'comprimir y subir'
   },
 
   permission: {

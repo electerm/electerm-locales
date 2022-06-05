@@ -240,8 +240,7 @@ const lang = {
     reset: 'リセット',
     showInDefaultFileMananger: 'ファイルマネージャに表示',
     compressAndDownload: '圧縮してダウンロードします',
-    compressAndUpload: '圧縮してアップロードします',
-    editWith: '編集...'
+    compressAndUpload: '圧縮してアップロードします'
   },
 
   permission: {

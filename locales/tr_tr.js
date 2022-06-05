@@ -240,8 +240,7 @@ const lang = {
     reset: 'yeniden başlat',
     showInDefaultFileMananger: 'dosya yöneticisinde göster',
     compressAndDownload: 'sıkıştır ve indir',
-    compressAndUpload: 'sıkıştırın ve yükleyin',
-    editWith: 'Düzenle ...'
+    compressAndUpload: 'sıkıştırın ve yükleyin'
   },
 
   permission: {

@@ -240,8 +240,7 @@ const lang = {
     reset: '重置',
     showInDefaultFileMananger: '在文件管理器中显示',
     compressAndDownload: '压缩和下载',
-    compressAndUpload: '压缩和上传',
-    editWith: '编辑...'
+    compressAndUpload: '压缩和上传'
   },
 
   permission: {
