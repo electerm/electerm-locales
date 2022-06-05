@@ -240,7 +240,8 @@ const lang = {
     reset: 'إعادة تعيين',
     showInDefaultFileMananger: 'إظهار في مدير الملفات',
     compressAndDownload: 'ضغط وتحميل',
-    compressAndUpload: 'ضغط ورفع'
+    compressAndUpload: 'ضغط ورفع',
+    editWithSystemEditor: 'تحرير مع محرر النظام'
   },
 
   permission: {

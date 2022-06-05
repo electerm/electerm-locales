@@ -240,7 +240,8 @@ const lang = {
     reset: 'Zurücksetzen',
     showInDefaultFileMananger: 'In Dateimanager anzeigen',
     compressAndDownload: 'Komprimieren und herunterladen',
-    compressAndUpload: 'Komprimieren und hochladen'
+    compressAndUpload: 'Komprimieren und hochladen',
+    editWithSystemEditor: 'Bearbeiten mit Systemeditor'
   },
 
   permission: {

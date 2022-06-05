@@ -240,7 +240,8 @@ const lang = {
     reset: 'reset',
     showInDefaultFileMananger: 'show in file manager',
     compressAndDownload: 'compress and download',
-    compressAndUpload: 'compress and upload'
+    compressAndUpload: 'compress and upload',
+    editWithSystemEditor: 'edit with system editor'
   },
 
   permission: {

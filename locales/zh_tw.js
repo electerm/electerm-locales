@@ -240,7 +240,8 @@ const lang = {
     reset: '重置',
     showInDefaultFileMananger: '在檔案瀏覽器中顯示',
     compressAndDownload: '壓縮和下載',
-    compressAndUpload: '壓縮和上傳'
+    compressAndUpload: '壓縮和上傳',
+    editWithSystemEditor: '使用系統編輯器編輯'
   },
 
   permission: {
