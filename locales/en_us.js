@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'new version found',
     upgrade: 'upgrade',
     upgrading: 'upgrading',
-    skipThisVersion: 'skip this version'
+    skipThisVersion: 'skip this version',
+    moreChangeLog: 'more change log'
   },
 
   // setting

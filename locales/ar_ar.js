@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'تم العثور على إصدار جديد',
     upgrade: 'ترقية',
     upgrading: 'جاري الترقية',
-    skipThisVersion: 'تخطي هذا الإصدار'
+    skipThisVersion: 'تخطي هذا الإصدار',
+    moreChangeLog: 'المزيد من سجل التغيير'
   },
 
   // setting

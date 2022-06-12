@@ -137,7 +137,8 @@ const lang = {
     newVersion: '發現了新的版本',
     upgrade: '升級',
     upgrading: '升級中',
-    skipThisVersion: '不再提示這個版本'
+    skipThisVersion: '不再提示這個版本',
+    moreChangeLog: '更多更改日誌'
   },
 
   // setting

@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'Neue Version',
     upgrade: 'Aktualisieren',
     upgrading: 'Aktualisieren...',
-    skipThisVersion: 'Diese Version überspringen'
+    skipThisVersion: 'Diese Version überspringen',
+    moreChangeLog: 'Weitere Änderungsprotokoll'
   },
 
   // setting

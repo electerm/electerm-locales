@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'Nouvelle version disponible',
     upgrade: 'Mettre à jour',
     upgrading: 'Mise à jour en cours',
-    skipThisVersion: 'Ignorer cette version'
+    skipThisVersion: 'Ignorer cette version',
+    moreChangeLog: 'Plus de changement de journal'
   },
 
   // setting

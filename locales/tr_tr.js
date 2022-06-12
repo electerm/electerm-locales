@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'güncel sürüm bulundu',
     upgrade: 'yükselt!',
     upgrading: 'yükseltiliyor',
-    skipThisVersion: 'bu sürümü atla'
+    skipThisVersion: 'bu sürümü atla',
+    moreChangeLog: 'Daha Fazla Değişiklik Günlüğü'
   },
 
   // setting

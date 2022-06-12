@@ -137,7 +137,8 @@ const lang = {
     newVersion: 'найдена новая версия',
     upgrade: 'Обновить',
     upgrading: 'модернизация',
-    skipThisVersion: 'пропустить эту версию'
+    skipThisVersion: 'пропустить эту версию',
+    moreChangeLog: 'Больше журнала изменений'
   },
 
   // setting

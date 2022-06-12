@@ -137,7 +137,8 @@ const lang = {
     newVersion: '更新があります',
     upgrade: '更新',
     upgrading: '更新中',
-    skipThisVersion: '更新を無視'
+    skipThisVersion: '更新を無視',
+    moreChangeLog: 'より多くの変更ログ'
   },
 
   // setting

@@ -138,7 +138,8 @@ const lang = {
     newVersion: 'nueva versión encontrada',
     upgrade: 'mejorar',
     upgrading: 'mejorando',
-    skipThisVersion: 'omitir esta version'
+    skipThisVersion: 'omitir esta version',
+    moreChangeLog: 'Más registro de cambios'
   },
 
   // setting
