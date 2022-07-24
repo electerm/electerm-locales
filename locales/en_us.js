@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: 'English',
-  match: /en/,
+  match: 'en',
   flag: '🇺🇸'
 }

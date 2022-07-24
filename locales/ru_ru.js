@@ -352,9 +352,9 @@ const lang = {
 
 }
 
-module.exports = {
+export default {
   lang,
   name: 'Русский',
-  match: /ru/,
+  match: 'ru',
   flag: '🇷🇺'
 }

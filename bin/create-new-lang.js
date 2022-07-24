@@ -2,12 +2,12 @@
  * with this script to create a new language file with google-translate-open-api
  */
 
-const { resolve } = require('path')
-const { writeFileSync } = require('fs')
-const _ = require('lodash')
-const json5 = require('json5')
-const countryFlagEmoji = require('country-flag-emoji')
-const { translate, endTranslate } = require('./translate')
+import { resolve } from 'path'
+import { writeFileSync } from 'fs'
+import _ from 'lodash'
+import json5 from 'json5'
+import countryFlagEmoji from 'country-flag-emoji'
+import { translate, endTranslate } from './translate.js'
 
 // from https://github.com/hua1995116/google-translate-open-api/blob/master/src/language.ts
 const supportedLangs = {
@@ -145,7 +145,7 @@ async function create () {
     const ks = Object.keys(obj)
     for (const kk of ks) {
       const v = obj[kk]
-      let txt = await translate({
+      const txt = await translate({
         text: v,
         from,
         to: lang
@@ -169,7 +169,7 @@ const lang = ${json5.stringify(tr, null, 2)}
 module.exports = {
   lang,
   name: '${langName}',
-  match: /${lang}/,
+  match: '${lang}',
   flag: '${emo}'
 }
 

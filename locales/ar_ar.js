@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: 'العربية',
-  match: /ar/,
+  match: 'ar',
   flag: '🇸🇦'
 }

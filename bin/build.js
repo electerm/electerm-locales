@@ -2,21 +2,26 @@
  * build to json6
  */
 
-const fs = require('fs')
-const { rm, mkdir } = require('shelljs')
-const { resolve } = require('path')
-const p = resolve(__dirname, '../locales')
-const dist = resolve(__dirname, '../dist')
+import fs from 'fs'
+import pkg from 'shelljs'
+import { resolve } from 'path'
+import json5 from 'json5'
 
-function run () {
+const { rm, mkdir } = pkg
+const cwd = process.cwd()
+const p = resolve(cwd, 'locales')
+const dist = resolve(cwd, 'dist')
+
+async function run () {
   rm('-rf', dist)
   mkdir(dist)
   const list = fs.readdirSync(p)
+  const prefix = 'module.exports='
   for (const f of list) {
     const pp = resolve(p, f)
-    const js = require(pp)
-    const tt = resolve(dist, f + 'on')
-    fs.writeFileSync(tt, JSON.stringify(js))
+    const js = await import(pp)
+    const tt = resolve(dist, f)
+    fs.writeFileSync(tt, prefix + json5.stringify(js.default))
   }
 }
 

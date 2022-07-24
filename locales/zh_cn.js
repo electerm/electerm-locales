@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: '简体中文',
-  match: /zh(-|_)CN|zh(-|_)MO|zh(-|_)SG/,
+  match: 'zh(-|_)CN|zh(-|_)MO|zh(-|_)SG',
   flag: '🇨🇳'
 }

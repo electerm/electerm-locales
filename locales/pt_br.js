@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: 'Português do Brasil',
-  match: /pt/,
+  match: 'pt',
   flag: '🇧🇷'
 }

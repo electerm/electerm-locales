@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: '日本語',
-  match: /ja|ja(-|_)JP/,
+  match: 'ja|ja(-|_)JP',
   flag: '🇯🇵'
 }

@@ -1,5 +1,5 @@
 
-const puppeteer = require('puppeteer')
+import puppeteer from 'puppeteer'
 
 const glob = {
   browser: null,

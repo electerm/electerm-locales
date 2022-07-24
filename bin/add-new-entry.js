@@ -2,8 +2,9 @@
  * add new entry with this script
  */
 
-const { resolve } = require('path')
-const { writeFileSync, readFileSync } = require('fs')
+import { resolve } from 'path'
+import { writeFileSync, readFileSync } from 'fs'
+import { translate } from './translate.js'
 const {
   entry = 'app',
   name = 'test1',
@@ -11,7 +12,6 @@ const {
   original = 'en',
   to = ''
 } = process.env
-const { translate } = require('./translate')
 
 const supported = {
   en: 'en_us',

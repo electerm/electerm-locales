@@ -351,9 +351,9 @@ const lang = {
   }
 }
 
-module.exports = {
+export default {
   lang,
   name: 'Türkçe',
-  match: /tr/,
+  match: 'tr',
   flag: '🇹🇷'
 }

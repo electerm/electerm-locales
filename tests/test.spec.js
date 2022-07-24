@@ -1,12 +1,22 @@
+/* eslint-env jest */
+
 /**
  * makesure all lang files has matched keys
  */
 
-const { strictEqual } = require('assert')
-const pack = require('../package.json')
-const { readdirSync } = require('fs')
-const { resolve } = require('path')
-const _ = require('lodash')
+import { readdirSync, readFileSync } from 'fs'
+import { resolve } from 'path'
+import _ from 'lodash'
+
+const cwd = process.cwd()
+
+const pack = JSON.parse(
+  readFileSync(
+    resolve(
+      cwd, 'package.json'
+    )
+  )
+)
 
 /**
  * compare object makesure they has same shape
@@ -14,17 +24,17 @@ const _ = require('lodash')
  * @param {*} pbj2
  */
 function compareObject (obj1, obj2) {
-  let keys1 = Object.keys(obj1)
-  let keys2 = Object.keys(obj2)
+  const keys1 = Object.keys(obj1)
+  const keys2 = Object.keys(obj2)
   if (
     !_.isEqual(keys1, keys2)
   ) {
     console.log('not the same shape')
     return false
   }
-  for (let k of keys1) {
-    let v1 = obj1[k]
-    let v2 = obj2[k]
+  for (const k of keys1) {
+    const v1 = obj1[k]
+    const v2 = obj2[k]
     if (_.isString(v1)) {
       if (!_.isString(v2)) {
         console.log('prop:', k, 'not the same shape', v1, v2)
@@ -55,29 +65,40 @@ function compareObject (obj1, obj2) {
 }
 
 describe(pack.name, function () {
-  it('all langs should have same shape', function () {
-    let files = readdirSync(
-      resolve(__dirname, '../locales')
+  it('all langs should have same shape', async function () {
+    const files = readdirSync(
+      resolve(cwd, 'locales')
     )
-    let langs = files.reduce((pre, f) => {
-      let pp = resolve(
-        __dirname, '../locales', f
+    const langs = {}
+    for (const f of files) {
+      const pp = resolve(
+        cwd, 'locales', f
       )
-      let content = require(pp)
-      pre[pp] = {
+      const content = await import(pp)
+      langs[pp] = {
         path: pp,
-        ...content
+        ...content.default
       }
-      return pre
-    }, {})
-    let keys = Object.keys(langs)
-    let len = keys.length
+    }
+    // const langs = files.reduce(async (pre, f) => {
+    //   const pp = resolve(
+    //     cwd, 'locales', f
+    //   )
+    //   const content = await import(pp)
+    //   pre[pp] = {
+    //     path: pp,
+    //     ...content
+    //   }
+    //   return pre
+    // }, {})
+    const keys = Object.keys(langs)
+    const len = keys.length
     for (let i = 0; i < len - 1; i++) {
-      let k1 = keys[i]
-      let k2 = keys[i + 1]
-      let c1 = langs[k1]
-      let c2 = langs[k2]
-      let eq = compareObject(
+      const k1 = keys[i]
+      const k2 = keys[i + 1]
+      const c1 = langs[k1]
+      const c2 = langs[k2]
+      const eq = compareObject(
         c1.lang,
         c2.lang
       )
@@ -88,7 +109,7 @@ describe(pack.name, function () {
           'do not match'
         )
       }
-      strictEqual(eq, true)
+      expect(eq).toBe(true)
     }
   })
 })
