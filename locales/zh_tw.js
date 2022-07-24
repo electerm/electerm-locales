@@ -354,6 +354,6 @@ const lang = {
 export default {
   lang,
   name: '繁體中文',
-  match: 'zh(-|_)TW|zh(-|_)HK',
+  match: 'zh(-|_)tw|zh(-|_)hk',
   flag: '🇭🇰'
 }

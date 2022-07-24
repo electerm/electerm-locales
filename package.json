@@ -1,6 +1,6 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "0.14.0",
+  "version": "0.14.2",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,8 @@
     "fix": "./node_modules/.bin/standard --fix",
     "test": "node --experimental-vm-modules ./node_modules/.bin/jest",
     "pre-push": "npm run lint && npm run test",
-    "build": "node bin/build",
-    "prepublishOnly": "node bin/build",
-    "pub": "bin/publish"
+    "build": "node bin/build.js",
+    "pub": "npm run build && node bin/publish.js"
   },
   "type": "module",
   "repository": {
