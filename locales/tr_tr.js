@@ -5,7 +5,7 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'electerm, electron/ssh2/node-pty/xterm/antd/subx ve birçok diğer kütüphaneyi temel alarak çalışan bir terminal/ssh/sftp istemcisidir (linux, mac, win)',
+    desc: 'electerm, electron/ssh2/node-pty/xterm/antd/useProxy ve birçok diğer kütüphaneyi temel alarak çalışan bir terminal/ssh/sftp istemcisidir (linux, mac, win)',
     isRunning: 'çalışıyor',
     press: 'bas',
     toShow: 'göster'

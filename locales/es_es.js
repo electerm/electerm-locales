@@ -6,7 +6,7 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'electerm es una terminal/ssh/sftp client(linux, mac, win) basada en electron/ssh2/node-pty/xterm/antd/subx y otras librerías',
+    desc: 'electerm es una terminal/ssh/sftp client(linux, mac, win) basada en electron/ssh2/node-pty/xterm/antd/useProxy y otras librerías',
     isRunning: 'está corriendo',
     press: 'presione',
     toShow: 'mostrar'
