@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'Keepalive間隔',
     editorTip: '編輯器的命令或路徑',
     cursorStyle: '光標風格',
-    confirmBeforeExit: '退出前確認'
+    confirmBeforeExit: '退出前確認',
+    initDefaultTabOnStart: '打開默認選項卡當應用啟動時'
   },
 
   // sftp

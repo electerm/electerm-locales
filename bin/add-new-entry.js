@@ -5,6 +5,8 @@
 import { resolve } from 'path'
 import { writeFileSync, readFileSync } from 'fs'
 import { translate } from './translate.js'
+
+const cwd = process.cwd()
 const {
   entry = 'app',
   name = 'test1',
@@ -55,7 +57,7 @@ async function run () {
 }
 
 function add (fileName, txt) {
-  const p = resolve(__dirname, '..', 'locales', fileName + '.js')
+  const p = resolve(cwd, 'locales', fileName + '.js')
   let str = readFileSync(p).toString()
   const reg = new RegExp(`${entry}: {([^{}]+)}`, 'm')
   const arr = str.match(reg)

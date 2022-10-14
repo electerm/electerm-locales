@@ -28,11 +28,11 @@ async function init (from, lang, reusePage) {
   })
 
   // detect the source textarea for input data (source string)
-  await page.waitFor(() => {
+  await page.evaluate(() => {
     const srcSelector = ['[aria-label="Source text"]', '#source']
     return document.querySelectorAll(srcSelector.join(', ')).length
   })
-  await page.waitFor(1000)
+  await page.waitForTimeout(1000)
   glob.browser = browser
   glob.page = page
   return glob
@@ -44,7 +44,7 @@ async function clear (page, selector) {
   }, selector)
 }
 
-exports.translate = async function ({
+export const translate = async function ({
   text, from, to, reusePage = true
 }) {
   const srcSelector = ['[aria-label="Source text"]', '#source']
@@ -53,7 +53,7 @@ exports.translate = async function ({
   } = await init(from, to, reusePage)
   const sel = srcSelector.join(', ')
   await clear(page, sel)
-  await page.waitFor(1000)
+  await page.waitForTimeout(1000)
   try {
     await page.type(srcSelector[0], text)
   } catch (e) {
@@ -61,16 +61,13 @@ exports.translate = async function ({
   }
 
   // wait for the result container available
-  await page.waitFor(() => {
-    const tarSelectror = ['[data-phrase-index] span', '.result-shield-container']
-    return document.querySelectorAll(tarSelectror.join(', ')).length
-  })
-  await page.waitFor(9000)
+  await page.waitForSelector('[lang] > span[jsname] > span[jsname]')
+  await page.waitForTimeout(10000)
 
   // get the result string (translated text)
   const translatedResult = await page.evaluate(() => {
-    const tarSelectror = ['[data-phrase-index] span', '.result-shield-container']
-    return document.querySelectorAll(tarSelectror.join(', '))[0].textContent
+    const tarSelectror = '[lang] > span[jsname] > span[jsname]'
+    return document.querySelector(tarSelectror).textContent
   })
   if (!reusePage) {
     glob.browser.close()
@@ -78,6 +75,6 @@ exports.translate = async function ({
   return translatedResult
 }
 
-exports.endTranslate = () => {
+export const endTranslate = () => {
   glob.browser.close()
 }

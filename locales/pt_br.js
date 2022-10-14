@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'Intervalo Keepalive',
     editorTip: 'comando ou caminho do editor',
     cursorStyle: 'Estilo do cursor',
-    confirmBeforeExit: 'Confirme antes da saída'
+    confirmBeforeExit: 'Confirme antes da saída',
+    initDefaultTabOnStart: 'Abra a guia padrão quando o aplicativo iniciar'
   },
 
   // sftp

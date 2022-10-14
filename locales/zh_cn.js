@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'Keepalive间隔',
     editorTip: '编辑器的命令或路径',
     cursorStyle: '光标风格',
-    confirmBeforeExit: '退出前确认'
+    confirmBeforeExit: '退出前确认',
+    initDefaultTabOnStart: '打开默认选项卡当应用启动时'
   },
 
   // sftp

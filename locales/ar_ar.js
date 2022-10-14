@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'الفاصل الزمني للحفاظ على الاتصال',
     editorTip: 'أمر أو مسار المحرر',
     cursorStyle: 'نمط المؤشر',
-    confirmBeforeExit: 'تأكيد قبل الخروج'
+    confirmBeforeExit: 'تأكيد قبل الخروج',
+    initDefaultTabOnStart: 'افتح علامة التبويب الافتراضي عندما يبدأ التطبيق'
   },
 
   // sftp

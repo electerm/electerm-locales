@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'Keepalive-Intervall(in Millisekunden)',
     editorTip: 'Editor Befehl oder Pfad',
     cursorStyle: 'Cursor-Stil',
-    confirmBeforeExit: 'Vor dem Beenden bestätigen'
+    confirmBeforeExit: 'Vor dem Beenden bestätigen',
+    initDefaultTabOnStart: 'Öffnen Sie die Standard -Registerkarte, wenn die App starten'
   },
 
   // sftp

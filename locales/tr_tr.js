@@ -182,7 +182,8 @@ const lang = {
     keepaliveIntervalDesc: 'Keepalive aralığı',
     editorTip: 'editörün komutu veya yolu',
     cursorStyle: 'imleç tarzı',
-    confirmBeforeExit: 'Çıkmadan önce onaylayın'
+    confirmBeforeExit: 'Çıkmadan önce onaylayın',
+    initDefaultTabOnStart: 'Uygulama başladığında varsayılan sekmeyi açın'
   },
 
   // sftp
