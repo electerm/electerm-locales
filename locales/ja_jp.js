@@ -74,7 +74,8 @@ const lang = {
     collapseAll: 'すべて折りたたむ',
     restoreSessions: 'セッションの復元 ',
     ignore: '無視',
-    pin: 'パネルを開いたままにする'
+    pin: 'パネルを開いたままにする',
+    keyboardShortcuts: 'キーボードショートカット'
   },
 
   // control buttons

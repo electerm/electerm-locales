@@ -74,7 +74,8 @@ const lang = {
     collapseAll: 'تصغير الكل',
     restoreSessions: 'استعادة الجلسات',
     ignore: 'تجاهل',
-    pin: 'تثبيت'
+    pin: 'تثبيت',
+    keyboardShortcuts: 'اختصارات لوحة المفاتيح'
   },
 
   // control buttons

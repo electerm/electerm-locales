@@ -74,7 +74,8 @@ const lang = {
     collapseAll: '收起所有',
     restoreSessions: '恢复会话',
     ignore: '忽视',
-    pin: '保持面板打开'
+    pin: '保持面板打开',
+    keyboardShortcuts: '键盘快捷键'
   },
 
   // control buttons

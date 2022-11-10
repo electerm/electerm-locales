@@ -1,5 +1,7 @@
-
+import { config } from 'dotenv'
 import puppeteer from 'puppeteer'
+
+config()
 
 const glob = {
   browser: null,

@@ -74,7 +74,8 @@ const lang = {
     collapseAll: 'Tümünü daralt',
     restoreSessions: 'oturumları geri yükle',
     ignore: 'aldırmamak',
-    pin: 'paneli açık tut'
+    pin: 'paneli açık tut',
+    keyboardShortcuts: 'Klavye kısayolları'
   },
 
   // control buttons

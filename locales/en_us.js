@@ -74,7 +74,8 @@ const lang = {
     collapseAll: 'Collapse all',
     restoreSessions: 'restore sessions',
     ignore: 'ignore',
-    pin: 'keep panel open'
+    pin: 'keep panel open',
+    keyboardShortcuts: 'keyboard shortcuts'
   },
 
   // control buttons

@@ -75,7 +75,8 @@ const lang = {
     collapseAll: 'Contraer todos',
     restoreSessions: 'restaurar sesiones',
     ignore: 'ignorar',
-    pin: 'mantener el panel abierto'
+    pin: 'mantener el panel abierto',
+    keyboardShortcuts: 'atajos de teclado'
   },
 
   // control buttons

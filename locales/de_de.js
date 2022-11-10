@@ -74,7 +74,8 @@ const lang = {
     collapseAll: 'Alle zuklappen',
     restoreSessions: 'Sitzungen wiederherstellen',
     ignore: 'Ignorieren',
-    pin: 'Anheften'
+    pin: 'Anheften',
+    keyboardShortcuts: 'Tastatürkürzel'
   },
 
   // control buttons
