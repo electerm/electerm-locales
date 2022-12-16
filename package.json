@@ -1,10 +1,9 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
-    "start": "npm run gulp",
     "lint": "./node_modules/.bin/standard",
     "fix": "./node_modules/.bin/standard --fix",
     "test": "node --experimental-vm-modules ./node_modules/.bin/jest",
