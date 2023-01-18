@@ -184,7 +184,8 @@ const lang = {
     editorTip: 'editörün komutu veya yolu',
     cursorStyle: 'imleç tarzı',
     confirmBeforeExit: 'Çıkmadan önce onaylayın',
-    initDefaultTabOnStart: 'Uygulama başladığında varsayılan sekmeyi açın'
+    initDefaultTabOnStart: 'Uygulama başladığında varsayılan sekmeyi açın',
+    screenReaderMode: 'Terminalde Destek Ekranı Okuyucusu'
   },
 
   // sftp

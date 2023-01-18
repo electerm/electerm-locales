@@ -184,7 +184,8 @@ const lang = {
     editorTip: 'Команда или путь редактора',
     cursorStyle: 'Стиль курсора',
     confirmBeforeExit: 'Подтвердить перед выходом',
-    initDefaultTabOnStart: 'Открыть вкладку по умолчанию при запуске приложения'
+    initDefaultTabOnStart: 'Открыть вкладку по умолчанию при запуске приложения',
+    screenReaderMode: 'Читатель экрана поддержки в терминале'
   },
 
   // sftp

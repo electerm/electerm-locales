@@ -184,7 +184,8 @@ const lang = {
     editorTip: 'comando ou caminho do editor',
     cursorStyle: 'Estilo do cursor',
     confirmBeforeExit: 'Confirme antes da saída',
-    initDefaultTabOnStart: 'Abra a guia padrão quando o aplicativo iniciar'
+    initDefaultTabOnStart: 'Abra a guia padrão quando o aplicativo iniciar',
+    screenReaderMode: 'Leitor de tela de suporte no terminal'
   },
 
   // sftp

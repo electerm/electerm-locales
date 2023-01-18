@@ -184,7 +184,8 @@ const lang = {
     editorTip: '에디터의 커맨드 및 경로',
     cursorStyle: '커서 모양',
     confirmBeforeExit: '종료하기 전에 확인',
-    initDefaultTabOnStart: '앱을 시작할 때 기본 탭 열기'
+    initDefaultTabOnStart: '앱을 시작할 때 기본 탭 열기',
+    screenReaderMode: '터미널에서 화면 리더를 지원합니다'
   },
 
   // sftp

@@ -184,7 +184,8 @@ const lang = {
     editorTip: '編輯器的命令或路徑',
     cursorStyle: '光標風格',
     confirmBeforeExit: '退出前確認',
-    initDefaultTabOnStart: '打開默認選項卡當應用啟動時'
+    initDefaultTabOnStart: '打開默認選項卡當應用啟動時',
+    screenReaderMode: '終端中支持屏幕閱讀器'
   },
 
   // sftp

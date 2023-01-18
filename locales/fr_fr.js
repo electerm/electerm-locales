@@ -184,7 +184,8 @@ const lang = {
     editorTip: 'Commande ou chemin de l\'éditeur',
     cursorStyle: 'style du curseur',
     confirmBeforeExit: 'Confirmer avant la sortie',
-    initDefaultTabOnStart: 'Ouvrez l\'onglet par défaut lorsque l\'application Démarrer'
+    initDefaultTabOnStart: 'Ouvrez l\'onglet par défaut lorsque l\'application Démarrer',
+    screenReaderMode: 'Support Screen Reader dans Terminal'
   },
 
   // sftp

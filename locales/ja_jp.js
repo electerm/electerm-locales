@@ -184,7 +184,8 @@ const lang = {
     editorTip: 'エディタのコマンドまたはパス',
     cursorStyle: 'カーソルスタイル',
     confirmBeforeExit: '終了前に確認してください',
-    initDefaultTabOnStart: 'アプリが起動するときにデフォルトのタブを開きます'
+    initDefaultTabOnStart: 'アプリが起動するときにデフォルトのタブを開きます',
+    screenReaderMode: 'ターミナルのスクリーンリーダーをサポートします'
   },
 
   // sftp
