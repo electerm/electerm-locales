@@ -135,12 +135,12 @@ const lang = {
     noNeed: 'no es necesario actualizar',
     noNeedDesc: 'estás usando la última versión',
     fail: 'falla al verificar la actualización',
-    goGetIt: 've a buscarlo!',
     newVersion: 'nueva versión encontrada',
     upgrade: 'mejorar',
     upgrading: 'mejorando',
     skipThisVersion: 'omitir esta version',
-    moreChangeLog: 'Más registro de cambios'
+    moreChangeLog: 'Más registro de cambios',
+    manuallyDownloadFrom: 'descargar manualmente desde'
   },
 
   // setting

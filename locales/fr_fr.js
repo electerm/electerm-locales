@@ -134,12 +134,12 @@ const lang = {
     noNeed: 'Aucune mise à jour disponible',
     noNeedDesc: 'Vous utilisez la dernière version disponible',
     fail: 'Erreur de vérification de mise à jour',
-    goGetIt: 'Mise à jour disponible !',
     newVersion: 'Nouvelle version disponible',
     upgrade: 'Mettre à jour',
     upgrading: 'Mise à jour en cours',
     skipThisVersion: 'Ignorer cette version',
-    moreChangeLog: 'Plus de changement de journal'
+    moreChangeLog: 'Plus de changement de journal',
+    manuallyDownloadFrom: 'Télécharger manuellement à partir de'
   },
 
   // setting

@@ -134,12 +134,12 @@ const lang = {
     noNeed: '无需升级',
     noNeedDesc: '你已经在使用最新版本',
     fail: '检查升级失败了',
-    goGetIt: '前往升级!',
     newVersion: '发现新版本',
     upgrade: '升级',
     upgrading: '升级中',
     skipThisVersion: '不再提示这个版本',
-    moreChangeLog: '更多更改日志'
+    moreChangeLog: '更多更改日志',
+    manuallyDownloadFrom: '手动下载'
   },
 
   // setting

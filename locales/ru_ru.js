@@ -134,12 +134,12 @@ const lang = {
     noNeed: 'Нет необходимости для обновления',
     noNeedDesc: 'Вы используете последнюю релизную версию',
     fail: 'Ошибка проверки обновления',
-    goGetIt: 'Установить!',
     newVersion: 'Найдена новая версия',
     upgrade: 'Обновить',
     upgrading: 'Изменения',
     skipThisVersion: 'Пропустить эту версию',
-    moreChangeLog: 'Больше изменений'
+    moreChangeLog: 'Больше изменений',
+    manuallyDownloadFrom: 'вручную скачать с'
   },
 
   // setting

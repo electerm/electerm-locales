@@ -134,12 +134,12 @@ const lang = {
     noNeed: '업데이트 할 필요 없음',
     noNeedDesc: '현재 최신 릴리스를 사용하고 있습니다.',
     fail: '업데이트 체크 실패',
-    goGetIt: '받겠습니다!',
     newVersion: '새 버전이 감지됨',
     upgrade: '업그레이드',
     upgrading: '업그레이드중',
     skipThisVersion: '이 버전 건너뛰기',
-    moreChangeLog: '더 많은 변경사항'
+    moreChangeLog: '더 많은 변경사항',
+    manuallyDownloadFrom: '수동으로 다운로드하십시오'
   },
 
   // setting

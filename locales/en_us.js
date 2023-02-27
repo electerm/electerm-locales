@@ -134,12 +134,12 @@ const lang = {
     noNeed: 'no need to update',
     noNeedDesc: 'you are using the latest release',
     fail: 'check update fails',
-    goGetIt: 'go get it!',
     newVersion: 'new version found',
     upgrade: 'upgrade',
     upgrading: 'upgrading',
     skipThisVersion: 'skip this version',
-    moreChangeLog: 'more change log'
+    moreChangeLog: 'more change log',
+    manuallyDownloadFrom: 'manually download from'
   },
 
   // setting

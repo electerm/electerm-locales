@@ -134,12 +134,12 @@ const lang = {
     noNeed: 'güncelleme ihtiyacı bulunmuyor',
     noNeedDesc: 'en güncel sürümü kullanıyorsunuz',
     fail: 'güncelleme sorgulaması başarısız oldu',
-    goGetIt: 'indir',
     newVersion: 'güncel sürüm bulundu',
     upgrade: 'yükselt!',
     upgrading: 'yükseltiliyor',
     skipThisVersion: 'bu sürümü atla',
-    moreChangeLog: 'Daha Fazla Değişiklik Günlüğü'
+    moreChangeLog: 'Daha Fazla Değişiklik Günlüğü',
+    manuallyDownloadFrom: 'Manuel olarak indir'
   },
 
   // setting
