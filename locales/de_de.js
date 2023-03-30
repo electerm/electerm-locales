@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'Sitzungen wiederherstellen',
     ignore: 'Ignorieren',
     pin: 'Anheften',
-    keyboardShortcuts: 'Tastatürkürzel'
+    keyboardShortcuts: 'Tastatürkürzel',
+    delSelected: 'ausgewählte löschen'
   },
 
   // control buttons

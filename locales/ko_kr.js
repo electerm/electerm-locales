@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: '세션 복원',
     ignore: '무시',
     pin: '패널 열기 유지',
-    keyboardShortcuts: '키보드 단축키'
+    keyboardShortcuts: '키보드 단축키',
+    delSelected: '선택된 것을 지워 라'
   },
 
   // control buttons

@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'oturumları geri yükle',
     ignore: 'aldırmamak',
     pin: 'paneli açık tut',
-    keyboardShortcuts: 'Klavye kısayolları'
+    keyboardShortcuts: 'Klavye kısayolları',
+    delSelected: 'silme seçildi'
   },
 
   // control buttons

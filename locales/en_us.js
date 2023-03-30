@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'restore sessions',
     ignore: 'ignore',
     pin: 'keep panel open',
-    keyboardShortcuts: 'keyboard shortcuts'
+    keyboardShortcuts: 'keyboard shortcuts',
+    delSelected: 'delete selected'
   },
 
   // control buttons

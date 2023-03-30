@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'セッションの復元 ',
     ignore: '無視',
     pin: 'パネルを開いたままにする',
-    keyboardShortcuts: 'キーボードショートカット'
+    keyboardShortcuts: 'キーボードショートカット',
+    delSelected: '選択を削除します'
   },
 
   // control buttons

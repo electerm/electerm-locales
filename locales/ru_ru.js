@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'Восстановить сеансы',
     ignore: 'Игнорировать',
     pin: 'Оставить панель открытой',
-    keyboardShortcuts: 'Горячие клавиши'
+    keyboardShortcuts: 'Горячие клавиши',
+    delSelected: 'удалить выбранное'
   },
 
   // control buttons

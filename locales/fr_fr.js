@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'restaurer des sessions',
     ignore: 'ignorer',
     pin: 'garder le panneau ouvert',
-    keyboardShortcuts: 'Raccourcis clavier'
+    keyboardShortcuts: 'Raccourcis clavier',
+    delSelected: 'supprimer sélectionnée'
   },
 
   // control buttons

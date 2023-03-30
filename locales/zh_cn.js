@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: '恢复会话',
     ignore: '忽视',
     pin: '保持面板打开',
-    keyboardShortcuts: '键盘快捷键'
+    keyboardShortcuts: '键盘快捷键',
+    delSelected: '删除所选'
   },
 
   // control buttons

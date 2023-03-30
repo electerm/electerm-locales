@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: 'استعادة الجلسات',
     ignore: 'تجاهل',
     pin: 'تثبيت',
-    keyboardShortcuts: 'اختصارات لوحة المفاتيح'
+    keyboardShortcuts: 'اختصارات لوحة المفاتيح',
+    delSelected: 'احذف المختار'
   },
 
   // control buttons

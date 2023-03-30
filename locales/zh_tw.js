@@ -75,7 +75,8 @@ const lang = {
     restoreSessions: '回復連線',
     ignore: '忽視',
     pin: '保持面板打開',
-    keyboardShortcuts: '鍵盤快捷鍵'
+    keyboardShortcuts: '鍵盤快捷鍵',
+    delSelected: '刪除所選'
   },
 
   // control buttons
