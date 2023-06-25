@@ -76,7 +76,8 @@ const lang = {
     ignore: 'ignorer',
     pin: 'garder le panneau ouvert',
     keyboardShortcuts: 'Raccourcis clavier',
-    delSelected: 'supprimer sélectionnée'
+    delSelected: 'supprimer sélectionnée',
+    turnOff: 'éteindre'
   },
 
   // control buttons

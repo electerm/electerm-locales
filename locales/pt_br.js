@@ -76,7 +76,8 @@ const lang = {
     ignore: 'ignorar',
     pin: 'mantenha o painel aberto',
     keyboardShortcuts: 'atalhos do teclado',
-    delSelected: 'Exclua selecionado'
+    delSelected: 'Exclua selecionado',
+    turnOff: 'desligar'
   },
 
   // control buttons

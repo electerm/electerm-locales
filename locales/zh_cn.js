@@ -76,7 +76,8 @@ const lang = {
     ignore: '忽视',
     pin: '保持面板打开',
     keyboardShortcuts: '键盘快捷键',
-    delSelected: '删除所选'
+    delSelected: '删除所选',
+    turnOff: '关闭'
   },
 
   // control buttons

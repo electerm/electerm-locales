@@ -76,7 +76,8 @@ const lang = {
     ignore: 'Игнорировать',
     pin: 'Оставить панель открытой',
     keyboardShortcuts: 'Горячие клавиши',
-    delSelected: 'удалить выбранное'
+    delSelected: 'удалить выбранное',
+    turnOff: 'выключать'
   },
 
   // control buttons

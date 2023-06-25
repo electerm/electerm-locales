@@ -76,7 +76,8 @@ const lang = {
     ignore: 'Ignorieren',
     pin: 'Anheften',
     keyboardShortcuts: 'Tastatürkürzel',
-    delSelected: 'ausgewählte löschen'
+    delSelected: 'ausgewählte löschen',
+    turnOff: 'abschalten'
   },
 
   // control buttons
