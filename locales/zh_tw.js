@@ -311,7 +311,8 @@ const lang = {
     matchCase: '區分大小寫',
     matchWholeWord: '匹配整個單詞',
     useRegExp: '使用正則表達式',
-    socketCloseTip: '終端連接丟失'
+    socketCloseTip: '終端連接丟失',
+    sshTunnel: 'SSH隧道'
   },
 
   // terminal themes

@@ -311,7 +311,8 @@ const lang = {
     matchCase: 'maiúsculas e minúsculas',
     matchWholeWord: 'Combine a palavra inteira',
     useRegExp: 'Use expressão regular',
-    socketCloseTip: 'conexão terminal perdida'
+    socketCloseTip: 'conexão terminal perdida',
+    sshTunnel: 'Túnel SSH'
   },
 
   // terminal themes

@@ -28,13 +28,16 @@ async function init (from, lang, reusePage) {
   await page.goto(`https://translate.google.com/?sl=${from}&tl=${lang}&text=d&op=translate`, {
     waitUntil: 'load', timeout: 0
   })
-
+  await page.evaluate(_ => {
+    const xcc = document.querySelector('button[aria-label="Accept all"]')
+    if (xcc) { xcc.click() }
+  })
   // detect the source textarea for input data (source string)
   await page.evaluate(() => {
     const srcSelector = ['[aria-label="Source text"]', '#source']
     return document.querySelectorAll(srcSelector.join(', ')).length
   })
-  await page.waitForTimeout(1000)
+  await page.waitForTimeout(10000)
   glob.browser = browser
   glob.page = page
   return glob

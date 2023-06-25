@@ -311,7 +311,8 @@ const lang = {
     matchCase: '대/소문자 구분',
     matchWholeWord: '모든 단어 일치',
     useRegExp: '정규표현식 사용',
-    socketCloseTip: '터미널 연결 끊김'
+    socketCloseTip: '터미널 연결 끊김',
+    sshTunnel: 'SSH 터널'
   },
 
   // terminal themes

@@ -311,7 +311,8 @@ const lang = {
     matchCase: 'С учетом регистра',
     matchWholeWord: 'Целое слово',
     useRegExp: 'Регулярное выражение',
-    socketCloseTip: 'Соединение потеряно'
+    socketCloseTip: 'Соединение потеряно',
+    sshTunnel: 'SSH Туннель'
   },
 
   // terminal themes

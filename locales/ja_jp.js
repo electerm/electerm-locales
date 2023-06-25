@@ -311,7 +311,8 @@ const lang = {
     matchCase: '大文字と小文字を区別',
     matchWholeWord: '単語全体に一致します',
     useRegExp: '正規表現を使用します',
-    socketCloseTip: 'ターミナル接続が失われました'
+    socketCloseTip: 'ターミナル接続が失われました',
+    sshTunnel: 'SSHトンネル'
   },
 
   // terminal themes

@@ -311,7 +311,8 @@ const lang = {
     matchCase: 'harfe duyarlı',
     matchWholeWord: 'Tüm kelimeyi eşleştir',
     useRegExp: 'Normal ifade kullanın',
-    socketCloseTip: 'Terminal Bağlantısı Kayıp'
+    socketCloseTip: 'Terminal Bağlantısı Kayıp',
+    sshTunnel: 'ssh tüneli'
   },
 
   // terminal themes

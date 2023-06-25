@@ -311,7 +311,8 @@ const lang = {
     matchCase: '区分大小写',
     matchWholeWord: '匹配整个单词',
     useRegExp: '使用正则表达式',
-    socketCloseTip: '终端连接丢失'
+    socketCloseTip: '终端连接丢失',
+    sshTunnel: 'SSH隧道'
   },
 
   // terminal themes

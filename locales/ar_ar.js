@@ -311,7 +311,8 @@ const lang = {
     matchCase: 'حساسية الموضوع',
     matchWholeWord: 'تطابق الكلمة بالكامل',
     useRegExp: 'استخدم التعبير العادي',
-    socketCloseTip: 'اتصال الطرفي فقد'
+    socketCloseTip: 'اتصال الطرفي فقد',
+    sshTunnel: 'نفق SSH'
   },
 
   // terminal themes
