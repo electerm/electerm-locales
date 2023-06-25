@@ -312,7 +312,11 @@ const lang = {
     matchWholeWord: 'تطابق الكلمة بالكامل',
     useRegExp: 'استخدم التعبير العادي',
     socketCloseTip: 'اتصال الطرفي فقد',
-    sshTunnel: 'نفق SSH'
+    sshTunnel: 'نفق SSH',
+    remotePort: 'المنفذ البعيد',
+    localPort: 'ميناء محلي',
+    localToRemote: 'توجيه الاتصال المحلي إلى الخادم البعيد',
+    remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي'
   },
 
   // terminal themes

@@ -312,7 +312,11 @@ const lang = {
     matchWholeWord: '匹配整个单词',
     useRegExp: '使用正则表达式',
     socketCloseTip: '终端连接丢失',
-    sshTunnel: 'SSH隧道'
+    sshTunnel: 'SSH隧道',
+    remotePort: '远程端口',
+    localPort: '本地端口',
+    localToRemote: '将本地连接转发到远程服务器',
+    remoteToLocal: '转发远程连接到本地服务器'
   },
 
   // terminal themes

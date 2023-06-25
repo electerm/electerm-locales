@@ -312,7 +312,11 @@ const lang = {
     matchWholeWord: 'Целое слово',
     useRegExp: 'Регулярное выражение',
     socketCloseTip: 'Соединение потеряно',
-    sshTunnel: 'SSH Туннель'
+    sshTunnel: 'SSH Туннель',
+    remotePort: 'отдаленный порт',
+    localPort: 'местный порт',
+    localToRemote: 'Перемесить локальное соединение на удаленный сервер',
+    remoteToLocal: 'Перемесить удаленное соединение с локальным сервером'
   },
 
   // terminal themes

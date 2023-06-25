@@ -313,7 +313,11 @@ const lang = {
     matchWholeWord: 'compare la palabra completa',
     useRegExp: 'Use expresión regular',
     socketCloseTip: 'Conexión terminal perdida',
-    sshTunnel: 'túnel ssh'
+    sshTunnel: 'túnel ssh',
+    remotePort: 'Puerto remoto',
+    localPort: 'puerto local',
+    localToRemote: 'Reenviar la conexión local al servidor remoto',
+    remoteToLocal: 'Reenviar conexión remota al servidor local'
   },
 
   // terminal themes

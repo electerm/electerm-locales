@@ -312,7 +312,11 @@ const lang = {
     matchWholeWord: '単語全体に一致します',
     useRegExp: '正規表現を使用します',
     socketCloseTip: 'ターミナル接続が失われました',
-    sshTunnel: 'SSHトンネル'
+    sshTunnel: 'SSHトンネル',
+    remotePort: 'リモートポート',
+    localPort: 'ローカルポート',
+    localToRemote: 'リモートサーバーへのローカル接続を転送します',
+    remoteToLocal: 'ローカルサーバーへのリモート接続を転送します'
   },
 
   // terminal themes

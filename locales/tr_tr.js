@@ -312,7 +312,11 @@ const lang = {
     matchWholeWord: 'Tüm kelimeyi eşleştir',
     useRegExp: 'Normal ifade kullanın',
     socketCloseTip: 'Terminal Bağlantısı Kayıp',
-    sshTunnel: 'ssh tüneli'
+    sshTunnel: 'ssh tüneli',
+    remotePort: 'uzak liman',
+    localPort: 'yerel liman',
+    localToRemote: 'Yerel bağlantıyı uzak sunucuya iletin',
+    remoteToLocal: 'Yerel Sunucuya Uzaktan Bağlantı İleri Bağlantısı'
   },
 
   // terminal themes
