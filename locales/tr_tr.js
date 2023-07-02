@@ -80,7 +80,9 @@ const lang = {
     turnOff: 'kapamak',
     tasks: 'görevler',
     batchOperation: 'toplu işlem',
-    examples: 'örnekler'
+    examples: 'örnekler',
+    importFromCSV: 'CSV dosyasından içe aktarın',
+    addToQueue: 'Sıraya ekle'
   },
 
   // control buttons

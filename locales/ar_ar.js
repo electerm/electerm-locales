@@ -80,7 +80,9 @@ const lang = {
     turnOff: 'أطفأ',
     tasks: 'مهام',
     batchOperation: 'عملية دفعة',
-    examples: 'أمثلة'
+    examples: 'أمثلة',
+    importFromCSV: 'استيراد من ملف CSV',
+    addToQueue: 'إضافة إلى قائمة الانتظار'
   },
 
   // control buttons

@@ -80,7 +80,9 @@ const lang = {
     turnOff: '消す',
     tasks: 'タスク',
     batchOperation: 'バッチ操作',
-    examples: '例'
+    examples: '例',
+    importFromCSV: 'CSVファイルからのインポート',
+    addToQueue: 'キューに追加する'
   },
 
   // control buttons

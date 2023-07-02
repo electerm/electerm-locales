@@ -81,7 +81,9 @@ const lang = {
     turnOff: 'apagar',
     tasks: 'tareas',
     batchOperation: 'operación por lotes',
-    examples: 'ejemplos'
+    examples: 'ejemplos',
+    importFromCSV: 'Importar desde el archivo CSV',
+    addToQueue: 'añadir a la cola'
   },
 
   // control buttons

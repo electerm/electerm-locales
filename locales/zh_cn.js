@@ -80,7 +80,9 @@ const lang = {
     turnOff: '关闭',
     tasks: '任务',
     batchOperation: '批处理操作',
-    examples: '例子'
+    examples: '例子',
+    importFromCSV: '从CSV文件中导入',
+    addToQueue: '添加到队列'
   },
 
   // control buttons

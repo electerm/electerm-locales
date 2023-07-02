@@ -80,7 +80,9 @@ const lang = {
     turnOff: 'выключать',
     tasks: 'задания',
     batchOperation: 'пакетная операция',
-    examples: 'Примеры'
+    examples: 'Примеры',
+    importFromCSV: 'импорт из файла CSV',
+    addToQueue: 'добавить в очередь'
   },
 
   // control buttons

@@ -80,7 +80,9 @@ const lang = {
     turnOff: '끄다',
     tasks: '작업',
     batchOperation: '배치 작동',
-    examples: '예'
+    examples: '예',
+    importFromCSV: 'CSV 파일에서 가져옵니다',
+    addToQueue: '목록에 추가해'
   },
 
   // control buttons
