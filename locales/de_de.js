@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: 'Tastatürkürzel',
     delSelected: 'ausgewählte löschen',
     turnOff: 'abschalten',
-    tasks: 'Aufgaben'
+    tasks: 'Aufgaben',
+    batchOperation: 'Batch -Betrieb'
   },
 
   // control buttons

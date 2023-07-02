@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: 'Klavye kısayolları',
     delSelected: 'silme seçildi',
     turnOff: 'kapamak',
-    tasks: 'görevler'
+    tasks: 'görevler',
+    batchOperation: 'toplu işlem'
   },
 
   // control buttons

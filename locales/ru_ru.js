@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: 'Горячие клавиши',
     delSelected: 'удалить выбранное',
     turnOff: 'выключать',
-    tasks: 'задания'
+    tasks: 'задания',
+    batchOperation: 'пакетная операция'
   },
 
   // control buttons

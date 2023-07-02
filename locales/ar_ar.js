@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: 'اختصارات لوحة المفاتيح',
     delSelected: 'احذف المختار',
     turnOff: 'أطفأ',
-    tasks: 'مهام'
+    tasks: 'مهام',
+    batchOperation: 'عملية دفعة'
   },
 
   // control buttons

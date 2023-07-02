@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: 'キーボードショートカット',
     delSelected: '選択を削除します',
     turnOff: '消す',
-    tasks: 'タスク'
+    tasks: 'タスク',
+    batchOperation: 'バッチ操作'
   },
 
   // control buttons

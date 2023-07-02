@@ -79,7 +79,8 @@ const lang = {
     keyboardShortcuts: 'atajos de teclado',
     delSelected: 'eliminar seleccionado',
     turnOff: 'apagar',
-    tasks: 'tareas'
+    tasks: 'tareas',
+    batchOperation: 'operación por lotes'
   },
 
   // control buttons

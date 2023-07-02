@@ -78,7 +78,8 @@ const lang = {
     keyboardShortcuts: '鍵盤快捷鍵',
     delSelected: '刪除所選',
     turnOff: '關',
-    tasks: '任務'
+    tasks: '任務',
+    batchOperation: '批處理操作'
   },
 
   // control buttons
