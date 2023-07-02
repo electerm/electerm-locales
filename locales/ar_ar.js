@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'عملية دفعة',
     examples: 'أمثلة',
     importFromCSV: 'استيراد من ملف CSV',
-    addToQueue: 'إضافة إلى قائمة الانتظار'
+    addToQueue: 'إضافة إلى قائمة الانتظار',
+    execute: 'ينفذ'
   },
 
   // control buttons

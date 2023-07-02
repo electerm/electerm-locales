@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'Batch -Betrieb',
     examples: 'Beispiele',
     importFromCSV: 'aus der CSV -Datei importieren',
-    addToQueue: 'zur Warteschlange hinzufügen'
+    addToQueue: 'zur Warteschlange hinzufügen',
+    execute: 'ausführen'
   },
 
   // control buttons

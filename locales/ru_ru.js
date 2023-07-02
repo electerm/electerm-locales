@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'пакетная операция',
     examples: 'Примеры',
     importFromCSV: 'импорт из файла CSV',
-    addToQueue: 'добавить в очередь'
+    addToQueue: 'добавить в очередь',
+    execute: 'выполнять'
   },
 
   // control buttons

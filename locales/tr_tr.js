@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'toplu işlem',
     examples: 'örnekler',
     importFromCSV: 'CSV dosyasından içe aktarın',
-    addToQueue: 'Sıraya ekle'
+    addToQueue: 'Sıraya ekle',
+    execute: 'uygulamak'
   },
 
   // control buttons

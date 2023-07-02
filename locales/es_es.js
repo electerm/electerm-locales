@@ -83,7 +83,8 @@ const lang = {
     batchOperation: 'operación por lotes',
     examples: 'ejemplos',
     importFromCSV: 'Importar desde el archivo CSV',
-    addToQueue: 'añadir a la cola'
+    addToQueue: 'añadir a la cola',
+    execute: 'ejecutar'
   },
 
   // control buttons

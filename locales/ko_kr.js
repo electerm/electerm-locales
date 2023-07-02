@@ -82,7 +82,8 @@ const lang = {
     batchOperation: '배치 작동',
     examples: '예',
     importFromCSV: 'CSV 파일에서 가져옵니다',
-    addToQueue: '목록에 추가해'
+    addToQueue: '목록에 추가해',
+    execute: '실행하다'
   },
 
   // control buttons

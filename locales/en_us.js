@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'batch operation',
     examples: 'examples',
     importFromCSV: 'import from CSV file',
-    addToQueue: 'add to queue'
+    addToQueue: 'add to queue',
+    execute: 'execute'
   },
 
   // control buttons

@@ -82,7 +82,8 @@ const lang = {
     batchOperation: 'バッチ操作',
     examples: '例',
     importFromCSV: 'CSVファイルからのインポート',
-    addToQueue: 'キューに追加する'
+    addToQueue: 'キューに追加する',
+    execute: '実行する'
   },
 
   // control buttons
