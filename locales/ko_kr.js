@@ -77,7 +77,8 @@ const lang = {
     pin: '패널 열기 유지',
     keyboardShortcuts: '키보드 단축키',
     delSelected: '선택된 것을 지워 라',
-    turnOff: '끄다'
+    turnOff: '끄다',
+    tasks: '작업'
   },
 
   // control buttons

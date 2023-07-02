@@ -77,7 +77,8 @@ const lang = {
     pin: 'تثبيت',
     keyboardShortcuts: 'اختصارات لوحة المفاتيح',
     delSelected: 'احذف المختار',
-    turnOff: 'أطفأ'
+    turnOff: 'أطفأ',
+    tasks: 'مهام'
   },
 
   // control buttons

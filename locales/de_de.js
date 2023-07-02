@@ -77,7 +77,8 @@ const lang = {
     pin: 'Anheften',
     keyboardShortcuts: 'Tastatürkürzel',
     delSelected: 'ausgewählte löschen',
-    turnOff: 'abschalten'
+    turnOff: 'abschalten',
+    tasks: 'Aufgaben'
   },
 
   // control buttons

@@ -77,7 +77,8 @@ const lang = {
     pin: 'paneli açık tut',
     keyboardShortcuts: 'Klavye kısayolları',
     delSelected: 'silme seçildi',
-    turnOff: 'kapamak'
+    turnOff: 'kapamak',
+    tasks: 'görevler'
   },
 
   // control buttons

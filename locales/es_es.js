@@ -78,7 +78,8 @@ const lang = {
     pin: 'mantener el panel abierto',
     keyboardShortcuts: 'atajos de teclado',
     delSelected: 'eliminar seleccionado',
-    turnOff: 'apagar'
+    turnOff: 'apagar',
+    tasks: 'tareas'
   },
 
   // control buttons

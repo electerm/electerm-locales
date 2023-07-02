@@ -77,7 +77,8 @@ const lang = {
     pin: 'keep panel open',
     keyboardShortcuts: 'keyboard shortcuts',
     delSelected: 'delete selected',
-    turnOff: 'turn off'
+    turnOff: 'turn off',
+    tasks: 'tasks'
   },
 
   // control buttons

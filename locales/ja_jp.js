@@ -77,7 +77,8 @@ const lang = {
     pin: 'パネルを開いたままにする',
     keyboardShortcuts: 'キーボードショートカット',
     delSelected: '選択を削除します',
-    turnOff: '消す'
+    turnOff: '消す',
+    tasks: 'タスク'
   },
 
   // control buttons

@@ -77,7 +77,8 @@ const lang = {
     pin: 'Оставить панель открытой',
     keyboardShortcuts: 'Горячие клавиши',
     delSelected: 'удалить выбранное',
-    turnOff: 'выключать'
+    turnOff: 'выключать',
+    tasks: 'задания'
   },
 
   // control buttons

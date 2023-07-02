@@ -77,7 +77,8 @@ const lang = {
     pin: '保持面板打開',
     keyboardShortcuts: '鍵盤快捷鍵',
     delSelected: '刪除所選',
-    turnOff: '關'
+    turnOff: '關',
+    tasks: '任務'
   },
 
   // control buttons
