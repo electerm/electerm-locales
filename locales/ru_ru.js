@@ -79,7 +79,8 @@ const lang = {
     delSelected: 'удалить выбранное',
     turnOff: 'выключать',
     tasks: 'задания',
-    batchOperation: 'пакетная операция'
+    batchOperation: 'пакетная операция',
+    examples: 'Примеры'
   },
 
   // control buttons

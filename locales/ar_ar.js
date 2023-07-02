@@ -79,7 +79,8 @@ const lang = {
     delSelected: 'احذف المختار',
     turnOff: 'أطفأ',
     tasks: 'مهام',
-    batchOperation: 'عملية دفعة'
+    batchOperation: 'عملية دفعة',
+    examples: 'أمثلة'
   },
 
   // control buttons

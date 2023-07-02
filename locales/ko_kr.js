@@ -79,7 +79,8 @@ const lang = {
     delSelected: '선택된 것을 지워 라',
     turnOff: '끄다',
     tasks: '작업',
-    batchOperation: '배치 작동'
+    batchOperation: '배치 작동',
+    examples: '예'
   },
 
   // control buttons

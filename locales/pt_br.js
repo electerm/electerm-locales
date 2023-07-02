@@ -79,7 +79,8 @@ const lang = {
     delSelected: 'Exclua selecionado',
     turnOff: 'desligar',
     tasks: 'tarefas',
-    batchOperation: 'operação em lote'
+    batchOperation: 'operação em lote',
+    examples: 'exemplos'
   },
 
   // control buttons

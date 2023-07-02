@@ -79,7 +79,8 @@ const lang = {
     delSelected: 'ausgewählte löschen',
     turnOff: 'abschalten',
     tasks: 'Aufgaben',
-    batchOperation: 'Batch -Betrieb'
+    batchOperation: 'Batch -Betrieb',
+    examples: 'Beispiele'
   },
 
   // control buttons

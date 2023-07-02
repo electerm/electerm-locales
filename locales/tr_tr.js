@@ -79,7 +79,8 @@ const lang = {
     delSelected: 'silme seçildi',
     turnOff: 'kapamak',
     tasks: 'görevler',
-    batchOperation: 'toplu işlem'
+    batchOperation: 'toplu işlem',
+    examples: 'örnekler'
   },
 
   // control buttons

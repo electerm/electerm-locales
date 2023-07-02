@@ -79,7 +79,8 @@ const lang = {
     delSelected: '刪除所選',
     turnOff: '關',
     tasks: '任務',
-    batchOperation: '批處理操作'
+    batchOperation: '批處理操作',
+    examples: '例子'
   },
 
   // control buttons

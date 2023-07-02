@@ -80,7 +80,8 @@ const lang = {
     delSelected: 'eliminar seleccionado',
     turnOff: 'apagar',
     tasks: 'tareas',
-    batchOperation: 'operación por lotes'
+    batchOperation: 'operación por lotes',
+    examples: 'ejemplos'
   },
 
   // control buttons

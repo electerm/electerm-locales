@@ -79,7 +79,8 @@ const lang = {
     delSelected: '選択を削除します',
     turnOff: '消す',
     tasks: 'タスク',
-    batchOperation: 'バッチ操作'
+    batchOperation: 'バッチ操作',
+    examples: '例'
   },
 
   // control buttons
