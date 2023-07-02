@@ -83,7 +83,8 @@ const lang = {
     examples: '例',
     importFromCSV: 'CSVファイルからのインポート',
     addToQueue: 'キューに追加する',
-    execute: '実行する'
+    execute: '実行する',
+    finished: '終了した'
   },
 
   // control buttons

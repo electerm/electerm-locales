@@ -83,7 +83,8 @@ const lang = {
     examples: 'Примеры',
     importFromCSV: 'импорт из файла CSV',
     addToQueue: 'добавить в очередь',
-    execute: 'выполнять'
+    execute: 'выполнять',
+    finished: 'законченный'
   },
 
   // control buttons

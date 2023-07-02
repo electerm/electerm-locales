@@ -83,7 +83,8 @@ const lang = {
     examples: 'örnekler',
     importFromCSV: 'CSV dosyasından içe aktarın',
     addToQueue: 'Sıraya ekle',
-    execute: 'uygulamak'
+    execute: 'uygulamak',
+    finished: 'bitmiş'
   },
 
   // control buttons

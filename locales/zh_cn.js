@@ -83,7 +83,8 @@ const lang = {
     examples: '例子',
     importFromCSV: '从CSV文件中导入',
     addToQueue: '添加到队列',
-    execute: '执行'
+    execute: '执行',
+    finished: '完成的'
   },
 
   // control buttons
