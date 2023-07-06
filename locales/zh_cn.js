@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: '检查更新',
     reportIssue: '报告问题',
     homepage: '官网',
-    sencondInstanceTip: '只能在主窗口中执行此操作'
+    sencondInstanceTip: '只能在主窗口中执行此操作',
+    copyFilePath: '复制文件路径'
   },
 
   // common

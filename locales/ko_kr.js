@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: '업데이트 확인',
     reportIssue: '문제 보고',
     homepage: '홈페이지',
-    sencondInstanceTip: '메인 창에서만 실행할 수 있습니다.'
+    sencondInstanceTip: '메인 창에서만 실행할 수 있습니다.',
+    copyFilePath: '파일 경로를 복사하십시오'
   },
 
   // common

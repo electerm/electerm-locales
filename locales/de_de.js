@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: 'Aktualisierung prüfen',
     reportIssue: 'Fehler melden',
     homepage: 'Homepage',
-    sencondInstanceTip: 'Dies ist nur im Haupt-Fenster möglich'
+    sencondInstanceTip: 'Dies ist nur im Haupt-Fenster möglich',
+    copyFilePath: 'Dateipfad kopieren'
   },
 
   // common

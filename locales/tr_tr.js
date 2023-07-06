@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: 'güncellemeleri denetle',
     reportIssue: 'sorun bildir',
     homepage: 'anasayfa',
-    sencondInstanceTip: 'bunu sadece ana pencerede yapabilir'
+    sencondInstanceTip: 'bunu sadece ana pencerede yapabilir',
+    copyFilePath: 'Dosya Yolunu Kopyala'
   },
 
   // common

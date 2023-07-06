@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: 'Проверить наличие обновлений',
     reportIssue: 'Сообщить о проблеме',
     homepage: 'Домашняя страница',
-    sencondInstanceTip: 'можно сделать только в главном окне'
+    sencondInstanceTip: 'можно сделать только в главном окне',
+    copyFilePath: 'Копировать путь файла'
   },
 
   // common

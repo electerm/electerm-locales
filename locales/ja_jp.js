@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: '更新を確認',
     reportIssue: '問題を報告',
     homepage: 'ホームページ',
-    sencondInstanceTip: 'これをメインウィンドウで行うことができます'
+    sencondInstanceTip: 'これをメインウィンドウで行うことができます',
+    copyFilePath: 'ファイルパスをコピーします'
   },
 
   // common

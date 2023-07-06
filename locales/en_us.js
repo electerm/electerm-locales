@@ -58,7 +58,8 @@ const lang = {
     checkUpdate: 'check update',
     reportIssue: 'report issue',
     homepage: 'homepage',
-    sencondInstanceTip: 'can only do this in main window'
+    sencondInstanceTip: 'can only do this in main window',
+    copyFilePath: 'copy file path'
   },
 
   // common
