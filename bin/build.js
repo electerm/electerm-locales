@@ -16,13 +16,17 @@ async function run () {
   rm('-rf', dist)
   mkdir(dist)
   const list = fs.readdirSync(p)
-  const prefix = 'module.exports='
+  const prefix = 'module.exports=exports.default='
+  const arr = []
   for (const f of list) {
     const pp = resolve(p, f)
+    arr.push(f)
     const js = await import(pp)
     const tt = resolve(dist, f)
     fs.writeFileSync(tt, prefix + json5.stringify(js.default))
   }
+  const ap = resolve(dist, 'list.json')
+  fs.writeFileSync(ap, JSON.stringify(arr))
 }
 
 run()
