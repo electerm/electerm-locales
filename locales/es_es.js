@@ -196,7 +196,9 @@ const lang = {
     cursorStyle: 'Estilo del cursor',
     confirmBeforeExit: 'confirmar antes de salir',
     initDefaultTabOnStart: 'Abra la pestaña predeterminada cuando se inicie la aplicación',
-    screenReaderMode: 'Lector de pantalla de soporte en terminal'
+    screenReaderMode: 'Lector de pantalla de soporte en terminal',
+    makeItPortable: 'Hazlo portátil',
+    dataTransferedTo: 'datos transferidos a'
   },
 
   // sftp

@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'imleç tarzı',
     confirmBeforeExit: 'Çıkmadan önce onaylayın',
     initDefaultTabOnStart: 'Uygulama başladığında varsayılan sekmeyi açın',
-    screenReaderMode: 'Terminalde Destek Ekranı Okuyucusu'
+    screenReaderMode: 'Terminalde Destek Ekranı Okuyucusu',
+    makeItPortable: 'Taşınabilir Yapın',
+    dataTransferedTo: 'aktarılan veri'
   },
 
   // sftp

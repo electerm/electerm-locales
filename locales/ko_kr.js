@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: '커서 모양',
     confirmBeforeExit: '종료하기 전에 확인',
     initDefaultTabOnStart: '앱을 시작할 때 기본 탭 열기',
-    screenReaderMode: '터미널에서 화면 리더를 지원합니다'
+    screenReaderMode: '터미널에서 화면 리더를 지원합니다',
+    makeItPortable: '휴대용으로 만드십시오',
+    dataTransferedTo: '전송 된 데이터'
   },
 
   // sftp

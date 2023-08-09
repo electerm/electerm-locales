@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'نمط المؤشر',
     confirmBeforeExit: 'تأكيد قبل الخروج',
     initDefaultTabOnStart: 'افتح علامة التبويب الافتراضي عندما يبدأ التطبيق',
-    screenReaderMode: 'دعم قارئ الشاشة في المحطة'
+    screenReaderMode: 'دعم قارئ الشاشة في المحطة',
+    makeItPortable: 'اجعله محمولًا',
+    dataTransferedTo: 'نقل البيانات إلى'
   },
 
   // sftp

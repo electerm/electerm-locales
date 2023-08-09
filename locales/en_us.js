@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'cursor style',
     confirmBeforeExit: 'confirm before exit',
     initDefaultTabOnStart: 'open default tab when app start',
-    screenReaderMode: 'support screen reader in terminal'
+    screenReaderMode: 'support screen reader in terminal',
+    makeItPortable: 'make it portable',
+    dataTransferedTo: 'data transfered to'
   },
 
   // sftp

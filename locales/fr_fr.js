@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'style du curseur',
     confirmBeforeExit: 'Confirmer avant la sortie',
     initDefaultTabOnStart: 'Ouvrez l\'onglet par défaut lorsque l\'application Démarrer',
-    screenReaderMode: 'Support Screen Reader dans Terminal'
+    screenReaderMode: 'Support Screen Reader dans Terminal',
+    makeItPortable: 'rendre le portable',
+    dataTransferedTo: 'données transférées à'
   },
 
   // sftp

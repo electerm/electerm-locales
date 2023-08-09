@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'Стиль курсора',
     confirmBeforeExit: 'Подтвердить перед выходом',
     initDefaultTabOnStart: 'Открыть вкладку по умолчанию при запуске приложения',
-    screenReaderMode: 'Читатель экрана поддержки в терминале'
+    screenReaderMode: 'Читатель экрана поддержки в терминале',
+    makeItPortable: 'сделать это портативным',
+    dataTransferedTo: 'Данные переданы в'
   },
 
   // sftp

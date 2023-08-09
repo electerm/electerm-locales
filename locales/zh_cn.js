@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: '光标风格',
     confirmBeforeExit: '退出前确认',
     initDefaultTabOnStart: '打开默认选项卡当应用启动时',
-    screenReaderMode: '终端中支持屏幕阅读器'
+    screenReaderMode: '终端中支持屏幕阅读器',
+    makeItPortable: '使其便携',
+    dataTransferedTo: '数据传输到'
   },
 
   // sftp

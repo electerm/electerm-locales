@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'カーソルスタイル',
     confirmBeforeExit: '終了前に確認してください',
     initDefaultTabOnStart: 'アプリが起動するときにデフォルトのタブを開きます',
-    screenReaderMode: 'ターミナルのスクリーンリーダーをサポートします'
+    screenReaderMode: 'ターミナルのスクリーンリーダーをサポートします',
+    makeItPortable: 'ポータブルにします',
+    dataTransferedTo: 'に転送されたデータ'
   },
 
   // sftp

@@ -195,7 +195,9 @@ const lang = {
     cursorStyle: 'Cursor-Stil',
     confirmBeforeExit: 'Vor dem Beenden bestätigen',
     initDefaultTabOnStart: 'Öffnen Sie die Standard -Registerkarte, wenn die App starten',
-    screenReaderMode: 'Unterstützen Sie den Bildschirmleser im Terminal'
+    screenReaderMode: 'Unterstützen Sie den Bildschirmleser im Terminal',
+    makeItPortable: 'Machen Sie es tragbar',
+    dataTransferedTo: 'Daten übertragen auf'
   },
 
   // sftp
