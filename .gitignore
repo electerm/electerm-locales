@@ -36,3 +36,4 @@ yarn.lock
 venv
 /dist/
 .env
+/esm
