@@ -8,7 +8,8 @@ const lang = {
     desc: 'electerm 是一個跨平台的 Terminal/SSH/SFTP 用户端工具，同時支援 Linux、MacOS、Windows，基於 electron/ssh2/node-pty/xterm/antd/useProxy 等開源軟體所開發。',
     isRunning: '執行中',
     press: '按',
-    toShow: '顯示'
+    toShow: '顯示',
+    autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新'
   },
 
   // app menu

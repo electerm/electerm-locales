@@ -8,7 +8,8 @@ const lang = {
     desc: 'إلكتيرم هو عميل طرفي / ssh / sftp (لينكس,ماك,وين) يعتمد على إطار عمل الإلكترون / ssh2 / node-pty / xterm / antd / useProxy والعديد من المكتبات الأخرى ',
     isRunning: 'قيد التشغيل',
     press: 'اضغط',
-    toShow: 'لإظهار'
+    toShow: 'لإظهار',
+    autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP'
   },
 
   // app menu

@@ -8,7 +8,8 @@ const lang = {
     desc: 'electerm é um cliente terminal/ssh/sftp para (linux, mac, win) baseado em electron/ssh2/node-pty/xterm/antd/useProxy e muitas outras libs',
     isRunning: 'está rodando',
     press: 'pressione',
-    toShow: 'para exibir'
+    toShow: 'para exibir',
+    autoRefreshWhenSwitchToSftp: 'Atualizar automaticamente ao mudar para SFTP'
   },
 
   // app menu

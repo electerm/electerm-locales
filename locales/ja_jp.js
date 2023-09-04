@@ -8,7 +8,8 @@ const lang = {
     desc: 'electermは、electron / ssh2 / node-pty / xterm / antd / useProxyおよび他多数のライブラリに基づくターミナル/ ssh / sftpクライアント（linux、mac、win）です。',
     isRunning: '実行中',
     press: '押す',
-    toShow: '表示'
+    toShow: '表示',
+    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新'
   },
 
   // app menu
