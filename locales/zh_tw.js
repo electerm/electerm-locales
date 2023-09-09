@@ -5,7 +5,7 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'electerm 是一個跨平台的 Terminal/SSH/SFTP 用户端工具，同時支援 Linux、MacOS、Windows，基於 electron/ssh2/node-pty/xterm/antd/useProxy 等開源軟體所開發。',
+    desc: '終端/SSH/SFTP/Telnet/串口客戶端(Linux, Mac, Windows)',
     isRunning: '執行中',
     press: '按',
     toShow: '顯示',

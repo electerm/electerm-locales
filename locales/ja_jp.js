@@ -5,7 +5,7 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'electermは、electron / ssh2 / node-pty / xterm / antd / useProxyおよび他多数のライブラリに基づくターミナル/ ssh / sftpクライアント（linux、mac、win）です。',
+    desc: 'ターミナル/SSH/SFTP/Telnet/シリアルポートクライアント（Linux、Mac、Windows）',
     isRunning: '実行中',
     press: '押す',
     toShow: '表示',

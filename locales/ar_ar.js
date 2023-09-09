@@ -5,7 +5,7 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'إلكتيرم هو عميل طرفي / ssh / sftp (لينكس,ماك,وين) يعتمد على إطار عمل الإلكترون / ssh2 / node-pty / xterm / antd / useProxy والعديد من المكتبات الأخرى ',
+    desc: 'عميل الطرفية / SSH / SFTP / تلنت / المنفذ التسلسلي (لينكس ، ماك ، ويندوز)',
     isRunning: 'قيد التشغيل',
     press: 'اضغط',
     toShow: 'لإظهار',
