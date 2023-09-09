@@ -10,7 +10,9 @@ const lang = {
     press: '누르기',
     toShow: '보기',
     autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
-    changeLog: '변경 로그'
+    changeLog: '변경 로그',
+    KnownIssues: '알려진 문제',
+    sponsorElecterm: 'electerm 후원'
   },
 
   // app menu

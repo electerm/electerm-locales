@@ -10,7 +10,9 @@ const lang = {
     press: 'bas',
     toShow: 'göster',
     autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
-    changeLog: 'Değişiklik Günlüğü'
+    changeLog: 'Değişiklik Günlüğü',
+    KnownIssues: 'Bilinen Sorunlar',
+    sponsorElecterm: 'electerm\'i sponsor et'
   },
 
   // app menu

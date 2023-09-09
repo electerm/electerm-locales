@@ -10,7 +10,9 @@ const lang = {
     press: '按',
     toShow: '顯示',
     autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新',
-    changeLog: '更新紀錄'
+    changeLog: '更新紀錄',
+    KnownIssues: '已知問題',
+    sponsorElecterm: '贊助 Electerm'
   },
 
   // app menu

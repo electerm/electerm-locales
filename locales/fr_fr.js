@@ -10,7 +10,9 @@ const lang = {
     press: 'Appuyez',
     toShow: 'Pour ouvrir',
     autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP',
-    changeLog: 'Journal des modifications'
+    changeLog: 'Journal des modifications',
+    KnownIssues: 'Problèmes connus',
+    sponsorElecterm: 'parrainer electerm'
   },
 
   // app menu

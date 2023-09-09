@@ -10,7 +10,9 @@ const lang = {
     press: 'нажмите',
     toShow: 'для отображения',
     autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP',
-    changeLog: 'Журнал изменений'
+    changeLog: 'Журнал изменений',
+    KnownIssues: 'Известные вопросы',
+    sponsorElecterm: 'спонсировать electerm'
   },
 
   // app menu

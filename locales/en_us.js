@@ -10,7 +10,9 @@ const lang = {
     press: 'press',
     toShow: 'to show',
     autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp',
-    changeLog: 'change log'
+    changeLog: 'change log',
+    KnownIssues: 'known issues',
+    sponsorElecterm: 'sponsor electerm'
   },
 
   // app menu
