@@ -10,7 +10,8 @@ const lang = {
     isRunning: 'está corriendo',
     press: 'presione',
     toShow: 'mostrar',
-    autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP'
+    autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP',
+    changeLog: 'Registro de cambios'
   },
 
   // app menu

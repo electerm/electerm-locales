@@ -9,7 +9,8 @@ const lang = {
     isRunning: '이 실행되고 있습니다.',
     press: '누르기',
     toShow: '보기',
-    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침'
+    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
+    changeLog: '변경 로그'
   },
 
   // app menu

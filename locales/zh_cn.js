@@ -9,7 +9,8 @@ const lang = {
     isRunning: '运行中',
     press: '按',
     toShow: '显示',
-    autoRefreshWhenSwitchToSftp: '切换到SFTP时自动刷新'
+    autoRefreshWhenSwitchToSftp: '切换到SFTP时自动刷新',
+    changeLog: '更新日志'
   },
 
   // app menu

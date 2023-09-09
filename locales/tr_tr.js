@@ -9,7 +9,8 @@ const lang = {
     isRunning: 'çalışıyor',
     press: 'bas',
     toShow: 'göster',
-    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme'
+    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
+    changeLog: 'Değişiklik Günlüğü'
   },
 
   // app menu

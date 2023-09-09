@@ -9,7 +9,8 @@ const lang = {
     isRunning: 'está rodando',
     press: 'pressione',
     toShow: 'para exibir',
-    autoRefreshWhenSwitchToSftp: 'Atualizar automaticamente ao mudar para SFTP'
+    autoRefreshWhenSwitchToSftp: 'Atualizar automaticamente ao mudar para SFTP',
+    changeLog: 'Registro de Alterações'
   },
 
   // app menu

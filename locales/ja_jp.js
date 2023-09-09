@@ -9,7 +9,8 @@ const lang = {
     isRunning: '実行中',
     press: '押す',
     toShow: '表示',
-    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新'
+    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
+    changeLog: '更新履歴'
   },
 
   // app menu

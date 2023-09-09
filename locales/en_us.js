@@ -9,7 +9,8 @@ const lang = {
     isRunning: 'is running',
     press: 'press',
     toShow: 'to show',
-    autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp'
+    autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp',
+    changeLog: 'change log'
   },
 
   // app menu

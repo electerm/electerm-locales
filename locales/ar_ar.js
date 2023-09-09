@@ -9,7 +9,8 @@ const lang = {
     isRunning: 'قيد التشغيل',
     press: 'اضغط',
     toShow: 'لإظهار',
-    autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP'
+    autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP',
+    changeLog: 'سجل التغييرات'
   },
 
   // app menu
