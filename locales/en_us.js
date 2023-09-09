@@ -12,7 +12,8 @@ const lang = {
     autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp',
     changeLog: 'change log',
     KnownIssues: 'known issues',
-    sponsorElecterm: 'sponsor electerm'
+    sponsorElecterm: 'sponsor electerm',
+    privacyNotice: 'privacy notice'
   },
 
   // app menu

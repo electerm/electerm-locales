@@ -12,7 +12,8 @@ const lang = {
     autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
     changeLog: 'Değişiklik Günlüğü',
     KnownIssues: 'Bilinen Sorunlar',
-    sponsorElecterm: 'electerm\'i sponsor et'
+    sponsorElecterm: 'electerm\'i sponsor et',
+    privacyNotice: 'gizlilik bildirimi'
   },
 
   // app menu

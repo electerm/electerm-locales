@@ -12,7 +12,8 @@ const lang = {
     autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP',
     changeLog: 'Journal des modifications',
     KnownIssues: 'Problèmes connus',
-    sponsorElecterm: 'parrainer electerm'
+    sponsorElecterm: 'parrainer electerm',
+    privacyNotice: 'avis de confidentialité'
   },
 
   // app menu

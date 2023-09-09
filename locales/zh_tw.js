@@ -12,7 +12,8 @@ const lang = {
     autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新',
     changeLog: '更新紀錄',
     KnownIssues: '已知問題',
-    sponsorElecterm: '贊助 Electerm'
+    sponsorElecterm: '贊助 Electerm',
+    privacyNotice: '隱私聲明'
   },
 
   // app menu

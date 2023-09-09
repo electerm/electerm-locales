@@ -13,7 +13,8 @@ const lang = {
     autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP',
     changeLog: 'Registro de cambios',
     KnownIssues: 'Problemas conocidos',
-    sponsorElecterm: 'patrocinar electerm'
+    sponsorElecterm: 'patrocinar electerm',
+    privacyNotice: 'aviso de Privacidad'
   },
 
   // app menu
