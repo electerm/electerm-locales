@@ -9,7 +9,6 @@ const lang = {
     isRunning: '이 실행되고 있습니다.',
     press: '누르기',
     toShow: '보기',
-    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
     changeLog: '변경 로그',
     knownIssues: '알려진 문제',
     sponsorElecterm: 'electerm 후원',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: '앱을 시작할 때 기본 탭 열기',
     screenReaderMode: '터미널에서 화면 리더를 지원합니다',
     makeItPortable: '휴대용으로 만드십시오',
-    dataTransferedTo: '전송 된 데이터'
+    dataTransferedTo: '전송 된 데이터',
+    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침'
   },
 
   // sftp

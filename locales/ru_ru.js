@@ -9,7 +9,6 @@ const lang = {
     isRunning: 'выполняется',
     press: 'нажмите',
     toShow: 'для отображения',
-    autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP',
     changeLog: 'Журнал изменений',
     knownIssues: 'Известные вопросы',
     sponsorElecterm: 'спонсировать electerm',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'Открыть вкладку по умолчанию при запуске приложения',
     screenReaderMode: 'Читатель экрана поддержки в терминале',
     makeItPortable: 'сделать это портативным',
-    dataTransferedTo: 'Данные переданы в'
+    dataTransferedTo: 'Данные переданы в',
+    autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP'
   },
 
   // sftp

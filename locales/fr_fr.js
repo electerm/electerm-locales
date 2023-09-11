@@ -9,7 +9,6 @@ const lang = {
     isRunning: 'est démarré',
     press: 'Appuyez',
     toShow: 'Pour ouvrir',
-    autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP',
     changeLog: 'Journal des modifications',
     knownIssues: 'Problèmes connus',
     sponsorElecterm: 'parrainer electerm',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'Ouvrez l\'onglet par défaut lorsque l\'application Démarrer',
     screenReaderMode: 'Support Screen Reader dans Terminal',
     makeItPortable: 'rendre le portable',
-    dataTransferedTo: 'données transférées à'
+    dataTransferedTo: 'données transférées à',
+    autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP'
   },
 
   // sftp

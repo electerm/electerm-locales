@@ -9,7 +9,6 @@ const lang = {
     isRunning: '執行中',
     press: '按',
     toShow: '顯示',
-    autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新',
     changeLog: '更新紀錄',
     knownIssues: '已知問題',
     sponsorElecterm: '贊助 Electerm',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: '打開默認選項卡當應用啟動時',
     screenReaderMode: '終端中支持屏幕閱讀器',
     makeItPortable: '使其便攜',
-    dataTransferedTo: '數據傳輸到'
+    dataTransferedTo: '數據傳輸到',
+    autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新'
   },
 
   // sftp

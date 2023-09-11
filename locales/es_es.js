@@ -10,7 +10,6 @@ const lang = {
     isRunning: 'está corriendo',
     press: 'presione',
     toShow: 'mostrar',
-    autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP',
     changeLog: 'Registro de cambios',
     knownIssues: 'Problemas conocidos',
     sponsorElecterm: 'patrocinar electerm',
@@ -203,7 +202,8 @@ const lang = {
     initDefaultTabOnStart: 'Abra la pestaña predeterminada cuando se inicie la aplicación',
     screenReaderMode: 'Lector de pantalla de soporte en terminal',
     makeItPortable: 'Hazlo portátil',
-    dataTransferedTo: 'datos transferidos a'
+    dataTransferedTo: 'datos transferidos a',
+    autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP'
   },
 
   // sftp

@@ -9,7 +9,6 @@ const lang = {
     isRunning: 'قيد التشغيل',
     press: 'اضغط',
     toShow: 'لإظهار',
-    autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP',
     changeLog: 'سجل التغييرات',
     knownIssues: 'المشاكل المعروفة',
     sponsorElecterm: 'راعي electerm',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'افتح علامة التبويب الافتراضي عندما يبدأ التطبيق',
     screenReaderMode: 'دعم قارئ الشاشة في المحطة',
     makeItPortable: 'اجعله محمولًا',
-    dataTransferedTo: 'نقل البيانات إلى'
+    dataTransferedTo: 'نقل البيانات إلى',
+    autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP'
   },
 
   // sftp

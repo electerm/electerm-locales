@@ -9,7 +9,6 @@ const lang = {
     isRunning: 'çalışıyor',
     press: 'bas',
     toShow: 'göster',
-    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
     changeLog: 'Değişiklik Günlüğü',
     knownIssues: 'Bilinen Sorunlar',
     sponsorElecterm: 'electerm\'i sponsor et',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'Uygulama başladığında varsayılan sekmeyi açın',
     screenReaderMode: 'Terminalde Destek Ekranı Okuyucusu',
     makeItPortable: 'Taşınabilir Yapın',
-    dataTransferedTo: 'aktarılan veri'
+    dataTransferedTo: 'aktarılan veri',
+    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme'
   },
 
   // sftp

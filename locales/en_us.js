@@ -9,7 +9,6 @@ const lang = {
     isRunning: 'is running',
     press: 'press',
     toShow: 'to show',
-    autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp',
     changeLog: 'change log',
     knownIssues: 'known issues',
     sponsorElecterm: 'sponsor electerm',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'open default tab when app start',
     screenReaderMode: 'support screen reader in terminal',
     makeItPortable: 'make it portable',
-    dataTransferedTo: 'data transfered to'
+    dataTransferedTo: 'data transfered to',
+    autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp'
   },
 
   // sftp

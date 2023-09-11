@@ -9,7 +9,6 @@ const lang = {
     isRunning: '実行中',
     press: '押す',
     toShow: '表示',
-    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
     changeLog: '更新履歴',
     knownIssues: '既知の問題',
     sponsorElecterm: 'electerm をスポンサー',
@@ -202,7 +201,8 @@ const lang = {
     initDefaultTabOnStart: 'アプリが起動するときにデフォルトのタブを開きます',
     screenReaderMode: 'ターミナルのスクリーンリーダーをサポートします',
     makeItPortable: 'ポータブルにします',
-    dataTransferedTo: 'に転送されたデータ'
+    dataTransferedTo: 'に転送されたデータ',
+    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新'
   },
 
   // sftp
