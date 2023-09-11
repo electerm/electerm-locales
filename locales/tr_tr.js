@@ -11,7 +11,7 @@ const lang = {
     toShow: 'göster',
     autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
     changeLog: 'Değişiklik Günlüğü',
-    KnownIssues: 'Bilinen Sorunlar',
+    knownIssues: 'Bilinen Sorunlar',
     sponsorElecterm: 'electerm\'i sponsor et',
     privacyNotice: 'gizlilik bildirimi'
   },

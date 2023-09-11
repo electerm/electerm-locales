@@ -12,7 +12,7 @@ const lang = {
     toShow: 'mostrar',
     autoRefreshWhenSwitchToSftp: 'Actualizar automáticamente cuando cambie a SFTP',
     changeLog: 'Registro de cambios',
-    KnownIssues: 'Problemas conocidos',
+    knownIssues: 'Problemas conocidos',
     sponsorElecterm: 'patrocinar electerm',
     privacyNotice: 'aviso de Privacidad'
   },

@@ -11,7 +11,7 @@ const lang = {
     toShow: 'لإظهار',
     autoRefreshWhenSwitchToSftp: 'تحديث تلقائي عند التبديل إلى SFTP',
     changeLog: 'سجل التغييرات',
-    KnownIssues: 'المشاكل المعروفة',
+    knownIssues: 'المشاكل المعروفة',
     sponsorElecterm: 'راعي electerm',
     privacyNotice: 'إشعار الخصوصية'
   },

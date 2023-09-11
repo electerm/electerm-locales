@@ -11,7 +11,7 @@ const lang = {
     toShow: '表示',
     autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
     changeLog: '更新履歴',
-    KnownIssues: '既知の問題',
+    knownIssues: '既知の問題',
     sponsorElecterm: 'electerm をスポンサー',
     privacyNotice: 'プライバシー通知'
   },

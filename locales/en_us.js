@@ -11,7 +11,7 @@ const lang = {
     toShow: 'to show',
     autoRefreshWhenSwitchToSftp: 'auto refresh when switch to sftp',
     changeLog: 'change log',
-    KnownIssues: 'known issues',
+    knownIssues: 'known issues',
     sponsorElecterm: 'sponsor electerm',
     privacyNotice: 'privacy notice'
   },
