@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'show in file manager',
     compressAndDownload: 'compress and download',
     compressAndUpload: 'compress and upload',
-    editWithSystemEditor: 'edit with system editor'
+    editWithSystemEditor: 'edit with system editor',
+    gotoFolderInTerminal: 'access this folder from the terminal'
   },
 
   permission: {

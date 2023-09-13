@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'dosya yöneticisinde göster',
     compressAndDownload: 'sıkıştır ve indir',
     compressAndUpload: 'sıkıştırın ve yükleyin',
-    editWithSystemEditor: 'Sistem Düzenleyicisi ile Düzenle'
+    editWithSystemEditor: 'Sistem Düzenleyicisi ile Düzenle',
+    gotoFolderInTerminal: 'Bu klasöre terminalden erişin'
   },
 
   permission: {

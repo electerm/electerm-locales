@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'ファイルマネージャに表示',
     compressAndDownload: '圧縮してダウンロードします',
     compressAndUpload: '圧縮してアップロードします',
-    editWithSystemEditor: 'システムエディターで編集します'
+    editWithSystemEditor: 'システムエディターで編集します',
+    gotoFolderInTerminal: 'このフォルダにターミナルからアクセスしてください'
   },
 
   permission: {

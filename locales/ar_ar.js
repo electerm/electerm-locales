@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'إظهار في مدير الملفات',
     compressAndDownload: 'ضغط وتحميل',
     compressAndUpload: 'ضغط ورفع',
-    editWithSystemEditor: 'تحرير مع محرر النظام'
+    editWithSystemEditor: 'تحرير مع محرر النظام',
+    gotoFolderInTerminal: 'الوصول إلى هذا المجلد من خلال الطرفية'
   },
 
   permission: {

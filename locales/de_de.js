@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'In Dateimanager anzeigen',
     compressAndDownload: 'Komprimieren und herunterladen',
     compressAndUpload: 'Komprimieren und hochladen',
-    editWithSystemEditor: 'Bearbeiten mit Systemeditor'
+    editWithSystemEditor: 'Bearbeiten mit Systemeditor',
+    gotoFolderInTerminal: 'Greifen Sie von der Konsole auf diesen Ordner zu'
   },
 
   permission: {

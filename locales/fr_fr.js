@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'afficher dans le gestionnaire de fichiers',
     compressAndDownload: 'compresser et télécharger',
     compressAndUpload: 'Compresser et télécharger',
-    editWithSystemEditor: 'Modifier avec l\'éditeur de système'
+    editWithSystemEditor: 'Modifier avec l\'éditeur de système',
+    gotoFolderInTerminal: 'Accédez à ce dossier depuis le terminal'
   },
 
   permission: {

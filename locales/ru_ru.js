@@ -262,7 +262,8 @@ const lang = {
     showInDefaultFileMananger: 'Показать в файловом менеджере',
     compressAndDownload: 'Сжатие и загрузка',
     compressAndUpload: 'Сжать и загрузить',
-    editWithSystemEditor: 'Редактировать в системном редакторе'
+    editWithSystemEditor: 'Редактировать в системном редакторе',
+    gotoFolderInTerminal: 'Доступ к этой папке через терминал'
   },
 
   permission: {
