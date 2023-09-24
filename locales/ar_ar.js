@@ -308,7 +308,8 @@ const lang = {
     terminalType: 'نوع الطرفية',
     startDirectory: 'مجلد البدء',
     ignoreKeyboardInteractive: 'تجاهل لوحة المفاتيح التفاعلية',
-    description: 'وصف'
+    description: 'وصف',
+    connectionHopping: 'Connection hopping'
   },
 
   // ssh terminal

@@ -308,7 +308,8 @@ const lang = {
     terminalType: '终端类型',
     startDirectory: '开始目录',
     ignoreKeyboardInteractive: '忽略键盘互动',
-    description: '描述'
+    description: '描述',
+    connectionHopping: '连接跳跃'
   },
 
   // ssh terminal

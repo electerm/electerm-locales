@@ -308,7 +308,8 @@ const lang = {
     terminalType: 'terminal türü',
     startDirectory: 'başlangıç dizini',
     ignoreKeyboardInteractive: 'klavye etkileşimini yoksay',
-    description: 'NS'
+    description: 'NS',
+    connectionHopping: 'Connection hopping'
   },
 
   // ssh terminal

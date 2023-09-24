@@ -308,7 +308,8 @@ const lang = {
     terminalType: '終端機類型',
     startDirectory: '啓動目錄',
     ignoreKeyboardInteractive: '忽略鍵盤互動',
-    description: '描述'
+    description: '描述',
+    connectionHopping: '連接跳躍'
   },
 
   // ssh terminal
