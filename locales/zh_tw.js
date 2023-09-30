@@ -263,7 +263,8 @@ const lang = {
     compressAndDownload: '壓縮和下載',
     compressAndUpload: '壓縮和上傳',
     editWithSystemEditor: '使用系統編輯器編輯',
-    gotoFolderInTerminal: '從終端訪問這個資料夾'
+    gotoFolderInTerminal: '從終端訪問這個資料夾',
+    calculate: '計算'
   },
 
   permission: {

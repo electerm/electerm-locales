@@ -263,7 +263,8 @@ const lang = {
     compressAndDownload: 'sıkıştır ve indir',
     compressAndUpload: 'sıkıştırın ve yükleyin',
     editWithSystemEditor: 'Sistem Düzenleyicisi ile Düzenle',
-    gotoFolderInTerminal: 'Bu klasöre terminalden erişin'
+    gotoFolderInTerminal: 'Bu klasöre terminalden erişin',
+    calculate: 'hesaplamak'
   },
 
   permission: {

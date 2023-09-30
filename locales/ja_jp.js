@@ -263,7 +263,8 @@ const lang = {
     compressAndDownload: '圧縮してダウンロードします',
     compressAndUpload: '圧縮してアップロードします',
     editWithSystemEditor: 'システムエディターで編集します',
-    gotoFolderInTerminal: 'このフォルダにターミナルからアクセスしてください'
+    gotoFolderInTerminal: 'このフォルダにターミナルからアクセスしてください',
+    calculate: '計算します'
   },
 
   permission: {

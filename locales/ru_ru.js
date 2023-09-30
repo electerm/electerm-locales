@@ -263,7 +263,8 @@ const lang = {
     compressAndDownload: 'Сжатие и загрузка',
     compressAndUpload: 'Сжать и загрузить',
     editWithSystemEditor: 'Редактировать в системном редакторе',
-    gotoFolderInTerminal: 'Доступ к этой папке через терминал'
+    gotoFolderInTerminal: 'Доступ к этой папке через терминал',
+    calculate: 'рассчитать'
   },
 
   permission: {

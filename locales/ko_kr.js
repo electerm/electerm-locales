@@ -263,7 +263,8 @@ const lang = {
     compressAndDownload: '압축 및 다운로드',
     compressAndUpload: '압축 및 업로드',
     editWithSystemEditor: '시스템 편집기에서 편집',
-    gotoFolderInTerminal: '터미널에서이 폴더에 액세스하십시오'
+    gotoFolderInTerminal: '터미널에서이 폴더에 액세스하십시오',
+    calculate: '계산하다'
   },
 
   permission: {
