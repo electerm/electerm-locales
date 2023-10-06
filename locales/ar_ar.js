@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: 'ضغط ورفع',
     editWithSystemEditor: 'تحرير مع محرر النظام',
     gotoFolderInTerminal: 'الوصول إلى هذا المجلد من خلال الطرفية',
-    calculate: 'حساب'
+    calculate: 'حساب',
+    skipAll: 'تخطي الكل'
   },
 
   permission: {

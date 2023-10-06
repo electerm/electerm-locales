@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: 'Komprimieren und hochladen',
     editWithSystemEditor: 'Bearbeiten mit Systemeditor',
     gotoFolderInTerminal: 'Greifen Sie von der Konsole auf diesen Ordner zu',
-    calculate: 'Berechnung'
+    calculate: 'Berechnung',
+    skipAll: 'alles überspringen'
   },
 
   permission: {

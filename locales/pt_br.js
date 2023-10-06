@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: 'Comprimir e upload',
     editWithSystemEditor: 'Edite com editor de sistema',
     gotoFolderInTerminal: 'Acesse esta pasta a partir do terminal',
-    calculate: 'calcular'
+    calculate: 'calcular',
+    skipAll: 'pule tudo'
   },
 
   permission: {

@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: 'Сжать и загрузить',
     editWithSystemEditor: 'Редактировать в системном редакторе',
     gotoFolderInTerminal: 'Доступ к этой папке через терминал',
-    calculate: 'рассчитать'
+    calculate: 'рассчитать',
+    skipAll: 'пропусти все'
   },
 
   permission: {

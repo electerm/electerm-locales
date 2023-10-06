@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: 'sıkıştırın ve yükleyin',
     editWithSystemEditor: 'Sistem Düzenleyicisi ile Düzenle',
     gotoFolderInTerminal: 'Bu klasöre terminalden erişin',
-    calculate: 'hesaplamak'
+    calculate: 'hesaplamak',
+    skipAll: 'Hepsini geç'
   },
 
   permission: {

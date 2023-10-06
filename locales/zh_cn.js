@@ -264,7 +264,8 @@ const lang = {
     compressAndUpload: '压缩和上传',
     editWithSystemEditor: '使用系统编辑器编辑',
     gotoFolderInTerminal: '访问终端文件夹',
-    calculate: '计算'
+    calculate: '计算',
+    skipAll: '跳过所有'
   },
 
   permission: {
