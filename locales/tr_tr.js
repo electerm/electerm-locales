@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'yer imlerini / geçmişi / ayarları gizli github gist adresine senkronize et',
     autoSync: 'otomatik senkronizasyon',
     lastSyncTime: 'son senkronizasyon zamanı',
-    useExistingGistId: 'var olanı kullan'
+    useExistingGistId: 'var olanı kullan',
+    autoSyncTip: 'Veriler değiştiğinde verileri otomatik yükleme (üzerine yazın)'
   }
 }
 

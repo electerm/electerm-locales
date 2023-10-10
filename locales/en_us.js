@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'sync bookmark / history / setting to github secret gist',
     autoSync: 'auto sync',
     lastSyncTime: 'last sync time',
-    useExistingGistId: 'use existing'
+    useExistingGistId: 'use existing',
+    autoSyncTip: 'auto upload(overwrite) data when data changed'
   }
 }
 

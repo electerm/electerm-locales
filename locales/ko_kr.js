@@ -376,7 +376,8 @@ const lang = {
     syncDesc: '북마크 / 기록 / GitHub 비공개 Gist 설정을 동기화',
     autoSync: '자동 동기화',
     lastSyncTime: '마지막 동기화 시간',
-    useExistingGistId: '기존으로 사용'
+    useExistingGistId: '기존으로 사용',
+    autoSyncTip: '데이터가 변경되었을 때 자동 업로드 (오버 글라이드) 데이터'
   }
 }
 

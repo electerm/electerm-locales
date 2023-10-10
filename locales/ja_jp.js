@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'ブックマーク／履歴／設定をgithubシークレットへ同期',
     autoSync: '自動同期',
     lastSyncTime: '前回同期の時間',
-    useExistingGistId: '既存を使用'
+    useExistingGistId: '既存を使用',
+    autoSyncTip: 'データが変更されたときにデータを自動アップロード（上書き）します'
   }
 }
 

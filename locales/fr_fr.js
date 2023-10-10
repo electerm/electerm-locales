@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'Synchroniser les favoris / historique / paramètres dans gist',
     autoSync: 'Synchronisation automatique',
     lastSyncTime: 'Dernière synchronisation',
-    useExistingGistId: 'utiliser existant'
+    useExistingGistId: 'utiliser existant',
+    autoSyncTip: 'Données de téléchargement automatique (écraser) lorsque les données ont changé'
   }
 }
 

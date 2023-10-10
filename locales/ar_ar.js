@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'مزامنة الإشارة المرجعية / السجل / الإعداد إلى github secret gist',
     autoSync: 'المزامنة التلقائية',
     lastSyncTime: 'آخر وقت مزامنة',
-    useExistingGistId: 'استخدام الموجود'
+    useExistingGistId: 'استخدام الموجود',
+    autoSyncTip: 'بيانات التحميل التلقائي (الكتابة فوق) عند تغيير البيانات'
   }
 }
 

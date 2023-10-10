@@ -376,7 +376,8 @@ const lang = {
     syncDesc: 'Synchronisiere Lesezeichen / Verlauf / Einstellung für GitHub secret gist',
     autoSync: 'Automatische Synchronisierung',
     lastSyncTime: 'Letzte Synchronisierungszeit',
-    useExistingGistId: 'Verwende existierende Gist-ID'
+    useExistingGistId: 'Verwende existierende Gist-ID',
+    autoSyncTip: 'Überschreibe (Überschreibe) Daten, wenn sich die Daten geändert haben'
   }
 }
 
