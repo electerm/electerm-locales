@@ -7,8 +7,10 @@
 import { readdirSync, readFileSync } from 'fs'
 import { resolve } from 'path'
 import _ from 'lodash'
+import * as all from '../esm/index.js'
 
 const cwd = process.cwd()
+console.log('all', all)
 
 const pack = JSON.parse(
   readFileSync(
