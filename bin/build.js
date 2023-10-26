@@ -29,14 +29,14 @@ async function run () {
     const js = await import(pp)
     const tt = resolve(dist, f)
     fs.writeFileSync(tt, prefix + json5.stringify(js.default))
-    const tt1 = resolve(esm, f)
+    const tt1 = resolve(esm, f.replace('.js', '.mjs'))
     const pref = `export const ${name} = `
     fs.writeFileSync(tt1, pref + json5.stringify(js.default))
-    esmStr += `export * from './${f}'\n`
+    esmStr += `export * from './${f.replace('.js', '.mjs')}'\n`
   }
   const ap = resolve(dist, 'list.json')
   fs.writeFileSync(ap, JSON.stringify(arr))
-  const ap1 = resolve(esm, 'index.js')
+  const ap1 = resolve(esm, 'index.mjs')
   fs.writeFileSync(ap1, esmStr)
 }
 
