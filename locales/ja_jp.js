@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: 'ターミナルのスクリーンリーダーをサポートします',
     makeItPortable: 'ポータブルにします',
     dataTransferedTo: 'に転送されたデータ',
-    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新'
+    autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
+    terminalWordSeparator: '端子単語分離器'
   },
 
   // sftp

@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: '터미널에서 화면 리더를 지원합니다',
     makeItPortable: '휴대용으로 만드십시오',
     dataTransferedTo: '전송 된 데이터',
-    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침'
+    autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
+    terminalWordSeparator: '터미널 단어 분리기'
   },
 
   // sftp

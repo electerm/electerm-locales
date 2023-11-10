@@ -7,7 +7,7 @@
 import { readdirSync, readFileSync } from 'fs'
 import { resolve } from 'path'
 import _ from 'lodash'
-import * as all from '../esm/index.js'
+import * as all from '../esm/index.mjs'
 
 const cwd = process.cwd()
 console.log('all', all)

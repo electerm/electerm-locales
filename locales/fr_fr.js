@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: 'Support Screen Reader dans Terminal',
     makeItPortable: 'rendre le portable',
     dataTransferedTo: 'données transférées à',
-    autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP'
+    autoRefreshWhenSwitchToSftp: 'actualiser automatiquement lorsque vous passez à SFTP',
+    terminalWordSeparator: 'séparateur de mots terminaux'
   },
 
   // sftp

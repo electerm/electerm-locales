@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: '終端中支持屏幕閱讀器',
     makeItPortable: '使其便攜',
     dataTransferedTo: '數據傳輸到',
-    autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新'
+    autoRefreshWhenSwitchToSftp: '切換到SFTP時自動刷新',
+    terminalWordSeparator: '終端單詞分離器'
   },
 
   // sftp

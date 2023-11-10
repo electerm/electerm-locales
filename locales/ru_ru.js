@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: 'Читатель экрана поддержки в терминале',
     makeItPortable: 'сделать это портативным',
     dataTransferedTo: 'Данные переданы в',
-    autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP'
+    autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP',
+    terminalWordSeparator: 'Сепаратор терминала'
   },
 
   // sftp

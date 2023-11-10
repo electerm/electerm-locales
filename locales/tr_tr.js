@@ -202,7 +202,8 @@ const lang = {
     screenReaderMode: 'Terminalde Destek Ekranı Okuyucusu',
     makeItPortable: 'Taşınabilir Yapın',
     dataTransferedTo: 'aktarılan veri',
-    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme'
+    autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
+    terminalWordSeparator: 'terminal kelime ayırıcı'
   },
 
   // sftp
