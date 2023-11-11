@@ -312,7 +312,9 @@ const lang = {
     startDirectory: '시작 폴더',
     ignoreKeyboardInteractive: '키보드 인터렉티브 무시',
     description: '설명',
-    connectionHopping: '연결 호핑'
+    connectionHopping: '연결 호핑',
+    loginPassword: '로그인 비밀번호',
+    loginFail: '로그인 실패'
   },
 
   // ssh terminal

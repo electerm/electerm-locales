@@ -312,7 +312,9 @@ const lang = {
     startDirectory: '啓動目錄',
     ignoreKeyboardInteractive: '忽略鍵盤互動',
     description: '描述',
-    connectionHopping: '連接跳躍'
+    connectionHopping: '連接跳躍',
+    loginPassword: '登錄密碼',
+    loginFail: '登錄失敗'
   },
 
   // ssh terminal

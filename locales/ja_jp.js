@@ -312,7 +312,9 @@ const lang = {
     startDirectory: '開始パス',
     ignoreKeyboardInteractive: 'キーボードインタラクティブを無視',
     description: '説明',
-    connectionHopping: 'Connection hopping'
+    connectionHopping: 'Connection hopping',
+    loginPassword: 'ログインパスワード',
+    loginFail: 'ログインに失敗しました'
   },
 
   // ssh terminal

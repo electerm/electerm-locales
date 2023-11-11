@@ -312,7 +312,9 @@ const lang = {
     startDirectory: 'Начальный каталог',
     ignoreKeyboardInteractive: 'Игнорировать интерактивную клавиатуру',
     description: 'Описание',
-    connectionHopping: 'Connection hopping'
+    connectionHopping: 'Connection hopping',
+    loginPassword: 'логин Пароль',
+    loginFail: 'Ошибка входа'
   },
 
   // ssh terminal

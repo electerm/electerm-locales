@@ -312,7 +312,9 @@ const lang = {
     startDirectory: 'başlangıç dizini',
     ignoreKeyboardInteractive: 'klavye etkileşimini yoksay',
     description: 'NS',
-    connectionHopping: 'Connection hopping'
+    connectionHopping: 'Connection hopping',
+    loginPassword: 'giriş şifresi',
+    loginFail: 'giriş başarısız oldu'
   },
 
   // ssh terminal

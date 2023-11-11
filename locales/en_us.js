@@ -312,7 +312,9 @@ const lang = {
     startDirectory: 'start directory',
     ignoreKeyboardInteractive: 'ignore keyboard interactive',
     description: 'description',
-    connectionHopping: 'connection hopping'
+    connectionHopping: 'connection hopping',
+    loginPassword: 'login password',
+    loginFail: 'login failed'
   },
 
   // ssh terminal

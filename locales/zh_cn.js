@@ -312,7 +312,9 @@ const lang = {
     startDirectory: '开始目录',
     ignoreKeyboardInteractive: '忽略键盘互动',
     description: '描述',
-    connectionHopping: '连接跳跃'
+    connectionHopping: '连接跳跃',
+    loginPassword: '登录密码',
+    loginFail: '登录失败'
   },
 
   // ssh terminal
