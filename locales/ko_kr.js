@@ -314,7 +314,8 @@ const lang = {
     description: '설명',
     connectionHopping: '연결 호핑',
     loginPassword: '로그인 비밀번호',
-    loginFail: '로그인 실패'
+    loginFail: '로그인 실패',
+    notSet: '설정되지 않았습니다'
   },
 
   // ssh terminal

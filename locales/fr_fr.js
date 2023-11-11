@@ -314,7 +314,8 @@ const lang = {
     description: 'la description',
     connectionHopping: 'Saut de connexion',
     loginPassword: 'mot de passe',
-    loginFail: 'La connexion a échoué'
+    loginFail: 'La connexion a échoué',
+    notSet: 'pas encore défini'
   },
 
   // ssh terminal

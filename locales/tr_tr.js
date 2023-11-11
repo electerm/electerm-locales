@@ -314,7 +314,8 @@ const lang = {
     description: 'NS',
     connectionHopping: 'Connection hopping',
     loginPassword: 'giriş şifresi',
-    loginFail: 'giriş başarısız oldu'
+    loginFail: 'giriş başarısız oldu',
+    notSet: 'ayarlanmamış'
   },
 
   // ssh terminal
