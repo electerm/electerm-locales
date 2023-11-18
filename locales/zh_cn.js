@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: '使其便携',
     dataTransferedTo: '数据传输到',
     autoRefreshWhenSwitchToSftp: '切换到SFTP时自动刷新',
-    terminalWordSeparator: '终端单词分离器'
+    terminalWordSeparator: '终端单词分离器',
+    settingShortcuts: '捷径',
+    closeCurrentTab: '关闭当前选项卡',
+    prevTab: '上一个选项卡',
+    nextTab: '下一个选项卡',
+    pasteSelected: '粘贴所选内容',
+    showNormalBuffer: '显示正常缓冲区'
   },
 
   // sftp

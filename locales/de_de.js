@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: 'Machen Sie es tragbar',
     dataTransferedTo: 'Daten übertragen auf',
     autoRefreshWhenSwitchToSftp: 'automatische Aktualisieren beim Wechsel zu SFTP',
-    terminalWordSeparator: 'Terminalwortabscheider'
+    terminalWordSeparator: 'Terminalwortabscheider',
+    settingShortcuts: 'Verknüpfungen',
+    closeCurrentTab: 'Die aktuelle Registerkarte schließen',
+    prevTab: 'Vorheriger Tab',
+    nextTab: 'Nächster Tab',
+    pasteSelected: 'Ausgewähltes einfügen',
+    showNormalBuffer: 'Normale Puffer zeigen'
   },
 
   // sftp

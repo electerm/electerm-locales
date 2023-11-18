@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: 'ポータブルにします',
     dataTransferedTo: 'に転送されたデータ',
     autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
-    terminalWordSeparator: '端子単語分離器'
+    terminalWordSeparator: '端子単語分離器',
+    settingShortcuts: 'ショートカット',
+    closeCurrentTab: '現在のタブを閉じます',
+    prevTab: '前のタブ',
+    nextTab: '次のタブ',
+    pasteSelected: '選択したものを貼り付け',
+    showNormalBuffer: '通常のバッファを表示する'
   },
 
   // sftp

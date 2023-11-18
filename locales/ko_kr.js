@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: '휴대용으로 만드십시오',
     dataTransferedTo: '전송 된 데이터',
     autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
-    terminalWordSeparator: '터미널 단어 분리기'
+    terminalWordSeparator: '터미널 단어 분리기',
+    settingShortcuts: '바로 가기',
+    closeCurrentTab: '현재 탭을 닫습니다',
+    prevTab: '이전 탭',
+    nextTab: '다음 탭',
+    pasteSelected: '선택한 항목 붙여넣기',
+    showNormalBuffer: '일반 버퍼 표시'
   },
 
   // sftp

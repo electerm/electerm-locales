@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: 'Taşınabilir Yapın',
     dataTransferedTo: 'aktarılan veri',
     autoRefreshWhenSwitchToSftp: 'SFTP\'ye geçerken otomatik yenileme',
-    terminalWordSeparator: 'terminal kelime ayırıcı'
+    terminalWordSeparator: 'terminal kelime ayırıcı',
+    settingShortcuts: 'kısayollar',
+    closeCurrentTab: 'Akım sekmesini kapat',
+    prevTab: 'Önceki sekme',
+    nextTab: 'Sonraki sekme',
+    pasteSelected: 'Seçili olanı yapıştır',
+    showNormalBuffer: 'Normal tamponu göster'
   },
 
   // sftp

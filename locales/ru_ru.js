@@ -203,7 +203,13 @@ const lang = {
     makeItPortable: 'сделать это портативным',
     dataTransferedTo: 'Данные переданы в',
     autoRefreshWhenSwitchToSftp: 'Автоматическое обновление при переключении на SFTP',
-    terminalWordSeparator: 'Сепаратор терминала'
+    terminalWordSeparator: 'Сепаратор терминала',
+    settingShortcuts: 'ярлыки',
+    closeCurrentTab: 'Закрыть текущая вкладка',
+    prevTab: 'Предыдущая вкладка',
+    nextTab: 'Следующая вкладка',
+    pasteSelected: 'Вставить выбранное',
+    showNormalBuffer: 'Показать обычный буфер'
   },
 
   // sftp
