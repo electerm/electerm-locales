@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: 'Connection hopping',
     loginPassword: 'giriş şifresi',
     loginFail: 'giriş başarısız oldu',
-    notSet: 'ayarlanmamış'
+    notSet: 'ayarlanmamış',
+    displayRaw: 'Terminalde ham metni görüntüleyin'
   },
 
   // ssh terminal

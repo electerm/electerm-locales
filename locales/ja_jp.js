@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: 'Connection hopping',
     loginPassword: 'ログインパスワード',
     loginFail: 'ログインに失敗しました',
-    notSet: '設定されていません'
+    notSet: '設定されていません',
+    displayRaw: 'ターミナルに生のテキストを表示します'
   },
 
   // ssh terminal

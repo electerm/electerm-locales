@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: '연결 호핑',
     loginPassword: '로그인 비밀번호',
     loginFail: '로그인 실패',
-    notSet: '설정되지 않았습니다'
+    notSet: '설정되지 않았습니다',
+    displayRaw: '터미널에 원시 텍스트를 표시합니다'
   },
 
   // ssh terminal

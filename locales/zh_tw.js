@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: '連接跳躍',
     loginPassword: '登錄密碼',
     loginFail: '登錄失敗',
-    notSet: '沒有設置'
+    notSet: '沒有設置',
+    displayRaw: '在終端顯示原始文本'
   },
 
   // ssh terminal

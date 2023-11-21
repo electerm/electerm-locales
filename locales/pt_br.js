@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: 'Connection hopping',
     loginPassword: 'senha de login',
     loginFail: 'falha no login',
-    notSet: 'não configurado'
+    notSet: 'não configurado',
+    displayRaw: 'Exibir texto bruto no terminal'
   },
 
   // ssh terminal

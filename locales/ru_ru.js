@@ -321,7 +321,8 @@ const lang = {
     connectionHopping: 'Connection hopping',
     loginPassword: 'логин Пароль',
     loginFail: 'Ошибка входа',
-    notSet: 'не задано'
+    notSet: 'не задано',
+    displayRaw: 'Отображение необработанного текста в терминале'
   },
 
   // ssh terminal
