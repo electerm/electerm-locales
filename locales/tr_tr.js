@@ -209,7 +209,8 @@ const lang = {
     prevTab: 'Önceki sekme',
     nextTab: 'Sonraki sekme',
     pasteSelected: 'Seçili olanı yapıştır',
-    showNormalBuffer: 'Normal tamponu göster'
+    showNormalBuffer: 'Normal tamponu göster',
+    customCss: 'Özel CSS'
   },
 
   // sftp

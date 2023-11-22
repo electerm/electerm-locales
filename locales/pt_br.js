@@ -209,7 +209,8 @@ const lang = {
     prevTab: 'Aba anterior',
     nextTab: 'Próxima aba',
     pasteSelected: 'Colar selecionado',
-    showNormalBuffer: 'Mostrar buffer normal'
+    showNormalBuffer: 'Mostrar buffer normal',
+    customCss: 'CSS customizado'
   },
 
   // sftp

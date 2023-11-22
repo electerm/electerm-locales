@@ -210,7 +210,8 @@ const lang = {
     prevTab: 'pestaña anterior',
     nextTab: 'Pestaña siguiente',
     pasteSelected: 'Pegar seleccionado',
-    showNormalBuffer: 'Mostrar búfer normal'
+    showNormalBuffer: 'Mostrar búfer normal',
+    customCss: 'CSS personalizado'
   },
 
   // sftp

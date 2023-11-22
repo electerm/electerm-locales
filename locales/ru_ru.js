@@ -209,7 +209,8 @@ const lang = {
     prevTab: 'Предыдущая вкладка',
     nextTab: 'Следующая вкладка',
     pasteSelected: 'Вставить выбранное',
-    showNormalBuffer: 'Показать обычный буфер'
+    showNormalBuffer: 'Показать обычный буфер',
+    customCss: 'Пользовательские CSS'
   },
 
   // sftp

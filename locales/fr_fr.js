@@ -209,7 +209,8 @@ const lang = {
     prevTab: 'Onglet précédent',
     nextTab: 'Onglet suivant',
     pasteSelected: 'Coller la sélection',
-    showNormalBuffer: 'Afficher le tampon normal'
+    showNormalBuffer: 'Afficher le tampon normal',
+    customCss: 'CSS personnalisé'
   },
 
   // sftp

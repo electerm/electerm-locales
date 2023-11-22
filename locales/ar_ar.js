@@ -209,7 +209,8 @@ const lang = {
     prevTab: 'العلامة السابقة',
     nextTab: 'العلامة التالية',
     pasteSelected: 'لصق المحدد',
-    showNormalBuffer: 'عرض البوفر العادي'
+    showNormalBuffer: 'عرض البوفر العادي',
+    customCss: 'لغة تنسيق ويب حسب الطلب'
   },
 
   // sftp

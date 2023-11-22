@@ -209,7 +209,8 @@ const lang = {
     prevTab: '前のタブ',
     nextTab: '次のタブ',
     pasteSelected: '選択したものを貼り付け',
-    showNormalBuffer: '通常のバッファを表示する'
+    showNormalBuffer: '通常のバッファを表示する',
+    customCss: 'カスタムCSS'
   },
 
   // sftp

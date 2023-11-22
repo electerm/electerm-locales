@@ -209,7 +209,8 @@ const lang = {
     prevTab: '이전 탭',
     nextTab: '다음 탭',
     pasteSelected: '선택한 항목 붙여넣기',
-    showNormalBuffer: '일반 버퍼 표시'
+    showNormalBuffer: '일반 버퍼 표시',
+    customCss: '맞춤형 CSS'
   },
 
   // sftp

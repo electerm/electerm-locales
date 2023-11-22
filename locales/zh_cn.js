@@ -209,7 +209,8 @@ const lang = {
     prevTab: '上一个选项卡',
     nextTab: '下一个选项卡',
     pasteSelected: '粘贴所选内容',
-    showNormalBuffer: '显示正常缓冲区'
+    showNormalBuffer: '显示正常缓冲区',
+    customCss: '自定义CSS'
   },
 
   // sftp
