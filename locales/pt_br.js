@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'falha no login',
     notSet: 'não configurado',
     displayRaw: 'Exibir texto bruto no terminal',
-    regexp: 'expressão regular',
-    keywords: 'palavras-chave',
+    supportRegexp: 'Suporta expressões regulares',
+    keywordsHighlight: 'Destaque de palavras-chave',
     keyword: 'palavra -chave'
   },
 

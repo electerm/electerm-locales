@@ -324,8 +324,8 @@ const lang = {
     loginFail: '登录失败',
     notSet: '没有设置',
     displayRaw: '在终端显示原始文本',
-    regexp: '正则表达式',
-    keywords: '关键字',
+    supportRegexp: '支持正则表达式',
+    keywordsHighlight: '关键词高亮',
     keyword: '关键词'
   },
 

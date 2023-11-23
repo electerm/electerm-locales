@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'فشل تسجيل الدخول',
     notSet: 'غير مضبوط',
     displayRaw: 'عرض النص الخام في المحطة',
-    regexp: 'تعبير عادي',
-    keywords: 'الكلمات الدالة',
+    supportRegexp: 'دعم التعبير العادي',
+    keywordsHighlight: 'تسليط الضوء على الكلمات الرئيسية',
     keyword: 'الكلمة الرئيسية'
   },
 

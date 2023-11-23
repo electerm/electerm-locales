@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'Fehler bei der Anmeldung',
     notSet: 'nicht eingestellt',
     displayRaw: 'Rohtext im Terminal anzeigen',
-    regexp: 'regulären Ausdruck',
-    keywords: 'Schlüsselwörter',
+    supportRegexp: 'Unterstützt reguläre Ausdrücke',
+    keywordsHighlight: 'Stichwort-Hervorhebung',
     keyword: 'Stichwort'
   },
 

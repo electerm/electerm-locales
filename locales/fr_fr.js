@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'La connexion a échoué',
     notSet: 'pas encore défini',
     displayRaw: 'Afficher le texte brut dans le terminal',
-    regexp: 'expression régulière',
-    keywords: 'mots clés',
+    supportRegexp: 'Supporte les expressions régulières',
+    keywordsHighlight: 'Mise en évidence des mots clés',
     keyword: 'mot-clé'
   },
 

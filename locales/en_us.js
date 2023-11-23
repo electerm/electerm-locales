@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'login failed',
     notSet: 'not set',
     displayRaw: 'display raw text in terminal',
-    regexp: 'regular expression',
-    keywords: 'keywords',
+    supportRegexp: 'support regular expression',
+    keywordsHighlight: 'keywords highlight',
     keyword: 'keyword'
   },
 

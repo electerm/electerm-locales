@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'giriş başarısız oldu',
     notSet: 'ayarlanmamış',
     displayRaw: 'Terminalde ham metni görüntüleyin',
-    regexp: 'Düzenli ifade',
-    keywords: 'Anahtar Kelimeler',
+    supportRegexp: 'Düzenli ifade desteği',
+    keywordsHighlight: 'Anahtar kelime vurgulama',
     keyword: 'anahtar kelime'
   },
 

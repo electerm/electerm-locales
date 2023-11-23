@@ -324,8 +324,8 @@ const lang = {
     loginFail: '登錄失敗',
     notSet: '沒有設置',
     displayRaw: '在終端顯示原始文本',
-    regexp: '正則表達式',
-    keywords: '關鍵字',
+    supportRegexp: '支援正則表達式',
+    keywordsHighlight: '關鍵字高亮',
     keyword: '關鍵詞'
   },
 

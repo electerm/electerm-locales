@@ -324,8 +324,8 @@ const lang = {
     loginFail: 'ログインに失敗しました',
     notSet: '設定されていません',
     displayRaw: 'ターミナルに生のテキストを表示します',
-    regexp: '正規表現',
-    keywords: 'キーワード',
+    supportRegexp: '正規表現をサポート',
+    keywordsHighlight: 'キーワードのハイライト',
     keyword: 'キーワード'
   },
 

@@ -325,8 +325,8 @@ const lang = {
     loginFail: 'error de inicio de sesion',
     notSet: 'no establecido',
     displayRaw: 'Muestra texto en bruto en la terminal',
-    regexp: 'expresión regular',
-    keywords: 'Palabras clave',
+    supportRegexp: 'Soporta expresiones regulares',
+    keywordsHighlight: 'Resaltar palabras clave',
     keyword: 'palabra clave'
   },
 

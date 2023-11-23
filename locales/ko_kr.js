@@ -324,8 +324,8 @@ const lang = {
     loginFail: '로그인 실패',
     notSet: '설정되지 않았습니다',
     displayRaw: '터미널에 원시 텍스트를 표시합니다',
-    regexp: '정규 표현식',
-    keywords: '키워드',
+    supportRegexp: '정규 표현식 지원',
+    keywordsHighlight: '키워드 하이라이트',
     keyword: '예어'
   },
 
