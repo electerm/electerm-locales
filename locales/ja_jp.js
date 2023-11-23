@@ -323,7 +323,8 @@ const lang = {
     loginPassword: 'ログインパスワード',
     loginFail: 'ログインに失敗しました',
     notSet: '設定されていません',
-    displayRaw: 'ターミナルに生のテキストを表示します'
+    displayRaw: 'ターミナルに生のテキストを表示します',
+    regexp: '正規表現'
   },
 
   // ssh terminal

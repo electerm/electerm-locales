@@ -323,7 +323,8 @@ const lang = {
     loginPassword: '登錄密碼',
     loginFail: '登錄失敗',
     notSet: '沒有設置',
-    displayRaw: '在終端顯示原始文本'
+    displayRaw: '在終端顯示原始文本',
+    regexp: '正則表達式'
   },
 
   // ssh terminal

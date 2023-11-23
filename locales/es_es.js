@@ -324,7 +324,8 @@ const lang = {
     loginPassword: 'contraseña de inicio de sesión',
     loginFail: 'error de inicio de sesion',
     notSet: 'no establecido',
-    displayRaw: 'Muestra texto en bruto en la terminal'
+    displayRaw: 'Muestra texto en bruto en la terminal',
+    regexp: 'expresión regular'
   },
 
   // ssh terminal

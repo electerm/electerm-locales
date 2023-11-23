@@ -323,7 +323,8 @@ const lang = {
     loginPassword: 'giriş şifresi',
     loginFail: 'giriş başarısız oldu',
     notSet: 'ayarlanmamış',
-    displayRaw: 'Terminalde ham metni görüntüleyin'
+    displayRaw: 'Terminalde ham metni görüntüleyin',
+    regexp: 'Düzenli ifade'
   },
 
   // ssh terminal

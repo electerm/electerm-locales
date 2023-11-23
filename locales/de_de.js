@@ -323,7 +323,8 @@ const lang = {
     loginPassword: 'Passwort',
     loginFail: 'Fehler bei der Anmeldung',
     notSet: 'nicht eingestellt',
-    displayRaw: 'Rohtext im Terminal anzeigen'
+    displayRaw: 'Rohtext im Terminal anzeigen',
+    regexp: 'regulären Ausdruck'
   },
 
   // ssh terminal

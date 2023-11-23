@@ -323,7 +323,8 @@ const lang = {
     loginPassword: 'login password',
     loginFail: 'login failed',
     notSet: 'not set',
-    displayRaw: 'display raw text in terminal'
+    displayRaw: 'display raw text in terminal',
+    regexp: 'regular expression'
   },
 
   // ssh terminal

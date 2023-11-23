@@ -323,7 +323,8 @@ const lang = {
     loginPassword: 'كلمة سر الدخول',
     loginFail: 'فشل تسجيل الدخول',
     notSet: 'غير مضبوط',
-    displayRaw: 'عرض النص الخام في المحطة'
+    displayRaw: 'عرض النص الخام في المحطة',
+    regexp: 'تعبير عادي'
   },
 
   // ssh terminal
