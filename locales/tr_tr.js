@@ -324,7 +324,9 @@ const lang = {
     loginFail: 'giriş başarısız oldu',
     notSet: 'ayarlanmamış',
     displayRaw: 'Terminalde ham metni görüntüleyin',
-    regexp: 'Düzenli ifade'
+    regexp: 'Düzenli ifade',
+    keywords: 'Anahtar Kelimeler',
+    keyword: 'anahtar kelime'
   },
 
   // ssh terminal

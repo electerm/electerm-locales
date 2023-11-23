@@ -324,7 +324,9 @@ const lang = {
     loginFail: 'La connexion a échoué',
     notSet: 'pas encore défini',
     displayRaw: 'Afficher le texte brut dans le terminal',
-    regexp: 'expression régulière'
+    regexp: 'expression régulière',
+    keywords: 'mots clés',
+    keyword: 'mot-clé'
   },
 
   // ssh terminal

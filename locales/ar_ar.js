@@ -324,7 +324,9 @@ const lang = {
     loginFail: 'فشل تسجيل الدخول',
     notSet: 'غير مضبوط',
     displayRaw: 'عرض النص الخام في المحطة',
-    regexp: 'تعبير عادي'
+    regexp: 'تعبير عادي',
+    keywords: 'الكلمات الدالة',
+    keyword: 'الكلمة الرئيسية'
   },
 
   // ssh terminal

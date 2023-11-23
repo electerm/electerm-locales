@@ -324,7 +324,9 @@ const lang = {
     loginFail: '登錄失敗',
     notSet: '沒有設置',
     displayRaw: '在終端顯示原始文本',
-    regexp: '正則表達式'
+    regexp: '正則表達式',
+    keywords: '關鍵字',
+    keyword: '關鍵詞'
   },
 
   // ssh terminal

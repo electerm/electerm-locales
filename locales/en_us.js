@@ -324,7 +324,9 @@ const lang = {
     loginFail: 'login failed',
     notSet: 'not set',
     displayRaw: 'display raw text in terminal',
-    regexp: 'regular expression'
+    regexp: 'regular expression',
+    keywords: 'keywords',
+    keyword: 'keyword'
   },
 
   // ssh terminal
