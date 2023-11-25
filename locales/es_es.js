@@ -211,7 +211,8 @@ const lang = {
     nextTab: 'Pestaña siguiente',
     pasteSelected: 'Pegar seleccionado',
     showNormalBuffer: 'Mostrar búfer normal',
-    customCss: 'CSS personalizado'
+    customCss: 'CSS personalizado',
+    hideSshConfig: 'ocultar la categoría de SSH-config'
   },
 
   // sftp

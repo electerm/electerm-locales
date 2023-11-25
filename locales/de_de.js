@@ -210,7 +210,8 @@ const lang = {
     nextTab: 'Nächster Tab',
     pasteSelected: 'Ausgewähltes einfügen',
     showNormalBuffer: 'Normale Puffer zeigen',
-    customCss: 'Benutzerdefinierte CSS'
+    customCss: 'Benutzerdefinierte CSS',
+    hideSshConfig: 'SSH-Config-Kategorie ausblenden'
   },
 
   // sftp

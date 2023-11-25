@@ -210,7 +210,8 @@ const lang = {
     nextTab: '次のタブ',
     pasteSelected: '選択したものを貼り付け',
     showNormalBuffer: '通常のバッファを表示する',
-    customCss: 'カスタムCSS'
+    customCss: 'カスタムCSS',
+    hideSshConfig: 'ssh-configカテゴリを非表示にします'
   },
 
   // sftp

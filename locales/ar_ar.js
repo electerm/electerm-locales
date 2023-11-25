@@ -210,7 +210,8 @@ const lang = {
     nextTab: 'العلامة التالية',
     pasteSelected: 'لصق المحدد',
     showNormalBuffer: 'عرض البوفر العادي',
-    customCss: 'لغة تنسيق ويب حسب الطلب'
+    customCss: 'لغة تنسيق ويب حسب الطلب',
+    hideSshConfig: 'إخفاء فئة SSH-Config'
   },
 
   // sftp

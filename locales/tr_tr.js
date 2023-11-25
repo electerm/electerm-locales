@@ -210,7 +210,8 @@ const lang = {
     nextTab: 'Sonraki sekme',
     pasteSelected: 'Seçili olanı yapıştır',
     showNormalBuffer: 'Normal tamponu göster',
-    customCss: 'Özel CSS'
+    customCss: 'Özel CSS',
+    hideSshConfig: 'SSH-Config kategorisini gizle'
   },
 
   // sftp

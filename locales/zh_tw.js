@@ -210,7 +210,8 @@ const lang = {
     nextTab: '下一個選項卡',
     pasteSelected: '粘貼所選',
     showNormalBuffer: '顯示正常緩衝區',
-    customCss: '自定義CSS'
+    customCss: '自定義CSS',
+    hideSshConfig: '隱藏ssh-config類別'
   },
 
   // sftp

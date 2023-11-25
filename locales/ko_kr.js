@@ -210,7 +210,8 @@ const lang = {
     nextTab: '다음 탭',
     pasteSelected: '선택한 항목 붙여넣기',
     showNormalBuffer: '일반 버퍼 표시',
-    customCss: '맞춤형 CSS'
+    customCss: '맞춤형 CSS',
+    hideSshConfig: 'ssh-config 카테고리를 숨 깁니다'
   },
 
   // sftp
