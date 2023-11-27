@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: '選択したものを貼り付け',
     showNormalBuffer: '通常のバッファを表示する',
     customCss: 'カスタムCSS',
-    hideSshConfig: 'ssh-configカテゴリを非表示にします'
+    hideSshConfig: 'ssh-configカテゴリを非表示にします',
+    addTimeStampToTermLog: '端末ログにタイムスタンプを追加します'
   },
 
   // sftp

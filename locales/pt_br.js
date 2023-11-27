@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: 'Colar selecionado',
     showNormalBuffer: 'Mostrar buffer normal',
     customCss: 'CSS customizado',
-    hideSshConfig: 'Ocultar categoria SSH-Config'
+    hideSshConfig: 'Ocultar categoria SSH-Config',
+    addTimeStampToTermLog: 'Adicione Timestamp ao log de terminais'
   },
 
   // sftp

@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: 'Вставить выбранное',
     showNormalBuffer: 'Показать обычный буфер',
     customCss: 'Пользовательские CSS',
-    hideSshConfig: 'Скрыть категорию SSH-Config'
+    hideSshConfig: 'Скрыть категорию SSH-Config',
+    addTimeStampToTermLog: 'Добавить временную метку в журнал терминала'
   },
 
   // sftp

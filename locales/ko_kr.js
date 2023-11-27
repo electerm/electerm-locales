@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: '선택한 항목 붙여넣기',
     showNormalBuffer: '일반 버퍼 표시',
     customCss: '맞춤형 CSS',
-    hideSshConfig: 'ssh-config 카테고리를 숨 깁니다'
+    hideSshConfig: 'ssh-config 카테고리를 숨 깁니다',
+    addTimeStampToTermLog: '터미널 로그에 타임 스탬프를 추가하십시오'
   },
 
   // sftp

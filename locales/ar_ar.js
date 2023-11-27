@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: 'لصق المحدد',
     showNormalBuffer: 'عرض البوفر العادي',
     customCss: 'لغة تنسيق ويب حسب الطلب',
-    hideSshConfig: 'إخفاء فئة SSH-Config'
+    hideSshConfig: 'إخفاء فئة SSH-Config',
+    addTimeStampToTermLog: 'أضف الطابع الزمني إلى سجل الطرفية'
   },
 
   // sftp

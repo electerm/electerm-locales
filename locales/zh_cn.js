@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: '粘贴所选内容',
     showNormalBuffer: '显示正常缓冲区',
     customCss: '自定义CSS',
-    hideSshConfig: '隐藏ssh-config类别'
+    hideSshConfig: '隐藏ssh-config类别',
+    addTimeStampToTermLog: '将时间戳添加到终端日志'
   },
 
   // sftp

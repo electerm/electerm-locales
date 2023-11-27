@@ -211,7 +211,8 @@ const lang = {
     pasteSelected: 'Seçili olanı yapıştır',
     showNormalBuffer: 'Normal tamponu göster',
     customCss: 'Özel CSS',
-    hideSshConfig: 'SSH-Config kategorisini gizle'
+    hideSshConfig: 'SSH-Config kategorisini gizle',
+    addTimeStampToTermLog: 'Terminal günlüğüne zaman damgası ekleyin'
   },
 
   // sftp
