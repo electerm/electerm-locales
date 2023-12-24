@@ -353,7 +353,8 @@ const lang = {
     remotePort: 'المنفذ البعيد',
     localPort: 'ميناء محلي',
     localToRemote: 'توجيه الاتصال المحلي إلى الخادم البعيد',
-    remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي'
+    remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي',
+    sftpPathFollowSsh: 'مزامنة مسار SFTP مع المحطة'
   },
 
   // terminal themes

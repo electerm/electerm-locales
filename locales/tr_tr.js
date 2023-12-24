@@ -353,7 +353,8 @@ const lang = {
     remotePort: 'uzak liman',
     localPort: 'yerel liman',
     localToRemote: 'Yerel bağlantıyı uzak sunucuya iletin',
-    remoteToLocal: 'Yerel Sunucuya Uzaktan Bağlantı İleri Bağlantısı'
+    remoteToLocal: 'Yerel Sunucuya Uzaktan Bağlantı İleri Bağlantısı',
+    sftpPathFollowSsh: 'SFTP Yolu Terminal ile Senkronizasyon'
   },
 
   // terminal themes

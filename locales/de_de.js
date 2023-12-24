@@ -353,7 +353,8 @@ const lang = {
     remotePort: 'Remote -Port',
     localPort: 'Lokaler Hafen',
     localToRemote: 'Leiten Sie die lokale Verbindung auf Remote -Server weiter',
-    remoteToLocal: 'Remote -Verbindung zum lokalen Server weiterleiten'
+    remoteToLocal: 'Remote -Verbindung zum lokalen Server weiterleiten',
+    sftpPathFollowSsh: 'SFTP -Pfadsynchronisierung mit Terminal'
   },
 
   // terminal themes

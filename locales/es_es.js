@@ -354,7 +354,8 @@ const lang = {
     remotePort: 'Puerto remoto',
     localPort: 'puerto local',
     localToRemote: 'Reenviar la conexión local al servidor remoto',
-    remoteToLocal: 'Reenviar conexión remota al servidor local'
+    remoteToLocal: 'Reenviar conexión remota al servidor local',
+    sftpPathFollowSsh: 'Sincronización de ruta SFTP con terminal'
   },
 
   // terminal themes

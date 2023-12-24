@@ -353,7 +353,8 @@ const lang = {
     remotePort: 'port éloigné',
     localPort: 'port local',
     localToRemote: 'transférer la connexion locale au serveur distant',
-    remoteToLocal: 'transférer la connexion distante au serveur local'
+    remoteToLocal: 'transférer la connexion distante au serveur local',
+    sftpPathFollowSsh: 'Sync de chemin SFTP avec le terminal'
   },
 
   // terminal themes

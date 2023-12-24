@@ -353,7 +353,8 @@ const lang = {
     remotePort: 'リモートポート',
     localPort: 'ローカルポート',
     localToRemote: 'リモートサーバーへのローカル接続を転送します',
-    remoteToLocal: 'ローカルサーバーへのリモート接続を転送します'
+    remoteToLocal: 'ローカルサーバーへのリモート接続を転送します',
+    sftpPathFollowSsh: 'ターミナルとSFTPパス同期'
   },
 
   // terminal themes
