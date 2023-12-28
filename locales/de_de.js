@@ -212,7 +212,8 @@ const lang = {
     showNormalBuffer: 'Normale Puffer zeigen',
     customCss: 'Benutzerdefinierte CSS',
     hideSshConfig: 'SSH-Config-Kategorie ausblenden',
-    addTimeStampToTermLog: 'Fügen Sie dem Terminalprotokoll Zeitstempel hinzu'
+    addTimeStampToTermLog: 'Fügen Sie dem Terminalprotokoll Zeitstempel hinzu',
+    terminalBackSpaceMode: 'Endraumsequenz'
   },
 
   // sftp

@@ -212,7 +212,8 @@ const lang = {
     showNormalBuffer: '通常のバッファを表示する',
     customCss: 'カスタムCSS',
     hideSshConfig: 'ssh-configカテゴリを非表示にします',
-    addTimeStampToTermLog: '端末ログにタイムスタンプを追加します'
+    addTimeStampToTermLog: '端末ログにタイムスタンプを追加します',
+    terminalBackSpaceMode: '端子バックスペースシーケンス'
   },
 
   // sftp

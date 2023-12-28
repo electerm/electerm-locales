@@ -212,7 +212,8 @@ const lang = {
     showNormalBuffer: '顯示正常緩衝區',
     customCss: '自定義CSS',
     hideSshConfig: '隱藏ssh-config類別',
-    addTimeStampToTermLog: '將時間戳添加到終端日誌'
+    addTimeStampToTermLog: '將時間戳添加到終端日誌',
+    terminalBackSpaceMode: '終端backspace序列'
   },
 
   // sftp

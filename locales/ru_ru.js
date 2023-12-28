@@ -212,7 +212,8 @@ const lang = {
     showNormalBuffer: 'Показать обычный буфер',
     customCss: 'Пользовательские CSS',
     hideSshConfig: 'Скрыть категорию SSH-Config',
-    addTimeStampToTermLog: 'Добавить временную метку в журнал терминала'
+    addTimeStampToTermLog: 'Добавить временную метку в журнал терминала',
+    terminalBackSpaceMode: 'терминальная последовательность обратного пространства'
   },
 
   // sftp

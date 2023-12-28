@@ -212,7 +212,8 @@ const lang = {
     showNormalBuffer: 'Afficher le tampon normal',
     customCss: 'CSS personnalisé',
     hideSshConfig: 'Catégorie Hide Ssh-Config',
-    addTimeStampToTermLog: 'Ajouter l\'horodatage au journal terminal'
+    addTimeStampToTermLog: 'Ajouter l\'horodatage au journal terminal',
+    terminalBackSpaceMode: 'Séquence de borne de borne'
   },
 
   // sftp
