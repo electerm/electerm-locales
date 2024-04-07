@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'adicionar comandos rápidos',
     newQuickCommand: 'novo comando rápido',
     inputOnly: 'somente entrada',
-    labels: 'Etiquetas'
+    labels: 'Etiquetas',
+    sortByFrequency: 'classificar por frequência'
   },
 
   // setting sync

@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: '빠른 명령 추가',
     newQuickCommand: '새 빠른 명령',
     inputOnly: '입력만 가능',
-    labels: '라벨'
+    labels: '라벨',
+    sortByFrequency: '주파수별로 정렬하십시오'
   },
 
   // setting sync

@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'コマンドを追加',
     newQuickCommand: '新規コマンド',
     inputOnly: '入力のみ',
-    labels: 'ラベル'
+    labels: 'ラベル',
+    sortByFrequency: '周波数ごとにソートします'
   },
 
   // setting sync

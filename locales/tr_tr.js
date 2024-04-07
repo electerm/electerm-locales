@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'hızlı komutlar ekle',
     newQuickCommand: 'yeni hızlı komut',
     inputOnly: 'sadece giriş',
-    labels: 'etiket'
+    labels: 'etiket',
+    sortByFrequency: 'Frekansa göre sıralayın'
   },
 
   // setting sync

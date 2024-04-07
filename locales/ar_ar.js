@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'إضافة أوامر سريعة',
     newQuickCommand: 'أمر سريع جديد',
     inputOnly: 'إدخال فقط',
-    labels: 'التصنيفات'
+    labels: 'التصنيفات',
+    sortByFrequency: 'فرز حسب التردد'
   },
 
   // setting sync

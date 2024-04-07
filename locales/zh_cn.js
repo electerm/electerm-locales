@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: '添加快速命令',
     newQuickCommand: '新建快速命令',
     inputOnly: '仅输入',
-    labels: '标签'
+    labels: '标签',
+    sortByFrequency: '按频率排序'
   },
 
   // setting sync

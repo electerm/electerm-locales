@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'Ajouter un raccourci',
     newQuickCommand: 'Nouveau raccourci',
     inputOnly: 'Saisie uniquement (ne termine pas par la touche entrée)',
-    labels: 'Étiquettes'
+    labels: 'Étiquettes',
+    sortByFrequency: 'trier par fréquence'
   },
 
   // setting sync

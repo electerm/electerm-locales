@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: '加入快速指令',
     newQuickCommand: '新建快速指令',
     inputOnly: '僅能輸入',
-    labels: '標籤'
+    labels: '標籤',
+    sortByFrequency: '按頻率排序'
   },
 
   // setting sync

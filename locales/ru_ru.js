@@ -380,7 +380,8 @@ const lang = {
     addQuickCommands: 'Добавить быстрые команды',
     newQuickCommand: 'Новая быстрая команда',
     inputOnly: 'Только ввод',
-    labels: 'Ярлыки'
+    labels: 'Ярлыки',
+    sortByFrequency: 'Сортировать по частоте'
   },
 
   // setting sync
