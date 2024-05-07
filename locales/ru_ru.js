@@ -90,8 +90,7 @@ const lang = {
     addToQueue: 'добавить в очередь',
     execute: 'выполнять',
     finished: 'законченный',
-    resolutions: 'Разрешение',
-    showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start'
+    resolutions: 'Разрешение'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: 'Пользовательские CSS',
     hideSshConfig: 'Скрыть категорию SSH-Config',
     addTimeStampToTermLog: 'Добавить временную метку в журнал терминала',
-    terminalBackSpaceMode: 'терминальная последовательность обратного пространства'
+    terminalBackSpaceMode: 'терминальная последовательность обратного пространства',
+    showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start'
   },
 
   // sftp

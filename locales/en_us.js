@@ -90,8 +90,7 @@ const lang = {
     addToQueue: 'add to queue',
     execute: 'execute',
     finished: 'finished',
-    resolutions: 'resolutions',
-    showHiddenFilesOnSftpStart: 'show hidden files on sftp start'
+    resolutions: 'resolutions'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: 'custom css',
     hideSshConfig: 'hide ssh-config category',
     addTimeStampToTermLog: 'add timestamp to terminal log',
-    terminalBackSpaceMode: 'terminal backspace sequence'
+    terminalBackSpaceMode: 'terminal backspace sequence',
+    showHiddenFilesOnSftpStart: 'show hidden files on sftp start'
   },
 
   // sftp

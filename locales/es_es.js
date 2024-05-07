@@ -91,8 +91,7 @@ const lang = {
     addToQueue: 'añadir a la cola',
     execute: 'ejecutar',
     finished: 'terminado',
-    resolutions: 'resolución',
-    showHiddenFilesOnSftpStart: 'Mostrar archivos ocultos en SFTP Start'
+    resolutions: 'resolución'
   },
 
   // control buttons
@@ -216,7 +215,8 @@ const lang = {
     customCss: 'CSS personalizado',
     hideSshConfig: 'ocultar la categoría de SSH-config',
     addTimeStampToTermLog: 'Agregue la marca de tiempo al registro terminal',
-    terminalBackSpaceMode: 'secuencia terminal de retroceso'
+    terminalBackSpaceMode: 'secuencia terminal de retroceso',
+    showHiddenFilesOnSftpStart: 'Mostrar archivos ocultos en SFTP Start'
   },
 
   // sftp

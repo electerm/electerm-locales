@@ -90,8 +90,7 @@ const lang = {
     addToQueue: 'إضافة إلى قائمة الانتظار',
     execute: 'ينفذ',
     finished: 'انتهى',
-    resolutions: 'الدقة',
-    showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start'
+    resolutions: 'الدقة'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: 'لغة تنسيق ويب حسب الطلب',
     hideSshConfig: 'إخفاء فئة SSH-Config',
     addTimeStampToTermLog: 'أضف الطابع الزمني إلى سجل الطرفية',
-    terminalBackSpaceMode: 'تسلسل مساحة الخلفية الطرفية'
+    terminalBackSpaceMode: 'تسلسل مساحة الخلفية الطرفية',
+    showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start'
   },
 
   // sftp

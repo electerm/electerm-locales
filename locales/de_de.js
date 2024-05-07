@@ -90,8 +90,7 @@ const lang = {
     addToQueue: 'zur Warteschlange hinzufügen',
     execute: 'ausführen',
     finished: 'fertig',
-    resolutions: 'Auflösung',
-    showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an'
+    resolutions: 'Auflösung'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: 'Benutzerdefinierte CSS',
     hideSshConfig: 'SSH-Config-Kategorie ausblenden',
     addTimeStampToTermLog: 'Fügen Sie dem Terminalprotokoll Zeitstempel hinzu',
-    terminalBackSpaceMode: 'Endraumsequenz'
+    terminalBackSpaceMode: 'Endraumsequenz',
+    showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an'
   },
 
   // sftp

@@ -90,8 +90,7 @@ const lang = {
     addToQueue: 'Sıraya ekle',
     execute: 'uygulamak',
     finished: 'bitmiş',
-    resolutions: 'Çözünürlük',
-    showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster'
+    resolutions: 'Çözünürlük'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: 'Özel CSS',
     hideSshConfig: 'SSH-Config kategorisini gizle',
     addTimeStampToTermLog: 'Terminal günlüğüne zaman damgası ekleyin',
-    terminalBackSpaceMode: 'Terminal Backspace Sırası'
+    terminalBackSpaceMode: 'Terminal Backspace Sırası',
+    showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster'
   },
 
   // sftp

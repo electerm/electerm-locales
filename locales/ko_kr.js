@@ -90,8 +90,7 @@ const lang = {
     addToQueue: '목록에 추가해',
     execute: '실행하다',
     finished: '완성된',
-    resolutions: '해상도',
-    showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오'
+    resolutions: '해상도'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: '맞춤형 CSS',
     hideSshConfig: 'ssh-config 카테고리를 숨 깁니다',
     addTimeStampToTermLog: '터미널 로그에 타임 스탬프를 추가하십시오',
-    terminalBackSpaceMode: '터미널 백 스페이스 시퀀스'
+    terminalBackSpaceMode: '터미널 백 스페이스 시퀀스',
+    showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오'
   },
 
   // sftp

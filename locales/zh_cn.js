@@ -90,8 +90,7 @@ const lang = {
     addToQueue: '添加到队列',
     execute: '执行',
     finished: '完成的',
-    resolutions: '分辨率',
-    showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件'
+    resolutions: '分辨率'
   },
 
   // control buttons
@@ -215,7 +214,8 @@ const lang = {
     customCss: '自定义CSS',
     hideSshConfig: '隐藏ssh-config类别',
     addTimeStampToTermLog: '将时间戳添加到终端日志',
-    terminalBackSpaceMode: '终端backspace序列'
+    terminalBackSpaceMode: '终端backspace序列',
+    showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件'
   },
 
   // sftp
