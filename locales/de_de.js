@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'zur Warteschlange hinzufügen',
     execute: 'ausführen',
     finished: 'fertig',
-    resolutions: 'Auflösung'
+    resolutions: 'Auflösung',
+    showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an'
   },
 
   // control buttons

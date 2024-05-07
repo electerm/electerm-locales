@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'ajouter à la liste',
     execute: 'exécuter',
     finished: 'terminé',
-    resolutions: 'Résolution'
+    resolutions: 'Résolution',
+    showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start'
   },
 
   // control buttons

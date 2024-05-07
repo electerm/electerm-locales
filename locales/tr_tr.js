@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'Sıraya ekle',
     execute: 'uygulamak',
     finished: 'bitmiş',
-    resolutions: 'Çözünürlük'
+    resolutions: 'Çözünürlük',
+    showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster'
   },
 
   // control buttons

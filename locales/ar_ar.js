@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'إضافة إلى قائمة الانتظار',
     execute: 'ينفذ',
     finished: 'انتهى',
-    resolutions: 'الدقة'
+    resolutions: 'الدقة',
+    showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start'
   },
 
   // control buttons

@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'add to queue',
     execute: 'execute',
     finished: 'finished',
-    resolutions: 'resolutions'
+    resolutions: 'resolutions',
+    showHiddenFilesOnSftpStart: 'show hidden files on sftp start'
   },
 
   // control buttons

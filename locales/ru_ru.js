@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'добавить в очередь',
     execute: 'выполнять',
     finished: 'законченный',
-    resolutions: 'Разрешение'
+    resolutions: 'Разрешение',
+    showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start'
   },
 
   // control buttons

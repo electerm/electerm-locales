@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'キューに追加する',
     execute: '実行する',
     finished: '終了した',
-    resolutions: '解像度'
+    resolutions: '解像度',
+    showHiddenFilesOnSftpStart: 'SFTPの開始に非表示ファイルを表示します'
   },
 
   // control buttons

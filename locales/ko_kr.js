@@ -90,7 +90,8 @@ const lang = {
     addToQueue: '목록에 추가해',
     execute: '실행하다',
     finished: '완성된',
-    resolutions: '해상도'
+    resolutions: '해상도',
+    showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오'
   },
 
   // control buttons
