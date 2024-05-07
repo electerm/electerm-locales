@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: 'استيراد من ملف CSV',
     addToQueue: 'إضافة إلى قائمة الانتظار',
     execute: 'ينفذ',
-    finished: 'انتهى'
+    finished: 'انتهى',
+    resolutions: 'الدقة'
   },
 
   // control buttons

@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: 'Importer à partir du fichier CSV',
     addToQueue: 'ajouter à la liste',
     execute: 'exécuter',
-    finished: 'terminé'
+    finished: 'terminé',
+    resolutions: 'Résolution'
   },
 
   // control buttons

@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: 'импорт из файла CSV',
     addToQueue: 'добавить в очередь',
     execute: 'выполнять',
-    finished: 'законченный'
+    finished: 'законченный',
+    resolutions: 'Разрешение'
   },
 
   // control buttons

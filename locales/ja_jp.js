@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: 'CSVファイルからのインポート',
     addToQueue: 'キューに追加する',
     execute: '実行する',
-    finished: '終了した'
+    finished: '終了した',
+    resolutions: '解像度'
   },
 
   // control buttons

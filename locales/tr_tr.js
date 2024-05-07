@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: 'CSV dosyasından içe aktarın',
     addToQueue: 'Sıraya ekle',
     execute: 'uygulamak',
-    finished: 'bitmiş'
+    finished: 'bitmiş',
+    resolutions: 'Çözünürlük'
   },
 
   // control buttons

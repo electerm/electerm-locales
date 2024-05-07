@@ -89,7 +89,8 @@ const lang = {
     importFromCSV: '從CSV文件中導入',
     addToQueue: '添加到隊列',
     execute: '執行',
-    finished: '完成的'
+    finished: '完成的',
+    resolutions: '解析度'
   },
 
   // control buttons
