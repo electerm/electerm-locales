@@ -357,7 +357,8 @@ const lang = {
     localPort: 'местный порт',
     localToRemote: 'Перемесить локальное соединение на удаленный сервер',
     remoteToLocal: 'Перемесить удаленное соединение с локальным сервером',
-    sftpPathFollowSsh: 'Синхронизация пути SFTP с терминалом'
+    sftpPathFollowSsh: 'Синхронизация пути SFTP с терминалом',
+    dynamicPortForwarding: 'динамическая пересылка порта'
   },
 
   // terminal themes

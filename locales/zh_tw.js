@@ -357,7 +357,8 @@ const lang = {
     localPort: '本地端口',
     localToRemote: '將本地連接轉發到遠程服務器',
     remoteToLocal: '轉發遠程連接到本地服務器',
-    sftpPathFollowSsh: 'SFTP路徑與終端同步'
+    sftpPathFollowSsh: 'SFTP路徑與終端同步',
+    dynamicPortForwarding: '動態端口轉發'
   },
 
   // terminal themes
