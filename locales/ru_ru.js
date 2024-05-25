@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'Отображение необработанного текста в терминале',
     supportRegexp: 'Поддержка регулярных выражений',
     keywordsHighlight: 'Подсветка ключевых слов',
-    keyword: 'ключевое слово'
+    keyword: 'ключевое слово',
+    viewOnly: 'Только просмотр',
+    scaleViewport: 'Масштабировать окно просмотра'
   },
 
   // ssh terminal

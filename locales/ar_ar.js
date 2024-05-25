@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'عرض النص الخام في المحطة',
     supportRegexp: 'دعم التعبير العادي',
     keywordsHighlight: 'تسليط الضوء على الكلمات الرئيسية',
-    keyword: 'الكلمة الرئيسية'
+    keyword: 'الكلمة الرئيسية',
+    viewOnly: 'عرض فقط',
+    scaleViewport: 'تحجيم نافذة العرض'
   },
 
   // ssh terminal

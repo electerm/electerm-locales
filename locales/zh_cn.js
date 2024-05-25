@@ -331,7 +331,9 @@ const lang = {
     displayRaw: '在终端显示原始文本',
     supportRegexp: '支持正则表达式',
     keywordsHighlight: '关键词高亮',
-    keyword: '关键词'
+    keyword: '关键词',
+    viewOnly: '仅查看',
+    scaleViewport: '缩放视口'
   },
 
   // ssh terminal

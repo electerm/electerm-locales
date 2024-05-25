@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'Terminalde ham metni görüntüleyin',
     supportRegexp: 'Düzenli ifade desteği',
     keywordsHighlight: 'Anahtar kelime vurgulama',
-    keyword: 'anahtar kelime'
+    keyword: 'anahtar kelime',
+    viewOnly: 'Yalnızca Görüntüle',
+    scaleViewport: 'Görüntüleme Alanını Ölçeklendir'
   },
 
   // ssh terminal

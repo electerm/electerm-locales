@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'Exibir texto bruto no terminal',
     supportRegexp: 'Suporta expressões regulares',
     keywordsHighlight: 'Destaque de palavras-chave',
-    keyword: 'palavra -chave'
+    keyword: 'palavra -chave',
+    viewOnly: 'Apenas Visualização',
+    scaleViewport: 'Escalar Janela de Visualização'
   },
 
   // ssh terminal

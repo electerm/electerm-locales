@@ -331,7 +331,9 @@ const lang = {
     displayRaw: '在終端顯示原始文本',
     supportRegexp: '支援正則表達式',
     keywordsHighlight: '關鍵字高亮',
-    keyword: '關鍵詞'
+    keyword: '關鍵詞',
+    viewOnly: '僅檢視',
+    scaleViewport: '縮放視窗'
   },
 
   // ssh terminal

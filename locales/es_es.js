@@ -332,7 +332,9 @@ const lang = {
     displayRaw: 'Muestra texto en bruto en la terminal',
     supportRegexp: 'Soporta expresiones regulares',
     keywordsHighlight: 'Resaltar palabras clave',
-    keyword: 'palabra clave'
+    keyword: 'palabra clave',
+    viewOnly: 'Solo Vista',
+    scaleViewport: 'Escalar Ventana'
   },
 
   // ssh terminal

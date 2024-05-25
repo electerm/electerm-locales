@@ -331,7 +331,10 @@ const lang = {
     displayRaw: 'display raw text in terminal',
     supportRegexp: 'support regular expression',
     keywordsHighlight: 'keywords highlight',
-    keyword: 'keyword'
+    keyword: 'keyword',
+    viewOnly: 'view only',
+    viewOnly: 'view only',
+    scaleViewport: 'view only'
   },
 
   // ssh terminal

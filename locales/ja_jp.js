@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'ターミナルに生のテキストを表示します',
     supportRegexp: '正規表現をサポート',
     keywordsHighlight: 'キーワードのハイライト',
-    keyword: 'キーワード'
+    keyword: 'キーワード',
+    viewOnly: '表示のみ',
+    scaleViewport: 'ビューポートのスケール'
   },
 
   // ssh terminal

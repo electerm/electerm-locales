@@ -30,6 +30,21 @@ const supported = {
   ko: 'ko_kr'
 }
 
+const mapper = {
+  en: 'English',
+  'zh-CN': '简体中文',
+  es: 'Español',
+  ru: 'русский',
+  tr: 'Türkçe',
+  fr: 'Français',
+  pt: 'Português',
+  'zh-TW': '繁體中文',
+  ja: '日本語',
+  ar: 'العربية',
+  de: 'Deutsch',
+  ko: '한국어'
+}
+
 async function run () {
   const keys = to
     ? to.split(',')
@@ -40,7 +55,8 @@ async function run () {
       console.log(k, text)
       await add(v, text)
     } else {
-      let translated = false
+      const data = process.env.data ? JSON.parse(process.env.data) : {}
+      let translated = data[k]
       while (!translated) {
         translated = await translate({
           text,
@@ -51,7 +67,7 @@ async function run () {
           console.log('trans error', e)
         })
       }
-      console.log(k, translated)
+      console.log(k, mapper[k], '==>', translated)
       await add(v, translated)
     }
   }

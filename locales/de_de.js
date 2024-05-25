@@ -331,7 +331,9 @@ const lang = {
     displayRaw: 'Rohtext im Terminal anzeigen',
     supportRegexp: 'Unterstützt reguläre Ausdrücke',
     keywordsHighlight: 'Stichwort-Hervorhebung',
-    keyword: 'Stichwort'
+    keyword: 'Stichwort',
+    viewOnly: 'Nur anzeigen',
+    scaleViewport: 'Ansichtsfenster skalieren'
   },
 
   // ssh terminal

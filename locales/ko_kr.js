@@ -331,7 +331,9 @@ const lang = {
     displayRaw: '터미널에 원시 텍스트를 표시합니다',
     supportRegexp: '정규 표현식 지원',
     keywordsHighlight: '키워드 하이라이트',
-    keyword: '예어'
+    keyword: '예어',
+    viewOnly: '보기만',
+    scaleViewport: '뷰포트 크기 조정'
   },
 
   // ssh terminal
