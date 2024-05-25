@@ -333,8 +333,7 @@ const lang = {
     keywordsHighlight: 'keywords highlight',
     keyword: 'keyword',
     viewOnly: 'view only',
-    viewOnly: 'view only',
-    scaleViewport: 'view only'
+    scaleViewport: 'scale viewport'
   },
 
   // ssh terminal
