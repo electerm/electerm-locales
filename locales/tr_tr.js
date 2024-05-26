@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'Anahtar kelime vurgulama',
     keyword: 'anahtar kelime',
     viewOnly: 'Yalnızca Görüntüle',
-    scaleViewport: 'Görüntüleme Alanını Ölçeklendir'
+    scaleViewport: 'Görüntüleme Alanını Ölçeklendir',
+    credentialsRequired: 'Kimlik Bilgileri Gerekli'
   },
 
   // ssh terminal

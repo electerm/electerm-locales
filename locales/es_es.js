@@ -334,7 +334,8 @@ const lang = {
     keywordsHighlight: 'Resaltar palabras clave',
     keyword: 'palabra clave',
     viewOnly: 'Solo Vista',
-    scaleViewport: 'Escalar Ventana'
+    scaleViewport: 'Escalar Ventana',
+    credentialsRequired: 'Credenciales Requeridas'
   },
 
   // ssh terminal

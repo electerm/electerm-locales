@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'キーワードのハイライト',
     keyword: 'キーワード',
     viewOnly: '表示のみ',
-    scaleViewport: 'ビューポートのスケール'
+    scaleViewport: 'ビューポートのスケール',
+    credentialsRequired: '資格情報が必要です'
   },
 
   // ssh terminal

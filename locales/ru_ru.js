@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'Подсветка ключевых слов',
     keyword: 'ключевое слово',
     viewOnly: 'Только просмотр',
-    scaleViewport: 'Масштабировать окно просмотра'
+    scaleViewport: 'Масштабировать окно просмотра',
+    credentialsRequired: 'Требуются учетные данные'
   },
 
   // ssh terminal

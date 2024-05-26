@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'Stichwort-Hervorhebung',
     keyword: 'Stichwort',
     viewOnly: 'Nur anzeigen',
-    scaleViewport: 'Ansichtsfenster skalieren'
+    scaleViewport: 'Ansichtsfenster skalieren',
+    credentialsRequired: 'Anmeldeinformationen erforderlich'
   },
 
   // ssh terminal

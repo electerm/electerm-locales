@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'تسليط الضوء على الكلمات الرئيسية',
     keyword: 'الكلمة الرئيسية',
     viewOnly: 'عرض فقط',
-    scaleViewport: 'تحجيم نافذة العرض'
+    scaleViewport: 'تحجيم نافذة العرض',
+    credentialsRequired: 'مطلوب بيانات الاعتماد'
   },
 
   // ssh terminal

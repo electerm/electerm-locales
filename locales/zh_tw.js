@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: '關鍵字高亮',
     keyword: '關鍵詞',
     viewOnly: '僅檢視',
-    scaleViewport: '縮放視窗'
+    scaleViewport: '縮放視窗',
+    credentialsRequired: '需要憑證'
   },
 
   // ssh terminal

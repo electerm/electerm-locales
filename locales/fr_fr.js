@@ -333,7 +333,8 @@ const lang = {
     keywordsHighlight: 'Mise en évidence des mots clés',
     keyword: 'mot-clé',
     viewOnly: 'Afficher Seulement',
-    scaleViewport: 'Redimensionner la Vue'
+    scaleViewport: 'Redimensionner la Vue',
+    credentialsRequired: 'Identifiants Requis'
   },
 
   // ssh terminal
