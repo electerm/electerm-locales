@@ -334,7 +334,8 @@ const lang = {
     keyword: 'الكلمة الرئيسية',
     viewOnly: 'عرض فقط',
     scaleViewport: 'تحجيم نافذة العرض',
-    credentialsRequired: 'مطلوب بيانات الاعتماد'
+    credentialsRequired: 'مطلوب بيانات الاعتماد',
+    profiles: 'الملفات الشخصية'
   },
 
   // ssh terminal

@@ -334,7 +334,8 @@ const lang = {
     keyword: '예어',
     viewOnly: '보기만',
     scaleViewport: '뷰포트 크기 조정',
-    credentialsRequired: '자격 증명 필요'
+    credentialsRequired: '자격 증명 필요',
+    profiles: '프로필'
   },
 
   // ssh terminal

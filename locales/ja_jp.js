@@ -334,7 +334,8 @@ const lang = {
     keyword: 'キーワード',
     viewOnly: '表示のみ',
     scaleViewport: 'ビューポートのスケール',
-    credentialsRequired: '資格情報が必要です'
+    credentialsRequired: '資格情報が必要です',
+    profiles: 'プロファイル'
   },
 
   // ssh terminal

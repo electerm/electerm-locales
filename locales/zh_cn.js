@@ -334,7 +334,8 @@ const lang = {
     keyword: '关键词',
     viewOnly: '仅查看',
     scaleViewport: '缩放视口',
-    credentialsRequired: '需要凭证'
+    credentialsRequired: '需要凭证',
+    profiles: '配置文件'
   },
 
   // ssh terminal

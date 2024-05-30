@@ -334,7 +334,8 @@ const lang = {
     keyword: 'Stichwort',
     viewOnly: 'Nur anzeigen',
     scaleViewport: 'Ansichtsfenster skalieren',
-    credentialsRequired: 'Anmeldeinformationen erforderlich'
+    credentialsRequired: 'Anmeldeinformationen erforderlich',
+    profiles: 'Profile'
   },
 
   // ssh terminal

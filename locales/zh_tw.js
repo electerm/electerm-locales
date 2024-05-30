@@ -334,7 +334,8 @@ const lang = {
     keyword: '關鍵詞',
     viewOnly: '僅檢視',
     scaleViewport: '縮放視窗',
-    credentialsRequired: '需要憑證'
+    credentialsRequired: '需要憑證',
+    profiles: '設定檔'
   },
 
   // ssh terminal

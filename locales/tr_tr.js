@@ -334,7 +334,8 @@ const lang = {
     keyword: 'anahtar kelime',
     viewOnly: 'Yalnızca Görüntüle',
     scaleViewport: 'Görüntüleme Alanını Ölçeklendir',
-    credentialsRequired: 'Kimlik Bilgileri Gerekli'
+    credentialsRequired: 'Kimlik Bilgileri Gerekli',
+    profiles: 'Profiller'
   },
 
   // ssh terminal
