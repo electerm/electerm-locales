@@ -335,7 +335,8 @@ const lang = {
     viewOnly: 'Yalnızca Görüntüle',
     scaleViewport: 'Görüntüleme Alanını Ölçeklendir',
     credentialsRequired: 'Kimlik Bilgileri Gerekli',
-    profiles: 'Profiller'
+    profiles: 'Profiller',
+    profileName: 'Profil Adı'
   },
 
   // ssh terminal

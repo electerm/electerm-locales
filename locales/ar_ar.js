@@ -335,7 +335,8 @@ const lang = {
     viewOnly: 'عرض فقط',
     scaleViewport: 'تحجيم نافذة العرض',
     credentialsRequired: 'مطلوب بيانات الاعتماد',
-    profiles: 'الملفات الشخصية'
+    profiles: 'الملفات الشخصية',
+    profileName: 'اسم الملف الشخصي'
   },
 
   // ssh terminal

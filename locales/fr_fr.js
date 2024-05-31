@@ -335,7 +335,8 @@ const lang = {
     viewOnly: 'Afficher Seulement',
     scaleViewport: 'Redimensionner la Vue',
     credentialsRequired: 'Identifiants Requis',
-    profiles: 'Profils'
+    profiles: 'Profils',
+    profileName: 'Nom du Profil'
   },
 
   // ssh terminal

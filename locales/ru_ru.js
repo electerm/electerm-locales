@@ -335,7 +335,8 @@ const lang = {
     viewOnly: 'Только просмотр',
     scaleViewport: 'Масштабировать окно просмотра',
     credentialsRequired: 'Требуются учетные данные',
-    profiles: 'Профили'
+    profiles: 'Профили',
+    profileName: 'Имя профиля'
   },
 
   // ssh terminal

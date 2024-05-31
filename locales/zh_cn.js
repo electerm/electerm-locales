@@ -335,7 +335,8 @@ const lang = {
     viewOnly: '仅查看',
     scaleViewport: '缩放视口',
     credentialsRequired: '需要凭证',
-    profiles: '配置文件'
+    profiles: '配置文件',
+    profileName: '配置文件名称'
   },
 
   // ssh terminal
