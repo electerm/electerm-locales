@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'ssh-configカテゴリを非表示にします',
     addTimeStampToTermLog: '端末ログにタイムスタンプを追加します',
     terminalBackSpaceMode: '端子バックスペースシーケンス',
-    showHiddenFilesOnSftpStart: 'SFTPの開始に非表示ファイルを表示します'
+    showHiddenFilesOnSftpStart: 'SFTPの開始に非表示ファイルを表示します',
+    hideIP: 'IPアドレスを隠す'
   },
 
   // sftp

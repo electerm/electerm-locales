@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: '隐藏ssh-config类别',
     addTimeStampToTermLog: '将时间戳添加到终端日志',
     terminalBackSpaceMode: '终端backspace序列',
-    showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件'
+    showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件',
+    hideIP: '隐藏 IP 地址'
   },
 
   // sftp

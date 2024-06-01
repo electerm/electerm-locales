@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'SSH-Config kategorisini gizle',
     addTimeStampToTermLog: 'Terminal günlüğüne zaman damgası ekleyin',
     terminalBackSpaceMode: 'Terminal Backspace Sırası',
-    showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster'
+    showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster',
+    hideIP: 'IP adresini gizle'
   },
 
   // sftp

@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'Catégorie Hide Ssh-Config',
     addTimeStampToTermLog: 'Ajouter l\'horodatage au journal terminal',
     terminalBackSpaceMode: 'Séquence de borne de borne',
-    showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start'
+    showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start',
+    hideIP: 'Masquer l\'adresse IP'
   },
 
   // sftp

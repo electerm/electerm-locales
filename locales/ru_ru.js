@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'Скрыть категорию SSH-Config',
     addTimeStampToTermLog: 'Добавить временную метку в журнал терминала',
     terminalBackSpaceMode: 'терминальная последовательность обратного пространства',
-    showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start'
+    showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start',
+    hideIP: 'Скрыть IP-адрес'
   },
 
   // sftp

@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'ssh-config 카테고리를 숨 깁니다',
     addTimeStampToTermLog: '터미널 로그에 타임 스탬프를 추가하십시오',
     terminalBackSpaceMode: '터미널 백 스페이스 시퀀스',
-    showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오'
+    showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오',
+    hideIP: 'IP 주소 숨기기'
   },
 
   // sftp

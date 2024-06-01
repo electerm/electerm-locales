@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'hide ssh-config category',
     addTimeStampToTermLog: 'add timestamp to terminal log',
     terminalBackSpaceMode: 'terminal backspace sequence',
-    showHiddenFilesOnSftpStart: 'show hidden files on sftp start'
+    showHiddenFilesOnSftpStart: 'show hidden files on sftp start',
+    hideIP: 'hide IP'
   },
 
   // sftp

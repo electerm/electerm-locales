@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'SSH-Config-Kategorie ausblenden',
     addTimeStampToTermLog: 'Fügen Sie dem Terminalprotokoll Zeitstempel hinzu',
     terminalBackSpaceMode: 'Endraumsequenz',
-    showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an'
+    showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an',
+    hideIP: 'IP-Adresse verbergen'
   },
 
   // sftp

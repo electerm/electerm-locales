@@ -215,7 +215,8 @@ const lang = {
     hideSshConfig: 'إخفاء فئة SSH-Config',
     addTimeStampToTermLog: 'أضف الطابع الزمني إلى سجل الطرفية',
     terminalBackSpaceMode: 'تسلسل مساحة الخلفية الطرفية',
-    showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start'
+    showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start',
+    hideIP: 'إخفاء عنوان IP'
   },
 
   // sftp
