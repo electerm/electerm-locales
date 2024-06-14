@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: 'تحجيم نافذة العرض',
     credentialsRequired: 'مطلوب بيانات الاعتماد',
     profiles: 'الملفات الشخصية',
-    profileName: 'اسم الملف الشخصي'
+    profileName: 'اسم الملف الشخصي',
+    preDefinedKeyboardInteractiveData: 'أزواج الاسم/القيمة التفاعلية المحددة مسبقًا للوحة المفاتيح'
   },
 
   // ssh terminal

@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: '缩放视口',
     credentialsRequired: '需要凭证',
     profiles: '配置文件',
-    profileName: '配置文件名称'
+    profileName: '配置文件名称',
+    preDefinedKeyboardInteractiveData: '预定义的键盘交互名称/值对'
   },
 
   // ssh terminal

@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: 'scale viewport',
     credentialsRequired: 'credentials required',
     profiles: 'profiles',
-    profileName: 'profile name'
+    profileName: 'profile name',
+    preDefinedKeyboardInteractiveData: 'pre-defined keyboard interactive name/value pairs'
   },
 
   // ssh terminal

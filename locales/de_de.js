@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: 'Ansichtsfenster skalieren',
     credentialsRequired: 'Anmeldeinformationen erforderlich',
     profiles: 'Profile',
-    profileName: 'Profilname'
+    profileName: 'Profilname',
+    preDefinedKeyboardInteractiveData: 'vordefinierte interaktive Name/Wert-Paare für die Tastatur'
   },
 
   // ssh terminal

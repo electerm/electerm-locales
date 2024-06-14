@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: 'ビューポートのスケール',
     credentialsRequired: '資格情報が必要です',
     profiles: 'プロファイル',
-    profileName: 'プロファイル名'
+    profileName: 'プロファイル名',
+    preDefinedKeyboardInteractiveData: '事前定義されたキーボードインタラクティブな名前/値のペア'
   },
 
   // ssh terminal

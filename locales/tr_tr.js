@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: 'Görüntüleme Alanını Ölçeklendir',
     credentialsRequired: 'Kimlik Bilgileri Gerekli',
     profiles: 'Profiller',
-    profileName: 'Profil Adı'
+    profileName: 'Profil Adı',
+    preDefinedKeyboardInteractiveData: 'önceden tanımlanmış etkileşimli klavye ad/değer çiftleri'
   },
 
   // ssh terminal

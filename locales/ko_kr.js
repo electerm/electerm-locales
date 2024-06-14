@@ -337,7 +337,8 @@ const lang = {
     scaleViewport: '뷰포트 크기 조정',
     credentialsRequired: '자격 증명 필요',
     profiles: '프로필',
-    profileName: '프로필 이름'
+    profileName: '프로필 이름',
+    preDefinedKeyboardInteractiveData: '사전 정의된 키보드 인터랙티브 이름/값 쌍'
   },
 
   // ssh terminal
