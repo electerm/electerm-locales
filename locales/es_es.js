@@ -339,7 +339,7 @@ const lang = {
     credentialsRequired: 'Credenciales Requeridas',
     profiles: 'Perfiles',
     profileName: 'Nombre del Perfil',
-    preDefinedKeyboardInteractiveData: 'pares de nombre/valor interactivos del teclado predefinidos'
+    interactiveValues: 'valores interactivos del teclado predefinidos'
   },
 
   // ssh terminal

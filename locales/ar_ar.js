@@ -338,7 +338,7 @@ const lang = {
     credentialsRequired: 'مطلوب بيانات الاعتماد',
     profiles: 'الملفات الشخصية',
     profileName: 'اسم الملف الشخصي',
-    preDefinedKeyboardInteractiveData: 'أزواج الاسم/القيمة التفاعلية المحددة مسبقًا للوحة المفاتيح'
+    interactiveValues: 'القيم التفاعلية المحددة مسبقًا للوحة المفاتيح'
   },
 
   // ssh terminal
