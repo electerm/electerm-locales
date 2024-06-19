@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'عميل الطرفية / SSH / SFTP / تلنت / المنفذ التسلسلي (لينكس ، ماك ، ويندوز)',
     isRunning: 'قيد التشغيل',
     press: 'اضغط',
     toShow: 'لإظهار',
     changeLog: 'سجل التغييرات',
     knownIssues: 'المشاكل المعروفة',
     sponsorElecterm: 'راعي electerm',
-    privacyNotice: 'إشعار الخصوصية'
+    privacyNotice: 'إشعار الخصوصية',
+    desc: 'عميل طرفية/ssh/sftp/telnet/منفذ تسلسلي/RDP/VNC (لينكس، ماك، وين)'
   },
 
   // app menu

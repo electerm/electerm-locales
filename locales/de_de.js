@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'Terminal/SSH/SFTP/Telnet/Serieller Port-Client (Linux, Mac, Windows)',
     isRunning: 'läuft',
     press: 'drücken',
     toShow: 'zeigen',
     changeLog: 'Änderungsprotokoll',
     knownIssues: 'Bekannte Probleme',
     sponsorElecterm: 'Förderer von electerm',
-    privacyNotice: 'Datenschutzerklärung'
+    privacyNotice: 'Datenschutzerklärung',
+    desc: 'Terminal/ssh/sftp/telnet/Seriellport-/RDP-/VNC-Client (Linux, Mac, Win)'
   },
 
   // app menu

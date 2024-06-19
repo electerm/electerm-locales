@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'ターミナル/SSH/SFTP/Telnet/シリアルポートクライアント（Linux、Mac、Windows）',
     isRunning: '実行中',
     press: '押す',
     toShow: '表示',
     changeLog: '更新履歴',
     knownIssues: '既知の問題',
     sponsorElecterm: 'electerm をスポンサー',
-    privacyNotice: 'プライバシー通知'
+    privacyNotice: 'プライバシー通知',
+    desc: 'ターミナル/ssh/sftp/telnet/シリアルポート/RDP/VNCクライアント（linux、mac、win）'
   },
 
   // app menu

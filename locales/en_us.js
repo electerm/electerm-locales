@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'Terminal/ssh/sftp/telnet/serialport client(linux, mac, win)',
     isRunning: 'is running',
     press: 'press',
     toShow: 'to show',
     changeLog: 'change log',
     knownIssues: 'known issues',
     sponsorElecterm: 'sponsor electerm',
-    privacyNotice: 'privacy notice'
+    privacyNotice: 'privacy notice',
+    desc: 'Terminal/ssh/sftp/telnet/serialport/RDP/VNC client(linux, mac, win)'
   },
 
   // app menu

@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: '终端/SSH/SFTP/Telnet/串口客户端(Linux, Mac, Windows)',
     isRunning: '运行中',
     press: '按',
     toShow: '显示',
     changeLog: '更新日志',
     knownIssues: '已知问题',
     sponsorElecterm: '赞助 Electerm',
-    privacyNotice: '隐私声明'
+    privacyNotice: '隐私声明',
+    desc: '终端/ssh/sftp/telnet/串口/RDP/VNC客户端（Linux、Mac、Win）'
   },
 
   // app menu

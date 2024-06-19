@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'Terminal/SSH/SFTP/Telnet/Seri port istemcisi (Linux, Mac, Windows)',
     isRunning: 'çalışıyor',
     press: 'bas',
     toShow: 'göster',
     changeLog: 'Değişiklik Günlüğü',
     knownIssues: 'Bilinen Sorunlar',
     sponsorElecterm: 'electerm\'i sponsor et',
-    privacyNotice: 'gizlilik bildirimi'
+    privacyNotice: 'gizlilik bildirimi',
+    desc: 'Terminal/ssh/sftp/telnet/seriport/RDP/VNC istemcisi (linux, mac, win)'
   },
 
   // app menu

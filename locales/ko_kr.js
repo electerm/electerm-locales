@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: '터미널/SSH/SFTP/Telnet/시리얼 포트 클라이언트 (Linux, Mac, Windows)',
     isRunning: '이 실행되고 있습니다.',
     press: '누르기',
     toShow: '보기',
     changeLog: '변경 로그',
     knownIssues: '알려진 문제',
     sponsorElecterm: 'electerm 후원',
-    privacyNotice: '개인 정보 보호 통지'
+    privacyNotice: '개인 정보 보호 통지',
+    desc: '터미널/ssh/sftp/telnet/시리얼포트/RDP/VNC 클라이언트 (리눅스, 맥, 윈도우)'
   },
 
   // app menu

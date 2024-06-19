@@ -5,14 +5,14 @@ const lang = {
 
   // app desc
   app: {
-    desc: 'Клиент терминала/SSH/SFTP/Telnet/серийный порт (Linux, Mac, Windows)',
     isRunning: 'выполняется',
     press: 'нажмите',
     toShow: 'для отображения',
     changeLog: 'Журнал изменений',
     knownIssues: 'Известные вопросы',
     sponsorElecterm: 'спонсировать electerm',
-    privacyNotice: 'Уведомление о конфиденциальности'
+    privacyNotice: 'Уведомление о конфиденциальности',
+    desc: 'Клиент терминала/ssh/sftp/telnet/последовательного порта/RDP/VNC (linux, mac, win)'
   },
 
   // app menu
