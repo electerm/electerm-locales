@@ -91,7 +91,8 @@ const lang = {
     addToQueue: 'añadir a la cola',
     execute: 'ejecutar',
     finished: 'terminado',
-    resolutions: 'resolución'
+    resolutions: 'resolución',
+    addressBookmarks: 'marcadores de direcciones'
   },
 
   // control buttons

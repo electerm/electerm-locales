@@ -90,7 +90,8 @@ const lang = {
     addToQueue: '添加到队列',
     execute: '执行',
     finished: '完成的',
-    resolutions: '分辨率'
+    resolutions: '分辨率',
+    addressBookmarks: '地址书签'
   },
 
   // control buttons

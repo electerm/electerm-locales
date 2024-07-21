@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'إضافة إلى قائمة الانتظار',
     execute: 'ينفذ',
     finished: 'انتهى',
-    resolutions: 'الدقة'
+    resolutions: 'الدقة',
+    addressBookmarks: 'إشارات مرجعية للعناوين'
   },
 
   // control buttons

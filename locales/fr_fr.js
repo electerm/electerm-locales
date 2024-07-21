@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'ajouter à la liste',
     execute: 'exécuter',
     finished: 'terminé',
-    resolutions: 'Résolution'
+    resolutions: 'Résolution',
+    addressBookmarks: 'signets d`adresses'
   },
 
   // control buttons

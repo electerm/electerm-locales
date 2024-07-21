@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'zur Warteschlange hinzufügen',
     execute: 'ausführen',
     finished: 'fertig',
-    resolutions: 'Auflösung'
+    resolutions: 'Auflösung',
+    addressBookmarks: 'Adress-Lesezeichen'
   },
 
   // control buttons

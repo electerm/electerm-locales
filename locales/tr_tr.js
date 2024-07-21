@@ -90,7 +90,8 @@ const lang = {
     addToQueue: 'Sıraya ekle',
     execute: 'uygulamak',
     finished: 'bitmiş',
-    resolutions: 'Çözünürlük'
+    resolutions: 'Çözünürlük',
+    addressBookmarks: 'adres yer imleri'
   },
 
   // control buttons
