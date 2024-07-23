@@ -13,6 +13,16 @@ const p = resolve(cwd, 'locales')
 const dist = resolve(cwd, 'dist')
 const esm = resolve(cwd, 'esm')
 
+function flattenLangObject (obj) {
+  return Object.keys(obj).reduce((pre, k) => {
+    const v = obj[k]
+    return {
+      ...pre,
+      ...v
+    }
+  }, {})
+}
+
 async function run () {
   rm('-rf', dist)
   rm('-rf', esm)
@@ -27,6 +37,7 @@ async function run () {
     const pp = resolve(p, f)
     arr.push(f)
     const js = await import(pp)
+    js.default.lang = flattenLangObject(js.default.lang)
     const tt = resolve(dist, f)
     fs.writeFileSync(tt, prefix + json5.stringify(js.default))
     const tt1 = resolve(esm, f.replace('.js', '.mjs'))
