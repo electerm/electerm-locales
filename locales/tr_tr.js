@@ -339,7 +339,8 @@ const lang = {
     credentialsRequired: 'Kimlik Bilgileri Gerekli',
     profiles: 'Profiller',
     profileName: 'Profil Adı',
-    interactiveValues: 'önceden tanımlanmış etkileşimli klavye değerleri'
+    interactiveValues: 'önceden tanımlanmış etkileşimli klavye değerleri',
+    chooseFromBookmarks: 'Yer imlerinden seç'
   },
 
   // ssh terminal

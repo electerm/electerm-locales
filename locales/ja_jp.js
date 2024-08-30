@@ -339,7 +339,8 @@ const lang = {
     credentialsRequired: '資格情報が必要です',
     profiles: 'プロファイル',
     profileName: 'プロファイル名',
-    interactiveValues: '事前定義されたキーボードインタラクティブな値'
+    interactiveValues: '事前定義されたキーボードインタラクティブな値',
+    chooseFromBookmarks: 'ブックマークから選択'
   },
 
   // ssh terminal

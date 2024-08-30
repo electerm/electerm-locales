@@ -339,7 +339,8 @@ const lang = {
     credentialsRequired: '需要憑證',
     profiles: '設定檔',
     profileName: '設定檔名稱',
-    interactiveValues: '預定義的鍵盤交互值'
+    interactiveValues: '預定義的鍵盤交互值',
+    chooseFromBookmarks: '從書籤中選擇'
   },
 
   // ssh terminal

@@ -339,7 +339,8 @@ const lang = {
     credentialsRequired: 'Требуются учетные данные',
     profiles: 'Профили',
     profileName: 'Имя профиля',
-    interactiveValues: 'предопределённые интерактивные значения для клавиатуры'
+    interactiveValues: 'предопределённые интерактивные значения для клавиатуры',
+    chooseFromBookmarks: 'Выбрать из закладок'
   },
 
   // ssh terminal

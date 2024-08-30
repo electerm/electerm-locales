@@ -339,7 +339,8 @@ const lang = {
     credentialsRequired: 'credentials required',
     profiles: 'profiles',
     profileName: 'profile name',
-    interactiveValues: 'pre-defined keyboard interactive values'
+    interactiveValues: 'pre-defined keyboard interactive values',
+    chooseFromBookmarks: 'choose from bookmarks'
   },
 
   // ssh terminal
