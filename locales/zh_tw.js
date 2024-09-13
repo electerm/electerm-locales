@@ -340,7 +340,8 @@ const lang = {
     profiles: '設定檔',
     profileName: '設定檔名稱',
     interactiveValues: '預定義的鍵盤交互值',
-    chooseFromBookmarks: '從書籤中選擇'
+    chooseFromBookmarks: '從書籤中選擇',
+    editWithColorPicker: '用顏色選擇器編輯'
   },
 
   // ssh terminal

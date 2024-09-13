@@ -340,7 +340,8 @@ const lang = {
     profiles: 'プロファイル',
     profileName: 'プロファイル名',
     interactiveValues: '事前定義されたキーボードインタラクティブな値',
-    chooseFromBookmarks: 'ブックマークから選択'
+    chooseFromBookmarks: 'ブックマークから選択',
+    editWithColorPicker: 'カラーピッカーで編集'
   },
 
   // ssh terminal

@@ -340,7 +340,8 @@ const lang = {
     profiles: 'Profiller',
     profileName: 'Profil Adı',
     interactiveValues: 'önceden tanımlanmış etkileşimli klavye değerleri',
-    chooseFromBookmarks: 'Yer imlerinden seç'
+    chooseFromBookmarks: 'Yer imlerinden seç',
+    editWithColorPicker: 'Renk seçici ile düzenle'
   },
 
   // ssh terminal

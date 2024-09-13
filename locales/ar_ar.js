@@ -340,7 +340,8 @@ const lang = {
     profiles: 'الملفات الشخصية',
     profileName: 'اسم الملف الشخصي',
     interactiveValues: 'القيم التفاعلية المحددة مسبقًا للوحة المفاتيح',
-    chooseFromBookmarks: 'اختر من العلامات المرجعية'
+    chooseFromBookmarks: 'اختر من العلامات المرجعية',
+    editWithColorPicker: 'تعديل باستخدام منتقي الألوان'
   },
 
   // ssh terminal

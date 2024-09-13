@@ -340,7 +340,8 @@ const lang = {
     profiles: 'Profile',
     profileName: 'Profilname',
     interactiveValues: 'vordefinierte interaktive Werte für die Tastatur',
-    chooseFromBookmarks: 'Aus Lesezeichen auswählen'
+    chooseFromBookmarks: 'Aus Lesezeichen auswählen',
+    editWithColorPicker: 'Mit Farbwähler bearbeiten'
   },
 
   // ssh terminal
