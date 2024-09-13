@@ -341,7 +341,8 @@ const lang = {
     profileName: 'プロファイル名',
     interactiveValues: '事前定義されたキーボードインタラクティブな値',
     chooseFromBookmarks: 'ブックマークから選択',
-    editWithColorPicker: 'カラーピッカーで編集'
+    editWithColorPicker: 'カラーピッカーで編集',
+    editWithTextEditor: 'テキストエディタで編集'
   },
 
   // ssh terminal

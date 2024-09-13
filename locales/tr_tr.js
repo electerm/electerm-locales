@@ -341,7 +341,8 @@ const lang = {
     profileName: 'Profil Adı',
     interactiveValues: 'önceden tanımlanmış etkileşimli klavye değerleri',
     chooseFromBookmarks: 'Yer imlerinden seç',
-    editWithColorPicker: 'Renk seçici ile düzenle'
+    editWithColorPicker: 'Renk seçici ile düzenle',
+    editWithTextEditor: 'Metin düzenleyici ile düzenle'
   },
 
   // ssh terminal

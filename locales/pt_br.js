@@ -341,7 +341,8 @@ const lang = {
     profileName: 'Nome do Perfil',
     interactiveValues: 'valores interativos do teclado predefinidos',
     chooseFromBookmarks: 'Escolher dos favoritos',
-    editWithColorPicker: 'Editar com seletor de cor'
+    editWithColorPicker: 'Editar com seletor de cor',
+    editWithTextEditor: 'Editar com editor de texto'
   },
 
   // ssh terminal
