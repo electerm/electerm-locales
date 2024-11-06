@@ -12,7 +12,15 @@ const lang = {
     knownIssues: '既知の問題',
     sponsorElecterm: 'electerm をスポンサー',
     privacyNotice: 'プライバシー通知',
-    desc: 'ターミナル/ssh/sftp/telnet/シリアルポート/RDP/VNCクライアント（linux、mac、win）'
+    desc: 'ターミナル/ssh/sftp/telnet/シリアルポート/RDP/VNCクライアント（linux、mac、win）',
+    single: 'シングル',
+    twoColumns: '二列',
+    threeColumns: '三列',
+    twoRows: '二行',
+    threeRows: '三行',
+    grid2x2: 'グリッド 2x2',
+    twoRowsRight: '右二行',
+    twoColumnsBottom: '下二列'
   },
 
   // app menu

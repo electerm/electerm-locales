@@ -12,7 +12,15 @@ const lang = {
     knownIssues: 'Bilinen Sorunlar',
     sponsorElecterm: 'electerm\'i sponsor et',
     privacyNotice: 'gizlilik bildirimi',
-    desc: 'Terminal/ssh/sftp/telnet/seriport/RDP/VNC istemcisi (linux, mac, win)'
+    desc: 'Terminal/ssh/sftp/telnet/seriport/RDP/VNC istemcisi (linux, mac, win)',
+    single: 'Tek',
+    twoColumns: 'İki Sütun',
+    threeColumns: 'Üç Sütun',
+    twoRows: 'İki Satır',
+    threeRows: 'Üç Satır',
+    grid2x2: 'Izgara 2x2',
+    twoRowsRight: 'Sağda İki Satır',
+    twoColumnsBottom: 'Altta İki Sütun'
   },
 
   // app menu

@@ -12,7 +12,15 @@ const lang = {
     knownIssues: 'Известные вопросы',
     sponsorElecterm: 'спонсировать electerm',
     privacyNotice: 'Уведомление о конфиденциальности',
-    desc: 'Клиент терминала/ssh/sftp/telnet/последовательного порта/RDP/VNC (linux, mac, win)'
+    desc: 'Клиент терминала/ssh/sftp/telnet/последовательного порта/RDP/VNC (linux, mac, win)',
+    single: 'Одиночный',
+    twoColumns: 'Две колонки',
+    threeColumns: 'Три колонки',
+    twoRows: 'Две строки',
+    threeRows: 'Три строки',
+    grid2x2: 'Сетка 2x2',
+    twoRowsRight: 'Две строки справа',
+    twoColumnsBottom: 'Две колонки снизу'
   },
 
   // app menu

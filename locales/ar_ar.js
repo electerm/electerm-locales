@@ -12,7 +12,15 @@ const lang = {
     knownIssues: 'المشاكل المعروفة',
     sponsorElecterm: 'راعي electerm',
     privacyNotice: 'إشعار الخصوصية',
-    desc: 'عميل طرفية/ssh/sftp/telnet/منفذ تسلسلي/RDP/VNC (لينكس، ماك، وين)'
+    desc: 'عميل طرفية/ssh/sftp/telnet/منفذ تسلسلي/RDP/VNC (لينكس، ماك، وين)',
+    single: 'فردي',
+    twoColumns: 'عمودان',
+    threeColumns: 'ثلاثة أعمدة',
+    twoRows: 'صفّان',
+    threeRows: 'ثلاثة صفوف',
+    grid2x2: 'شبكة 2x2',
+    twoRowsRight: 'صفّان إلى اليمين',
+    twoColumnsBottom: 'عمودان في الأسفل'
   },
 
   // app menu

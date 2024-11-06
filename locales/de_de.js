@@ -12,7 +12,15 @@ const lang = {
     knownIssues: 'Bekannte Probleme',
     sponsorElecterm: 'Förderer von electerm',
     privacyNotice: 'Datenschutzerklärung',
-    desc: 'Terminal/ssh/sftp/telnet/Seriellport-/RDP-/VNC-Client (Linux, Mac, Win)'
+    desc: 'Terminal/ssh/sftp/telnet/Seriellport-/RDP-/VNC-Client (Linux, Mac, Win)',
+    single: 'Einzeln',
+    twoColumns: 'Zwei Spalten',
+    threeColumns: 'Drei Spalten',
+    twoRows: 'Zwei Zeilen',
+    threeRows: 'Drei Zeilen',
+    grid2x2: 'Gitter 2x2',
+    twoRowsRight: 'Zwei Zeilen rechts',
+    twoColumnsBottom: 'Zwei Spalten unten'
   },
 
   // app menu

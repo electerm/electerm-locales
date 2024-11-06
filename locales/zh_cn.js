@@ -12,7 +12,15 @@ const lang = {
     knownIssues: '已知问题',
     sponsorElecterm: '赞助 Electerm',
     privacyNotice: '隐私声明',
-    desc: '终端/ssh/sftp/telnet/串口/RDP/VNC客户端（Linux、Mac、Win）'
+    desc: '终端/ssh/sftp/telnet/串口/RDP/VNC客户端（Linux、Mac、Win）',
+    single: '单一',
+    twoColumns: '双列',
+    threeColumns: '三列',
+    twoRows: '双行',
+    threeRows: '三行',
+    grid2x2: '网格 2x2',
+    twoRowsRight: '右侧双行',
+    twoColumnsBottom: '底部双列'
   },
 
   // app menu

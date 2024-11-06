@@ -12,7 +12,15 @@ const lang = {
     knownIssues: '已知問題',
     sponsorElecterm: '贊助 Electerm',
     privacyNotice: '隱私聲明',
-    desc: '終端機/ssh/sftp/telnet/串口/RDP/VNC客戶端（Linux、Mac、Win）'
+    desc: '終端機/ssh/sftp/telnet/串口/RDP/VNC客戶端（Linux、Mac、Win）',
+    single: '單一',
+    twoColumns: '雙欄',
+    threeColumns: '三欄',
+    twoRows: '雙列',
+    threeRows: '三列',
+    grid2x2: '網格 2x2',
+    twoRowsRight: '右側雙列',
+    twoColumnsBottom: '底部雙欄'
   },
 
   // app menu

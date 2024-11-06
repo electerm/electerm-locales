@@ -12,7 +12,15 @@ const lang = {
     knownIssues: 'Problèmes connus',
     sponsorElecterm: 'parrainer electerm',
     privacyNotice: 'avis de confidentialité',
-    desc: 'Client terminal/ssh/sftp/telnet/port série/RDP/VNC (linux, mac, win)'
+    desc: 'Client terminal/ssh/sftp/telnet/port série/RDP/VNC (linux, mac, win)',
+    single: 'Unique',
+    twoColumns: 'Deux colonnes',
+    threeColumns: 'Trois colonnes',
+    twoRows: 'Deux rangées',
+    threeRows: 'Trois rangées',
+    grid2x2: 'Grille 2x2',
+    twoRowsRight: 'Deux rangées à droite',
+    twoColumnsBottom: 'Deux colonnes en bas'
   },
 
   // app menu
