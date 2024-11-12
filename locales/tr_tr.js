@@ -146,7 +146,8 @@ const lang = {
     duplicate: 'çoğalt',
     rename: 'yeniden adlandır',
     openNewTerm: 'yeni terminal aç',
-    sessions: 'oturumlar'
+    sessions: 'oturumlar',
+    cloneToNextLayout: 'Sonraki Düzenlemeye Kopyala'
   },
 
   // main warpper

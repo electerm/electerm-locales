@@ -146,7 +146,8 @@ const lang = {
     duplicate: '복제',
     rename: '이름 바꾸기',
     openNewTerm: '새 터미널 열기',
-    sessions: '세션'
+    sessions: '세션',
+    cloneToNextLayout: '다음 레이아웃으로 복제'
   },
 
   // main warpper

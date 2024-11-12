@@ -146,7 +146,8 @@ const lang = {
     duplicate: 'Duplizieren',
     rename: 'Umbenennen',
     openNewTerm: 'Neuen Terminal öffnen',
-    sessions: 'Sitzungen'
+    sessions: 'Sitzungen',
+    cloneToNextLayout: 'In nächstes Layout klonen'
   },
 
   // main warpper

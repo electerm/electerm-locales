@@ -146,7 +146,8 @@ const lang = {
     duplicate: '複製',
     rename: '重新命名',
     openNewTerm: '開啓新的分頁',
-    sessions: '連線'
+    sessions: '連線',
+    cloneToNextLayout: '複製到下一個佈局'
   },
 
   // main warpper

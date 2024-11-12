@@ -146,7 +146,8 @@ const lang = {
     duplicate: 'duplicate',
     rename: 'rename',
     openNewTerm: 'open new terminal',
-    sessions: 'sessions'
+    sessions: 'sessions',
+    cloneToNextLayout: 'clone to next layout'
   },
 
   // main warpper

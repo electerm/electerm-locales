@@ -146,7 +146,8 @@ const lang = {
     duplicate: '複製',
     rename: '名前を変更',
     openNewTerm: '新しい接続を開く',
-    sessions: 'セッション'
+    sessions: 'セッション',
+    cloneToNextLayout: '次のレイアウトにクローン'
   },
 
   // main warpper

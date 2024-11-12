@@ -146,7 +146,8 @@ const lang = {
     duplicate: 'Дублировать',
     rename: 'Переименовать',
     openNewTerm: 'Открыть новый терминал',
-    sessions: 'Сессии'
+    sessions: 'Сессии',
+    cloneToNextLayout: 'Клонировать в следующий макет'
   },
 
   // main warpper

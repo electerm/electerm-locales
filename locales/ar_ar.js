@@ -146,7 +146,8 @@ const lang = {
     duplicate: 'تكرير',
     rename: 'إعادة تسمية',
     openNewTerm: 'فتح طرفية جديدة',
-    sessions: 'الجلسات'
+    sessions: 'الجلسات',
+    cloneToNextLayout: 'استنساخ إلى التخطيط التالي'
   },
 
   // main warpper
