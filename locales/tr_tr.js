@@ -71,7 +71,8 @@ const lang = {
     reportIssue: 'sorun bildir',
     homepage: 'anasayfa',
     sencondInstanceTip: 'bunu sadece ana pencerede yapabilir',
-    copyFilePath: 'Dosya Yolunu Kopyala'
+    copyFilePath: 'Dosya Yolunu Kopyala',
+    pasteSelected: 'Seçileni Yapıştır'
   },
 
   // common

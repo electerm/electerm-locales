@@ -71,7 +71,8 @@ const lang = {
     reportIssue: 'Reporter une anomalie',
     homepage: 'Accueil',
     sencondInstanceTip: 'ne peut faire que cela dans la fenêtre principale',
-    copyFilePath: 'Copier le chemin du fichier'
+    copyFilePath: 'Copier le chemin du fichier',
+    pasteSelected: 'Coller la sélection'
   },
 
   // common

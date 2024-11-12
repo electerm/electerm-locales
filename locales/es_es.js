@@ -72,7 +72,8 @@ const lang = {
     reportIssue: 'informe de problema',
     homepage: 'página principal',
     sencondInstanceTip: 'solo puede hacer esto en la ventana principal',
-    copyFilePath: 'Copiar ruta del archivo'
+    copyFilePath: 'Copiar ruta del archivo',
+    pasteSelected: 'Pegar seleccionado'
   },
 
   // common

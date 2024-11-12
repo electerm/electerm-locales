@@ -71,7 +71,8 @@ const lang = {
     reportIssue: 'Fehler melden',
     homepage: 'Homepage',
     sencondInstanceTip: 'Dies ist nur im Haupt-Fenster möglich',
-    copyFilePath: 'Dateipfad kopieren'
+    copyFilePath: 'Dateipfad kopieren',
+    pasteSelected: 'Auswahl einfügen'
   },
 
   // common

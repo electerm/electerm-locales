@@ -71,7 +71,8 @@ const lang = {
     reportIssue: 'report issue',
     homepage: 'homepage',
     sencondInstanceTip: 'can only do this in main window',
-    copyFilePath: 'copy file path'
+    copyFilePath: 'copy file path',
+    pasteSelected: 'paste selected'
   },
 
   // common

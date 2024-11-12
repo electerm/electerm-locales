@@ -71,7 +71,8 @@ const lang = {
     reportIssue: '报告问题',
     homepage: '官网',
     sencondInstanceTip: '只能在主窗口中执行此操作',
-    copyFilePath: '复制文件路径'
+    copyFilePath: '复制文件路径',
+    pasteSelected: '粘贴所选内容'
   },
 
   // common

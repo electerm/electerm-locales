@@ -71,7 +71,8 @@ const lang = {
     reportIssue: '문제 보고',
     homepage: '홈페이지',
     sencondInstanceTip: '메인 창에서만 실행할 수 있습니다.',
-    copyFilePath: '파일 경로를 복사하십시오'
+    copyFilePath: '파일 경로를 복사하십시오',
+    pasteSelected: '선택 항목 붙여넣기'
   },
 
   // common

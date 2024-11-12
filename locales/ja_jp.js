@@ -71,7 +71,8 @@ const lang = {
     reportIssue: '問題を報告',
     homepage: 'ホームページ',
     sencondInstanceTip: 'これをメインウィンドウで行うことができます',
-    copyFilePath: 'ファイルパスをコピーします'
+    copyFilePath: 'ファイルパスをコピーします',
+    pasteSelected: '選択したものを貼り付け'
   },
 
   // common

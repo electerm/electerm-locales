@@ -71,7 +71,8 @@ const lang = {
     reportIssue: 'إصدار تقرير',
     homepage: 'الصفحة الرئيسية',
     sencondInstanceTip: 'يمكن أن تفعل هذا فقط في النافذة الرئيسية',
-    copyFilePath: 'نسخ مسار الملف'
+    copyFilePath: 'نسخ مسار الملف',
+    pasteSelected: 'لصق المحدد'
   },
 
   // common
