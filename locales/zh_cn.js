@@ -309,11 +309,11 @@ const lang = {
   // ssh form
   form: {
     password: '密码',
-    privateKey: '私匙',
-    privateKeyDesc: '私匙字符串',
+    privateKey: '私钥',
+    privateKeyDesc: '私钥字符串',
     importFromFile: '从文件导入',
-    passphrase: '私匙密码',
-    passphraseDesc: '私匙的密码',
+    passphrase: '私钥密码',
+    passphraseDesc: '私钥的密码',
     host: '主机地址',
     username: '用户名',
     port: '端口',
