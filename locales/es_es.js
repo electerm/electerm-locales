@@ -23,7 +23,8 @@ const lang = {
     twoRowsRight: 'Dos filas a la derecha',
     twoColumnsBottom: 'Dos columnas abajo',
     troubleShoot: 'solucionar problemas',
-    clearConfig: 'borrar configuración'
+    clearConfig: 'borrar configuración',
+    clearData: 'borrar datos'
   },
 
   // app menu

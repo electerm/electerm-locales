@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: 'Две строки справа',
     twoColumnsBottom: 'Две колонки снизу',
     troubleShoot: 'устранение неполадок',
-    clearConfig: 'очистить конфигурацию'
+    clearConfig: 'очистить конфигурацию',
+    clearData: 'очистить данные'
   },
 
   // app menu

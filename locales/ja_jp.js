@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: '右二行',
     twoColumnsBottom: '下二列',
     troubleShoot: 'トラブルシューティング',
-    clearConfig: '設定をクリア'
+    clearConfig: '設定をクリア',
+    clearData: 'データをクリア'
   },
 
   // app menu

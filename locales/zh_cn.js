@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: '右侧双行',
     twoColumnsBottom: '底部双列',
     troubleShoot: '故障排除',
-    clearConfig: '清除配置'
+    clearConfig: '清除配置',
+    clearData: '清除数据'
   },
 
   // app menu

@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: 'Zwei Zeilen rechts',
     twoColumnsBottom: 'Zwei Spalten unten',
     troubleShoot: 'Fehlerbehebung',
-    clearConfig: 'Konfiguration löschen'
+    clearConfig: 'Konfiguration löschen',
+    clearData: 'Daten löschen'
   },
 
   // app menu

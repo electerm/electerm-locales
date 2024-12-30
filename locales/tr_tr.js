@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: 'Sağda İki Satır',
     twoColumnsBottom: 'Altta İki Sütun',
     troubleShoot: 'sorun giderme',
-    clearConfig: 'yapılandırmayı temizle'
+    clearConfig: 'yapılandırmayı temizle',
+    clearData: 'verileri temizle'
   },
 
   // app menu

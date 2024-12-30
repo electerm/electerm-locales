@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: 'صفّان إلى اليمين',
     twoColumnsBottom: 'عمودان في الأسفل',
     troubleShoot: 'استكشاف الأخطاء وإصلاحها',
-    clearConfig: 'مسح التكوين'
+    clearConfig: 'مسح التكوين',
+    clearData: 'مسح البيانات'
   },
 
   // app menu

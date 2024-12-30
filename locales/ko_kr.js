@@ -22,7 +22,8 @@ const lang = {
     twoRowsRight: '오른쪽 두 줄',
     twoColumnsBottom: '아래쪽 두 열',
     troubleShoot: '문제 해결',
-    clearConfig: '구성 지우기'
+    clearConfig: '구성 지우기',
+    clearData: '데이터 지우기'
   },
 
   // app menu
