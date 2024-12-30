@@ -23,7 +23,8 @@ const lang = {
     twoColumnsBottom: '底部双列',
     troubleShoot: '故障排除',
     clearConfig: '清除配置',
-    clearData: '清除数据'
+    clearData: '清除数据',
+    runInCommandLine: '在命令行中运行'
   },
 
   // app menu

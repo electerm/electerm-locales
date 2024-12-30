@@ -23,7 +23,8 @@ const lang = {
     twoColumnsBottom: '아래쪽 두 열',
     troubleShoot: '문제 해결',
     clearConfig: '구성 지우기',
-    clearData: '데이터 지우기'
+    clearData: '데이터 지우기',
+    runInCommandLine: '명령 줄에서 실행'
   },
 
   // app menu

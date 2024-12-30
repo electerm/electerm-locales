@@ -23,7 +23,8 @@ const lang = {
     twoColumnsBottom: '下二列',
     troubleShoot: 'トラブルシューティング',
     clearConfig: '設定をクリア',
-    clearData: 'データをクリア'
+    clearData: 'データをクリア',
+    runInCommandLine: 'コマンドラインで実行'
   },
 
   // app menu

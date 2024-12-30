@@ -23,7 +23,8 @@ const lang = {
     twoColumnsBottom: 'Altta İki Sütun',
     troubleShoot: 'sorun giderme',
     clearConfig: 'yapılandırmayı temizle',
-    clearData: 'verileri temizle'
+    clearData: 'verileri temizle',
+    runInCommandLine: 'komut satırında çalıştır'
   },
 
   // app menu

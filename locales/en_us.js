@@ -23,7 +23,8 @@ const lang = {
     twoColumnsBottom: 'two columns bottom',
     troubleShoot: 'trouble shoot',
     clearConfig: 'clear config',
-    clearData: 'clear data'
+    clearData: 'clear data',
+    runInCommandLine: 'run in command line'
   },
 
   // app menu
