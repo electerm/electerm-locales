@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'Três linhas',
     grid2x2: 'Grade 2x2',
     twoRowsRight: 'Duas linhas à direita',
-    twoColumnsBottom: 'Duas colunas embaixo'
+    twoColumnsBottom: 'Duas colunas embaixo',
+    troubleShoot: 'solucionar problemas'
   },
 
   // app menu

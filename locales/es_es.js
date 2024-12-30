@@ -21,7 +21,8 @@ const lang = {
     threeRows: 'Tres filas',
     grid2x2: 'Cuadrícula 2x2',
     twoRowsRight: 'Dos filas a la derecha',
-    twoColumnsBottom: 'Dos columnas abajo'
+    twoColumnsBottom: 'Dos columnas abajo',
+    troubleShoot: 'solucionar problemas'
   },
 
   // app menu

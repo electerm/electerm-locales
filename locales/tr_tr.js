@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'Üç Satır',
     grid2x2: 'Izgara 2x2',
     twoRowsRight: 'Sağda İki Satır',
-    twoColumnsBottom: 'Altta İki Sütun'
+    twoColumnsBottom: 'Altta İki Sütun',
+    troubleShoot: 'sorun giderme'
   },
 
   // app menu

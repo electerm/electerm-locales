@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'ثلاثة صفوف',
     grid2x2: 'شبكة 2x2',
     twoRowsRight: 'صفّان إلى اليمين',
-    twoColumnsBottom: 'عمودان في الأسفل'
+    twoColumnsBottom: 'عمودان في الأسفل',
+    troubleShoot: 'استكشاف الأخطاء وإصلاحها'
   },
 
   // app menu

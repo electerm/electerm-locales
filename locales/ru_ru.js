@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'Три строки',
     grid2x2: 'Сетка 2x2',
     twoRowsRight: 'Две строки справа',
-    twoColumnsBottom: 'Две колонки снизу'
+    twoColumnsBottom: 'Две колонки снизу',
+    troubleShoot: 'устранение неполадок'
   },
 
   // app menu

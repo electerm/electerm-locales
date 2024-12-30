@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'Drei Zeilen',
     grid2x2: 'Gitter 2x2',
     twoRowsRight: 'Zwei Zeilen rechts',
-    twoColumnsBottom: 'Zwei Spalten unten'
+    twoColumnsBottom: 'Zwei Spalten unten',
+    troubleShoot: 'Fehlerbehebung'
   },
 
   // app menu

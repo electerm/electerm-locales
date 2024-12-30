@@ -20,7 +20,8 @@ const lang = {
     threeRows: 'Trois rangées',
     grid2x2: 'Grille 2x2',
     twoRowsRight: 'Deux rangées à droite',
-    twoColumnsBottom: 'Deux colonnes en bas'
+    twoColumnsBottom: 'Deux colonnes en bas',
+    troubleShoot: 'dépanner'
   },
 
   // app menu

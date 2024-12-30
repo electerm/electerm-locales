@@ -20,7 +20,8 @@ const lang = {
     threeRows: '三行',
     grid2x2: '网格 2x2',
     twoRowsRight: '右侧双行',
-    twoColumnsBottom: '底部双列'
+    twoColumnsBottom: '底部双列',
+    troubleShoot: '故障排除'
   },
 
   // app menu

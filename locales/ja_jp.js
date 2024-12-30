@@ -20,7 +20,8 @@ const lang = {
     threeRows: '三行',
     grid2x2: 'グリッド 2x2',
     twoRowsRight: '右二行',
-    twoColumnsBottom: '下二列'
+    twoColumnsBottom: '下二列',
+    troubleShoot: 'トラブルシューティング'
   },
 
   // app menu

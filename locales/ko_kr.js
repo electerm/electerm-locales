@@ -20,7 +20,8 @@ const lang = {
     threeRows: '세 줄',
     grid2x2: '그리드 2x2',
     twoRowsRight: '오른쪽 두 줄',
-    twoColumnsBottom: '아래쪽 두 열'
+    twoColumnsBottom: '아래쪽 두 열',
+    troubleShoot: '문제 해결'
   },
 
   // app menu
