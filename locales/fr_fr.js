@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'Grille 2x2',
     twoRowsRight: 'Deux rangées à droite',
     twoColumnsBottom: 'Deux colonnes en bas',
-    troubleShoot: 'dépanner'
+    troubleShoot: 'dépanner',
+    clearConfig: 'effacer la configuration'
   },
 
   // app menu

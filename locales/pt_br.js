@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'Grade 2x2',
     twoRowsRight: 'Duas linhas à direita',
     twoColumnsBottom: 'Duas colunas embaixo',
-    troubleShoot: 'solucionar problemas'
+    troubleShoot: 'solucionar problemas',
+    clearConfig: 'limpar configuração'
   },
 
   // app menu

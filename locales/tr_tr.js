@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'Izgara 2x2',
     twoRowsRight: 'Sağda İki Satır',
     twoColumnsBottom: 'Altta İki Sütun',
-    troubleShoot: 'sorun giderme'
+    troubleShoot: 'sorun giderme',
+    clearConfig: 'yapılandırmayı temizle'
   },
 
   // app menu

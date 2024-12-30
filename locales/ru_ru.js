@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'Сетка 2x2',
     twoRowsRight: 'Две строки справа',
     twoColumnsBottom: 'Две колонки снизу',
-    troubleShoot: 'устранение неполадок'
+    troubleShoot: 'устранение неполадок',
+    clearConfig: 'очистить конфигурацию'
   },
 
   // app menu

@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'グリッド 2x2',
     twoRowsRight: '右二行',
     twoColumnsBottom: '下二列',
-    troubleShoot: 'トラブルシューティング'
+    troubleShoot: 'トラブルシューティング',
+    clearConfig: '設定をクリア'
   },
 
   // app menu

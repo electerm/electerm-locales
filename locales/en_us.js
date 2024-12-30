@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'grid 2x2',
     twoRowsRight: 'two rows right',
     twoColumnsBottom: 'two columns bottom',
-    troubleShoot: 'trouble shoot'
+    troubleShoot: 'trouble shoot',
+    clearConfig: 'clear config'
   },
 
   // app menu

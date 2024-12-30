@@ -21,7 +21,8 @@ const lang = {
     grid2x2: '网格 2x2',
     twoRowsRight: '右侧双行',
     twoColumnsBottom: '底部双列',
-    troubleShoot: '故障排除'
+    troubleShoot: '故障排除',
+    clearConfig: '清除配置'
   },
 
   // app menu

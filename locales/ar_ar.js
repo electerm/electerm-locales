@@ -21,7 +21,8 @@ const lang = {
     grid2x2: 'شبكة 2x2',
     twoRowsRight: 'صفّان إلى اليمين',
     twoColumnsBottom: 'عمودان في الأسفل',
-    troubleShoot: 'استكشاف الأخطاء وإصلاحها'
+    troubleShoot: 'استكشاف الأخطاء وإصلاحها',
+    clearConfig: 'مسح التكوين'
   },
 
   // app menu

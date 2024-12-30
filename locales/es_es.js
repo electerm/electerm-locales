@@ -22,7 +22,8 @@ const lang = {
     grid2x2: 'Cuadrícula 2x2',
     twoRowsRight: 'Dos filas a la derecha',
     twoColumnsBottom: 'Dos columnas abajo',
-    troubleShoot: 'solucionar problemas'
+    troubleShoot: 'solucionar problemas',
+    clearConfig: 'borrar configuración'
   },
 
   // app menu
