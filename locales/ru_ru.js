@@ -105,7 +105,8 @@ const lang = {
     finished: 'законченный',
     resolutions: 'Разрешение',
     addressBookmarks: 'закладки адресов',
-    import: 'импортировать'
+    import: 'импортировать',
+    sshConfigNotice: 'обнаруженные конфигурации из ~/.ssh/config, импортировать как закладки?'
   },
 
   // control buttons

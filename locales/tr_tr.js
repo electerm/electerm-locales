@@ -105,7 +105,8 @@ const lang = {
     finished: 'bitmiş',
     resolutions: 'Çözünürlük',
     addressBookmarks: 'adres yer imleri',
-    import: 'içe aktar'
+    import: 'içe aktar',
+    sshConfigNotice: '/.ssh/config dosyasından algılanan yapılandırmalar, yer imleri olarak içe aktarılsın mı?'
   },
 
   // control buttons

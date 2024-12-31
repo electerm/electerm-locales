@@ -105,7 +105,8 @@ const lang = {
     finished: 'acabado',
     resolutions: 'Resolução',
     addressBookmarks: 'favoritos de endereços',
-    import: 'importar'
+    import: 'importar',
+    sshConfigNotice: 'configurações detectadas de ~/.ssh/config, importá-las como favoritos?'
   },
 
   // control buttons

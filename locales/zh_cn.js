@@ -105,7 +105,8 @@ const lang = {
     finished: '完成的',
     resolutions: '分辨率',
     addressBookmarks: '地址书签',
-    import: '导入'
+    import: '导入',
+    sshConfigNotice: '检测到 ~/.ssh/config 中的配置，将其导入为书签？'
   },
 
   // control buttons

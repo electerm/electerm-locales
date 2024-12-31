@@ -105,7 +105,8 @@ const lang = {
     finished: '終了した',
     resolutions: '解像度',
     addressBookmarks: 'アドレスブックマーク',
-    import: 'インポート'
+    import: 'インポート',
+    sshConfigNotice: '/.ssh/config から検出された設定をブックマークとしてインポートしますか？'
   },
 
   // control buttons

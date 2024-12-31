@@ -105,7 +105,8 @@ const lang = {
     finished: 'fertig',
     resolutions: 'Auflösung',
     addressBookmarks: 'Adress-Lesezeichen',
-    import: 'importieren'
+    import: 'importieren',
+    sshConfigNotice: 'Konfigurationen aus ~/.ssh/config erkannt, als Lesezeichen importieren?'
   },
 
   // control buttons

@@ -105,7 +105,8 @@ const lang = {
     finished: '完成的',
     resolutions: '解析度',
     addressBookmarks: '地址書籤',
-    import: '導入'
+    import: '導入',
+    sshConfigNotice: '檢測到 ~/.ssh/config 中的配置，將其導入為書籤？'
   },
 
   // control buttons
