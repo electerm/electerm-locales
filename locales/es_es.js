@@ -387,7 +387,8 @@ const lang = {
     localToRemote: 'Reenviar la conexión local al servidor remoto',
     remoteToLocal: 'Reenviar conexión remota al servidor local',
     sftpPathFollowSsh: 'Sincronización de ruta SFTP con terminal',
-    dynamicPortForwarding: 'Reenvío de puertos dinámico'
+    dynamicPortForwarding: 'Reenvío de puertos dinámico',
+    sftpPathFollowSshTip: 'Cuando la sincronización de la ruta SFTP con el terminal está activada, puede experimentar ciertos problemas de salida en el terminal'
   },
 
   // terminal themes

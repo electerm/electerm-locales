@@ -386,7 +386,8 @@ const lang = {
     localToRemote: 'توجيه الاتصال المحلي إلى الخادم البعيد',
     remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي',
     sftpPathFollowSsh: 'مزامنة مسار SFTP مع المحطة',
-    dynamicPortForwarding: 'إعادة توجيه المنفذ الديناميكي'
+    dynamicPortForwarding: 'إعادة توجيه المنفذ الديناميكي',
+    sftpPathFollowSshTip: 'عند تشغيل مزامنة مسار SFTP مع المحطة الطرفية، قد تواجه بعض مشكلات إخراج المحطة الطرفية'
   },
 
   // terminal themes

@@ -386,7 +386,8 @@ const lang = {
     localToRemote: 'Leiten Sie die lokale Verbindung auf Remote -Server weiter',
     remoteToLocal: 'Remote -Verbindung zum lokalen Server weiterleiten',
     sftpPathFollowSsh: 'SFTP -Pfadsynchronisierung mit Terminal',
-    dynamicPortForwarding: 'Dynamische Portweiterleitung'
+    dynamicPortForwarding: 'Dynamische Portweiterleitung',
+    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung mit dem Terminal aktiviert ist, können bestimmte Terminalausgabeprobleme auftreten'
   },
 
   // terminal themes

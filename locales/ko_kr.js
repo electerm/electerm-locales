@@ -386,7 +386,8 @@ const lang = {
     localToRemote: '원격 서버로 로컬 연결을 전달합니다',
     remoteToLocal: '로컬 서버에 대한 원격 연결을 전달합니다',
     sftpPathFollowSsh: 'SFTP 경로 터미널과 동기화됩니다',
-    dynamicPortForwarding: '동적 포트 전달'
+    dynamicPortForwarding: '동적 포트 전달',
+    sftpPathFollowSshTip: 'SFTP 경로 동기화가 터미널에서 활성화된 경우 특정 터미널 출력 문제가 발생할 수 있습니다'
   },
 
   // terminal themes

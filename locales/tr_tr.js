@@ -386,7 +386,8 @@ const lang = {
     localToRemote: 'Yerel bağlantıyı uzak sunucuya iletin',
     remoteToLocal: 'Yerel Sunucuya Uzaktan Bağlantı İleri Bağlantısı',
     sftpPathFollowSsh: 'SFTP Yolu Terminal ile Senkronizasyon',
-    dynamicPortForwarding: 'dinamik bağlantı noktası yönlendirme'
+    dynamicPortForwarding: 'dinamik bağlantı noktası yönlendirme',
+    sftpPathFollowSshTip: 'SFTP yolu terminal ile senkronize edildiğinde, bazı terminal çıktı sorunları yaşayabilirsiniz'
   },
 
   // terminal themes

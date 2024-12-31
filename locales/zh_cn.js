@@ -386,7 +386,8 @@ const lang = {
     localToRemote: '将本地连接转发到远程服务器',
     remoteToLocal: '转发远程连接到本地服务器',
     sftpPathFollowSsh: 'SFTP路径与终端同步',
-    dynamicPortForwarding: '动态端口转发'
+    dynamicPortForwarding: '动态端口转发',
+    sftpPathFollowSshTip: '当启用 SFTP 路径同步到终端时，您可能会遇到某些终端输出问题'
   },
 
   // terminal themes
