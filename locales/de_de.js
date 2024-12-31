@@ -356,7 +356,8 @@ const lang = {
     interactiveValues: 'vordefinierte interaktive Werte für die Tastatur',
     chooseFromBookmarks: 'Aus Lesezeichen auswählen',
     editWithColorPicker: 'Mit Farbwähler bearbeiten',
-    editWithTextEditor: 'Mit Texteditor bearbeiten'
+    editWithTextEditor: 'Mit Texteditor bearbeiten',
+    loadSshConfigs: 'SSH-Konfigurationen laden'
   },
 
   // ssh terminal

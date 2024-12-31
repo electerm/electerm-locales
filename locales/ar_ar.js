@@ -356,7 +356,8 @@ const lang = {
     interactiveValues: 'القيم التفاعلية المحددة مسبقًا للوحة المفاتيح',
     chooseFromBookmarks: 'اختر من العلامات المرجعية',
     editWithColorPicker: 'تعديل باستخدام منتقي الألوان',
-    editWithTextEditor: 'تعديل باستخدام محرر النصوص'
+    editWithTextEditor: 'تعديل باستخدام محرر النصوص',
+    loadSshConfigs: 'تحميل تكوينات ssh'
   },
 
   // ssh terminal
