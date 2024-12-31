@@ -104,7 +104,8 @@ const lang = {
     execute: 'ينفذ',
     finished: 'انتهى',
     resolutions: 'الدقة',
-    addressBookmarks: 'إشارات مرجعية للعناوين'
+    addressBookmarks: 'إشارات مرجعية للعناوين',
+    import: 'استيراد'
   },
 
   // control buttons

@@ -104,7 +104,8 @@ const lang = {
     execute: '実行する',
     finished: '終了した',
     resolutions: '解像度',
-    addressBookmarks: 'アドレスブックマーク'
+    addressBookmarks: 'アドレスブックマーク',
+    import: 'インポート'
   },
 
   // control buttons

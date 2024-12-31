@@ -104,7 +104,8 @@ const lang = {
     execute: 'execute',
     finished: 'finished',
     resolutions: 'resolutions',
-    addressBookmarks: 'address bookmarks'
+    addressBookmarks: 'address bookmarks',
+    import: 'import'
   },
 
   // control buttons

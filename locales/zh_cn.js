@@ -104,7 +104,8 @@ const lang = {
     execute: '执行',
     finished: '完成的',
     resolutions: '分辨率',
-    addressBookmarks: '地址书签'
+    addressBookmarks: '地址书签',
+    import: '导入'
   },
 
   // control buttons

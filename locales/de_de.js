@@ -104,7 +104,8 @@ const lang = {
     execute: 'ausführen',
     finished: 'fertig',
     resolutions: 'Auflösung',
-    addressBookmarks: 'Adress-Lesezeichen'
+    addressBookmarks: 'Adress-Lesezeichen',
+    import: 'importieren'
   },
 
   // control buttons

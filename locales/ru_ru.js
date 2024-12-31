@@ -104,7 +104,8 @@ const lang = {
     execute: 'выполнять',
     finished: 'законченный',
     resolutions: 'Разрешение',
-    addressBookmarks: 'закладки адресов'
+    addressBookmarks: 'закладки адресов',
+    import: 'импортировать'
   },
 
   // control buttons

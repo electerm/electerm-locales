@@ -104,7 +104,8 @@ const lang = {
     execute: '실행하다',
     finished: '완성된',
     resolutions: '해상도',
-    addressBookmarks: '주소 북마크'
+    addressBookmarks: '주소 북마크',
+    import: '가져오기'
   },
 
   // control buttons

@@ -104,7 +104,8 @@ const lang = {
     execute: 'uygulamak',
     finished: 'bitmiş',
     resolutions: 'Çözünürlük',
-    addressBookmarks: 'adres yer imleri'
+    addressBookmarks: 'adres yer imleri',
+    import: 'içe aktar'
   },
 
   // control buttons
