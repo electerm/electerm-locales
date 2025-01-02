@@ -24,7 +24,9 @@ const lang = {
     troubleShoot: 'トラブルシューティング',
     clearConfig: '設定をクリア',
     clearData: 'データをクリア',
-    runInCommandLine: 'コマンドラインで実行'
+    runInCommandLine: 'コマンドラインで実行',
+    connectionHoppingWarning: 'バージョンv1.50.65以降、接続ホッピングの接続順序が変更されました。詳細はwikiを読んでください。',
+    haveRead: '読みました、再表示しない'
   },
 
   // app menu

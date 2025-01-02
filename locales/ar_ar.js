@@ -24,7 +24,9 @@ const lang = {
     troubleShoot: 'استكشاف الأخطاء وإصلاحها',
     clearConfig: 'مسح التكوين',
     clearData: 'مسح البيانات',
-    runInCommandLine: 'تشغيل في سطر الأوامر'
+    runInCommandLine: 'تشغيل في سطر الأوامر',
+    connectionHoppingWarning: 'منذ الإصدار v1.50.65، تغير ترتيب الاتصال للقفز بين الاتصالات، اقرأ الويكي للحصول على التفاصيل.',
+    haveRead: 'لقد قرأت، لا تظهر مرة أخرى'
   },
 
   // app menu

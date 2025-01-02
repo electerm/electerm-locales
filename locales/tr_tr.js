@@ -24,7 +24,9 @@ const lang = {
     troubleShoot: 'sorun giderme',
     clearConfig: 'yapılandırmayı temizle',
     clearData: 'verileri temizle',
-    runInCommandLine: 'komut satırında çalıştır'
+    runInCommandLine: 'komut satırında çalıştır',
+    connectionHoppingWarning: 'Sürüm v1.50.65`ten itibaren bağlantı atlamasının bağlantı sırası değişti, detaylar için wiki`yi okuyun.',
+    haveRead: 'Okudum, tekrar gösterme'
   },
 
   // app menu

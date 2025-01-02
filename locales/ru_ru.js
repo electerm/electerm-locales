@@ -24,7 +24,9 @@ const lang = {
     troubleShoot: 'устранение неполадок',
     clearConfig: 'очистить конфигурацию',
     clearData: 'очистить данные',
-    runInCommandLine: 'запустить в командной строке'
+    runInCommandLine: 'запустить в командной строке',
+    connectionHoppingWarning: 'С версии v1.50.65 порядок подключения при переходе изменился, подробности читайте в вики.',
+    haveRead: 'Я прочитал, больше не показывать'
   },
 
   // app menu

@@ -24,7 +24,9 @@ const lang = {
     troubleShoot: '故障排除',
     clearConfig: '清除配置',
     clearData: '清除數據',
-    runInCommandLine: '在命令行中運行'
+    runInCommandLine: '在命令行中運行',
+    connectionHoppingWarning: '自版本v1.50.65起，連接跳轉的連接順序已更改，詳情請閱讀wiki。',
+    haveRead: '我已閱讀，不再顯示'
   },
 
   // app menu
