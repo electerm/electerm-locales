@@ -26,7 +26,8 @@ const lang = {
     clearData: 'limpar dados',
     runInCommandLine: 'executar na linha de comando',
     connectionHoppingWarning: 'Desde a versão v1.50.65, a ordem de conexão do salto de conexão mudou, leia o wiki para mais detalhes.',
-    haveRead: 'Eu li, não mostrar novamente'
+    haveRead: 'Eu li, não mostrar novamente',
+    runningTime: 'Tempo de Execução'
   },
 
   // app menu

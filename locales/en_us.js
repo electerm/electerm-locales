@@ -26,7 +26,8 @@ const lang = {
     clearData: 'clear data',
     runInCommandLine: 'run in command line',
     connectionHoppingWarning: 'since version v1.50.65, the connection order of connection hopping has changed, read wiki for details.',
-    haveRead: 'I have read, do not show again'
+    haveRead: 'I have read, do not show again',
+    runningTime: 'running time'
   },
 
   // app menu

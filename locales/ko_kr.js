@@ -26,7 +26,8 @@ const lang = {
     clearData: '데이터 지우기',
     runInCommandLine: '명령 줄에서 실행',
     connectionHoppingWarning: '버전 v1.50.65부터 연결 홉의 연결 순서가 변경되었습니다. 자세한 내용은 wiki를 참조하십시오.',
-    haveRead: '읽었습니다, 다시 표시하지 않음'
+    haveRead: '읽었습니다, 다시 표시하지 않음',
+    runningTime: '실행 시간'
   },
 
   // app menu

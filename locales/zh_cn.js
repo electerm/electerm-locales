@@ -26,7 +26,8 @@ const lang = {
     clearData: '清除数据',
     runInCommandLine: '在命令行中运行',
     connectionHoppingWarning: '自版本v1.50.65起，连接跳转的连接顺序已更改，详情请阅读wiki。',
-    haveRead: '已阅，勿扰'
+    haveRead: '已阅，勿扰',
+    runningTime: '运行时间'
   },
 
   // app menu
