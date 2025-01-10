@@ -156,7 +156,8 @@ const lang = {
     rename: 'yeniden adlandır',
     openNewTerm: 'yeni terminal aç',
     sessions: 'oturumlar',
-    cloneToNextLayout: 'Sonraki Düzenlemeye Kopyala'
+    cloneToNextLayout: 'Sonraki Düzenlemeye Kopyala',
+    reloadCurrentTab: 'Mevcut sekmeyi yeniden yükle'
   },
 
   // main warpper

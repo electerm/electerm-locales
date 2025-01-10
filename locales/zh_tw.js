@@ -156,7 +156,8 @@ const lang = {
     rename: '重新命名',
     openNewTerm: '開啓新的分頁',
     sessions: '連線',
-    cloneToNextLayout: '複製到下一個佈局'
+    cloneToNextLayout: '複製到下一個佈局',
+    reloadCurrentTab: '重新加載當前標籤頁'
   },
 
   // main warpper

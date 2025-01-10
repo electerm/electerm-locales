@@ -156,7 +156,8 @@ const lang = {
     rename: '名前を変更',
     openNewTerm: '新しい接続を開く',
     sessions: 'セッション',
-    cloneToNextLayout: '次のレイアウトにクローン'
+    cloneToNextLayout: '次のレイアウトにクローン',
+    reloadCurrentTab: '現在のタブを再読み込み'
   },
 
   // main warpper

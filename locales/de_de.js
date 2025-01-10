@@ -156,7 +156,8 @@ const lang = {
     rename: 'Umbenennen',
     openNewTerm: 'Neuen Terminal öffnen',
     sessions: 'Sitzungen',
-    cloneToNextLayout: 'In nächstes Layout klonen'
+    cloneToNextLayout: 'In nächstes Layout klonen',
+    reloadCurrentTab: 'Aktuellen Tab neu laden'
   },
 
   // main warpper

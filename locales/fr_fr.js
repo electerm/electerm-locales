@@ -156,7 +156,8 @@ const lang = {
     rename: 'Renommer',
     openNewTerm: 'Nouveau terminal SSH',
     sessions: 'sessions',
-    cloneToNextLayout: 'Cloner vers la mise en page suivante'
+    cloneToNextLayout: 'Cloner vers la mise en page suivante',
+    reloadCurrentTab: 'Recharger l`onglet actuel'
   },
 
   // main warpper

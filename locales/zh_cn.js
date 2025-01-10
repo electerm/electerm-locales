@@ -156,7 +156,8 @@ const lang = {
     rename: '重命名',
     openNewTerm: '打开新连接',
     sessions: '连接',
-    cloneToNextLayout: '克隆到下一个布局'
+    cloneToNextLayout: '克隆到下一个布局',
+    reloadCurrentTab: '重新加载当前标签页'
   },
 
   // main warpper

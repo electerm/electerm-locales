@@ -156,7 +156,8 @@ const lang = {
     rename: 'renomear',
     openNewTerm: 'abrir novo terminal',
     sessions: 'Sessões',
-    cloneToNextLayout: 'Clonar para o próximo layout'
+    cloneToNextLayout: 'Clonar para o próximo layout',
+    reloadCurrentTab: 'Recarregar guia atual'
   },
 
   // main warpper

@@ -156,7 +156,8 @@ const lang = {
     rename: 'إعادة تسمية',
     openNewTerm: 'فتح طرفية جديدة',
     sessions: 'الجلسات',
-    cloneToNextLayout: 'استنساخ إلى التخطيط التالي'
+    cloneToNextLayout: 'استنساخ إلى التخطيط التالي',
+    reloadCurrentTab: 'إعادة تحميل علامة التبويب الحالية'
   },
 
   // main warpper
