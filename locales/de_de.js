@@ -27,7 +27,8 @@ const lang = {
     runInCommandLine: 'im Befehlszeile ausführen',
     connectionHoppingWarning: 'Seit Version v1.50.65 hat sich die Verbindungsreihenfolge beim Verbindungshüpfen geändert, lesen Sie das Wiki für Details.',
     haveRead: 'Ich habe gelesen, nicht mehr anzeigen',
-    runningTime: 'Laufzeit'
+    runningTime: 'Laufzeit',
+    fullContent: 'Vollständiger Inhalt'
   },
 
   // app menu

@@ -27,7 +27,8 @@ const lang = {
     runInCommandLine: 'komut satırında çalıştır',
     connectionHoppingWarning: 'Sürüm v1.50.65`ten itibaren bağlantı atlamasının bağlantı sırası değişti, detaylar için wiki`yi okuyun.',
     haveRead: 'Okudum, tekrar gösterme',
-    runningTime: 'Çalışma Süresi'
+    runningTime: 'Çalışma Süresi',
+    fullContent: 'Tam İçerik'
   },
 
   // app menu

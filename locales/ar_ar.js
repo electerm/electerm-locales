@@ -27,7 +27,8 @@ const lang = {
     runInCommandLine: 'تشغيل في سطر الأوامر',
     connectionHoppingWarning: 'منذ الإصدار v1.50.65، تغير ترتيب الاتصال للقفز بين الاتصالات، اقرأ الويكي للحصول على التفاصيل.',
     haveRead: 'لقد قرأت، لا تظهر مرة أخرى',
-    runningTime: 'وقت التشغيل'
+    runningTime: 'وقت التشغيل',
+    fullContent: 'المحتوى الكامل'
   },
 
   // app menu
