@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: 'Nouveau',
     settings: 'Paramètres',
     common: 'Général',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: 'Police',
     opacity: 'Opacité',
     global: 'Global',
-    disableSshHistory: 'Désactiver l\'historique SSH',
     disableTransferHistory: 'Désactiver l\'historique de transfert sftp',
     resetAllToDefault: 'Restaurer les paramères par défaut',
     terminalBackgroundImage: 'Image de fond du terminal',

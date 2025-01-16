@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: '新規',
     settings: '設定',
     common: '通用',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: 'フォント',
     opacity: '不透明度',
     global: 'グローバル',
-    disableSshHistory: 'ssh履歴を無効',
     disableTransferHistory: 'sftp転送履歴を無効',
     resetAllToDefault: '設定をデフォルトにする',
     terminalBackgroundImage: 'ターミナルの背景画像',

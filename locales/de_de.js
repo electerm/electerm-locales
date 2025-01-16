@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: 'Neu',
     settings: 'Einstellungen',
     common: 'Allgemein',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: 'Schriftfamilie',
     opacity: 'Transparenz',
     global: 'Global',
-    disableSshHistory: 'SSH-Verlauf deaktivieren',
     disableTransferHistory: 'Transfer-Verlauf deaktivieren',
     resetAllToDefault: 'Alle zurücksetzen',
     terminalBackgroundImage: 'Terminal-Hintergrundbild',

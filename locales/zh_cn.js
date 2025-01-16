@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: '新建',
     settings: '设置',
     common: '通用',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: '字体',
     opacity: '不透明度',
     global: '全局',
-    disableSshHistory: '关闭SSH连接历史',
     disableTransferHistory: '关闭传输SFTP传输历史',
     resetAllToDefault: '重置为默认设置',
     terminalBackgroundImage: '终端背景图片',

@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: '새로 만들기',
     settings: '설정',
     common: '일반',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: '글꼴',
     opacity: '투명도',
     global: '전역',
-    disableSshHistory: 'SSH 히스토리 비활성화',
     disableTransferHistory: 'SFTP 전송 히스토리 비활성화',
     resetAllToDefault: '기본값으로 모든 설정값 되돌리기',
     terminalBackgroundImage: '터미널 배경 이미지',

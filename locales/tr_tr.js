@@ -181,6 +181,7 @@ const lang = {
 
   // setting
   setting: {
+
     new: 'yeni',
     settings: 'ayarlar',
     common: 'genel',
@@ -199,7 +200,6 @@ const lang = {
     fontFamily: 'font ailesi',
     opacity: 'opaklık',
     global: 'evrensel',
-    disableSshHistory: 'ssh geçmişini devre dışı bırak',
     disableTransferHistory: 'sftp aktarım geçmişini devre dışı bırak',
     resetAllToDefault: 'ayarları varsayılanlara geri döndür',
     terminalBackgroundImage: 'terminal arkaplan resmi',
