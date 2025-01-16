@@ -239,7 +239,8 @@ const lang = {
     addTimeStampToTermLog: 'Agregue la marca de tiempo al registro terminal',
     terminalBackSpaceMode: 'secuencia terminal de retroceso',
     showHiddenFilesOnSftpStart: 'Mostrar archivos ocultos en SFTP Start',
-    hideIP: 'Ocultar dirección IP'
+    hideIP: 'Ocultar dirección IP',
+    disableConnectionHistory: 'deshabilitar historial de conexiones'
   },
 
   // sftp

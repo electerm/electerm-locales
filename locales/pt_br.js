@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'Adicione Timestamp ao log de terminais',
     terminalBackSpaceMode: 'Sequência de backspace do terminal',
     showHiddenFilesOnSftpStart: 'Mostre arquivos ocultos no SFTP Start',
-    hideIP: 'Ocultar endereço IP'
+    hideIP: 'Ocultar endereço IP',
+    disableConnectionHistory: 'desativar histórico de conexões'
   },
 
   // sftp

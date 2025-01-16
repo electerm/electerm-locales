@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'Terminal günlüğüne zaman damgası ekleyin',
     terminalBackSpaceMode: 'Terminal Backspace Sırası',
     showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster',
-    hideIP: 'IP adresini gizle'
+    hideIP: 'IP adresini gizle',
+    disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak'
   },
 
   // sftp

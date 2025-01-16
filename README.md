@@ -58,6 +58,32 @@ You can certainly translate it one by one, I also provide a script to do it.
 entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
 
 # then it will add saveTerminalLogToFile entry to all language file in setting namespace with google translate
+
+## remove a entry from all files
+entry=setting name=disableSshHistory node bin/remove-slot.js
+
+## Use AI to translate :
+I am create multi language file for my terminal app: electerm, can you help translate "disable connection history" to other languages? all languages needed list here:
+{
+  en: 'en_us',
+  'zh-CN': 'zh_cn',
+  es: 'es_es',
+  ru: 'ru_ru',
+  tr: 'tr_tr',
+  fr: 'fr_fr',
+  pt: 'pt_br',
+  'zh-TW': 'zh_tw',
+  ja: 'ja_jp',
+  ar: 'ar_ar',
+  de: 'de_de',
+  ko: 'ko_kr'
+}
+
+please return result in one line, format as {"en": "xx", "zh-CN": "xx", ...}
+
+## then use the data to create new entry
+entry=setting name=disableConnectionHistory text='disable connection history' data='{"en": "disable connection history", "zh-CN": "禁用连接历史", "es": "deshabilitar historial de conexiones", "ru": "отключить историю подключений", "tr": "bağlantı geçmişini devre dışı bırak", "fr": "désactiver l`historique des connexions", "pt": "desativar histórico de conexões", "zh-TW": "禁用連接歷史", "ja": "接続履歴を無効にする", "ar": "تعطيل سجل الاتصال", "de": "Verbindungsverlauf deaktivieren", "ko": "연결 기록 비활성화"}' node bin/add-new-entry.js
+
 ```
 
 ## Use proxy

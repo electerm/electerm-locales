@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'Fügen Sie dem Terminalprotokoll Zeitstempel hinzu',
     terminalBackSpaceMode: 'Endraumsequenz',
     showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an',
-    hideIP: 'IP-Adresse verbergen'
+    hideIP: 'IP-Adresse verbergen',
+    disableConnectionHistory: 'Verbindungsverlauf deaktivieren'
   },
 
   // sftp

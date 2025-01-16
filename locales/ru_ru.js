@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'Добавить временную метку в журнал терминала',
     terminalBackSpaceMode: 'терминальная последовательность обратного пространства',
     showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start',
-    hideIP: 'Скрыть IP-адрес'
+    hideIP: 'Скрыть IP-адрес',
+    disableConnectionHistory: 'отключить историю подключений'
   },
 
   // sftp

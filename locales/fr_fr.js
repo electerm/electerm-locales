@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'Ajouter l\'horodatage au journal terminal',
     terminalBackSpaceMode: 'Séquence de borne de borne',
     showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start',
-    hideIP: 'Masquer l\'adresse IP'
+    hideIP: 'Masquer l\'adresse IP',
+    disableConnectionHistory: 'désactiver l`historique des connexions'
   },
 
   // sftp

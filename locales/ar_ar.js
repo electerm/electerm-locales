@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: 'أضف الطابع الزمني إلى سجل الطرفية',
     terminalBackSpaceMode: 'تسلسل مساحة الخلفية الطرفية',
     showHiddenFilesOnSftpStart: 'إظهار الملفات المخفية على SFTP Start',
-    hideIP: 'إخفاء عنوان IP'
+    hideIP: 'إخفاء عنوان IP',
+    disableConnectionHistory: 'تعطيل سجل الاتصال'
   },
 
   // sftp

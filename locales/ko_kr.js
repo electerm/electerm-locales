@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: '터미널 로그에 타임 스탬프를 추가하십시오',
     terminalBackSpaceMode: '터미널 백 스페이스 시퀀스',
     showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오',
-    hideIP: 'IP 주소 숨기기'
+    hideIP: 'IP 주소 숨기기',
+    disableConnectionHistory: '연결 기록 비활성화'
   },
 
   // sftp

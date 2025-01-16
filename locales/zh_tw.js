@@ -238,7 +238,8 @@ const lang = {
     addTimeStampToTermLog: '將時間戳添加到終端日誌',
     terminalBackSpaceMode: '終端backspace序列',
     showHiddenFilesOnSftpStart: '在SFTP開始顯示隱藏的文件',
-    hideIP: '隱藏 IP 位址'
+    hideIP: '隱藏 IP 位址',
+    disableConnectionHistory: '禁用連接歷史'
   },
 
   // sftp
