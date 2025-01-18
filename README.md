@@ -33,56 +33,33 @@ Make sure you run `npm run test` before push.
 
 ## Script to create a new language file
 
-To make the work easier, I have created a script to help creating a language file, it uses google translate API to translate all entry and create a new language file.
+To make the work easier, I have created a script to help creating a language file, it uses AI API translate API to translate all entry and create a new language file.
 
 ```bash
-# use
-# lang={language code} node bin/create-new-lang.js
+# get apiKey from deepseek.com
+# lang={language code} apiKey={apiKey} node bin/create-new-lang.js
 # then it will create a {language code}_{language code}.js in locales folder
 
 # for example:
 # this will create a German language file `locales/de_de.js`
-lang=de node bin/create-new-lang.js
+lang=de apiKey=xxxx node bin/create-new-lang.js
 # then you can review and edit to make sure every entry is right
 ```
 
-## Add a new entry using google translate api
+## Add a new entry using AI api
 
 You can certainly translate it one by one, I also provide a script to do it.
 
 ```bash
-# entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" original="{language code, default is en}" node bin/add-new-entry.js
-# check https://github.com/hua1995116/google-translate-open-api/blob/master/src/language.ts for language code
+# entry="{level one entry name}" name="{the prop name}" text="{the text in original language}" apiKey={apiKey} node bin/translate-with-ai.js
 
 # example:
-entry=setting name=saveTerminalLogToFile text="save terminal log to file" original=en node bin/add-new-entry.js
+entry=setting name=saveTerminalLogToFile text="save terminal log to file" node bin/translate-with-ai.js
 
 # then it will add saveTerminalLogToFile entry to all language file in setting namespace with google translate
 
 ## remove a entry from all files
 entry=setting name=disableSshHistory node bin/remove-slot.js
-
-## Use AI to translate :
-I am create multi language file for my terminal app: electerm, can you help translate "disable connection history" to other languages? all languages needed list here:
-{
-  en: 'en_us',
-  'zh-CN': 'zh_cn',
-  es: 'es_es',
-  ru: 'ru_ru',
-  tr: 'tr_tr',
-  fr: 'fr_fr',
-  pt: 'pt_br',
-  'zh-TW': 'zh_tw',
-  ja: 'ja_jp',
-  ar: 'ar_ar',
-  de: 'de_de',
-  ko: 'ko_kr'
-}
-
-please return result in one line, format as {"en": "xx", "zh-CN": "xx", ...}
-
-## then use the data to create new entry
-entry=setting name=disableConnectionHistory text='disable connection history' data='{"en": "disable connection history", "zh-CN": "禁用连接历史", "es": "deshabilitar historial de conexiones", "ru": "отключить историю подключений", "tr": "bağlantı geçmişini devre dışı bırak", "fr": "désactiver l`historique des connexions", "pt": "desativar histórico de conexões", "zh-TW": "禁用連接歷史", "ja": "接続履歴を無効にする", "ar": "تعطيل سجل الاتصال", "de": "Verbindungsverlauf deaktivieren", "ko": "연결 기록 비활성화"}' node bin/add-new-entry.js
 
 ```
 

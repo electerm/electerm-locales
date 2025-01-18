@@ -4,14 +4,11 @@
 
 import { resolve } from 'path'
 import { writeFileSync, readFileSync } from 'fs'
-import { translate } from './translate.js'
 
 const cwd = process.cwd()
 const {
   entry = 'app',
   name = 'test1',
-  text = 'whatever',
-  original = 'en',
   to = ''
 } = process.env
 
@@ -46,30 +43,15 @@ const mapper = {
 }
 
 async function run () {
+  const data = process.env.data ? JSON.parse(process.env.data) : {}
   const keys = to
     ? to.split(',')
     : Object.keys(supported)
   for (const k of keys) {
     const v = supported[k]
-    if (k === original) {
-      console.log(k, text)
-      await add(v, text)
-    } else {
-      const data = process.env.data ? JSON.parse(process.env.data) : {}
-      let translated = data[k]
-      while (!translated) {
-        translated = await translate({
-          text,
-          from: 'en',
-          to: k,
-          reusePage: false
-        }).catch(e => {
-          console.log('trans error', e)
-        })
-      }
-      console.log(k, mapper[k], '==>', translated)
-      await add(v, translated)
-    }
+    const translated = data[k]
+    console.log(k, mapper[k], '==>', translated)
+    await add(v, translated)
   }
 }
 

@@ -2,24 +2,68 @@
  * Create a new language file using AI translation
  */
 import { resolve } from 'path'
-import { writeFileSync } from 'fs'
+import { writeFileSync, readFileSync, existsSync } from 'fs'
 import countryFlagEmoji from 'country-flag-emoji'
 import json5 from 'json5'
+
+// Languages already supported in translate-with-ai.js
+const existingSupportedLangs = {
+  en: 'en_us',
+  'zh-CN': 'zh_cn',
+  es: 'es_es',
+  ru: 'ru_ru',
+  tr: 'tr_tr',
+  fr: 'fr_fr',
+  pt: 'pt_br',
+  'zh-TW': 'zh_tw',
+  ja: 'ja_jp',
+  ar: 'ar_ar',
+  de: 'de_de',
+  ko: 'ko_kr'
+}
+
+// Top 10 languages not yet supported but widely used
+const newSupportedLangs = {
+  it: 'it_it', // Italian
+  nl: 'nl_nl', // Dutch
+  pl: 'pl_pl', // Polish
+  sv: 'sv_se', // Swedish
+  vi: 'vi_vn', // Vietnamese
+  id: 'id_id', // Indonesian
+  th: 'th_th', // Thai
+  hi: 'hi_in', // Hindi
+  bn: 'bn_bd', // Bengali
+  fa: 'fa_ir' // Persian
+}
 
 const {
   lang = 'en', // target language
   apiKey,
-  baseURL = 'https://api.openai.com/v1',
-  model = 'gpt-3.5-turbo'
+  baseUrl = 'https://api.deepseek.com/v1/chat/completions',
+  model = 'deepseek-chat'
 } = process.env
+
+// Verify if the language is supported and not already translated
+if (!newSupportedLangs[lang]) {
+  if (existingSupportedLangs[lang]) {
+    console.error(`Language '${lang}' is already supported. Please choose a new language to translate.`)
+  } else {
+    console.error(`Language '${lang}' is not in the list of new languages to support. Supported new languages are: ${Object.keys(newSupportedLangs).join(', ')}`)
+  }
+  process.exit(1)
+}
 
 // Load the English base file
 const enFile = resolve(__dirname, '../locales/en_us.js')
-const en = require(enFile)
-const baseContent = en.lang
+const enContent = readFileSync(enFile, 'utf-8')
+const enMatch = enContent.match(/const\s+lang\s*=\s*(\{[\s\S]*?\n\})/)
+if (!enMatch) {
+  throw new Error('Unable to parse English language file')
+}
+const baseContent = json5.parse(enMatch[1])
 
 async function chatWithAI (prompt) {
-  const response = await fetch(`${baseURL}/chat/completions`, {
+  const response = await fetch(baseUrl, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -47,7 +91,6 @@ async function chatWithAI (prompt) {
 async function translateSection (namespace, content) {
   const prompt = `As a professional translator, please translate this JSON section for a terminal application UI.
 This is the "${namespace}" section of the UI.
-
 Source content:
 ${JSON.stringify(content, null, 2)}
 
@@ -66,7 +109,7 @@ Translate to ${lang} and return only the JSON object.`
   try {
     const result = await chatWithAI(prompt)
     // Clean the response to ensure it's valid JSON
-    const cleanResult = result.replace(/'/g, '`').replace(/^\{|\}$/g, '').trim()
+    const cleanResult = result.replace(/'/g, "'").replace(/^\{|\}$/g, '').trim()
     // Parse and validate
     const parsed = json5.parse(`{${cleanResult}}`)
     return parsed
@@ -81,7 +124,13 @@ async function create () {
     throw new Error('API key is required. Set it in env variable apiKey')
   }
 
-  console.log(`Creating ${lang} language file using ${baseURL} (${model})`)
+  const targetPath = resolve(__dirname, '..', `locales/${newSupportedLangs[lang]}.js`)
+  if (existsSync(targetPath)) {
+    console.error(`Target file ${targetPath} already exists. Please remove it first if you want to recreate.`)
+    process.exit(1)
+  }
+
+  console.log(`Creating ${lang} language file using ${baseUrl} (${model})`)
   console.log('This may take a while, please wait...')
 
   const translatedContent = {}
@@ -96,18 +145,16 @@ async function create () {
 
   // Get language name based on code
   const langNames = {
-    en: 'English',
-    'zh-CN': '简体中文',
-    es: 'Español',
-    ru: 'Русский',
-    tr: 'Türkçe',
-    fr: 'Français',
-    pt: 'Português',
-    'zh-TW': '繁體中文',
-    ja: '日本語',
-    ar: 'العربية',
-    de: 'Deutsch',
-    ko: '한국어'
+    it: 'Italiano',
+    nl: 'Nederlands',
+    pl: 'Polski',
+    sv: 'Svenska',
+    vi: 'Tiếng Việt',
+    id: 'Bahasa Indonesia',
+    th: 'ไทย',
+    hi: 'हिन्दी',
+    bn: 'বাংলা',
+    fa: 'فارسی'
   }
 
   // Get flag emoji
@@ -119,7 +166,6 @@ async function create () {
 /**
  * language: ${langNames[lang] || lang}
  */
-
 const lang = ${json5.stringify(translatedContent, null, 2)}
 
 module.exports = {
@@ -131,9 +177,7 @@ module.exports = {
 `
 
   // Write the file
-  const targetPath = resolve(__dirname, '..', `locales/${lang}_${lang}.js`)
   writeFileSync(targetPath, fileContent)
-
   console.log(`Successfully created: ${targetPath}`)
 }
 
