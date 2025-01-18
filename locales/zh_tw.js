@@ -28,7 +28,8 @@ const lang = {
     connectionHoppingWarning: '自版本v1.50.65起，連接跳轉的連接順序已更改，詳情請閱讀wiki。',
     haveRead: '我已閱讀，不再顯示',
     runningTime: '運行時間',
-    fullContent: '完整內容'
+    fullContent: '完整內容',
+    copied: '已複製'
   },
 
   // app menu

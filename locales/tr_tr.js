@@ -28,7 +28,8 @@ const lang = {
     connectionHoppingWarning: 'Sürüm v1.50.65`ten itibaren bağlantı atlamasının bağlantı sırası değişti, detaylar için wiki`yi okuyun.',
     haveRead: 'Okudum, tekrar gösterme',
     runningTime: 'Çalışma Süresi',
-    fullContent: 'Tam İçerik'
+    fullContent: 'Tam İçerik',
+    copied: 'kopyalandı'
   },
 
   // app menu

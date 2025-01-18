@@ -29,7 +29,8 @@ const lang = {
     connectionHoppingWarning: 'Desde la versión v1.50.65, el orden de conexión del salto de conexión ha cambiado, lea el wiki para más detalles.',
     haveRead: 'He leído, no mostrar de nuevo',
     runningTime: 'Tiempo de Ejecución',
-    fullContent: 'Contenido Completo'
+    fullContent: 'Contenido Completo',
+    copied: 'copiado'
   },
 
   // app menu

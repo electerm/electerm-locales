@@ -28,7 +28,8 @@ const lang = {
     connectionHoppingWarning: 'Seit Version v1.50.65 hat sich die Verbindungsreihenfolge beim Verbindungshüpfen geändert, lesen Sie das Wiki für Details.',
     haveRead: 'Ich habe gelesen, nicht mehr anzeigen',
     runningTime: 'Laufzeit',
-    fullContent: 'Vollständiger Inhalt'
+    fullContent: 'Vollständiger Inhalt',
+    copied: 'kopiert'
   },
 
   // app menu

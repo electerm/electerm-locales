@@ -28,7 +28,8 @@ const lang = {
     connectionHoppingWarning: 'since version v1.50.65, the connection order of connection hopping has changed, read wiki for details.',
     haveRead: 'I have read, do not show again',
     runningTime: 'running time',
-    fullContent: 'full content'
+    fullContent: 'full content',
+    copied: 'copied'
   },
 
   // app menu

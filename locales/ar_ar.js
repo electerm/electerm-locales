@@ -28,7 +28,8 @@ const lang = {
     connectionHoppingWarning: 'منذ الإصدار v1.50.65، تغير ترتيب الاتصال للقفز بين الاتصالات، اقرأ الويكي للحصول على التفاصيل.',
     haveRead: 'لقد قرأت، لا تظهر مرة أخرى',
     runningTime: 'وقت التشغيل',
-    fullContent: 'المحتوى الكامل'
+    fullContent: 'المحتوى الكامل',
+    copied: 'تم النسخ'
   },
 
   // app menu
