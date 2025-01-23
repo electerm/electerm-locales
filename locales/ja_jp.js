@@ -29,7 +29,8 @@ const lang = {
     haveRead: '読みました、再表示しない',
     runningTime: '実行時間',
     fullContent: '全文',
-    copied: 'コピー済み'
+    copied: 'コピー済み',
+    moveTo: '移動...'
   },
 
   // app menu

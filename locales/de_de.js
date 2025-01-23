@@ -29,7 +29,8 @@ const lang = {
     haveRead: 'Ich habe gelesen, nicht mehr anzeigen',
     runningTime: 'Laufzeit',
     fullContent: 'Vollständiger Inhalt',
-    copied: 'kopiert'
+    copied: 'kopiert',
+    moveTo: 'verschieben nach...'
   },
 
   // app menu

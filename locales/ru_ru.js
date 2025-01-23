@@ -29,7 +29,8 @@ const lang = {
     haveRead: 'Я прочитал, больше не показывать',
     runningTime: 'Время выполнения',
     fullContent: 'Полное содержание',
-    copied: 'скопировано'
+    copied: 'скопировано',
+    moveTo: 'перейти к...'
   },
 
   // app menu

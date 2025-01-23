@@ -29,7 +29,8 @@ const lang = {
     haveRead: '已阅，勿扰',
     runningTime: '运行时间',
     fullContent: '完整内容',
-    copied: '已复制'
+    copied: '已复制',
+    moveTo: '移动到...'
   },
 
   // app menu

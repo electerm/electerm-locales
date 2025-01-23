@@ -29,7 +29,8 @@ const lang = {
     haveRead: '我已閱讀，不再顯示',
     runningTime: '運行時間',
     fullContent: '完整內容',
-    copied: '已複製'
+    copied: '已複製',
+    moveTo: '移動到...'
   },
 
   // app menu

@@ -29,7 +29,8 @@ const lang = {
     haveRead: 'Okudum, tekrar gösterme',
     runningTime: 'Çalışma Süresi',
     fullContent: 'Tam İçerik',
-    copied: 'kopyalandı'
+    copied: 'kopyalandı',
+    moveTo: 'taşı...'
   },
 
   // app menu

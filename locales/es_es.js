@@ -30,7 +30,8 @@ const lang = {
     haveRead: 'He leído, no mostrar de nuevo',
     runningTime: 'Tiempo de Ejecución',
     fullContent: 'Contenido Completo',
-    copied: 'copiado'
+    copied: 'copiado',
+    moveTo: 'mover a...'
   },
 
   // app menu

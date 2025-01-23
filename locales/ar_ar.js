@@ -29,7 +29,8 @@ const lang = {
     haveRead: 'لقد قرأت، لا تظهر مرة أخرى',
     runningTime: 'وقت التشغيل',
     fullContent: 'المحتوى الكامل',
-    copied: 'تم النسخ'
+    copied: 'تم النسخ',
+    moveTo: 'انتقل إلى...'
   },
 
   // app menu
