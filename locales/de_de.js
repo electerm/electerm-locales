@@ -30,7 +30,8 @@ const lang = {
     runningTime: 'Laufzeit',
     fullContent: 'Vollständiger Inhalt',
     copied: 'kopiert',
-    moveTo: 'verschieben nach...'
+    moveTo: 'verschieben nach...',
+    roleAI: 'Rolle zum Erstellen von Terminalbefehlen mit KI'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: 'Remote -Verbindung zum lokalen Server weiterleiten',
     sftpPathFollowSsh: 'SFTP -Pfadsynchronisierung mit Terminal',
     dynamicPortForwarding: 'Dynamische Portweiterleitung',
-    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung mit dem Terminal aktiviert ist, können bestimmte Terminalausgabeprobleme auftreten'
+    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung mit dem Terminal aktiviert ist, können bestimmte Terminalausgabeprobleme auftreten',
+    explainWithAi: 'mit KI erklären'
   },
 
   // terminal themes

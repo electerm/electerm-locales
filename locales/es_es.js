@@ -31,7 +31,8 @@ const lang = {
     runningTime: 'Tiempo de Ejecución',
     fullContent: 'Contenido Completo',
     copied: 'copiado',
-    moveTo: 'mover a...'
+    moveTo: 'mover a...',
+    roleAI: 'rol para crear comandos de terminal con IA'
   },
 
   // app menu
@@ -396,7 +397,8 @@ const lang = {
     remoteToLocal: 'Reenviar conexión remota al servidor local',
     sftpPathFollowSsh: 'Sincronización de ruta SFTP con terminal',
     dynamicPortForwarding: 'Reenvío de puertos dinámico',
-    sftpPathFollowSshTip: 'Cuando la sincronización de la ruta SFTP con el terminal está activada, puede experimentar ciertos problemas de salida en el terminal'
+    sftpPathFollowSshTip: 'Cuando la sincronización de la ruta SFTP con el terminal está activada, puede experimentar ciertos problemas de salida en el terminal',
+    explainWithAi: 'explicar con IA'
   },
 
   // terminal themes

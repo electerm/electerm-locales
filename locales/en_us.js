@@ -30,7 +30,8 @@ const lang = {
     runningTime: 'running time',
     fullContent: 'full content',
     copied: 'copied',
-    moveTo: 'move to...'
+    moveTo: 'move to...',
+    roleAI: 'role for create terminal command with AI'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: 'forward remote connection to local server',
     sftpPathFollowSsh: 'SFTP path sync with terminal',
     dynamicPortForwarding: 'dynamic port forwarding',
-    sftpPathFollowSshTip: 'When SFTP path sync with terminal turned on, you may experience certain terminal output issues'
+    sftpPathFollowSshTip: 'When SFTP path sync with terminal turned on, you may experience certain terminal output issues',
+    explainWithAi: 'explain with AI'
   },
 
   // terminal themes

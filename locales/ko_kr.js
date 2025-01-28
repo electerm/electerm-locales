@@ -30,7 +30,8 @@ const lang = {
     runningTime: '실행 시간',
     fullContent: '전체 내용',
     copied: '복사됨',
-    moveTo: '이동...'
+    moveTo: '이동...',
+    roleAI: 'AI로 터미널 명령어 생성 역할'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: '로컬 서버에 대한 원격 연결을 전달합니다',
     sftpPathFollowSsh: 'SFTP 경로 터미널과 동기화됩니다',
     dynamicPortForwarding: '동적 포트 전달',
-    sftpPathFollowSshTip: 'SFTP 경로 동기화가 터미널에서 활성화된 경우 특정 터미널 출력 문제가 발생할 수 있습니다'
+    sftpPathFollowSshTip: 'SFTP 경로 동기화가 터미널에서 활성화된 경우 특정 터미널 출력 문제가 발생할 수 있습니다',
+    explainWithAi: 'AI로 설명'
   },
 
   // terminal themes

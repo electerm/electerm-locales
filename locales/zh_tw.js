@@ -30,7 +30,8 @@ const lang = {
     runningTime: '運行時間',
     fullContent: '完整內容',
     copied: '已複製',
-    moveTo: '移動到...'
+    moveTo: '移動到...',
+    roleAI: '使用AI創建終端命令的角色'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: '轉發遠程連接到本地服務器',
     sftpPathFollowSsh: 'SFTP路徑與終端同步',
     dynamicPortForwarding: '動態端口轉發',
-    sftpPathFollowSshTip: '當啟用 SFTP 路徑同步到終端時，您可能會遇到某些終端輸出問題'
+    sftpPathFollowSshTip: '當啟用 SFTP 路徑同步到終端時，您可能會遇到某些終端輸出問題',
+    explainWithAi: '用AI解釋'
   },
 
   // terminal themes

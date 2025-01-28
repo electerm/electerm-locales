@@ -30,7 +30,8 @@ const lang = {
     runningTime: '実行時間',
     fullContent: '全文',
     copied: 'コピー済み',
-    moveTo: '移動...'
+    moveTo: '移動...',
+    roleAI: 'AIを使用してターミナルコマンドを作成する役割'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: 'ローカルサーバーへのリモート接続を転送します',
     sftpPathFollowSsh: 'ターミナルとSFTPパス同期',
     dynamicPortForwarding: '動的なポート転送',
-    sftpPathFollowSshTip: 'SFTP パスの同期がターミナルで有効になっている場合、いくつかのターミナル出力の問題が発生する可能性があります'
+    sftpPathFollowSshTip: 'SFTP パスの同期がターミナルで有効になっている場合、いくつかのターミナル出力の問題が発生する可能性があります',
+    explainWithAi: 'AIで説明'
   },
 
   // terminal themes

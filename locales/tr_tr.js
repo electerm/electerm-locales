@@ -30,7 +30,8 @@ const lang = {
     runningTime: 'Çalışma Süresi',
     fullContent: 'Tam İçerik',
     copied: 'kopyalandı',
-    moveTo: 'taşı...'
+    moveTo: 'taşı...',
+    roleAI: 'AI ile terminal komutu oluşturma rolü'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: 'Yerel Sunucuya Uzaktan Bağlantı İleri Bağlantısı',
     sftpPathFollowSsh: 'SFTP Yolu Terminal ile Senkronizasyon',
     dynamicPortForwarding: 'dinamik bağlantı noktası yönlendirme',
-    sftpPathFollowSshTip: 'SFTP yolu terminal ile senkronize edildiğinde, bazı terminal çıktı sorunları yaşayabilirsiniz'
+    sftpPathFollowSshTip: 'SFTP yolu terminal ile senkronize edildiğinde, bazı terminal çıktı sorunları yaşayabilirsiniz',
+    explainWithAi: 'AI ile açıkla'
   },
 
   // terminal themes

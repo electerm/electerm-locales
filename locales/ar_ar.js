@@ -30,7 +30,8 @@ const lang = {
     runningTime: 'وقت التشغيل',
     fullContent: 'المحتوى الكامل',
     copied: 'تم النسخ',
-    moveTo: 'انتقل إلى...'
+    moveTo: 'انتقل إلى...',
+    roleAI: 'دور لإنشاء أوامر الطرفية باستخدام الذكاء الاصطناعي'
   },
 
   // app menu
@@ -395,7 +396,8 @@ const lang = {
     remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي',
     sftpPathFollowSsh: 'مزامنة مسار SFTP مع المحطة',
     dynamicPortForwarding: 'إعادة توجيه المنفذ الديناميكي',
-    sftpPathFollowSshTip: 'عند تشغيل مزامنة مسار SFTP مع المحطة الطرفية، قد تواجه بعض مشكلات إخراج المحطة الطرفية'
+    sftpPathFollowSshTip: 'عند تشغيل مزامنة مسار SFTP مع المحطة الطرفية، قد تواجه بعض مشكلات إخراج المحطة الطرفية',
+    explainWithAi: 'شرح باستخدام الذكاء الاصطناعي'
   },
 
   // terminal themes
