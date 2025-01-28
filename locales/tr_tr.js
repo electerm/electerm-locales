@@ -31,7 +31,9 @@ const lang = {
     fullContent: 'Tam İçerik',
     copied: 'kopyalandı',
     moveTo: 'taşı...',
-    roleAI: 'AI ile terminal komutu oluşturma rolü'
+    roleAI: 'AI ile terminal komutu oluşturma rolü',
+    roleExplainAI: 'AI ile terminal çıktısını açıklama rolü',
+    modelAi: 'AI modeli'
   },
 
   // app menu

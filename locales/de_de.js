@@ -31,7 +31,9 @@ const lang = {
     fullContent: 'Vollständiger Inhalt',
     copied: 'kopiert',
     moveTo: 'verschieben nach...',
-    roleAI: 'Rolle zum Erstellen von Terminalbefehlen mit KI'
+    roleAI: 'Rolle zum Erstellen von Terminalbefehlen mit KI',
+    roleExplainAI: 'Rolle zur Erklärung der Terminalausgabe mit KI',
+    modelAi: 'KI-Modell'
   },
 
   // app menu

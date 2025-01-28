@@ -58,22 +58,11 @@ async function chatWithAI (prompt) {
 
 async function getTranslations (text) {
   const prompt = `As a professional translator, please translate the following UI string for a terminal application:
-
 Source text: "${text}"
-
-Requirements:
-1. Translate to all languages listed below, maintaining the technical context
-2. Ensure translations are concise and suitable for UI display
-3. Keep technical terms consistent
-4. For Asian languages (Chinese, Japanese, Korean), use standard technical terminology
-5. Preserve any placeholders or variables if present
-
 Target languages:
 ${JSON.stringify(supported, null, 2)}
-
 Please respond with ONLY a single-line JSON object in this exact format:
 {"en": "original text", "zh-CN": "translation", ...}
-
 No explanation or additional text needed.`
 
   try {

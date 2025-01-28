@@ -31,7 +31,9 @@ const lang = {
     fullContent: 'Contenu Complet',
     copied: 'copié',
     moveTo: 'déplacer vers...',
-    roleAI: 'rôle pour créer des commandes terminal avec IA'
+    roleAI: 'rôle pour créer des commandes terminal avec IA',
+    roleExplainAI: 'rôle pour expliquer la sortie du terminal avec IA',
+    modelAi: 'modèle d`IA'
   },
 
   // app menu

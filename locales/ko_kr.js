@@ -31,7 +31,9 @@ const lang = {
     fullContent: '전체 내용',
     copied: '복사됨',
     moveTo: '이동...',
-    roleAI: 'AI로 터미널 명령어 생성 역할'
+    roleAI: 'AI로 터미널 명령어 생성 역할',
+    roleExplainAI: 'AI로 터미널 출력 설명 역할',
+    modelAi: 'AI 모델'
   },
 
   // app menu

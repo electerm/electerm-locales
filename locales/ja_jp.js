@@ -31,7 +31,9 @@ const lang = {
     fullContent: '全文',
     copied: 'コピー済み',
     moveTo: '移動...',
-    roleAI: 'AIを使用してターミナルコマンドを作成する役割'
+    roleAI: 'AIを使用してターミナルコマンドを作成する役割',
+    roleExplainAI: 'AIでターミナル出力を説明する役割',
+    modelAi: 'AIモデル'
   },
 
   // app menu

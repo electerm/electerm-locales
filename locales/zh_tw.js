@@ -31,7 +31,9 @@ const lang = {
     fullContent: '完整內容',
     copied: '已複製',
     moveTo: '移動到...',
-    roleAI: '使用AI創建終端命令的角色'
+    roleAI: '使用AI創建終端命令的角色',
+    roleExplainAI: '用於通過AI解釋終端輸出的角色',
+    modelAi: 'AI模型'
   },
 
   // app menu
