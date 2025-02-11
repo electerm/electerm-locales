@@ -441,7 +441,8 @@ const lang = {
     autoSync: '自動同期',
     lastSyncTime: '前回同期の時間',
     useExistingGistId: '既存を使用',
-    autoSyncTip: 'データが変更されたときにデータを自動アップロード（上書き）します'
+    autoSyncTip: 'データが変更されたときにデータを自動アップロード（上書き）します',
+    syncServerDataStatus: '同期サーバー内のデータステータス'
   }
 }
 

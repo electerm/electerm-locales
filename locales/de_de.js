@@ -441,7 +441,8 @@ const lang = {
     autoSync: 'Automatische Synchronisierung',
     lastSyncTime: 'Letzte Synchronisierungszeit',
     useExistingGistId: 'Verwende existierende Gist-ID',
-    autoSyncTip: 'Überschreibe (Überschreibe) Daten, wenn sich die Daten geändert haben'
+    autoSyncTip: 'Überschreibe (Überschreibe) Daten, wenn sich die Daten geändert haben',
+    syncServerDataStatus: 'Datenstatus im Synchronisationsserver'
   }
 }
 

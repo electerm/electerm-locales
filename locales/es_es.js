@@ -442,7 +442,8 @@ const lang = {
     autoSync: 'sincronización automática',
     lastSyncTime: 'última hora de sincronización',
     useExistingGistId: 'utilizar existente',
-    autoSyncTip: 'Datos de carga automática (sobrescribir) cuando los datos cambian'
+    autoSyncTip: 'Datos de carga automática (sobrescribir) cuando los datos cambian',
+    syncServerDataStatus: 'estado de los datos en el servidor de sincronización'
   }
 }
 

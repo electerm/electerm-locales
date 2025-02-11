@@ -441,7 +441,8 @@ const lang = {
     autoSync: '自动同步',
     lastSyncTime: '最后同步时间',
     useExistingGistId: '利用现有的',
-    autoSyncTip: '当数据更改时自动上传（覆盖）数据'
+    autoSyncTip: '当数据更改时自动上传（覆盖）数据',
+    syncServerDataStatus: '同步服务器中的数据状态'
   }
 }
 

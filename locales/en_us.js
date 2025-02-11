@@ -441,7 +441,8 @@ const lang = {
     autoSync: 'auto sync',
     lastSyncTime: 'last sync time',
     useExistingGistId: 'use existing',
-    autoSyncTip: 'auto upload(overwrite) data when data changed'
+    autoSyncTip: 'auto upload(overwrite) data when data changed',
+    syncServerDataStatus: 'data status in sync server'
   }
 }
 
