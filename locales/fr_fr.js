@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: 'Séquence de borne de borne',
     showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start',
     hideIP: 'Masquer l\'adresse IP',
-    disableConnectionHistory: 'désactiver l`historique des connexions'
+    disableConnectionHistory: 'désactiver l`historique des connexions',
+    terminalLogPath: 'chemin du journal du terminal'
   },
 
   // sftp

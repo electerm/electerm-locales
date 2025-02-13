@@ -186,7 +186,6 @@ const lang = {
 
   // setting
   setting: {
-
     new: 'new',
     settings: 'settings',
     common: 'common',
@@ -244,7 +243,8 @@ const lang = {
     terminalBackSpaceMode: 'terminal backspace sequence',
     showHiddenFilesOnSftpStart: 'show hidden files on sftp start',
     hideIP: 'hide IP',
-    disableConnectionHistory: 'disable connection history'
+    disableConnectionHistory: 'disable connection history',
+    terminalLogPath: 'terminal log path'
   },
 
   // sftp

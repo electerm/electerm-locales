@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: '터미널 백 스페이스 시퀀스',
     showHiddenFilesOnSftpStart: 'SFTP 시작시 숨겨진 파일을 표시하십시오',
     hideIP: 'IP 주소 숨기기',
-    disableConnectionHistory: '연결 기록 비활성화'
+    disableConnectionHistory: '연결 기록 비활성화',
+    terminalLogPath: '터미널 로그 경로'
   },
 
   // sftp

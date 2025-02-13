@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: 'Endraumsequenz',
     showHiddenFilesOnSftpStart: 'Zeigen Sie versteckte Dateien auf SFTP -Start an',
     hideIP: 'IP-Adresse verbergen',
-    disableConnectionHistory: 'Verbindungsverlauf deaktivieren'
+    disableConnectionHistory: 'Verbindungsverlauf deaktivieren',
+    terminalLogPath: 'Terminal-Protokollpfad'
   },
 
   // sftp

@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: '终端backspace序列',
     showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件',
     hideIP: '隐藏 IP 地址',
-    disableConnectionHistory: '禁用连接历史'
+    disableConnectionHistory: '禁用连接历史',
+    terminalLogPath: '终端日志路径'
   },
 
   // sftp

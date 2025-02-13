@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: 'терминальная последовательность обратного пространства',
     showHiddenFilesOnSftpStart: 'Показать скрытые файлы в SFTP Start',
     hideIP: 'Скрыть IP-адрес',
-    disableConnectionHistory: 'отключить историю подключений'
+    disableConnectionHistory: 'отключить историю подключений',
+    terminalLogPath: 'путь журнала терминала'
   },
 
   // sftp

@@ -244,7 +244,8 @@ const lang = {
     terminalBackSpaceMode: 'Terminal Backspace Sırası',
     showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster',
     hideIP: 'IP adresini gizle',
-    disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak'
+    disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak',
+    terminalLogPath: 'terminal günlük yolu'
   },
 
   // sftp

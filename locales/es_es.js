@@ -245,7 +245,8 @@ const lang = {
     terminalBackSpaceMode: 'secuencia terminal de retroceso',
     showHiddenFilesOnSftpStart: 'Mostrar archivos ocultos en SFTP Start',
     hideIP: 'Ocultar dirección IP',
-    disableConnectionHistory: 'deshabilitar historial de conexiones'
+    disableConnectionHistory: 'deshabilitar historial de conexiones',
+    terminalLogPath: 'ruta del registro del terminal'
   },
 
   // sftp
