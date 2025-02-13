@@ -245,7 +245,8 @@ const lang = {
     showHiddenFilesOnSftpStart: 'SFTP Start\'ta gizli dosyaları göster',
     hideIP: 'IP adresini gizle',
     disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak',
-    terminalLogPath: 'terminal günlük yolu'
+    terminalLogPath: 'terminal günlük yolu',
+    chooseFolder: 'klasör seç'
   },
 
   // sftp

@@ -245,7 +245,8 @@ const lang = {
     showHiddenFilesOnSftpStart: '在SFTP开始显示隐藏的文件',
     hideIP: '隐藏 IP 地址',
     disableConnectionHistory: '禁用连接历史',
-    terminalLogPath: '终端日志路径'
+    terminalLogPath: '终端日志路径',
+    chooseFolder: '选择文件夹'
   },
 
   // sftp

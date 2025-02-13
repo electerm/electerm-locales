@@ -245,7 +245,8 @@ const lang = {
     showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start',
     hideIP: 'Masquer l\'adresse IP',
     disableConnectionHistory: 'désactiver l`historique des connexions',
-    terminalLogPath: 'chemin du journal du terminal'
+    terminalLogPath: 'chemin du journal du terminal',
+    chooseFolder: 'choisir un dossier'
   },
 
   // sftp

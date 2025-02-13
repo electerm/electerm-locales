@@ -245,7 +245,8 @@ const lang = {
     showHiddenFilesOnSftpStart: 'SFTPの開始に非表示ファイルを表示します',
     hideIP: 'IPアドレスを隠す',
     disableConnectionHistory: '接続履歴を無効にする',
-    terminalLogPath: 'ターミナルログパス'
+    terminalLogPath: 'ターミナルログパス',
+    chooseFolder: 'フォルダを選択'
   },
 
   // sftp

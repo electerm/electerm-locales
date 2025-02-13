@@ -244,7 +244,8 @@ const lang = {
     showHiddenFilesOnSftpStart: 'show hidden files on sftp start',
     hideIP: 'hide IP',
     disableConnectionHistory: 'disable connection history',
-    terminalLogPath: 'terminal log path'
+    terminalLogPath: 'terminal log path',
+    chooseFolder: 'choose folder'
   },
 
   // sftp
