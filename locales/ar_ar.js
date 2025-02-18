@@ -246,7 +246,8 @@ const lang = {
     hideIP: 'إخفاء عنوان IP',
     disableConnectionHistory: 'تعطيل سجل الاتصال',
     terminalLogPath: 'مسار سجل الطرفية',
-    chooseFolder: 'اختر مجلد'
+    chooseFolder: 'اختر مجلد',
+    sshSftpSplitView: 'إظهار الطرفية و SFTP في عرض منقسم'
   },
 
   // sftp

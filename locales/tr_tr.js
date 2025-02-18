@@ -246,7 +246,8 @@ const lang = {
     hideIP: 'IP adresini gizle',
     disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak',
     terminalLogPath: 'terminal günlük yolu',
-    chooseFolder: 'klasör seç'
+    chooseFolder: 'klasör seç',
+    sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster'
   },
 
   // sftp

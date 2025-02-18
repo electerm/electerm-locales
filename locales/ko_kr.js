@@ -246,7 +246,8 @@ const lang = {
     hideIP: 'IP 주소 숨기기',
     disableConnectionHistory: '연결 기록 비활성화',
     terminalLogPath: '터미널 로그 경로',
-    chooseFolder: '폴더 선택'
+    chooseFolder: '폴더 선택',
+    sshSftpSplitView: '터미널과 SFTP를 분할 보기로 표시'
   },
 
   // sftp

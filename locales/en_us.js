@@ -245,7 +245,8 @@ const lang = {
     hideIP: 'hide IP',
     disableConnectionHistory: 'disable connection history',
     terminalLogPath: 'terminal log path',
-    chooseFolder: 'choose folder'
+    chooseFolder: 'choose folder',
+    sshSftpSplitView: 'show terminal and sftp in split view'
   },
 
   // sftp

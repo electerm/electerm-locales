@@ -246,7 +246,8 @@ const lang = {
     hideIP: '隐藏 IP 地址',
     disableConnectionHistory: '禁用连接历史',
     terminalLogPath: '终端日志路径',
-    chooseFolder: '选择文件夹'
+    chooseFolder: '选择文件夹',
+    sshSftpSplitView: '在分屏视图中显示终端和SFTP'
   },
 
   // sftp

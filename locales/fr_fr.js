@@ -246,7 +246,8 @@ const lang = {
     hideIP: 'Masquer l\'adresse IP',
     disableConnectionHistory: 'désactiver l`historique des connexions',
     terminalLogPath: 'chemin du journal du terminal',
-    chooseFolder: 'choisir un dossier'
+    chooseFolder: 'choisir un dossier',
+    sshSftpSplitView: 'afficher le terminal et SFTP en vue fractionnée'
   },
 
   // sftp
