@@ -1,32 +1,31 @@
 /**
- * language: german
+ * language: Deutsch
  */
 const lang = {
 
-  // app desc
   app: {
-    isRunning: 'läuft',
-    press: 'drücken',
-    toShow: 'zeigen',
-    changeLog: 'Änderungsprotokoll',
+    isRunning: 'wird ausgeführt',
+    press: 'drücken Sie',
+    toShow: 'zum Anzeigen',
+    changeLog: 'Änderungsverlauf',
     knownIssues: 'Bekannte Probleme',
-    sponsorElecterm: 'Förderer von electerm',
-    privacyNotice: 'Datenschutzerklärung',
-    desc: 'Terminal/ssh/sftp/telnet/Seriellport-/RDP-/VNC-Client (Linux, Mac, Win)',
-    single: 'Einzeln',
-    twoColumns: 'Zwei Spalten',
-    threeColumns: 'Drei Spalten',
-    twoRows: 'Zwei Zeilen',
-    threeRows: 'Drei Zeilen',
-    grid2x2: 'Gitter 2x2',
+    sponsorElecterm: 'Electerm unterstützen',
+    privacyNotice: 'Datenschutzhinweis',
+    desc: 'Terminal/SSH/SFTP/Telnet/Serielle Schnittstelle/RDP/VNC-Client (Linux, Mac, Windows)',
+    single: 'Einzelansicht',
+    twoColumns: 'Zweispaltig',
+    threeColumns: 'Dreispaltig',
+    twoRows: 'Zweizeilig',
+    threeRows: 'Dreizeilig',
+    grid2x2: '2x2 Raster',
     twoRowsRight: 'Zwei Zeilen rechts',
     twoColumnsBottom: 'Zwei Spalten unten',
-    troubleShoot: 'Fehlerbehebung',
-    clearConfig: 'Konfiguration löschen',
-    clearData: 'Daten löschen',
-    runInCommandLine: 'im Befehlszeile ausführen',
-    connectionHoppingWarning: 'Seit Version v1.50.65 hat sich die Verbindungsreihenfolge beim Verbindungshüpfen geändert, lesen Sie das Wiki für Details.',
-    haveRead: 'Ich habe gelesen, nicht mehr anzeigen',
+    troubleShoot: 'Problembehandlung',
+    clearConfig: 'Konfiguration zurücksetzen',
+    clearData: 'Daten zurücksetzen',
+    runInCommandLine: 'In der Kommandozeile ausführen',
+    connectionHoppingWarning: 'Seit Version v1.50.65 hat sich die Verbindungsreihenfolge beim Connection Hopping geändert. Details finden Sie im Wiki.',
+    haveRead: 'Verstanden, nicht mehr anzeigen',
     runningTime: 'Laufzeit',
     fullContent: 'Vollständiger Inhalt',
     copied: 'kopiert',
@@ -36,15 +35,13 @@ const lang = {
     modelAi: 'KI-Modell'
   },
 
-  // app menu
   menu: {
-    // mac app
+
     hide: 'Verstecken',
     hideothers: 'Andere verstecken',
     unhide: 'Anzeigen',
     quit: 'Beenden',
 
-    // edit
     edit: 'Bearbeiten',
     undo: 'Rückgängig',
     redo: 'Wiederholen',
@@ -57,7 +54,6 @@ const lang = {
     startspeaking: 'Stimme aktivieren',
     stopspeaking: 'Stimme deaktivieren',
 
-    // view
     view: 'Ansicht',
     reload: 'Neu laden',
     forcereload: 'Erneut laden',
@@ -68,7 +64,6 @@ const lang = {
     zoomout: 'Verkleinern',
     togglefullscreen: 'Vollbild',
 
-    // window
     window: 'Fenster',
     minimize: 'Minimieren',
     maximize: 'Maximieren',
@@ -77,7 +72,6 @@ const lang = {
     restart: 'Neu starten',
     front: 'Vorne',
 
-    // help
     help: 'Hilfe',
     about: 'Über',
     checkUpdate: 'Aktualisierung prüfen',
@@ -88,7 +82,6 @@ const lang = {
     pasteSelected: 'Auswahl einfügen'
   },
 
-  // common
   common: {
     history: 'Verlauf',
     bookmarks: 'Lesezeichen',
@@ -118,7 +111,6 @@ const lang = {
     sshConfigNotice: 'Konfigurationen aus ~/.ssh/config erkannt, als Lesezeichen importieren?'
   },
 
-  // control buttons
   control: {
     author: 'Autor',
     download: 'Herunterladen',
@@ -137,7 +129,6 @@ const lang = {
     newWindow: 'Neues Fenster'
   },
 
-  // transferHistory
   transferHistory: {
     transferHistory: 'Transfer-Verlauf',
     localPath: 'Lokaler Pfad',
@@ -151,7 +142,6 @@ const lang = {
     toPath: 'Nach'
   },
 
-  // ssh tabs
   tabs: {
     titleEmptyWarn: 'Titel darf nicht leer sein',
     close: 'Schließen',
@@ -166,12 +156,10 @@ const lang = {
     reloadCurrentTab: 'Aktuellen Tab neu laden'
   },
 
-  // main warpper
   main: {
     error: 'Etwas ist fehlgeschlagen.'
   },
 
-  // updater check
   updater: {
     noNeed: 'Keine Aktualisierung',
     noNeedDesc: 'Sie haben die neueste Version',
@@ -184,7 +172,6 @@ const lang = {
     manuallyDownloadFrom: 'manuell herunterladen von'
   },
 
-  // setting
   setting: {
 
     new: 'Neu',
@@ -250,7 +237,6 @@ const lang = {
     sshSftpSplitView: 'Terminal und SFTP in geteilter Ansicht anzeigen'
   },
 
-  // sftp
   sftp: {
     cancel: 'Abbrechen',
     skip: 'Überspringen',
@@ -317,19 +303,18 @@ const lang = {
     read: 'Lesen',
     write: 'Schreiben',
     exec: 'Ausführen',
-    owner: 'Besitzer',
+    owner: 'Eigentümer',
     group: 'Gruppe',
     other: 'Andere'
   },
 
-  // ssh form
   form: {
     password: 'Passwort',
     privateKey: 'Privater Schlüssel',
-    privateKeyDesc: 'Privater Schlüssel String',
-    importFromFile: 'Importieren aus Datei',
+    privateKeyDesc: 'Inhalt des privaten Schlüssels',
+    importFromFile: 'Aus Datei importieren',
     passphrase: 'Passphrase',
-    passphraseDesc: 'Passphrase für privaten Schlüssel',
+    passphraseDesc: 'Passphrase für den privaten Schlüssel',
     host: 'Host',
     username: 'Benutzername',
     port: 'Port',
@@ -337,12 +322,12 @@ const lang = {
     saveAndConnect: 'Speichern und verbinden',
     saveAndCreateNew: 'Speichern und neu erstellen',
     save: 'Speichern',
-    loginScript: 'Login-Skript',
-    loginScriptDelay: 'Login-Skript-Verzögerung',
-    loginScriptTip: 'Login-Skript wird ausgeführt, nachdem der SSH-Client verbunden ist',
+    loginScript: 'Anmeldeskript',
+    loginScriptDelay: 'Anmeldeskript-Verzögerung',
+    loginScriptTip: 'Anmeldeskript wird nach erfolgreicher SSH-Verbindung ausgeführt',
     connect: 'Verbinden',
     testConnection: 'Verbindung testen',
-    required: 'Benötigt',
+    required: 'Erforderlich',
     proxyIp: 'Proxy-IP',
     proxyPort: 'Proxy-Port',
     proxyType: 'Proxy-Typ',
@@ -351,63 +336,61 @@ const lang = {
     auth: 'Authentifizierung',
     proxy: 'Proxy',
     use: 'Verwenden',
-    encode: 'Encodieren',
+    encode: 'Kodierung',
     terminalType: 'Terminal-Typ',
-    startDirectory: 'Start-Verzeichnis',
-    ignoreKeyboardInteractive: 'Ignoriere interaktives Keyboard',
+    startDirectory: 'Startverzeichnis',
+    ignoreKeyboardInteractive: 'Keyboard-Interactive ignorieren',
     description: 'Beschreibung',
-    connectionHopping: 'Connection hopping',
-    loginPassword: 'Passwort',
-    loginFail: 'Fehler bei der Anmeldung',
-    notSet: 'nicht eingestellt',
-    displayRaw: 'Rohtext im Terminal anzeigen',
+    connectionHopping: 'Connection Hopping',
+    loginPassword: 'Anmeldepasswort',
+    loginFail: 'Anmeldung fehlgeschlagen',
+    notSet: 'Nicht festgelegt',
+    displayRaw: 'Rohdaten im Terminal anzeigen',
     supportRegexp: 'Unterstützt reguläre Ausdrücke',
-    keywordsHighlight: 'Stichwort-Hervorhebung',
-    keyword: 'Stichwort',
-    viewOnly: 'Nur anzeigen',
+    keywordsHighlight: 'Schlüsselwort-Hervorhebung',
+    keyword: 'Schlüsselwort',
+    viewOnly: 'Nur Ansicht',
     scaleViewport: 'Ansichtsfenster skalieren',
-    credentialsRequired: 'Anmeldeinformationen erforderlich',
+    credentialsRequired: 'Anmeldedaten erforderlich',
     profiles: 'Profile',
     profileName: 'Profilname',
-    interactiveValues: 'vordefinierte interaktive Werte für die Tastatur',
+    interactiveValues: 'Vordefinierte Werte für Keyboard-Interactive',
     chooseFromBookmarks: 'Aus Lesezeichen auswählen',
-    editWithColorPicker: 'Mit Farbwähler bearbeiten',
+    editWithColorPicker: 'Mit Farbauswahl bearbeiten',
     editWithTextEditor: 'Mit Texteditor bearbeiten',
     loadSshConfigs: 'SSH-Konfigurationen laden'
   },
 
-  // ssh terminal
   ssh: {
-    clear: 'Leeren',
-    selectAll: 'Alle auswählen',
+    clear: 'Löschen',
+    selectAll: 'Alles auswählen',
     savePassword: 'Passwort speichern',
     search: 'Suchen',
     terminal: 'Terminal',
-    nextMatch: 'Nächste Übereinstimmung',
-    prevMatch: 'Vorherige Übereinstimmung',
+    nextMatch: 'Nächster Treffer',
+    prevMatch: 'Vorheriger Treffer',
     split: 'Teilen',
     fileManager: 'Dateimanager',
     changeDirection: 'Richtung ändern',
-    batchInput: 'Stapel-Eingabe',
+    batchInput: 'Mehrfacheingabe',
     runInAllTerminals: 'In allen Terminals ausführen',
     matchCase: 'Groß-/Kleinschreibung beachten',
     matchWholeWord: 'Ganzes Wort',
     useRegExp: 'Reguläre Ausdrücke verwenden',
-    socketCloseTip: 'Terminalverbindung verloren',
-    sshTunnel: 'SSH -Tunnel',
-    remotePort: 'Remote -Port',
-    localPort: 'Lokaler Hafen',
-    localToRemote: 'Leiten Sie die lokale Verbindung auf Remote -Server weiter',
-    remoteToLocal: 'Remote -Verbindung zum lokalen Server weiterleiten',
-    sftpPathFollowSsh: 'SFTP -Pfadsynchronisierung mit Terminal',
+    socketCloseTip: 'Terminalverbindung wurde getrennt',
+    sshTunnel: 'SSH-Tunnel',
+    remotePort: 'Remote-Port',
+    localPort: 'Lokaler Port',
+    localToRemote: 'Lokale Verbindung zum Remote-Server weiterleiten',
+    remoteToLocal: 'Remote-Verbindung zum lokalen Server weiterleiten',
+    sftpPathFollowSsh: 'SFTP-Pfad mit Terminal synchronisieren',
     dynamicPortForwarding: 'Dynamische Portweiterleitung',
-    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung mit dem Terminal aktiviert ist, können bestimmte Terminalausgabeprobleme auftreten',
-    explainWithAi: 'mit KI erklären'
+    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung aktiviert ist, können bestimmte Ausgabeprobleme im Terminal auftreten',
+    explainWithAi: 'Mit KI erklären'
   },
 
-  // terminal themes
   terminalThemes: {
-    terminalThemes: 'Terminal-Design',
+    terminalThemes: 'Terminal-Designs',
     export: 'Exportieren',
     themeName: 'Design-Name',
     saveAndApply: 'Speichern und anwenden',
@@ -416,42 +399,40 @@ const lang = {
     newTheme: 'Neues Design',
     themeConfig: 'Design-Konfiguration',
     updated: 'Design aktualisiert',
-    uiThemes: 'UI-Design'
+    uiThemes: 'Benutzeroberflächen-Designs'
   },
 
-  // quick commands
   quickCommands: {
-    quickCommand: 'Schnell-Befehl',
-    quickCommands: 'Schnell-Befehle',
-    quickCommandName: 'Schnell-Befehl-Name',
-    addQuickCommands: 'Schnell-Befehle hinzufügen',
-    newQuickCommand: 'Neuer Schnell-Befehl',
+    quickCommand: 'Schnellbefehl',
+    quickCommands: 'Schnellbefehle',
+    quickCommandName: 'Schnellbefehl-Name',
+    addQuickCommands: 'Schnellbefehle hinzufügen',
+    newQuickCommand: 'Neuer Schnellbefehl',
     inputOnly: 'Nur Eingabe',
-    labels: 'Beschriftungen',
-    sortByFrequency: 'Sortieren nach Frequenz'
+    labels: 'Bezeichnungen',
+    sortByFrequency: 'Nach Häufigkeit sortieren'
   },
 
-  // setting sync
   settingSync: {
-    settingSync: 'Einstellungs-Synchronisierung',
+    settingSync: 'Einstellungssynchronisation',
     sync: 'Synchronisieren',
     syncing: 'Synchronisiere...',
     syncSettings: 'Einstellungen synchronisieren',
-    uploadSettings: 'Hochlade-Einstellungen',
-    downloadSettings: 'Herunterlade-Einstellungen',
+    uploadSettings: 'Einstellungen hochladen',
+    downloadSettings: 'Einstellungen herunterladen',
     synced: 'Synchronisiert',
-    syncDesc: 'Synchronisiere Lesezeichen / Verlauf / Einstellung für GitHub secret gist',
-    autoSync: 'Automatische Synchronisierung',
-    lastSyncTime: 'Letzte Synchronisierungszeit',
-    useExistingGistId: 'Verwende existierende Gist-ID',
-    autoSyncTip: 'Überschreibe (Überschreibe) Daten, wenn sich die Daten geändert haben',
-    syncServerDataStatus: 'Datenstatus im Synchronisationsserver'
+    syncDesc: 'Synchronisiert Lesezeichen/Verlauf/Einstellungen mit GitHub Secret Gist',
+    autoSync: 'Automatische Synchronisation',
+    lastSyncTime: 'Letzte Synchronisation',
+    useExistingGistId: 'Vorhandene Gist-ID verwenden',
+    autoSyncTip: 'Daten automatisch überschreiben, wenn Änderungen erkannt werden',
+    syncServerDataStatus: 'Status der Serverdaten'
   }
 }
 
 export default {
   lang,
-  name: 'German',
+  name: 'Deutsch',
   match: 'de',
   flag: '🇩🇪'
 }
