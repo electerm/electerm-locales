@@ -453,5 +453,5 @@ export default {
   lang,
   name: 'Français',
   match: 'fr',
-  flag: '🇫🇷'
+  flag: '🇮🇩'
 }
