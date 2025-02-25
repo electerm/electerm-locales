@@ -42,7 +42,7 @@ To make the work easier, I have created a script to help creating a language fil
 
 # for example:
 # this will create a German language file `locales/de_de.js`
-lang=de apiKey=xxxx node bin/create-new-lang.js
+lang=de apiKey=xxxx node bin/create-new-language-file-with-ai.js
 # then you can review and edit to make sure every entry is right
 ```
 
