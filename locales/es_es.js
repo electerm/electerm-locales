@@ -403,7 +403,8 @@ const lang = {
     sftpPathFollowSsh: 'Sincronización de ruta SFTP con terminal',
     dynamicPortForwarding: 'Reenvío de puertos dinámico',
     sftpPathFollowSshTip: 'Cuando la sincronización de la ruta SFTP con el terminal está activada, puede experimentar ciertos problemas de salida en el terminal',
-    explainWithAi: 'explicar con IA'
+    explainWithAi: 'explicar con IA',
+    getAiSuggestions: 'obtener sugerencias de IA'
   },
 
   // terminal themes

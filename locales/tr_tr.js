@@ -402,7 +402,8 @@ const lang = {
     sftpPathFollowSsh: 'SFTP Yolu Terminal ile Senkronizasyon',
     dynamicPortForwarding: 'dinamik bağlantı noktası yönlendirme',
     sftpPathFollowSshTip: 'SFTP yolu terminal ile senkronize edildiğinde, bazı terminal çıktı sorunları yaşayabilirsiniz',
-    explainWithAi: 'AI ile açıkla'
+    explainWithAi: 'AI ile açıkla',
+    getAiSuggestions: 'AI önerileri al'
   },
 
   // terminal themes

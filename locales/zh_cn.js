@@ -402,7 +402,8 @@ const lang = {
     sftpPathFollowSsh: 'SFTP路径与终端同步',
     dynamicPortForwarding: '动态端口转发',
     sftpPathFollowSshTip: '当启用 SFTP 路径同步到终端时，您可能会遇到某些终端输出问题',
-    explainWithAi: '用AI解释'
+    explainWithAi: '用AI解释',
+    getAiSuggestions: '获取AI建议'
   },
 
   // terminal themes

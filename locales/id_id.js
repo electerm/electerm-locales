@@ -401,7 +401,8 @@ const lang = {
     sftpPathFollowSsh: 'path SFTP disinkronkan dengan terminal',
     dynamicPortForwarding: 'penerusan port dinamis',
     sftpPathFollowSshTip: 'Ketika sinkronisasi path SFTP dengan terminal diaktifkan, Anda mungkin akan mengalami masalah output terminal tertentu',
-    explainWithAi: 'jelaskan dengan AI'
+    explainWithAi: 'jelaskan dengan AI',
+    getAiSuggestions: 'dapatkan saran AI'
   },
 
   // terminal themes

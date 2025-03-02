@@ -24,7 +24,8 @@ const supported = {
   ja: 'ja_jp',
   ar: 'ar_ar',
   de: 'de_de',
-  ko: 'ko_kr'
+  ko: 'ko_kr',
+  id: 'id_id' // Indonesian
 }
 
 const mapper = {
@@ -39,7 +40,8 @@ const mapper = {
   ja: '日本語',
   ar: 'العربية',
   de: 'Deutsch',
-  ko: '한국어'
+  ko: '한국어',
+  id: 'Bahasa Indonesia'
 }
 
 async function run () {

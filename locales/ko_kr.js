@@ -402,7 +402,8 @@ const lang = {
     sftpPathFollowSsh: 'SFTP 경로 터미널과 동기화됩니다',
     dynamicPortForwarding: '동적 포트 전달',
     sftpPathFollowSshTip: 'SFTP 경로 동기화가 터미널에서 활성화된 경우 특정 터미널 출력 문제가 발생할 수 있습니다',
-    explainWithAi: 'AI로 설명'
+    explainWithAi: 'AI로 설명',
+    getAiSuggestions: 'AI 제안 받기'
   },
 
   // terminal themes
