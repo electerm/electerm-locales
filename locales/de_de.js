@@ -387,7 +387,8 @@ const lang = {
     dynamicPortForwarding: 'Dynamische Portweiterleitung',
     sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung aktiviert ist, können bestimmte Ausgabeprobleme im Terminal auftreten',
     explainWithAi: 'Mit KI erklären',
-    getAiSuggestions: 'KI-Vorschläge erhalten'
+    getAiSuggestions: 'KI-Vorschläge erhalten',
+    broadcastInput: 'Eingabe auf alle sichtbaren Terminals spiegeln'
   },
 
   terminalThemes: {

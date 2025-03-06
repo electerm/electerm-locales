@@ -403,7 +403,8 @@ const lang = {
     dynamicPortForwarding: 'dinamik bağlantı noktası yönlendirme',
     sftpPathFollowSshTip: 'SFTP yolu terminal ile senkronize edildiğinde, bazı terminal çıktı sorunları yaşayabilirsiniz',
     explainWithAi: 'AI ile açıkla',
-    getAiSuggestions: 'AI önerileri al'
+    getAiSuggestions: 'AI önerileri al',
+    broadcastInput: 'girişi tüm görünür terminallere yansıt'
   },
 
   // terminal themes

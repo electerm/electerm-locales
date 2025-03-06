@@ -404,7 +404,8 @@ const lang = {
     dynamicPortForwarding: 'Reenvío de puertos dinámico',
     sftpPathFollowSshTip: 'Cuando la sincronización de la ruta SFTP con el terminal está activada, puede experimentar ciertos problemas de salida en el terminal',
     explainWithAi: 'explicar con IA',
-    getAiSuggestions: 'obtener sugerencias de IA'
+    getAiSuggestions: 'obtener sugerencias de IA',
+    broadcastInput: 'reflejar la entrada en todas las terminales visibles'
   },
 
   // terminal themes

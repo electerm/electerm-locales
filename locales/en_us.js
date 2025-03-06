@@ -402,7 +402,8 @@ const lang = {
     dynamicPortForwarding: 'dynamic port forwarding',
     sftpPathFollowSshTip: 'When SFTP path sync with terminal turned on, you may experience certain terminal output issues',
     explainWithAi: 'explain with AI',
-    getAiSuggestions: 'get AI suggestions'
+    getAiSuggestions: 'get AI suggestions',
+    broadcastInput: 'mirror input to all visible terminals'
   },
 
   // terminal themes

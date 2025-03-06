@@ -403,7 +403,8 @@ const lang = {
     dynamicPortForwarding: '動的なポート転送',
     sftpPathFollowSshTip: 'SFTP パスの同期がターミナルで有効になっている場合、いくつかのターミナル出力の問題が発生する可能性があります',
     explainWithAi: 'AIで説明',
-    getAiSuggestions: 'AIの提案を取得'
+    getAiSuggestions: 'AIの提案を取得',
+    broadcastInput: '入力内容をすべての表示中の端末にミラーリング'
   },
 
   // terminal themes
