@@ -33,7 +33,8 @@ const lang = {
     moveTo: '이동...',
     roleAI: 'AI로 터미널 명령어 생성 역할',
     roleExplainAI: 'AI로 터미널 출력 설명 역할',
-    modelAi: 'AI 모델'
+    modelAi: 'AI 모델',
+    aiSuggestionsCache: 'AI 제안 캐시'
   },
 
   // app menu

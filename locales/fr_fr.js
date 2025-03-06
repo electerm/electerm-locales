@@ -33,7 +33,8 @@ const lang = {
     moveTo: 'déplacer vers...',
     roleAI: 'rôle pour créer des commandes terminal avec IA',
     roleExplainAI: 'rôle pour expliquer la sortie du terminal avec IA',
-    modelAi: 'modèle d`IA'
+    modelAi: 'modèle d`IA',
+    aiSuggestionsCache: 'Cache des suggestions IA'
   },
 
   // app menu

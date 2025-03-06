@@ -33,7 +33,8 @@ const lang = {
     moveTo: 'move to...',
     roleAI: 'role for create terminal command with AI',
     roleExplainAI: 'role for explain terminal output with AI',
-    modelAi: 'AI model'
+    modelAi: 'AI model',
+    aiSuggestionsCache: 'AI suggestions cache'
   },
 
   // app menu

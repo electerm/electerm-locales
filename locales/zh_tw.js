@@ -33,7 +33,8 @@ const lang = {
     moveTo: '移動到...',
     roleAI: '使用AI創建終端命令的角色',
     roleExplainAI: '用於通過AI解釋終端輸出的角色',
-    modelAi: 'AI模型'
+    modelAi: 'AI模型',
+    aiSuggestionsCache: 'AI建議快取'
   },
 
   // app menu

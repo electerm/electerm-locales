@@ -33,7 +33,8 @@ const lang = {
     moveTo: 'перейти к...',
     roleAI: 'роль для создания команд терминала с ИИ',
     roleExplainAI: 'роль для объяснения вывода терминала с помощью ИИ',
-    modelAi: 'модель ИИ'
+    modelAi: 'модель ИИ',
+    aiSuggestionsCache: 'Кэш предложений ИИ'
   },
 
   // app menu

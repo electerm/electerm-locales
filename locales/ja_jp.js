@@ -33,7 +33,8 @@ const lang = {
     moveTo: '移動...',
     roleAI: 'AIを使用してターミナルコマンドを作成する役割',
     roleExplainAI: 'AIでターミナル出力を説明する役割',
-    modelAi: 'AIモデル'
+    modelAi: 'AIモデル',
+    aiSuggestionsCache: 'AI提案キャッシュ'
   },
 
   // app menu
