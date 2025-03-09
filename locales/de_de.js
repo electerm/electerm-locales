@@ -389,7 +389,8 @@ const lang = {
     sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung aktiviert ist, können bestimmte Ausgabeprobleme im Terminal auftreten',
     explainWithAi: 'Mit KI erklären',
     getAiSuggestions: 'KI-Vorschläge erhalten',
-    broadcastInput: 'Eingabe auf alle sichtbaren Terminals spiegeln'
+    broadcastInput: 'Eingabe auf alle sichtbaren Terminals spiegeln',
+    showCmdSuggestions: 'Befehlsvorschläge anzeigen'
   },
 
   terminalThemes: {

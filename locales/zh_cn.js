@@ -405,7 +405,8 @@ const lang = {
     sftpPathFollowSshTip: '当启用 SFTP 路径同步到终端时，您可能会遇到某些终端输出问题',
     explainWithAi: '用AI解释',
     getAiSuggestions: '获取AI建议',
-    broadcastInput: '镜像输入到所有可见终端'
+    broadcastInput: '镜像输入到所有可见终端',
+    showCmdSuggestions: '显示命令建议'
   },
 
   // terminal themes

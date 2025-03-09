@@ -405,7 +405,8 @@ const lang = {
     sftpPathFollowSshTip: 'При включенной синхронизации пути SFTP с терминалом, вы можете столкнуться с некоторыми проблемами вывода терминала',
     explainWithAi: 'объяснить с ИИ',
     getAiSuggestions: 'получить предложения ИИ',
-    broadcastInput: 'отражать ввод на всех видимых терминалах'
+    broadcastInput: 'отражать ввод на всех видимых терминалах',
+    showCmdSuggestions: 'показать предложения команд'
   },
 
   // terminal themes

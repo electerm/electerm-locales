@@ -404,7 +404,8 @@ const lang = {
     sftpPathFollowSshTip: 'Ketika sinkronisasi path SFTP dengan terminal diaktifkan, Anda mungkin akan mengalami masalah output terminal tertentu',
     explainWithAi: 'jelaskan dengan AI',
     getAiSuggestions: 'dapatkan saran AI',
-    broadcastInput: 'mencerminkan input ke semua terminal yang terlihat'
+    broadcastInput: 'mencerminkan input ke semua terminal yang terlihat',
+    showCmdSuggestions: 'tampilkan saran perintah'
   },
 
   // terminal themes
