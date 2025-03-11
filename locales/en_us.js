@@ -404,8 +404,8 @@ const lang = {
     sftpPathFollowSshTip: 'When SFTP path sync with terminal turned on, you may experience certain terminal output issues',
     explainWithAi: 'explain with AI',
     getAiSuggestions: 'get AI suggestions',
-    broadcastInput: 'mirror input to all visible terminals',
-    showCmdSuggestions: 'show command suggestions'
+    showCmdSuggestions: 'show command suggestions',
+    broadcastInput: 'mirror input to all terminals'
   },
 
   // terminal themes

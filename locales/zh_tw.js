@@ -405,8 +405,8 @@ const lang = {
     sftpPathFollowSshTip: '當啟用 SFTP 路徑同步到終端時，您可能會遇到某些終端輸出問題',
     explainWithAi: '用AI解釋',
     getAiSuggestions: '獲取AI建議',
-    broadcastInput: '鏡像輸入到所有可見終端',
-    showCmdSuggestions: '顯示指令建議'
+    showCmdSuggestions: '顯示指令建議',
+    broadcastInput: '將輸入鏡像到所有終端'
   },
 
   // terminal themes

@@ -405,8 +405,8 @@ const lang = {
     sftpPathFollowSshTip: 'عند تشغيل مزامنة مسار SFTP مع المحطة الطرفية، قد تواجه بعض مشكلات إخراج المحطة الطرفية',
     explainWithAi: 'شرح باستخدام الذكاء الاصطناعي',
     getAiSuggestions: 'الحصول على اقتراحات الذكاء الاصطناعي',
-    broadcastInput: 'عكس الإدخال على جميع المحطات المرئية',
-    showCmdSuggestions: 'عرض اقتراحات الأوامر'
+    showCmdSuggestions: 'عرض اقتراحات الأوامر',
+    broadcastInput: 'عكس الإدخال على جميع المحطات'
   },
 
   // terminal themes

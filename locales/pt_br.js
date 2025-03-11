@@ -405,8 +405,8 @@ const lang = {
     sftpPathFollowSshTip: 'Quando a sincronização do caminho SFTP com o terminal está ativada, você pode experimentar certos problemas de saída do terminal',
     explainWithAi: 'explicar com IA',
     getAiSuggestions: 'obter sugestões de IA',
-    broadcastInput: 'espelhar entrada para todos os terminais visíveis',
-    showCmdSuggestions: 'mostrar sugestões de comandos'
+    showCmdSuggestions: 'mostrar sugestões de comandos',
+    broadcastInput: 'espelhar entrada em todos os terminais'
   },
 
   // terminal themes
