@@ -85,6 +85,7 @@ cp sample.env .env
 - 🇩🇪 [german](locales/de_de.js): [@Hope-IT-Works](https://github.com/Hope-IT-Works)
 - 🇰🇷 [한국어](locales/ko_kr.js): [@jooy2](https://github.com/jooy2)
 - 🇮🇩 [Bahasa Indonesia](locales/id_id.js): [@hazekezia](https://github.com/hazekezia)
+- 🇵🇱 [Polski](locales/pl_pl.js): [@milocha](https://github.com/milocha)
 
 ## Contributors
 

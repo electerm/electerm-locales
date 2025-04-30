@@ -19,7 +19,8 @@ const supported = {
   ar: 'ar_ar',
   de: 'de_de',
   ko: 'ko_kr',
-  id: 'id_id' // Indonesian
+  id: 'id_id', // Indonesian
+  pl: 'pl_pl'
 }
 
 const {
