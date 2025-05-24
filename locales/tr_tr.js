@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: 'Sistem Düzenleyicisi ile Düzenle',
     gotoFolderInTerminal: 'Bu klasöre terminalden erişin',
     calculate: 'hesaplamak',
-    skipAll: 'Hepsini geç'
+    skipAll: 'Hepsini geç',
+    compressAndTransfer: 'sıkıştır ve aktar'
   },
 
   permission: {

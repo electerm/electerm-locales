@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: '使用系统编辑器编辑',
     gotoFolderInTerminal: '访问终端文件夹',
     calculate: '计算',
-    skipAll: '跳过所有'
+    skipAll: '跳过所有',
+    compressAndTransfer: '压缩并传输'
   },
 
   permission: {

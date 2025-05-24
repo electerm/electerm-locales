@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: '使用系統編輯器編輯',
     gotoFolderInTerminal: '從終端訪問這個資料夾',
     calculate: '計算',
-    skipAll: '跳過所有'
+    skipAll: '跳過所有',
+    compressAndTransfer: '壓縮並傳輸'
   },
 
   permission: {

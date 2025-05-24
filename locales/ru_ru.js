@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: 'Редактировать в системном редакторе',
     gotoFolderInTerminal: 'Доступ к этой папке через терминал',
     calculate: 'рассчитать',
-    skipAll: 'пропусти все'
+    skipAll: 'пропусти все',
+    compressAndTransfer: 'сжать и передать'
   },
 
   permission: {

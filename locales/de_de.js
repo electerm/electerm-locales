@@ -297,7 +297,8 @@ const lang = {
     editWithSystemEditor: 'Bearbeiten mit Systemeditor',
     gotoFolderInTerminal: 'Greifen Sie von der Konsole auf diesen Ordner zu',
     calculate: 'Berechnung',
-    skipAll: 'alles überspringen'
+    skipAll: 'alles überspringen',
+    compressAndTransfer: 'komprimieren und übertragen'
   },
 
   permission: {

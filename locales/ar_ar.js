@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: 'تحرير مع محرر النظام',
     gotoFolderInTerminal: 'الوصول إلى هذا المجلد من خلال الطرفية',
     calculate: 'حساب',
-    skipAll: 'تخطي الكل'
+    skipAll: 'تخطي الكل',
+    compressAndTransfer: 'ضغط ونقل'
   },
 
   permission: {

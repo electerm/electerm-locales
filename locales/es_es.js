@@ -312,7 +312,8 @@ const lang = {
     editWithSystemEditor: 'editar con el editor de sistemas',
     gotoFolderInTerminal: 'Acceda a esta carpeta desde la terminal',
     calculate: 'calcular',
-    skipAll: 'omitir todo'
+    skipAll: 'omitir todo',
+    compressAndTransfer: 'comprimir y transferir'
   },
 
   permission: {

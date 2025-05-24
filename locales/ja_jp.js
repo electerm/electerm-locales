@@ -311,7 +311,8 @@ const lang = {
     editWithSystemEditor: 'システムエディターで編集します',
     gotoFolderInTerminal: 'このフォルダにターミナルからアクセスしてください',
     calculate: '計算します',
-    skipAll: '全部スキップ'
+    skipAll: '全部スキップ',
+    compressAndTransfer: '圧縮して転送'
   },
 
   permission: {

@@ -310,7 +310,8 @@ const lang = {
     editWithSystemEditor: 'edit dengan editor sistem',
     gotoFolderInTerminal: 'akses folder ini dari terminal',
     calculate: 'hitung',
-    skipAll: 'lewati semua'
+    skipAll: 'lewati semua',
+    compressAndTransfer: 'kompres dan transfer'
   },
 
   permission: {
