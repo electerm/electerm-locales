@@ -12,7 +12,7 @@ const lang = {
     knownIssues: '알려진 문제',
     sponsorElecterm: 'electerm 후원',
     privacyNotice: '개인 정보 보호 통지',
-    desc: '터미널/ssh/sftp/telnet/시리얼포트/RDP/VNC 클라이언트 (리눅스, 맥, 윈도우)',
+    desc: '터미널/SSH/SFTP/FTP/Telnet/시리얼 포트/RDP/VNC 클라이언트(Linux, Mac, Windows 지원)',
     single: '단일',
     twoColumns: '두 열',
     threeColumns: '세 열',

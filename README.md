@@ -4,7 +4,7 @@
 
 [electerm](https://electerm.html5beta.com) multi-language support pack.
 
-🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷 🇹🇷 🇭🇰 🇯🇵 🇸🇦 🇩🇪 🇰🇷
+🇺🇸 🇨🇳 🇧🇷 🇷🇺 🇪🇸 🇫🇷 🇹🇷 🇯🇵 🇰🇷 🇹🇼 🇩🇪 🇮🇩
 
 ## Dev
 
@@ -63,6 +63,22 @@ entry=setting name=disableSshHistory node bin/remove-slot.js
 
 ```
 
+## Update an existing entry in all files
+
+To update the value of an existing entry in all language files (for a given namespace and key), use the provided script:
+
+```bash
+# entry="{namespace}" name="{key}" data='{"en":"new English text", "zh-CN":"新的中文", ...}' node bin/update-entry.js
+
+# Example: update the value for key "saveTerminalLogToFile" under "setting" namespace
+entry=setting name=saveTerminalLogToFile data='{"en":"Save terminal log to file (updated)", "zh-CN":"保存终端日志到文件（已更新）"}' node bin/update-entry.js
+
+# To limit update to specific languages (e.g., only English and Chinese):
+entry=setting name=saveTerminalLogToFile to="en,zh-CN" data='{"en":"Save terminal log to file (updated)", "zh-CN":"保存终端日志到文件（已更新）"}' node bin/update-entry.js
+```
+
+The script will throw an error if the key does not exist in any file.
+
 ## Use proxy
 
 ```bash
@@ -78,12 +94,11 @@ cp sample.env .env
 - 🇷🇺 [русский](locales/ru_ru.js): [@Vasiliy](https://github.com/TheLetslook)
 - 🇪🇸 [Español](locales/es_es.js): Federico Pereira <fpereira@cnsoluciones.com>
 - 🇫🇷 [Français](locales/fr_fr.js): [@Damien Mosse](https://github.com/damosse31)
-- 🇹🇷 [Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydındoğmuş](https://github.com/gediz)
-- 🇭🇰 [繁体中文](locales/zh_tw.js): [@ycku](https://github.com/ycku)
+- 🇹🇷 [Türkçe](locales/tr_tr.js): [@Nazım Gediz Aydınoğmuş](https://github.com/gediz)
+- 🇹🇼 [繁體中文](locales/zh_tw.js): [@ycku](https://github.com/ycku)
 - 🇯🇵 [日本語](locales/ja_jp.js): [@hououinkami](https://github.com/hououinkami)
-- 🇸🇦 [العربية](locales/ar_ar.js): [@haithamalnaeb](https://github.com/haithamalnaeb)
-- 🇩🇪 [german](locales/de_de.js): [@Hope-IT-Works](https://github.com/Hope-IT-Works)
 - 🇰🇷 [한국어](locales/ko_kr.js): [@jooy2](https://github.com/jooy2)
+- 🇩🇪 [german](locales/de_de.js): [@Hope-IT-Works](https://github.com/Hope-IT-Works)
 - 🇮🇩 [Bahasa Indonesia](locales/id_id.js): [@hazekezia](https://github.com/hazekezia)
 - 🇵🇱 [Polski](locales/pl_pl.js): [@milocha](https://github.com/milocha)
 

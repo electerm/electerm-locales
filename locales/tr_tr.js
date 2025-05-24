@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'Bilinen Sorunlar',
     sponsorElecterm: 'electerm\'i sponsor et',
     privacyNotice: 'gizlilik bildirimi',
-    desc: 'Terminal/ssh/sftp/telnet/seriport/RDP/VNC istemcisi (linux, mac, win)',
+    desc: 'Terminal/SSH/SFTP/FTP/Telnet/seri port/RDP/VNC istemcisi (Linux, Mac, Windows)',
     single: 'Tek',
     twoColumns: 'İki Sütun',
     threeColumns: 'Üç Sütun',

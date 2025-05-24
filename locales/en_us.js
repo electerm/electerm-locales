@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'known issues',
     sponsorElecterm: 'sponsor electerm',
     privacyNotice: 'privacy notice',
-    desc: 'Terminal/ssh/sftp/telnet/serialport/RDP/VNC client(linux, mac, win)',
+    desc: 'Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)',
     single: 'single',
     twoColumns: 'two columns',
     threeColumns: 'three columns',

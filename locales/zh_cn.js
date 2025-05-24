@@ -12,7 +12,7 @@ const lang = {
     knownIssues: '已知问题',
     sponsorElecterm: '赞助 Electerm',
     privacyNotice: '隐私声明',
-    desc: '终端/ssh/sftp/telnet/串口/RDP/VNC客户端（Linux、Mac、Win）',
+    desc: '终端/SSH/SFTP/FTP/Telnet/串口/RDP/VNC客户端(支持Linux、Mac、Win)',
     single: '单一',
     twoColumns: '双列',
     threeColumns: '三列',

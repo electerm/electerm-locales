@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'المشاكل المعروفة',
     sponsorElecterm: 'راعي electerm',
     privacyNotice: 'إشعار الخصوصية',
-    desc: 'عميل طرفية/ssh/sftp/telnet/منفذ تسلسلي/RDP/VNC (لينكس، ماك، وين)',
+    desc: 'عميل طرفية/SSH/SFTP/FTP/Telnet/منفذ تسلسلي/RDP/VNC (يدعم Linux، Mac، Windows)',
     single: 'فردي',
     twoColumns: 'عمودان',
     threeColumns: 'ثلاثة أعمدة',
