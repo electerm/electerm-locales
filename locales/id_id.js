@@ -34,7 +34,8 @@ const lang = {
     roleAI: 'role for create terminal command with AI',
     roleExplainAI: 'role for explain terminal output with AI',
     modelAi: 'model AI',
-    aiSuggestionsCache: 'Cache saran AI'
+    aiSuggestionsCache: 'Cache saran AI',
+    layout: 'tata letak'
   },
 
   // app menu

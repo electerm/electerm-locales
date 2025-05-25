@@ -34,7 +34,8 @@ const lang = {
     roleAI: 'роль для создания команд терминала с ИИ',
     roleExplainAI: 'роль для объяснения вывода терминала с помощью ИИ',
     modelAi: 'модель ИИ',
-    aiSuggestionsCache: 'Кэш предложений ИИ'
+    aiSuggestionsCache: 'Кэш предложений ИИ',
+    layout: 'раскладка'
   },
 
   // app menu

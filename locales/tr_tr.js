@@ -34,7 +34,8 @@ const lang = {
     roleAI: 'AI ile terminal komutu oluşturma rolü',
     roleExplainAI: 'AI ile terminal çıktısını açıklama rolü',
     modelAi: 'AI modeli',
-    aiSuggestionsCache: 'AI önerileri önbelleği'
+    aiSuggestionsCache: 'AI önerileri önbelleği',
+    layout: 'düzen'
   },
 
   // app menu

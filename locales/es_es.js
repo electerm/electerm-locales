@@ -35,7 +35,8 @@ const lang = {
     roleAI: 'rol para crear comandos de terminal con IA',
     roleExplainAI: 'rol para explicar la salida de terminal con IA',
     modelAi: 'modelo de IA',
-    aiSuggestionsCache: 'Caché de sugerencias de IA'
+    aiSuggestionsCache: 'Caché de sugerencias de IA',
+    layout: 'disposición'
   },
 
   // app menu

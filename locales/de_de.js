@@ -33,7 +33,8 @@ const lang = {
     roleAI: 'Rolle zum Erstellen von Terminalbefehlen mit KI',
     roleExplainAI: 'Rolle zur Erklärung der Terminalausgabe mit KI',
     modelAi: 'KI-Modell',
-    aiSuggestionsCache: 'KI-Vorschläge-Cache'
+    aiSuggestionsCache: 'KI-Vorschläge-Cache',
+    layout: 'Layout'
   },
 
   menu: {

@@ -34,7 +34,8 @@ const lang = {
     roleAI: '使用AI創建終端命令的角色',
     roleExplainAI: '用於通過AI解釋終端輸出的角色',
     modelAi: 'AI模型',
-    aiSuggestionsCache: 'AI建議快取'
+    aiSuggestionsCache: 'AI建議快取',
+    layout: '佈局'
   },
 
   // app menu

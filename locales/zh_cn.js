@@ -34,7 +34,8 @@ const lang = {
     roleAI: '使用AI创建终端命令的角色',
     roleExplainAI: '用于通过AI解释终端输出的角色',
     modelAi: 'AI模型',
-    aiSuggestionsCache: 'AI建议缓存'
+    aiSuggestionsCache: 'AI建议缓存',
+    layout: '布局'
   },
 
   // app menu

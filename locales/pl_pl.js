@@ -34,7 +34,8 @@ const lang = {
     roleAI: 'rola dla tworzenia poleceń terminala z AI',
     roleExplainAI: 'rola dla wyjaśniania wyjścia terminala z AI',
     modelAi: 'Model AI',
-    aiSuggestionsCache: 'Pamięć podręczna sugestii AI'
+    aiSuggestionsCache: 'Pamięć podręczna sugestii AI',
+    layout: 'układ'
   },
 
   // app menu
