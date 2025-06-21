@@ -248,7 +248,8 @@ const lang = {
     disableConnectionHistory: 'disable connection history',
     terminalLogPath: 'terminal log path',
     chooseFolder: 'choose folder',
-    sshSftpSplitView: 'show terminal and sftp in split view'
+    sshSftpSplitView: 'show terminal and sftp in split view',
+    allowMultiInstance: 'allow multi instance'
   },
 
   // sftp

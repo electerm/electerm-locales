@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: '禁用連接歷史',
     terminalLogPath: '終端日誌路徑',
     chooseFolder: '選擇資料夾',
-    sshSftpSplitView: '在分屏視圖中顯示終端和SFTP'
+    sshSftpSplitView: '在分屏視圖中顯示終端和SFTP',
+    allowMultiInstance: '允許多實例'
   },
 
   // sftp

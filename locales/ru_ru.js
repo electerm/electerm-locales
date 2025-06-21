@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: 'отключить историю подключений',
     terminalLogPath: 'путь журнала терминала',
     chooseFolder: 'выбрать папку',
-    sshSftpSplitView: 'показать терминал и SFTP в разделенном виде'
+    sshSftpSplitView: 'показать терминал и SFTP в разделенном виде',
+    allowMultiInstance: 'разрешить несколько экземпляров'
   },
 
   // sftp

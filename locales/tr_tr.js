@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: 'bağlantı geçmişini devre dışı bırak',
     terminalLogPath: 'terminal günlük yolu',
     chooseFolder: 'klasör seç',
-    sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster'
+    sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster',
+    allowMultiInstance: 'çoklu örneğe izin ver'
   },
 
   // sftp

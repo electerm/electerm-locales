@@ -236,7 +236,8 @@ const lang = {
     disableConnectionHistory: 'Verbindungsverlauf deaktivieren',
     terminalLogPath: 'Terminal-Protokollpfad',
     chooseFolder: 'Ordner auswählen',
-    sshSftpSplitView: 'Terminal und SFTP in geteilter Ansicht anzeigen'
+    sshSftpSplitView: 'Terminal und SFTP in geteilter Ansicht anzeigen',
+    allowMultiInstance: 'mehrere Instanzen erlauben'
   },
 
   sftp: {

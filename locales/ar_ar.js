@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: 'تعطيل سجل الاتصال',
     terminalLogPath: 'مسار سجل الطرفية',
     chooseFolder: 'اختر مجلد',
-    sshSftpSplitView: 'إظهار الطرفية و SFTP في عرض منقسم'
+    sshSftpSplitView: 'إظهار الطرفية و SFTP في عرض منقسم',
+    allowMultiInstance: 'السماح بعدة نسخ'
   },
 
   // sftp

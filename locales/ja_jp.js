@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: '接続履歴を無効にする',
     terminalLogPath: 'ターミナルログパス',
     chooseFolder: 'フォルダを選択',
-    sshSftpSplitView: 'ターミナルとSFTPを分割ビューで表示'
+    sshSftpSplitView: 'ターミナルとSFTPを分割ビューで表示',
+    allowMultiInstance: '複数インスタンスを許可'
   },
 
   // sftp

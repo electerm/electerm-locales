@@ -248,7 +248,8 @@ const lang = {
     disableConnectionHistory: 'nonaktifkan riwayat koneksi',
     terminalLogPath: 'jalur log terminal',
     chooseFolder: 'pilih folder',
-    sshSftpSplitView: 'tampilkan terminal dan sftp dalam tampilan terpisah'
+    sshSftpSplitView: 'tampilkan terminal dan sftp dalam tampilan terpisah',
+    allowMultiInstance: 'izinkan banyak contoh'
   },
 
   // sftp

@@ -249,7 +249,8 @@ const lang = {
     disableConnectionHistory: 'desativar histórico de conexões',
     terminalLogPath: 'caminho do log do terminal',
     chooseFolder: 'escolher pasta',
-    sshSftpSplitView: 'mostrar terminal e SFTP em exibição dividida'
+    sshSftpSplitView: 'mostrar terminal e SFTP em exibição dividida',
+    allowMultiInstance: 'permitir múltiplas instâncias'
   },
 
   // sftp
