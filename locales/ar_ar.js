@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: 'مسار سجل الطرفية',
     chooseFolder: 'اختر مجلد',
     sshSftpSplitView: 'إظهار الطرفية و SFTP في عرض منقسم',
-    allowMultiInstance: 'السماح بعدة نسخ'
+    allowMultiInstance: 'السماح بعدة نسخ',
+    disableDeveloperTool: 'تعطيل أداة المطور'
   },
 
   // sftp

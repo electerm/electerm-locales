@@ -237,7 +237,8 @@ const lang = {
     terminalLogPath: 'Terminal-Protokollpfad',
     chooseFolder: 'Ordner auswählen',
     sshSftpSplitView: 'Terminal und SFTP in geteilter Ansicht anzeigen',
-    allowMultiInstance: 'mehrere Instanzen erlauben'
+    allowMultiInstance: 'mehrere Instanzen erlauben',
+    disableDeveloperTool: 'Entwicklerwerkzeug deaktivieren'
   },
 
   sftp: {

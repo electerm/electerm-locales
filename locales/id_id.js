@@ -249,7 +249,8 @@ const lang = {
     terminalLogPath: 'jalur log terminal',
     chooseFolder: 'pilih folder',
     sshSftpSplitView: 'tampilkan terminal dan sftp dalam tampilan terpisah',
-    allowMultiInstance: 'izinkan banyak contoh'
+    allowMultiInstance: 'izinkan banyak contoh',
+    disableDeveloperTool: 'nonaktifkan alat pengembang'
   },
 
   // sftp

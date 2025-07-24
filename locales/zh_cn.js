@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: '终端日志路径',
     chooseFolder: '选择文件夹',
     sshSftpSplitView: '在分屏视图中显示终端和SFTP',
-    allowMultiInstance: '允许多实例'
+    allowMultiInstance: '允许多实例',
+    disableDeveloperTool: '禁用开发者工具'
   },
 
   // sftp

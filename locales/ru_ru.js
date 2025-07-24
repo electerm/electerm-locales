@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: 'путь журнала терминала',
     chooseFolder: 'выбрать папку',
     sshSftpSplitView: 'показать терминал и SFTP в разделенном виде',
-    allowMultiInstance: 'разрешить несколько экземпляров'
+    allowMultiInstance: 'разрешить несколько экземпляров',
+    disableDeveloperTool: 'отключить инструмент разработчика'
   },
 
   // sftp

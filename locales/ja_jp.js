@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: 'ターミナルログパス',
     chooseFolder: 'フォルダを選択',
     sshSftpSplitView: 'ターミナルとSFTPを分割ビューで表示',
-    allowMultiInstance: '複数インスタンスを許可'
+    allowMultiInstance: '複数インスタンスを許可',
+    disableDeveloperTool: '開発者ツールを無効にする'
   },
 
   // sftp

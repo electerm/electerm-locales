@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: '終端日誌路徑',
     chooseFolder: '選擇資料夾',
     sshSftpSplitView: '在分屏視圖中顯示終端和SFTP',
-    allowMultiInstance: '允許多實例'
+    allowMultiInstance: '允許多實例',
+    disableDeveloperTool: '停用開發者工具'
   },
 
   // sftp

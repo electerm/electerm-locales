@@ -250,7 +250,8 @@ const lang = {
     terminalLogPath: 'terminal günlük yolu',
     chooseFolder: 'klasör seç',
     sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster',
-    allowMultiInstance: 'çoklu örneğe izin ver'
+    allowMultiInstance: 'çoklu örneğe izin ver',
+    disableDeveloperTool: 'geliştirici aracını devre dışı bırak'
   },
 
   // sftp

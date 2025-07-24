@@ -249,7 +249,8 @@ const lang = {
     terminalLogPath: 'ścieżka dziennika terminala',
     chooseFolder: 'wybierz folder',
     sshSftpSplitView: 'pokaż terminal i sftp w widoku dzielonym',
-    allowMultiInstance: 'zezwól na wiele instancji'
+    allowMultiInstance: 'zezwól na wiele instancji',
+    disableDeveloperTool: 'wyłącz narzędzie deweloperskie'
   },
 
   // sftp
