@@ -87,7 +87,8 @@ const lang = {
     homepage: 'ホームページ',
     sencondInstanceTip: 'これをメインウィンドウで行うことができます',
     copyFilePath: 'ファイルパスをコピーします',
-    pasteSelected: '選択したものを貼り付け'
+    pasteSelected: '選択したものを貼り付け',
+    preview: 'プレビュー'
   },
 
   // common

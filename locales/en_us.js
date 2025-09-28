@@ -87,7 +87,8 @@ const lang = {
     homepage: 'homepage',
     sencondInstanceTip: 'can only do this in main window',
     copyFilePath: 'copy file path',
-    pasteSelected: 'paste selected'
+    pasteSelected: 'paste selected',
+    preview: 'preview'
   },
 
   // common

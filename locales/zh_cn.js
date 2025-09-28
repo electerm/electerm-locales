@@ -87,7 +87,8 @@ const lang = {
     homepage: '官网',
     sencondInstanceTip: '只能在主窗口中执行此操作',
     copyFilePath: '复制文件路径',
-    pasteSelected: '粘贴所选内容'
+    pasteSelected: '粘贴所选内容',
+    preview: '预览'
   },
 
   // common

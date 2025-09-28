@@ -87,7 +87,8 @@ const lang = {
     homepage: 'homepage',
     sencondInstanceTip: 'só pode fazer isso na janela principal',
     copyFilePath: 'Copiar caminho do arquivo',
-    pasteSelected: 'Colar selecionado'
+    pasteSelected: 'Colar selecionado',
+    preview: 'visualização'
   },
 
   // common

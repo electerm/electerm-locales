@@ -87,7 +87,8 @@ const lang = {
     homepage: 'strona główna',
     sencondInstanceTip: 'można to zrobić tylko w głównym oknie',
     copyFilePath: 'kopiuj ścieżkę pliku',
-    pasteSelected: 'wklej zaznaczone'
+    pasteSelected: 'wklej zaznaczone',
+    preview: 'podgląd'
   },
 
   // common

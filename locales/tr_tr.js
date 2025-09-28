@@ -87,7 +87,8 @@ const lang = {
     homepage: 'anasayfa',
     sencondInstanceTip: 'bunu sadece ana pencerede yapabilir',
     copyFilePath: 'Dosya Yolunu Kopyala',
-    pasteSelected: 'Seçileni Yapıştır'
+    pasteSelected: 'Seçileni Yapıştır',
+    preview: 'önizleme'
   },
 
   // common

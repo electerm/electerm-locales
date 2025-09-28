@@ -88,7 +88,8 @@ const lang = {
     homepage: 'página principal',
     sencondInstanceTip: 'solo puede hacer esto en la ventana principal',
     copyFilePath: 'Copiar ruta del archivo',
-    pasteSelected: 'Pegar seleccionado'
+    pasteSelected: 'Pegar seleccionado',
+    preview: 'vista previa'
   },
 
   // common

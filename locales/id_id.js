@@ -87,7 +87,8 @@ const lang = {
     homepage: 'halaman utama',
     sencondInstanceTip: 'hanya dapat dilakukan di jendela utama',
     copyFilePath: 'salin jalur file',
-    pasteSelected: 'tempel yang dipilih'
+    pasteSelected: 'tempel yang dipilih',
+    preview: 'pratinjau'
   },
 
   // common

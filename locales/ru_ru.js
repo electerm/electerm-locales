@@ -87,7 +87,8 @@ const lang = {
     homepage: 'Домашняя страница',
     sencondInstanceTip: 'можно сделать только в главном окне',
     copyFilePath: 'Копировать путь файла',
-    pasteSelected: 'Вставить выбранное'
+    pasteSelected: 'Вставить выбранное',
+    preview: 'предпросмотр'
   },
 
   // common

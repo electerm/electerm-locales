@@ -87,7 +87,8 @@ const lang = {
     homepage: '專案首頁',
     sencondInstanceTip: '只能在主窗口中執行此操作',
     copyFilePath: '複製文件路徑',
-    pasteSelected: '貼上所選內容'
+    pasteSelected: '貼上所選內容',
+    preview: '預覽'
   },
 
   // common
