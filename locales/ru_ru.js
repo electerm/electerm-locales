@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'роль для объяснения вывода терминала с помощью ИИ',
     modelAi: 'модель ИИ',
     aiSuggestionsCache: 'Кэш предложений ИИ',
-    layout: 'раскладка'
+    layout: 'раскладка',
+    registerDeepLink: 'зарегистрировать обработчик протокола',
+    unregisterDeepLink: 'отменить регистрацию обработчика протокола'
   },
 
   // app menu

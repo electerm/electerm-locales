@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'role for explain terminal output with AI',
     modelAi: 'model AI',
     aiSuggestionsCache: 'Cache saran AI',
-    layout: 'tata letak'
+    layout: 'tata letak',
+    registerDeepLink: 'daftarkan penangan protokol',
+    unregisterDeepLink: 'batalkan pendaftaran penangan protokol'
   },
 
   // app menu

@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'AI로 터미널 출력 설명 역할',
     modelAi: 'AI 모델',
     aiSuggestionsCache: 'AI 제안 캐시',
-    layout: '레이아웃'
+    layout: '레이아웃',
+    registerDeepLink: '프로토콜 핸들러 등록',
+    unregisterDeepLink: '프로토콜 핸들러 등록 취소'
   },
 
   // app menu

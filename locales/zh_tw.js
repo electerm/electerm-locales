@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: '用於通過AI解釋終端輸出的角色',
     modelAi: 'AI模型',
     aiSuggestionsCache: 'AI建議快取',
-    layout: '佈局'
+    layout: '佈局',
+    registerDeepLink: '註冊通訊協定處理程式',
+    unregisterDeepLink: '註銷通訊協定處理程式'
   },
 
   // app menu

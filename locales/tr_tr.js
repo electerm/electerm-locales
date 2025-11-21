@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'AI ile terminal çıktısını açıklama rolü',
     modelAi: 'AI modeli',
     aiSuggestionsCache: 'AI önerileri önbelleği',
-    layout: 'düzen'
+    layout: 'düzen',
+    registerDeepLink: 'protokol işleyiciyi kaydet',
+    unregisterDeepLink: 'protokol işleyiciyi kaydı sil'
   },
 
   // app menu

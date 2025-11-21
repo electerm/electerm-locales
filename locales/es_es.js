@@ -36,7 +36,9 @@ const lang = {
     roleExplainAI: 'rol para explicar la salida de terminal con IA',
     modelAi: 'modelo de IA',
     aiSuggestionsCache: 'Caché de sugerencias de IA',
-    layout: 'disposición'
+    layout: 'disposición',
+    registerDeepLink: 'registrar manejador de protocolo',
+    unregisterDeepLink: 'anular el controlador de protocolo'
   },
 
   // app menu

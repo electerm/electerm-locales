@@ -34,7 +34,9 @@ const lang = {
     roleExplainAI: 'Rolle zur Erklärung der Terminalausgabe mit KI',
     modelAi: 'KI-Modell',
     aiSuggestionsCache: 'KI-Vorschläge-Cache',
-    layout: 'Layout'
+    layout: 'Layout',
+    registerDeepLink: 'Protokoll-Handler registrieren',
+    unregisterDeepLink: 'Protokollhandler abmelden'
   },
 
   menu: {

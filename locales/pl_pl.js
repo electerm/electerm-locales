@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'rola dla wyjaśniania wyjścia terminala z AI',
     modelAi: 'Model AI',
     aiSuggestionsCache: 'Pamięć podręczna sugestii AI',
-    layout: 'układ'
+    layout: 'układ',
+    registerDeepLink: 'zarejestruj obsługę protokołu',
+    unregisterDeepLink: 'wyrejestruj obsługę protokołu'
   },
 
   // app menu

@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: '用于通过AI解释终端输出的角色',
     modelAi: 'AI模型',
     aiSuggestionsCache: 'AI建议缓存',
-    layout: '布局'
+    layout: '布局',
+    registerDeepLink: '注册协议处理程序',
+    unregisterDeepLink: '注销协议处理程序'
   },
 
   // app menu

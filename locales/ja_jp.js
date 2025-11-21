@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'AIでターミナル出力を説明する役割',
     modelAi: 'AIモデル',
     aiSuggestionsCache: 'AI提案キャッシュ',
-    layout: 'レイアウト'
+    layout: 'レイアウト',
+    registerDeepLink: 'プロトコルハンドラを登録',
+    unregisterDeepLink: 'プロトコルハンドラの登録を解除'
   },
 
   // app menu

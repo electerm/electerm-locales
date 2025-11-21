@@ -35,7 +35,9 @@ const lang = {
     roleExplainAI: 'دور لشرح إخراج الطرفية باستخدام الذكاء الاصطناعي',
     modelAi: 'نموذج الذكاء الاصطناعي',
     aiSuggestionsCache: 'ذاكرة تخزين اقتراحات الذكاء الاصطناعي',
-    layout: 'تخطيط'
+    layout: 'تخطيط',
+    registerDeepLink: 'تسجيل معالج البروتوكول',
+    unregisterDeepLink: 'إلغاء تسجيل معالج البروتوكول'
   },
 
   // app menu
