@@ -158,7 +158,8 @@ const lang = {
     openNewTerm: 'Neuen Terminal öffnen',
     sessions: 'Sitzungen',
     cloneToNextLayout: 'In nächstes Layout klonen',
-    reloadCurrentTab: 'Aktuellen Tab neu laden'
+    reloadCurrentTab: 'Aktuellen Tab neu laden',
+    duplicateTab: 'Tab klonen'
   },
 
   main: {

@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'buka terminal baru',
     sessions: 'sesi',
     cloneToNextLayout: 'kloning ke tata letak berikutnya',
-    reloadCurrentTab: 'muat ulang tab saat ini'
+    reloadCurrentTab: 'muat ulang tab saat ini',
+    duplicateTab: 'kloning tab'
   },
 
   // main warpper

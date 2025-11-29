@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: '새 터미널 열기',
     sessions: '세션',
     cloneToNextLayout: '다음 레이아웃으로 복제',
-    reloadCurrentTab: '현재 탭 새로 고침'
+    reloadCurrentTab: '현재 탭 새로 고침',
+    duplicateTab: '탭 복제'
   },
 
   // main warpper

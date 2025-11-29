@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'abrir novo terminal',
     sessions: 'Sessões',
     cloneToNextLayout: 'Clonar para o próximo layout',
-    reloadCurrentTab: 'Recarregar guia atual'
+    reloadCurrentTab: 'Recarregar guia atual',
+    duplicateTab: 'clonar aba'
   },
 
   // main warpper

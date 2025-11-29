@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'Открыть новый терминал',
     sessions: 'Сессии',
     cloneToNextLayout: 'Клонировать в следующий макет',
-    reloadCurrentTab: 'Перезагрузить текущую вкладку'
+    reloadCurrentTab: 'Перезагрузить текущую вкладку',
+    duplicateTab: 'клонировать вкладку'
   },
 
   // main warpper

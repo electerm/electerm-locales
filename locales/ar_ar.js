@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'فتح طرفية جديدة',
     sessions: 'الجلسات',
     cloneToNextLayout: 'استنساخ إلى التخطيط التالي',
-    reloadCurrentTab: 'إعادة تحميل علامة التبويب الحالية'
+    reloadCurrentTab: 'إعادة تحميل علامة التبويب الحالية',
+    duplicateTab: 'استنساخ التبويب'
   },
 
   // main warpper

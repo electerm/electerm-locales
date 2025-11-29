@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'Nouveau terminal SSH',
     sessions: 'sessions',
     cloneToNextLayout: 'Cloner vers la mise en page suivante',
-    reloadCurrentTab: 'Recharger l`onglet actuel'
+    reloadCurrentTab: 'Recharger l`onglet actuel',
+    duplicateTab: 'cloner l`onglet'
   },
 
   // main warpper

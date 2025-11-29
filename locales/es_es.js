@@ -169,7 +169,8 @@ const lang = {
     openNewTerm: 'abrir nueva terminal',
     sessions: 'Las sesiones',
     cloneToNextLayout: 'Clonar al siguiente diseño',
-    reloadCurrentTab: 'Recargar pestaña actual'
+    reloadCurrentTab: 'Recargar pestaña actual',
+    duplicateTab: 'clonar pestaña'
   },
 
   // main warpper

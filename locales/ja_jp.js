@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: '新しい接続を開く',
     sessions: 'セッション',
     cloneToNextLayout: '次のレイアウトにクローン',
-    reloadCurrentTab: '現在のタブを再読み込み'
+    reloadCurrentTab: '現在のタブを再読み込み',
+    duplicateTab: 'タブを複製'
   },
 
   // main warpper

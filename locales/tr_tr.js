@@ -168,7 +168,8 @@ const lang = {
     openNewTerm: 'yeni terminal aç',
     sessions: 'oturumlar',
     cloneToNextLayout: 'Sonraki Düzenlemeye Kopyala',
-    reloadCurrentTab: 'Mevcut sekmeyi yeniden yükle'
+    reloadCurrentTab: 'Mevcut sekmeyi yeniden yükle',
+    duplicateTab: 'sekmeyi kopyala'
   },
 
   // main warpper
