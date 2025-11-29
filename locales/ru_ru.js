@@ -169,7 +169,8 @@ const lang = {
     sessions: 'Сессии',
     cloneToNextLayout: 'Клонировать в следующий макет',
     reloadCurrentTab: 'Перезагрузить текущую вкладку',
-    duplicateTab: 'клонировать вкладку'
+    duplicateTab: 'клонировать вкладку',
+    toggleAddBtn: 'переключить поиск закладок'
   },
 
   // main warpper

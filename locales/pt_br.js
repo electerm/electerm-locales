@@ -169,7 +169,8 @@ const lang = {
     sessions: 'Sessões',
     cloneToNextLayout: 'Clonar para o próximo layout',
     reloadCurrentTab: 'Recarregar guia atual',
-    duplicateTab: 'clonar aba'
+    duplicateTab: 'clonar aba',
+    toggleAddBtn: 'alternar pesquisa de favorito'
   },
 
   // main warpper

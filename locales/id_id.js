@@ -169,7 +169,8 @@ const lang = {
     sessions: 'sesi',
     cloneToNextLayout: 'kloning ke tata letak berikutnya',
     reloadCurrentTab: 'muat ulang tab saat ini',
-    duplicateTab: 'kloning tab'
+    duplicateTab: 'kloning tab',
+    toggleAddBtn: 'alihkan pencarian bookmark'
   },
 
   // main warpper

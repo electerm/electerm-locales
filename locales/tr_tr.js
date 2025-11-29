@@ -169,7 +169,8 @@ const lang = {
     sessions: 'oturumlar',
     cloneToNextLayout: 'Sonraki Düzenlemeye Kopyala',
     reloadCurrentTab: 'Mevcut sekmeyi yeniden yükle',
-    duplicateTab: 'sekmeyi kopyala'
+    duplicateTab: 'sekmeyi kopyala',
+    toggleAddBtn: 'yer işareti aramayı değiştir'
   },
 
   // main warpper

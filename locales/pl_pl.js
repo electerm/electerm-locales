@@ -169,7 +169,8 @@ const lang = {
     sessions: 'sesje',
     cloneToNextLayout: 'klonuj do następnego układu',
     reloadCurrentTab: 'przeładuj bieżącą kartę',
-    duplicateTab: 'klonuj zakładkę'
+    duplicateTab: 'klonuj zakładkę',
+    toggleAddBtn: 'przełącz wyszukiwanie zakładek'
   },
 
   // main warpper

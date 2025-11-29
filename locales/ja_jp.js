@@ -169,7 +169,8 @@ const lang = {
     sessions: 'セッション',
     cloneToNextLayout: '次のレイアウトにクローン',
     reloadCurrentTab: '現在のタブを再読み込み',
-    duplicateTab: 'タブを複製'
+    duplicateTab: 'タブを複製',
+    toggleAddBtn: 'ブックマーク検索を切り替え'
   },
 
   // main warpper

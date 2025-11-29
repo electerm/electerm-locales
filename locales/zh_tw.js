@@ -169,7 +169,8 @@ const lang = {
     sessions: '連線',
     cloneToNextLayout: '複製到下一個佈局',
     reloadCurrentTab: '重新加載當前標籤頁',
-    duplicateTab: '複製分頁'
+    duplicateTab: '複製分頁',
+    toggleAddBtn: '切換書籤搜尋'
   },
 
   // main warpper

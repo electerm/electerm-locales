@@ -169,7 +169,8 @@ const lang = {
     sessions: 'sessions',
     cloneToNextLayout: 'Cloner vers la mise en page suivante',
     reloadCurrentTab: 'Recharger l`onglet actuel',
-    duplicateTab: 'cloner l`onglet'
+    duplicateTab: 'cloner l`onglet',
+    toggleAddBtn: 'basculer la recherche de signet'
   },
 
   // main warpper

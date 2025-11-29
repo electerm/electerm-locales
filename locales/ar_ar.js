@@ -169,7 +169,8 @@ const lang = {
     sessions: 'الجلسات',
     cloneToNextLayout: 'استنساخ إلى التخطيط التالي',
     reloadCurrentTab: 'إعادة تحميل علامة التبويب الحالية',
-    duplicateTab: 'استنساخ التبويب'
+    duplicateTab: 'استنساخ التبويب',
+    toggleAddBtn: 'تبديل بحث العلامة المرجعية'
   },
 
   // main warpper

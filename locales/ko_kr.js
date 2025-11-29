@@ -169,7 +169,8 @@ const lang = {
     sessions: '세션',
     cloneToNextLayout: '다음 레이아웃으로 복제',
     reloadCurrentTab: '현재 탭 새로 고침',
-    duplicateTab: '탭 복제'
+    duplicateTab: '탭 복제',
+    toggleAddBtn: '책갈피 검색 전환'
   },
 
   // main warpper

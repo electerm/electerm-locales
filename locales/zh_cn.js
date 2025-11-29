@@ -169,7 +169,8 @@ const lang = {
     sessions: '连接',
     cloneToNextLayout: '克隆到下一个布局',
     reloadCurrentTab: '重新加载当前标签页',
-    duplicateTab: '克隆标签'
+    duplicateTab: '克隆标签',
+    toggleAddBtn: '切换书签搜索'
   },
 
   // main warpper

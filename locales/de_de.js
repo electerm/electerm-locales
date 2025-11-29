@@ -159,7 +159,8 @@ const lang = {
     sessions: 'Sitzungen',
     cloneToNextLayout: 'In nächstes Layout klonen',
     reloadCurrentTab: 'Aktuellen Tab neu laden',
-    duplicateTab: 'Tab klonen'
+    duplicateTab: 'Tab klonen',
+    toggleAddBtn: 'Lesezeichen-Suche umschalten'
   },
 
   main: {

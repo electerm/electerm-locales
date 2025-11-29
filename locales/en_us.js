@@ -169,7 +169,8 @@ const lang = {
     sessions: 'sessions',
     cloneToNextLayout: 'clone to next layout',
     reloadCurrentTab: 'reload current tab',
-    duplicateTab: 'clone tab'
+    duplicateTab: 'clone tab',
+    toggleAddBtn: 'toggle bookmark search'
   },
 
   // main warpper

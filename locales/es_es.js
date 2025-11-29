@@ -170,7 +170,8 @@ const lang = {
     sessions: 'Las sesiones',
     cloneToNextLayout: 'Clonar al siguiente diseño',
     reloadCurrentTab: 'Recargar pestaña actual',
-    duplicateTab: 'clonar pestaña'
+    duplicateTab: 'clonar pestaña',
+    toggleAddBtn: 'alternar búsqueda de marcador'
   },
 
   // main warpper
