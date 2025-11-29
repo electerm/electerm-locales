@@ -1,6 +1,6 @@
 # electerm-locales
 
-[![Build Status](https://travis-ci.org/electerm/electerm-locales.svg?branch=release)](https://travis-ci.org/electerm/electerm-locales)
+[![Test](https://github.com/electerm/electerm-locales/actions/workflows/test.yml/badge.svg)](https://github.com/electerm/electerm-locales/actions/workflows/test.yml)
 
 [English](./README.md) | 简体中文
 
