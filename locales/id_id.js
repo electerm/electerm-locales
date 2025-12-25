@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'hanya dapat dilakukan di jendela utama',
     copyFilePath: 'salin jalur file',
     pasteSelected: 'tempel yang dipilih',
-    preview: 'pratinjau'
+    preview: 'pratinjau',
+    workspaces: 'Ruang Kerja'
   },
 
   // common

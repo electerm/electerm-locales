@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'can only do this in main window',
     copyFilePath: 'copy file path',
     pasteSelected: 'paste selected',
-    preview: 'preview'
+    preview: 'preview',
+    workspaces: 'Workspaces'
   },
 
   // common

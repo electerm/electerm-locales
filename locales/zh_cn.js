@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: '只能在主窗口中执行此操作',
     copyFilePath: '复制文件路径',
     pasteSelected: '粘贴所选内容',
-    preview: '预览'
+    preview: '预览',
+    workspaces: '工作区'
   },
 
   // common

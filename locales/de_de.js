@@ -84,7 +84,8 @@ const lang = {
     sencondInstanceTip: 'Dies ist nur im Haupt-Fenster möglich',
     copyFilePath: 'Dateipfad kopieren',
     pasteSelected: 'Auswahl einfügen',
-    preview: 'Vorschau'
+    preview: 'Vorschau',
+    workspaces: 'Arbeitsbereiche'
   },
 
   common: {

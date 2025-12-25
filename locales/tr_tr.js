@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'bunu sadece ana pencerede yapabilir',
     copyFilePath: 'Dosya Yolunu Kopyala',
     pasteSelected: 'Seçileni Yapıştır',
-    preview: 'önizleme'
+    preview: 'önizleme',
+    workspaces: 'Çalışma Alanları'
   },
 
   // common

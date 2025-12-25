@@ -91,7 +91,8 @@ const lang = {
     sencondInstanceTip: 'solo puede hacer esto en la ventana principal',
     copyFilePath: 'Copiar ruta del archivo',
     pasteSelected: 'Pegar seleccionado',
-    preview: 'vista previa'
+    preview: 'vista previa',
+    workspaces: 'Espacios de trabajo'
   },
 
   // common

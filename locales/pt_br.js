@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'só pode fazer isso na janela principal',
     copyFilePath: 'Copiar caminho do arquivo',
     pasteSelected: 'Colar selecionado',
-    preview: 'visualização'
+    preview: 'visualização',
+    workspaces: 'Áreas de Trabalho'
   },
 
   // common

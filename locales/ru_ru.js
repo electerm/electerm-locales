@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'можно сделать только в главном окне',
     copyFilePath: 'Копировать путь файла',
     pasteSelected: 'Вставить выбранное',
-    preview: 'предпросмотр'
+    preview: 'предпросмотр',
+    workspaces: 'Рабочие пространства'
   },
 
   // common

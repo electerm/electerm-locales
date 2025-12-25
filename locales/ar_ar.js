@@ -90,7 +90,8 @@ const lang = {
     sencondInstanceTip: 'يمكن أن تفعل هذا فقط في النافذة الرئيسية',
     copyFilePath: 'نسخ مسار الملف',
     pasteSelected: 'لصق المحدد',
-    preview: 'معاينة'
+    preview: 'معاينة',
+    workspaces: 'مساحات العمل'
   },
 
   // common
