@@ -85,7 +85,8 @@ const lang = {
     copyFilePath: 'Dateipfad kopieren',
     pasteSelected: 'Auswahl einfügen',
     preview: 'Vorschau',
-    workspaces: 'Arbeitsbereiche'
+    workspaces: 'Arbeitsbereiche',
+    saveAsNew: 'Als neue speichern'
   },
 
   common: {

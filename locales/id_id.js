@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'salin jalur file',
     pasteSelected: 'tempel yang dipilih',
     preview: 'pratinjau',
-    workspaces: 'Ruang Kerja'
+    workspaces: 'Ruang Kerja',
+    saveAsNew: 'Simpan sebagai baru'
   },
 
   // common

@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: '파일 경로를 복사하십시오',
     pasteSelected: '선택 항목 붙여넣기',
     preview: '미리 보기',
-    workspaces: '작업 영역'
+    workspaces: '작업 영역',
+    saveAsNew: '새로 저장'
   },
 
   // common

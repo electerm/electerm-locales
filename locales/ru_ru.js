@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'Копировать путь файла',
     pasteSelected: 'Вставить выбранное',
     preview: 'предпросмотр',
-    workspaces: 'Рабочие пространства'
+    workspaces: 'Рабочие пространства',
+    saveAsNew: 'Сохранить как новый'
   },
 
   // common

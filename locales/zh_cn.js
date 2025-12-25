@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: '复制文件路径',
     pasteSelected: '粘贴所选内容',
     preview: '预览',
-    workspaces: '工作区'
+    workspaces: '工作区',
+    saveAsNew: '另存为新文件'
   },
 
   // common

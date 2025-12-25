@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'ファイルパスをコピーします',
     pasteSelected: '選択したものを貼り付け',
     preview: 'プレビュー',
-    workspaces: 'ワークスペース'
+    workspaces: 'ワークスペース',
+    saveAsNew: '新規保存'
   },
 
   // common

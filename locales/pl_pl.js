@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'kopiuj ścieżkę pliku',
     pasteSelected: 'wklej zaznaczone',
     preview: 'podgląd',
-    workspaces: 'Obszary robocze'
+    workspaces: 'Obszary robocze',
+    saveAsNew: 'Zapisz jako nowy'
   },
 
   // common

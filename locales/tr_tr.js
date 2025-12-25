@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'Dosya Yolunu Kopyala',
     pasteSelected: 'Seçileni Yapıştır',
     preview: 'önizleme',
-    workspaces: 'Çalışma Alanları'
+    workspaces: 'Çalışma Alanları',
+    saveAsNew: 'Yeni olarak kaydet'
   },
 
   // common

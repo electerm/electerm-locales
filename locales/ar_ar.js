@@ -91,7 +91,8 @@ const lang = {
     copyFilePath: 'نسخ مسار الملف',
     pasteSelected: 'لصق المحدد',
     preview: 'معاينة',
-    workspaces: 'مساحات العمل'
+    workspaces: 'مساحات العمل',
+    saveAsNew: 'حفظ كملف جديد'
   },
 
   // common
