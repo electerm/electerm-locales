@@ -4,8 +4,8 @@
   "description": "electerm multi-language support pack",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/standard",
-    "fix": "./node_modules/.bin/standard --fix",
+    "lint": "standard",
+    "fix": "standard --fix",
     "test": "npm run build && node --experimental-vm-modules ./node_modules/.bin/jest",
     "pre-push": "npm run lint && npm run test",
     "build": "node bin/build.js",
