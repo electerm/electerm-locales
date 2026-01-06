@@ -416,7 +416,8 @@ const lang = {
     explainWithAi: 'jelaskan dengan AI',
     getAiSuggestions: 'dapatkan saran AI',
     showCmdSuggestions: 'tampilkan saran perintah',
-    broadcastInput: 'cerminkan input ke semua terminal'
+    broadcastInput: 'cerminkan input ke semua terminal',
+    certificate: 'sertifikat'
   },
 
   // terminal themes

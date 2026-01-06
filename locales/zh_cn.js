@@ -417,7 +417,8 @@ const lang = {
     explainWithAi: '用AI解释',
     getAiSuggestions: '获取AI建议',
     showCmdSuggestions: '显示命令建议',
-    broadcastInput: '将输入镜像到所有终端'
+    broadcastInput: '将输入镜像到所有终端',
+    certificate: '证书'
   },
 
   // terminal themes

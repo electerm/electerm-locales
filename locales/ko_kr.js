@@ -417,7 +417,8 @@ const lang = {
     explainWithAi: 'AI로 설명',
     getAiSuggestions: 'AI 제안 받기',
     showCmdSuggestions: '명령어 제안 표시',
-    broadcastInput: '모든 터미널에 입력 미러링'
+    broadcastInput: '모든 터미널에 입력 미러링',
+    certificate: '인증서'
   },
 
   // terminal themes

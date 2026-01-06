@@ -417,7 +417,8 @@ const lang = {
     explainWithAi: 'AI ile açıkla',
     getAiSuggestions: 'AI önerileri al',
     showCmdSuggestions: 'komut önerilerini göster',
-    broadcastInput: 'girişi tüm terminallere yansıt'
+    broadcastInput: 'girişi tüm terminallere yansıt',
+    certificate: 'sertifika'
   },
 
   // terminal themes

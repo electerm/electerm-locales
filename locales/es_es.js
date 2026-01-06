@@ -418,7 +418,8 @@ const lang = {
     explainWithAi: 'explicar con IA',
     getAiSuggestions: 'obtener sugerencias de IA',
     showCmdSuggestions: 'mostrar sugerencias de comandos',
-    broadcastInput: 'replicar la entrada en todos los terminales'
+    broadcastInput: 'replicar la entrada en todos los terminales',
+    certificate: 'certificado'
   },
 
   // terminal themes

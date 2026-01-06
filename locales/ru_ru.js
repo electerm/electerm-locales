@@ -417,7 +417,8 @@ const lang = {
     explainWithAi: 'объяснить с ИИ',
     getAiSuggestions: 'получить предложения ИИ',
     showCmdSuggestions: 'показать предложения команд',
-    broadcastInput: 'отображать ввод на всех терминалах'
+    broadcastInput: 'отображать ввод на всех терминалах',
+    certificate: 'сертификат'
   },
 
   // terminal themes

@@ -417,7 +417,8 @@ const lang = {
     explainWithAi: 'شرح باستخدام الذكاء الاصطناعي',
     getAiSuggestions: 'الحصول على اقتراحات الذكاء الاصطناعي',
     showCmdSuggestions: 'عرض اقتراحات الأوامر',
-    broadcastInput: 'عكس الإدخال على جميع المحطات'
+    broadcastInput: 'عكس الإدخال على جميع المحطات',
+    certificate: 'شهادة'
   },
 
   // terminal themes

@@ -401,7 +401,8 @@ const lang = {
     explainWithAi: 'Mit KI erklären',
     getAiSuggestions: 'KI-Vorschläge erhalten',
     showCmdSuggestions: 'Befehlsvorschläge anzeigen',
-    broadcastInput: 'Eingabe an alle Terminals spiegeln'
+    broadcastInput: 'Eingabe an alle Terminals spiegeln',
+    certificate: 'Zertifikat'
   },
 
   terminalThemes: {
