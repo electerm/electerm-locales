@@ -385,7 +385,8 @@ const lang = {
     chooseFromBookmarks: 'Yer imlerinden seç',
     editWithColorPicker: 'Renk seçici ile düzenle',
     editWithTextEditor: 'Metin düzenleyici ile düzenle',
-    loadSshConfigs: 'ssh yapılandırmalarını yükle'
+    loadSshConfigs: 'ssh yapılandırmalarını yükle',
+    useSshAgent: 'ssh ajanı kullan'
   },
 
   // ssh terminal

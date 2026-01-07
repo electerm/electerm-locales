@@ -384,7 +384,8 @@ const lang = {
     chooseFromBookmarks: 'pilih dari bookmark',
     editWithColorPicker: 'Edit dengan pemilih warna',
     editWithTextEditor: 'Edit dengan editor teks',
-    loadSshConfigs: 'muat konfigurasi ssh'
+    loadSshConfigs: 'muat konfigurasi ssh',
+    useSshAgent: 'gunakan agen ssh'
   },
 
   // ssh terminal

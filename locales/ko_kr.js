@@ -385,7 +385,8 @@ const lang = {
     chooseFromBookmarks: '북마크에서 선택',
     editWithColorPicker: '색상 선택기로 편집',
     editWithTextEditor: '텍스트 편집기로 편집',
-    loadSshConfigs: 'SSH 구성 로드'
+    loadSshConfigs: 'SSH 구성 로드',
+    useSshAgent: 'SSH 에이전트 사용'
   },
 
   // ssh terminal

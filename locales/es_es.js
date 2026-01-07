@@ -386,7 +386,8 @@ const lang = {
     chooseFromBookmarks: 'Elegir de los marcadores',
     editWithColorPicker: 'Editar con selector de color',
     editWithTextEditor: 'Editar con editor de texto',
-    loadSshConfigs: 'cargar configuraciones ssh'
+    loadSshConfigs: 'cargar configuraciones ssh',
+    useSshAgent: 'usar agente ssh'
   },
 
   // ssh terminal

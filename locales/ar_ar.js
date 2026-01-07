@@ -385,7 +385,8 @@ const lang = {
     chooseFromBookmarks: 'اختر من العلامات المرجعية',
     editWithColorPicker: 'تعديل باستخدام منتقي الألوان',
     editWithTextEditor: 'تعديل باستخدام محرر النصوص',
-    loadSshConfigs: 'تحميل تكوينات ssh'
+    loadSshConfigs: 'تحميل تكوينات ssh',
+    useSshAgent: 'استخدام وكيل ssh'
   },
 
   // ssh terminal

@@ -384,7 +384,8 @@ const lang = {
     chooseFromBookmarks: 'Wybierz z zakładek',
     editWithColorPicker: 'Edytuj za pomocą selektora kolorów',
     editWithTextEditor: 'Edytuj w edytorze tekstu',
-    loadSshConfigs: 'Wczytaj konfiguracje SSH'
+    loadSshConfigs: 'Wczytaj konfiguracje SSH',
+    useSshAgent: 'użyj agenta ssh'
   },
 
   // ssh terminal

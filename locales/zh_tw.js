@@ -385,7 +385,8 @@ const lang = {
     chooseFromBookmarks: '從書籤中選擇',
     editWithColorPicker: '用顏色選擇器編輯',
     editWithTextEditor: '用文本編輯器編輯',
-    loadSshConfigs: '加載 SSH 配置'
+    loadSshConfigs: '加載 SSH 配置',
+    useSshAgent: '使用 ssh 代理'
   },
 
   // ssh terminal

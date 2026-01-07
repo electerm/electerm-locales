@@ -370,7 +370,8 @@ const lang = {
     chooseFromBookmarks: 'Aus Lesezeichen auswählen',
     editWithColorPicker: 'Mit Farbauswahl bearbeiten',
     editWithTextEditor: 'Mit Texteditor bearbeiten',
-    loadSshConfigs: 'SSH-Konfigurationen laden'
+    loadSshConfigs: 'SSH-Konfigurationen laden',
+    useSshAgent: 'SSH-Agent verwenden'
   },
 
   ssh: {
