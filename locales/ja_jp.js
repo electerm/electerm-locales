@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: '選択したものを貼り付け',
     preview: 'プレビュー',
     workspaces: 'ワークスペース',
-    saveAsNew: '新規保存'
+    saveAsNew: '新規保存',
+    reloadAll: 'すべて再読み込み'
   },
 
   // common

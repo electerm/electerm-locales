@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'tempel yang dipilih',
     preview: 'pratinjau',
     workspaces: 'Ruang Kerja',
-    saveAsNew: 'Simpan sebagai baru'
+    saveAsNew: 'Simpan sebagai baru',
+    reloadAll: 'muat ulang semua'
   },
 
   // common

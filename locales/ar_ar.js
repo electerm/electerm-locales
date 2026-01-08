@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'لصق المحدد',
     preview: 'معاينة',
     workspaces: 'مساحات العمل',
-    saveAsNew: 'حفظ كملف جديد'
+    saveAsNew: 'حفظ كملف جديد',
+    reloadAll: 'إعادة تحميل الكل'
   },
 
   // common

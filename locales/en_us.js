@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'paste selected',
     preview: 'preview',
     workspaces: 'Workspaces',
-    saveAsNew: 'Save as new'
+    saveAsNew: 'Save as new',
+    reloadAll: 'reload all'
   },
 
   // common

@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: '貼上所選內容',
     preview: '預覽',
     workspaces: '工作區',
-    saveAsNew: '另存為新檔案'
+    saveAsNew: '另存為新檔案',
+    reloadAll: '重新載入全部'
   },
 
   // common

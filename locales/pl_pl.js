@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'Wklej zaznaczone',
     preview: 'Podgląd',
     workspaces: 'Obszary robocze',
-    saveAsNew: 'Zapisz jako nowy'
+    saveAsNew: 'Zapisz jako nowy',
+    reloadAll: 'Przeładuj wszystkie'
   },
 
   // common

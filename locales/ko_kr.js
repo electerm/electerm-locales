@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: '선택 항목 붙여넣기',
     preview: '미리 보기',
     workspaces: '작업 영역',
-    saveAsNew: '새로 저장'
+    saveAsNew: '새로 저장',
+    reloadAll: '모두 다시 로드'
   },
 
   // common

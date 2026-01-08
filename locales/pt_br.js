@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'Colar selecionado',
     preview: 'visualização',
     workspaces: 'Áreas de Trabalho',
-    saveAsNew: 'Salvar como novo'
+    saveAsNew: 'Salvar como novo',
+    reloadAll: 'recarregar tudo'
   },
 
   // common

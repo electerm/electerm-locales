@@ -92,7 +92,8 @@ const lang = {
     pasteSelected: 'Seçileni Yapıştır',
     preview: 'önizleme',
     workspaces: 'Çalışma Alanları',
-    saveAsNew: 'Yeni olarak kaydet'
+    saveAsNew: 'Yeni olarak kaydet',
+    reloadAll: 'tümünü yeniden yükle'
   },
 
   // common
