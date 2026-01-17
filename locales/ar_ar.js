@@ -415,7 +415,6 @@ const lang = {
     remoteToLocal: 'توجيه الاتصال عن بُعد بالخادم المحلي',
     sftpPathFollowSsh: 'مزامنة مسار SFTP مع المحطة',
     dynamicPortForwarding: 'إعادة توجيه المنفذ الديناميكي',
-    sftpPathFollowSshTip: 'عند تشغيل مزامنة مسار SFTP مع المحطة الطرفية، قد تواجه بعض مشكلات إخراج المحطة الطرفية',
     explainWithAi: 'شرح باستخدام الذكاء الاصطناعي',
     getAiSuggestions: 'الحصول على اقتراحات الذكاء الاصطناعي',
     showCmdSuggestions: 'عرض اقتراحات الأوامر',

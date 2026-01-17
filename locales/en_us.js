@@ -414,7 +414,6 @@ const lang = {
     remoteToLocal: 'forward remote connection to local server',
     sftpPathFollowSsh: 'SFTP path sync with terminal',
     dynamicPortForwarding: 'dynamic port forwarding',
-    sftpPathFollowSshTip: 'When SFTP path sync with terminal turned on, you may experience certain terminal output issues',
     explainWithAi: 'explain with AI',
     getAiSuggestions: 'get AI suggestions',
     showCmdSuggestions: 'show command suggestions',

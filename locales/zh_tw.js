@@ -415,7 +415,6 @@ const lang = {
     remoteToLocal: '轉發遠程連接到本地服務器',
     sftpPathFollowSsh: 'SFTP路徑與終端同步',
     dynamicPortForwarding: '動態端口轉發',
-    sftpPathFollowSshTip: '當啟用 SFTP 路徑同步到終端時，您可能會遇到某些終端輸出問題',
     explainWithAi: '用AI解釋',
     getAiSuggestions: '獲取AI建議',
     showCmdSuggestions: '顯示指令建議',

@@ -399,7 +399,6 @@ const lang = {
     remoteToLocal: 'Remote-Verbindung zum lokalen Server weiterleiten',
     sftpPathFollowSsh: 'SFTP-Pfad mit Terminal synchronisieren',
     dynamicPortForwarding: 'Dynamische Portweiterleitung',
-    sftpPathFollowSshTip: 'Wenn die SFTP-Pfadsynchronisierung aktiviert ist, können bestimmte Ausgabeprobleme im Terminal auftreten',
     explainWithAi: 'Mit KI erklären',
     getAiSuggestions: 'KI-Vorschläge erhalten',
     showCmdSuggestions: 'Befehlsvorschläge anzeigen',

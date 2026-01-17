@@ -415,7 +415,6 @@ const lang = {
     remoteToLocal: 'transférer la connexion distante au serveur local',
     sftpPathFollowSsh: 'Sync de chemin SFTP avec le terminal',
     dynamicPortForwarding: 'transfert de port dynamique',
-    sftpPathFollowSshTip: 'Lorsque la synchronisation du chemin SFTP avec le terminal est activée, vous pouvez rencontrer certains problèmes de sortie du terminal',
     explainWithAi: 'expliquer avec IA',
     getAiSuggestions: 'obtenir des suggestions d`IA',
     showCmdSuggestions: 'afficher les suggestions de commandes',

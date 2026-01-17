@@ -415,7 +415,6 @@ const lang = {
     remoteToLocal: 'ローカルサーバーへのリモート接続を転送します',
     sftpPathFollowSsh: 'ターミナルとSFTPパス同期',
     dynamicPortForwarding: '動的なポート転送',
-    sftpPathFollowSshTip: 'SFTP パスの同期がターミナルで有効になっている場合、いくつかのターミナル出力の問題が発生する可能性があります',
     explainWithAi: 'AIで説明',
     getAiSuggestions: 'AIの提案を取得',
     showCmdSuggestions: 'コマンドの提案を表示',

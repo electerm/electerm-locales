@@ -414,7 +414,6 @@ const lang = {
     remoteToLocal: 'teruskan koneksi remote ke server lokal',
     sftpPathFollowSsh: 'path SFTP disinkronkan dengan terminal',
     dynamicPortForwarding: 'penerusan port dinamis',
-    sftpPathFollowSshTip: 'Ketika sinkronisasi path SFTP dengan terminal diaktifkan, Anda mungkin akan mengalami masalah output terminal tertentu',
     explainWithAi: 'jelaskan dengan AI',
     getAiSuggestions: 'dapatkan saran AI',
     showCmdSuggestions: 'tampilkan saran perintah',

@@ -414,7 +414,6 @@ const lang = {
     remoteToLocal: 'Przekieruj połączenie zdalne do serwera lokalnego',
     sftpPathFollowSsh: 'Ścieżka SFTP synchronizowana z terminalem',
     dynamicPortForwarding: 'Dynamiczne przekierowanie portów',
-    sftpPathFollowSshTip: 'Gdy ścieżka SFTP jest synchronizowana z terminalem, mogą wystąpić problemy z wyświetlaniem wyjścia terminala',
     explainWithAi: 'Wyjaśnij za pomocą AI',
     getAiSuggestions: 'Uzyskaj sugestie AI',
     showCmdSuggestions: 'Pokaż sugestie poleceń',
