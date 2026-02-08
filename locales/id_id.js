@@ -93,7 +93,8 @@ const lang = {
     preview: 'pratinjau',
     workspaces: 'Ruang Kerja',
     saveAsNew: 'Simpan sebagai baru',
-    reloadAll: 'muat ulang semua'
+    reloadAll: 'muat ulang semua',
+    openInDefaultBrowser: 'Buka di browser default'
   },
 
   // common

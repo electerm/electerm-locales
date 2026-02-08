@@ -93,7 +93,8 @@ const lang = {
     preview: 'önizleme',
     workspaces: 'Çalışma Alanları',
     saveAsNew: 'Yeni olarak kaydet',
-    reloadAll: 'tümünü yeniden yükle'
+    reloadAll: 'tümünü yeniden yükle',
+    openInDefaultBrowser: 'Varsayılan tarayıcıda aç'
   },
 
   // common

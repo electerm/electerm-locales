@@ -93,7 +93,8 @@ const lang = {
     preview: '預覽',
     workspaces: '工作區',
     saveAsNew: '另存為新檔案',
-    reloadAll: '重新載入全部'
+    reloadAll: '重新載入全部',
+    openInDefaultBrowser: '在預設瀏覽器中開啟'
   },
 
   // common

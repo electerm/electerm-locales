@@ -87,7 +87,8 @@ const lang = {
     preview: 'Vorschau',
     workspaces: 'Arbeitsbereiche',
     saveAsNew: 'Als neue speichern',
-    reloadAll: 'alle neu laden'
+    reloadAll: 'alle neu laden',
+    openInDefaultBrowser: 'Im Standardbrowser öffnen'
   },
 
   common: {

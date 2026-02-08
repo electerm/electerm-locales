@@ -93,7 +93,8 @@ const lang = {
     preview: 'プレビュー',
     workspaces: 'ワークスペース',
     saveAsNew: '新規保存',
-    reloadAll: 'すべて再読み込み'
+    reloadAll: 'すべて再読み込み',
+    openInDefaultBrowser: 'デフォルトブラウザで開く'
   },
 
   // common

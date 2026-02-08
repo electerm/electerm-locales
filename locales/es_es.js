@@ -94,7 +94,8 @@ const lang = {
     preview: 'vista previa',
     workspaces: 'Espacios de trabajo',
     saveAsNew: 'Guardar como nuevo',
-    reloadAll: 'recargar todo'
+    reloadAll: 'recargar todo',
+    openInDefaultBrowser: 'Abrir en el navegador predeterminado'
   },
 
   // common

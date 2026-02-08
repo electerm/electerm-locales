@@ -93,7 +93,8 @@ const lang = {
     preview: '미리 보기',
     workspaces: '작업 영역',
     saveAsNew: '새로 저장',
-    reloadAll: '모두 다시 로드'
+    reloadAll: '모두 다시 로드',
+    openInDefaultBrowser: '기본 브라우저에서 열기'
   },
 
   // common

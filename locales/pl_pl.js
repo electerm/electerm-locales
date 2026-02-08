@@ -93,7 +93,8 @@ const lang = {
     preview: 'Podgląd',
     workspaces: 'Obszary robocze',
     saveAsNew: 'Zapisz jako nowy',
-    reloadAll: 'Przeładuj wszystkie'
+    reloadAll: 'Przeładuj wszystkie',
+    openInDefaultBrowser: 'Otwórz w domyślnej przeglądarce'
   },
 
   // common
