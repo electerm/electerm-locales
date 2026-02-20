@@ -387,7 +387,9 @@ const lang = {
     editWithColorPicker: 'Edit with color picker',
     editWithTextEditor: 'Edit with text editor',
     loadSshConfigs: 'load ssh configs',
-    useSshAgent: 'use ssh agent'
+    useSshAgent: 'use ssh agent',
+    createBookmarkByAI: 'create bookmark by ai',
+    aiSecurityNotice: 'Do NOT include real passwords, private keys, passphrases, API keys, or other sensitive credentials in the description. Data is sent to third‑party AI APIs unless you use a local LLM'
   },
 
   // ssh terminal

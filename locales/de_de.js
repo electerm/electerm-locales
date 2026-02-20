@@ -373,7 +373,9 @@ const lang = {
     editWithColorPicker: 'Mit Farbauswahl bearbeiten',
     editWithTextEditor: 'Mit Texteditor bearbeiten',
     loadSshConfigs: 'SSH-Konfigurationen laden',
-    useSshAgent: 'SSH-Agent verwenden'
+    useSshAgent: 'SSH-Agent verwenden',
+    createBookmarkByAI: 'Lesezeichen per KI erstellen',
+    aiSecurityNotice: 'Fügen Sie KEINE echten Passwörter, privaten Schlüssel, Passphrasen, API‑Schlüssel oder andere sensible Zugangsdaten in die Beschreibung ein. Daten werden an Drittanbieter‑KI‑APIs gesendet, es sei denn, Sie verwenden ein lokales LLM.'
   },
 
   ssh: {
