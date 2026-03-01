@@ -389,7 +389,8 @@ const lang = {
     loadSshConfigs: 'muat konfigurasi ssh',
     useSshAgent: 'gunakan agen ssh',
     createBookmarkByAI: 'buat penanda oleh AI',
-    aiSecurityNotice: 'JANGAN sertakan kata sandi asli, kunci pribadi, frasa sandi, kunci API, atau kredensial sensitif lainnya dalam deskripsi. Data dikirim ke API AI pihak ketiga kecuali Anda menggunakan LLM lokal.'
+    aiSecurityNotice: 'JANGAN sertakan kata sandi asli, kunci pribadi, frasa sandi, kunci API, atau kredensial sensitif lainnya dalam deskripsi. Data dikirim ke API AI pihak ketiga kecuali Anda menggunakan LLM lokal.',
+    quickConnect: 'sambung cepat'
   },
 
   // ssh terminal

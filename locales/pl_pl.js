@@ -389,7 +389,8 @@ const lang = {
     loadSshConfigs: 'Wczytaj konfiguracje SSH',
     useSshAgent: 'użyj agenta ssh',
     createBookmarkByAI: 'utwórz zakładkę za pomocą AI',
-    aiSecurityNotice: 'NIE umieszczaj w opisie rzeczywistych haseł, kluczy prywatnych, fraz dostępu, kluczy API ani innych poufnych danych uwierzytelniających. Dane są wysyłane do zewnętrznych interfejsów API AI, chyba że używasz lokalnego modelu LLM.'
+    aiSecurityNotice: 'NIE umieszczaj w opisie rzeczywistych haseł, kluczy prywatnych, fraz dostępu, kluczy API ani innych poufnych danych uwierzytelniających. Dane są wysyłane do zewnętrznych interfejsów API AI, chyba że używasz lokalnego modelu LLM.',
+    quickConnect: 'szybkie łączenie'
   },
 
   // ssh terminal

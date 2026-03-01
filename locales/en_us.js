@@ -389,7 +389,8 @@ const lang = {
     loadSshConfigs: 'load ssh configs',
     useSshAgent: 'use ssh agent',
     createBookmarkByAI: 'create bookmark by ai',
-    aiSecurityNotice: 'Do NOT include real passwords, private keys, passphrases, API keys, or other sensitive credentials in the description. Data is sent to third‑party AI APIs unless you use a local LLM'
+    aiSecurityNotice: 'Do NOT include real passwords, private keys, passphrases, API keys, or other sensitive credentials in the description. Data is sent to third‑party AI APIs unless you use a local LLM',
+    quickConnect: 'quick connect'
   },
 
   // ssh terminal

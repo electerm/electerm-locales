@@ -390,7 +390,8 @@ const lang = {
     loadSshConfigs: 'ssh yapılandırmalarını yükle',
     useSshAgent: 'ssh ajanı kullan',
     createBookmarkByAI: 'yapay zeka ile yer imi oluştur',
-    aiSecurityNotice: 'Açıklamaya gerçek şifreleri, özel anahtarları, parola ifadelerini, API anahtarlarını veya diğer hassas kimlik bilgilerini EKLEMEYİN. Yerel bir LLM kullanmadığınız sürece veriler üçüncü taraf AI API`lerine gönderilir.'
+    aiSecurityNotice: 'Açıklamaya gerçek şifreleri, özel anahtarları, parola ifadelerini, API anahtarlarını veya diğer hassas kimlik bilgilerini EKLEMEYİN. Yerel bir LLM kullanmadığınız sürece veriler üçüncü taraf AI API`lerine gönderilir.',
+    quickConnect: 'hızlı bağlan'
   },
 
   // ssh terminal

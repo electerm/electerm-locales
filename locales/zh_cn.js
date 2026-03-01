@@ -390,7 +390,8 @@ const lang = {
     loadSshConfigs: '加载 SSH 配置',
     useSshAgent: '使用 ssh 代理',
     createBookmarkByAI: 'AI 智能创建书签',
-    aiSecurityNotice: '请勿在描述中包含真实密码、私钥、口令、API 密钥或其他敏感凭据。除非使用本地大语言模型，否则数据将被发送至第三方 AI API。'
+    aiSecurityNotice: '请勿在描述中包含真实密码、私钥、口令、API 密钥或其他敏感凭据。除非使用本地大语言模型，否则数据将被发送至第三方 AI API。',
+    quickConnect: '快速连接'
   },
 
   // ssh terminal

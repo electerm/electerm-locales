@@ -390,7 +390,8 @@ const lang = {
     loadSshConfigs: 'SSH 設定を読み込む',
     useSshAgent: 'SSH エージェントを使用',
     createBookmarkByAI: 'AIでブックマークを作成',
-    aiSecurityNotice: '説明に実際のパスワード、秘密鍵、パスフレーズ、APIキー、その他の機密情報を含めないでください。ローカルのLLMを使用しない限り、データはサードパーティのAI APIに送信されます。'
+    aiSecurityNotice: '説明に実際のパスワード、秘密鍵、パスフレーズ、APIキー、その他の機密情報を含めないでください。ローカルのLLMを使用しない限り、データはサードパーティのAI APIに送信されます。',
+    quickConnect: 'クイック接続'
   },
 
   // ssh terminal
