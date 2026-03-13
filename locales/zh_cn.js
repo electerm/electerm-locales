@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI建议缓存',
     layout: '布局',
     registerDeepLink: '注册协议处理程序',
-    unregisterDeepLink: '注销协议处理程序'
+    unregisterDeepLink: '注销协议处理程序',
+    keyword2FA: '双因素认证关键词'
   },
 
   // app menu

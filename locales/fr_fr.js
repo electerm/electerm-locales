@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'Cache des suggestions IA',
     layout: 'disposition',
     registerDeepLink: 'enregistrer le gestionnaire de protocole',
-    unregisterDeepLink: 'désinscrire le gestionnaire de protocole'
+    unregisterDeepLink: 'désinscrire le gestionnaire de protocole',
+    keyword2FA: 'mots-clés pour la vérification en deux étapes'
   },
 
   // app menu

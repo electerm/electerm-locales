@@ -36,7 +36,8 @@ const lang = {
     aiSuggestionsCache: 'KI-Vorschläge-Cache',
     layout: 'Layout',
     registerDeepLink: 'Protokoll-Handler registrieren',
-    unregisterDeepLink: 'Protokollhandler abmelden'
+    unregisterDeepLink: 'Protokollhandler abmelden',
+    keyword2FA: 'Schlüsselwörter für die Zwei-Faktor-Authentifizierung'
   },
 
   menu: {

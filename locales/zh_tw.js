@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI建議快取',
     layout: '佈局',
     registerDeepLink: '註冊通訊協定處理程式',
-    unregisterDeepLink: '註銷通訊協定處理程式'
+    unregisterDeepLink: '註銷通訊協定處理程式',
+    keyword2FA: '雙因素認證關鍵詞'
   },
 
   // app menu

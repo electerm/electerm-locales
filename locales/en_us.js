@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI suggestions cache',
     layout: 'layout',
     registerDeepLink: 'register protocol handler',
-    unregisterDeepLink: 'unregister protocol handler'
+    unregisterDeepLink: 'unregister protocol handler',
+    keyword2FA: 'keywords for 2FA'
   },
 
   // app menu

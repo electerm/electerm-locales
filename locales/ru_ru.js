@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'Кэш предложений ИИ',
     layout: 'раскладка',
     registerDeepLink: 'зарегистрировать обработчик протокола',
-    unregisterDeepLink: 'отменить регистрацию обработчика протокола'
+    unregisterDeepLink: 'отменить регистрацию обработчика протокола',
+    keyword2FA: 'ключевые слова для двухфакторной аутентификации'
   },
 
   // app menu

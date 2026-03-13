@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'Cache de sugestões de IA',
     layout: 'layout',
     registerDeepLink: 'registrar manipulador de protocolo',
-    unregisterDeepLink: 'cancelar o registro do manipulador de protocolo'
+    unregisterDeepLink: 'cancelar o registro do manipulador de protocolo',
+    keyword2FA: 'palavras-chave para autenticação em dois fatores'
   },
 
   // app menu

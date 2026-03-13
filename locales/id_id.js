@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'Cache saran AI',
     layout: 'tata letak',
     registerDeepLink: 'daftarkan penangan protokol',
-    unregisterDeepLink: 'batalkan pendaftaran penangan protokol'
+    unregisterDeepLink: 'batalkan pendaftaran penangan protokol',
+    keyword2FA: 'kata kunci untuk autentikasi dua faktor'
   },
 
   // app menu

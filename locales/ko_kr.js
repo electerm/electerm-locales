@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI 제안 캐시',
     layout: '레이아웃',
     registerDeepLink: '프로토콜 핸들러 등록',
-    unregisterDeepLink: '프로토콜 핸들러 등록 취소'
+    unregisterDeepLink: '프로토콜 핸들러 등록 취소',
+    keyword2FA: '2단계 인증 키워드'
   },
 
   // app menu

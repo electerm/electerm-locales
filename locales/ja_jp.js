@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI提案キャッシュ',
     layout: 'レイアウト',
     registerDeepLink: 'プロトコルハンドラを登録',
-    unregisterDeepLink: 'プロトコルハンドラの登録を解除'
+    unregisterDeepLink: 'プロトコルハンドラの登録を解除',
+    keyword2FA: '二段階認証キーワード'
   },
 
   // app menu

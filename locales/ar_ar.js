@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'ذاكرة تخزين اقتراحات الذكاء الاصطناعي',
     layout: 'تخطيط',
     registerDeepLink: 'تسجيل معالج البروتوكول',
-    unregisterDeepLink: 'إلغاء تسجيل معالج البروتوكول'
+    unregisterDeepLink: 'إلغاء تسجيل معالج البروتوكول',
+    keyword2FA: 'كلمات رئيسية للمصادقة ثنائية العوامل'
   },
 
   // app menu

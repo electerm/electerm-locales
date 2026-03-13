@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'Pamięć podręczna sugestii AI',
     layout: 'Układ',
     registerDeepLink: 'Zarejestruj obsługę protokołu',
-    unregisterDeepLink: 'Wyrejestruj obsługę protokołu'
+    unregisterDeepLink: 'Wyrejestruj obsługę protokołu',
+    keyword2FA: 'słowa kluczowe do weryfikacji dwuetapowej'
   },
 
   // app menu

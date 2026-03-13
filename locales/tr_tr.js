@@ -37,7 +37,8 @@ const lang = {
     aiSuggestionsCache: 'AI önerileri önbelleği',
     layout: 'düzen',
     registerDeepLink: 'protokol işleyiciyi kaydet',
-    unregisterDeepLink: 'protokol işleyiciyi kaydı sil'
+    unregisterDeepLink: 'protokol işleyiciyi kaydı sil',
+    keyword2FA: 'iki aşamalı doğrulama için anahtar kelimeler'
   },
 
   // app menu
