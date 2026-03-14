@@ -1,15 +1,24 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "2.1.66",
+  "version": "2.2.0",
   "description": "electerm multi-language support pack",
-  "main": "index.js",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.mjs",
+      "require": "./dist/cjs/index.js"
+    },
+    "./esm/*": "./dist/esm/*.mjs",
+    "./cjs/*": "./dist/cjs/*.js"
+  },
   "scripts": {
     "lint": "standard",
     "fix": "standard --fix",
     "test": "npm run build && node --experimental-vm-modules ./node_modules/.bin/jest",
     "pre-push": "npm run lint && npm run test",
     "build": "node bin/build.js",
-    "pub": "npm run build && node bin/publish.js"
+    "pub": "npm run build && npm publish --access public"
   },
   "type": "module",
   "repository": {
@@ -40,7 +49,6 @@
     "standard": "^17.0.0"
   },
   "files": [
-    "esm",
     "dist",
     "README.md",
     "LICENSE"
