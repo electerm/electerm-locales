@@ -38,7 +38,8 @@ const lang = {
     layout: 'tata letak',
     registerDeepLink: 'daftarkan penangan protokol',
     unregisterDeepLink: 'batalkan pendaftaran penangan protokol',
-    keyword2FA: 'kata kunci untuk autentikasi dua faktor'
+    keyword2FA: 'kata kunci untuk autentikasi dua faktor',
+    editWith: 'edit dengan'
   },
 
   // app menu

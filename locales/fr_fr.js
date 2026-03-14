@@ -38,7 +38,8 @@ const lang = {
     layout: 'disposition',
     registerDeepLink: 'enregistrer le gestionnaire de protocole',
     unregisterDeepLink: 'désinscrire le gestionnaire de protocole',
-    keyword2FA: 'mots-clés pour la vérification en deux étapes'
+    keyword2FA: 'mots-clés pour la vérification en deux étapes',
+    editWith: 'éditer avec'
   },
 
   // app menu

@@ -38,7 +38,8 @@ const lang = {
     layout: 'تخطيط',
     registerDeepLink: 'تسجيل معالج البروتوكول',
     unregisterDeepLink: 'إلغاء تسجيل معالج البروتوكول',
-    keyword2FA: 'كلمات رئيسية للمصادقة ثنائية العوامل'
+    keyword2FA: 'كلمات رئيسية للمصادقة ثنائية العوامل',
+    editWith: 'تعديل باستخدام'
   },
 
   // app menu

@@ -38,7 +38,8 @@ const lang = {
     layout: 'Układ',
     registerDeepLink: 'Zarejestruj obsługę protokołu',
     unregisterDeepLink: 'Wyrejestruj obsługę protokołu',
-    keyword2FA: 'słowa kluczowe do weryfikacji dwuetapowej'
+    keyword2FA: 'słowa kluczowe do weryfikacji dwuetapowej',
+    editWith: 'edytuj za pomocą'
   },
 
   // app menu

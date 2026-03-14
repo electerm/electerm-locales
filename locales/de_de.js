@@ -37,7 +37,8 @@ const lang = {
     layout: 'Layout',
     registerDeepLink: 'Protokoll-Handler registrieren',
     unregisterDeepLink: 'Protokollhandler abmelden',
-    keyword2FA: 'Schlüsselwörter für die Zwei-Faktor-Authentifizierung'
+    keyword2FA: 'Schlüsselwörter für die Zwei-Faktor-Authentifizierung',
+    editWith: 'bearbeiten mit'
   },
 
   menu: {

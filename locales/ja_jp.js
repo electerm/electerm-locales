@@ -38,7 +38,8 @@ const lang = {
     layout: 'レイアウト',
     registerDeepLink: 'プロトコルハンドラを登録',
     unregisterDeepLink: 'プロトコルハンドラの登録を解除',
-    keyword2FA: '二段階認証キーワード'
+    keyword2FA: '二段階認証キーワード',
+    editWith: '編集'
   },
 
   // app menu

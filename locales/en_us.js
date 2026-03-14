@@ -38,7 +38,8 @@ const lang = {
     layout: 'layout',
     registerDeepLink: 'register protocol handler',
     unregisterDeepLink: 'unregister protocol handler',
-    keyword2FA: 'keywords for 2FA'
+    keyword2FA: 'keywords for 2FA',
+    editWith: 'edit with'
   },
 
   // app menu

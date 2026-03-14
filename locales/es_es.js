@@ -39,7 +39,8 @@ const lang = {
     layout: 'disposición',
     registerDeepLink: 'registrar manejador de protocolo',
     unregisterDeepLink: 'anular el controlador de protocolo',
-    keyword2FA: 'palabras clave para la autenticación en dos pasos'
+    keyword2FA: 'palabras clave para la autenticación en dos pasos',
+    editWith: 'editar con'
   },
 
   // app menu

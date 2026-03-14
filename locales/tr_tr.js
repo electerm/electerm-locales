@@ -38,7 +38,8 @@ const lang = {
     layout: 'düzen',
     registerDeepLink: 'protokol işleyiciyi kaydet',
     unregisterDeepLink: 'protokol işleyiciyi kaydı sil',
-    keyword2FA: 'iki aşamalı doğrulama için anahtar kelimeler'
+    keyword2FA: 'iki aşamalı doğrulama için anahtar kelimeler',
+    editWith: 'düzenle'
   },
 
   // app menu

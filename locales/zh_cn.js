@@ -38,7 +38,8 @@ const lang = {
     layout: '布局',
     registerDeepLink: '注册协议处理程序',
     unregisterDeepLink: '注销协议处理程序',
-    keyword2FA: '双因素认证关键词'
+    keyword2FA: '双因素认证关键词',
+    editWith: '用...编辑'
   },
 
   // app menu
