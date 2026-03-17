@@ -44,7 +44,7 @@ async function run () {
     fs.writeFileSync(tt, prefix + json5.stringify(js.default))
     const tt1 = resolve(esm, f.replace('.js', '.mjs'))
     const pref = `export const ${name} = `
-    fs.writeFileSync(tt1, pref + json5.stringify(js.default))
+    fs.writeFileSync(tt1, pref + json5.stringify(js.default) + '\nexport default ' + json5.stringify(js.default))
     esmStr += `export * from './${f.replace('.js', '.mjs')}'\n`
     cjsExports += `module.exports.${name} = require('./${f}')\n`
   }

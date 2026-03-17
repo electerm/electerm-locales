@@ -7,10 +7,12 @@
 import { readdirSync, readFileSync } from 'fs'
 import { resolve } from 'path'
 import _ from 'lodash'
-import * as all from '../esm/index.mjs'
+import * as all from '../dist/esm/index.mjs'
+import defaultLang from '../dist/esm/index.mjs'
 
 const cwd = process.cwd()
 console.log('all', all)
+console.log('defaultLang', defaultLang)
 
 const pack = JSON.parse(
   readFileSync(
@@ -67,6 +69,12 @@ function compareObject (obj1, obj2) {
 }
 
 describe(pack.name, function () {
+  it('default export should be en_us', async function () {
+    expect(defaultLang).toBeDefined()
+    expect(defaultLang.lang).toBeDefined()
+    expect(defaultLang.name).toBe('English')
+  })
+
   it('all langs should have same shape', async function () {
     const files = readdirSync(
       resolve(cwd, 'locales')
