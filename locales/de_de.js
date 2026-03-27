@@ -378,7 +378,8 @@ const lang = {
     useSshAgent: 'SSH-Agent verwenden',
     createBookmarkByAI: 'Lesezeichen per KI erstellen',
     aiSecurityNotice: 'Fügen Sie KEINE echten Passwörter, privaten Schlüssel, Passphrasen, API‑Schlüssel oder andere sensible Zugangsdaten in die Beschreibung ein. Daten werden an Drittanbieter‑KI‑APIs gesendet, es sei denn, Sie verwenden ein lokales LLM.',
-    quickConnect: 'schnell verbinden'
+    quickConnect: 'schnell verbinden',
+    enableTerminalImage: 'unterstützt Terminal-Bild'
   },
 
   ssh: {
