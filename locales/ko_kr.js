@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: '프로토콜 핸들러 등록',
     unregisterDeepLink: '프로토콜 핸들러 등록 취소',
     keyword2FA: '2단계 인증 키워드',
-    editWith: '편집'
+    editWith: '편집',
+    autoReconnectTerminal: '연결 끊김 시 터미널 자동 재연결'
   },
 
   // app menu

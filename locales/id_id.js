@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: 'daftarkan penangan protokol',
     unregisterDeepLink: 'batalkan pendaftaran penangan protokol',
     keyword2FA: 'kata kunci untuk autentikasi dua faktor',
-    editWith: 'edit dengan'
+    editWith: 'edit dengan',
+    autoReconnectTerminal: 'sambungkan ulang terminal secara otomatis saat terputus'
   },
 
   // app menu

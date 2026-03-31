@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: '注册协议处理程序',
     unregisterDeepLink: '注销协议处理程序',
     keyword2FA: '双因素认证关键词',
-    editWith: '用...编辑'
+    editWith: '用...编辑',
+    autoReconnectTerminal: '断开连接时自动重新连接终端'
   },
 
   // app menu

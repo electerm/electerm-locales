@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: 'register protocol handler',
     unregisterDeepLink: 'unregister protocol handler',
     keyword2FA: 'keywords for 2FA',
-    editWith: 'edit with'
+    editWith: 'edit with',
+    autoReconnectTerminal: 'auto reconnect terminal on disconnect'
   },
 
   // app menu

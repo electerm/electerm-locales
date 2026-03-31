@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: 'protokol işleyiciyi kaydet',
     unregisterDeepLink: 'protokol işleyiciyi kaydı sil',
     keyword2FA: 'iki aşamalı doğrulama için anahtar kelimeler',
-    editWith: 'düzenle'
+    editWith: 'düzenle',
+    autoReconnectTerminal: 'bağlantı kesildiğinde terminali otomatik yeniden bağla'
   },
 
   // app menu

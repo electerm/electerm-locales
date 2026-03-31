@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: '註冊通訊協定處理程式',
     unregisterDeepLink: '註銷通訊協定處理程式',
     keyword2FA: '雙因素認證關鍵詞',
-    editWith: '使用...編輯'
+    editWith: '使用...編輯',
+    autoReconnectTerminal: '斷開連線時自動重新連接終端機'
   },
 
   // app menu

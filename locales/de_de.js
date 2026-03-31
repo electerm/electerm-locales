@@ -38,7 +38,8 @@ const lang = {
     registerDeepLink: 'Protokoll-Handler registrieren',
     unregisterDeepLink: 'Protokollhandler abmelden',
     keyword2FA: 'Schlüsselwörter für die Zwei-Faktor-Authentifizierung',
-    editWith: 'bearbeiten mit'
+    editWith: 'bearbeiten mit',
+    autoReconnectTerminal: 'Terminal bei Verbindungsabbruch automatisch neu verbinden'
   },
 
   menu: {

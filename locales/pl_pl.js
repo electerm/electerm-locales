@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: 'Zarejestruj obsługę protokołu',
     unregisterDeepLink: 'Wyrejestruj obsługę protokołu',
     keyword2FA: 'słowa kluczowe do weryfikacji dwuetapowej',
-    editWith: 'edytuj za pomocą'
+    editWith: 'edytuj za pomocą',
+    autoReconnectTerminal: 'automatyczne ponowne łączenie terminala po rozłączeniu'
   },
 
   // app menu

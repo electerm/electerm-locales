@@ -39,7 +39,8 @@ const lang = {
     registerDeepLink: 'تسجيل معالج البروتوكول',
     unregisterDeepLink: 'إلغاء تسجيل معالج البروتوكول',
     keyword2FA: 'كلمات رئيسية للمصادقة ثنائية العوامل',
-    editWith: 'تعديل باستخدام'
+    editWith: 'تعديل باستخدام',
+    autoReconnectTerminal: 'إعادة توصيل المحطة تلقائيًا عند انقطاع الاتصال'
   },
 
   // app menu
