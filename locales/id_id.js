@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'masalah yang diketahui',
     sponsorElecterm: 'sponsor electerm',
     privacyNotice: 'pemberitahuan privasi',
-    desc: 'Klien terminal/SSH/SFTP/FTP/Telnet/port serial/RDP/VNC (Linux, Mac, Windows)',
+    desc: 'Klien terminal/SSH/SFTP/FTP/Telnet/port serial/RDP/VNC/Spice (Linux, Mac, Windows)',
     single: 'satu',
     twoColumns: 'dua kolom',
     threeColumns: 'tiga kolom',

@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'Znane problemy',
     sponsorElecterm: 'Wspomóż electerm',
     privacyNotice: 'Informacja o prywatności',
-    desc: 'Klient terminala/SSH/SFTP/FTP/Telnet/port szeregowy/RDP/VNC (Linux, Mac, Windows)',
+    desc: 'Klient terminala/SSH/SFTP/FTP/Telnet/port szeregowy/RDP/VNC/Spice (Linux, Mac, Windows)',
     single: 'Pojedynczy',
     twoColumns: 'Dwie kolumny',
     threeColumns: 'Trzy kolumny',

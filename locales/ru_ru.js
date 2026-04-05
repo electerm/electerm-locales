@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'Известные вопросы',
     sponsorElecterm: 'спонсировать electerm',
     privacyNotice: 'Уведомление о конфиденциальности',
-    desc: 'Клиент для терминала/SSH/SFTP/FTP/Telnet/последовательного порта/RDP/VNC (Linux, Mac, Windows)',
+    desc: 'Клиент для терминала/SSH/SFTP/FTP/Telnet/последовательного порта/RDP/VNC/Spice (Linux, Mac, Windows)',
     single: 'Одиночный',
     twoColumns: 'Две колонки',
     threeColumns: 'Три колонки',

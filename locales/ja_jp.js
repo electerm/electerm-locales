@@ -12,7 +12,7 @@ const lang = {
     knownIssues: '既知の問題',
     sponsorElecterm: 'electerm をスポンサー',
     privacyNotice: 'プライバシー通知',
-    desc: 'ターミナル/SSH/SFTP/FTP/Telnet/シリアルポート/RDP/VNCクライアント（Linux、Mac、Windows対応）',
+    desc: 'ターミナル/SSH/SFTP/FTP/Telnet/シリアルポート/RDP/VNC/Spiceクライアント（Linux、Mac、Windows対応）',
     single: 'シングル',
     twoColumns: '二列',
     threeColumns: '三列',
