@@ -39,7 +39,7 @@ const lang = {
     registerDeepLink: 'プロトコルハンドラを登録',
     unregisterDeepLink: 'プロトコルハンドラの登録を解除',
     keyword2FA: '二段階認証キーワード',
-    editWith: '編集',
+    editWith: 'で編集',
     autoReconnectTerminal: '切断時に端末を自動再接続'
   },
 
@@ -60,7 +60,7 @@ const lang = {
     paste: 'ペースト',
     pasteandmatchstyle: 'ペーストしてスタイルを合わせる',
     del: '削除',
-    selectall: 'すべでを選択',
+    selectall: 'すべてを選択',
     startspeaking: '読み上げを開始',
     stopspeaking: '読み上げを終了',
 
@@ -86,7 +86,7 @@ const lang = {
 
     // help
     help: 'ヘルプ',
-    about: 'アプリについで',
+    about: 'アプリについて',
     checkUpdate: '更新を確認',
     reportIssue: '問題を報告',
     homepage: 'ホームページ',
@@ -106,7 +106,7 @@ const lang = {
     bookmarks: 'ブックマーク',
     bookmarkCategory: 'カテゴリ',
     setting: '設定',
-    about: 'についで',
+    about: 'について',
     ok: '確認',
     cancel: 'キャンセル',
     expandAll: 'すべて展開',
@@ -203,7 +203,7 @@ const lang = {
 
     new: '新規',
     settings: '設定',
-    common: '通用',
+    common: '一般',
     hotkeyNotOk: 'ホットキーは登録できません。別のホットキーを使用してください',
     saved: '保存',
     saveLang: '保存し、再起動して有効にします',
@@ -245,7 +245,7 @@ const lang = {
     makeItPortable: 'ポータブルにします',
     dataTransferedTo: 'に転送されたデータ',
     autoRefreshWhenSwitchToSftp: 'SFTPに切り替えると自動更新',
-    terminalWordSeparator: '端子単語分離器',
+    terminalWordSeparator: 'ターミナル単語区切り文字',
     settingShortcuts: 'ショートカット',
     closeCurrentTab: '現在のタブを閉じます',
     prevTab: '前のタブ',
@@ -255,7 +255,7 @@ const lang = {
     customCss: 'カスタムCSS',
     hideSshConfig: 'ssh-configカテゴリを非表示にします',
     addTimeStampToTermLog: '端末ログにタイムスタンプを追加します',
-    terminalBackSpaceMode: '端子バックスペースシーケンス',
+    terminalBackSpaceMode: 'ターミナルバックスペースシーケンス',
     showHiddenFilesOnSftpStart: 'SFTPの開始に非表示ファイルを表示します',
     hideIP: 'IPアドレスを隠す',
     disableConnectionHistory: '接続履歴を無効にする',
@@ -295,18 +295,18 @@ const lang = {
     modifyTime: '編集時間',
     attributes: '属性',
     enter: '入る',
-    deleteAll: 'すべでを削除',
+    deleteAll: 'すべてを削除',
     selected: '選択済み',
     newFile: '新規ファイル',
     newFolder: '新規フォルダ',
-    selectAll: 'すべでを選択',
+    selectAll: 'すべてを選択',
     refresh: '更新',
     editPermission: '権限を編集',
     info: '情報',
     filesAndFolders: 'ファイル/フォルダ',
     files: 'ファイル',
-    delTip: '確認しますか？これからすべでを削除し',
-    delTip1: 'すべでのファイルやフォルダがなくなります',
+    delTip: '確認しますか？これからすべてを削除し',
+    delTip1: 'すべてのファイルやフォルダがなくなります',
     goParent: '親フォルダーに移動します',
     hide: '非表示',
     show: '表示',
@@ -314,10 +314,10 @@ const lang = {
     remote: 'リモート',
     local: 'ローカル',
     fileTransfers: 'ファイル転送',
-    cancelAll: 'すべでをキャンセル',
+    cancelAll: 'すべてをキャンセル',
     upload: 'アップロード',
     download: 'ダウンロード',
-    resume: '継続',
+    resume: '再開',
     pause: '一時停止',
     reset: 'リセット',
     showInDefaultFileMananger: 'ファイルマネージャに表示',
@@ -401,7 +401,7 @@ const lang = {
   // ssh terminal
   ssh: {
     clear: 'クリア',
-    selectAll: 'すべでを選択',
+    selectAll: 'すべてを選択',
     savePassword: 'パスワードを保存',
     search: '検索',
     terminal: 'ターミナル',
@@ -453,7 +453,7 @@ const lang = {
     newQuickCommand: '新規コマンド',
     inputOnly: '入力のみ',
     labels: 'ラベル',
-    sortByFrequency: '周波数ごとにソートします'
+    sortByFrequency: '使用頻度でソート'
   },
 
   // setting sync

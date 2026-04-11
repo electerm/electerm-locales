@@ -77,7 +77,7 @@ const lang = {
     togglefullscreen: 'alternar pantalla completa',
 
     // window
-    window: 'window',
+    window: 'ventana',
     minimize: 'minimimizar',
     maximize: 'maximizar',
     unmaximize: 'desmaximizar',
@@ -202,9 +202,9 @@ const lang = {
   // setting
   setting: {
 
-    new: 'new',
+    new: 'nuevo',
     settings: 'ajustes',
-    common: 'common',
+    common: 'general',
     hotkeyNotOk: 'la tecla de acceso rápido no puede ser registrada, por favor use otra',
     saved: 'salvado',
     saveLang: 'guardado, reinicie para aplicar cambios',
@@ -272,7 +272,7 @@ const lang = {
     cancel: 'cancelar',
     skip: 'omitir',
     merge: 'unir',
-    overwrite: 'exagerar',
+    overwrite: 'sobrescribir',
     rename: 'renombrar',
     renameAll: 'renombrar todo',
     mergeDesc: 'fusionar carpetas de conflicto de descanso',
@@ -281,7 +281,7 @@ const lang = {
     overwriteAll: 'sobrescribir todo',
     renameDesc: 'renombrar archivos / carpetas',
     folder: 'carpetas',
-    file: 'expediente',
+    file: 'archivo',
     fileConflict: 'conflicto de archivos',
     submit: 'enviar',
     edit: 'editar',
@@ -305,7 +305,7 @@ const lang = {
     editPermission: 'permiso de edición',
     info: 'información',
     filesAndFolders: 'archivos/carpetas',
-    files: 'farchivos',
+    files: 'archivos',
     delTip: '¿Estás seguro? esto borrará esto',
     delTip1: 'y todo el archivo / directorio en ellos',
     goParent: 'ir a la carpeta principal',
@@ -334,7 +334,7 @@ const lang = {
   permission: {
     read: 'leer',
     write: 'escribir',
-    exec: 'exec',
+    exec: 'ejecutar',
     owner: 'propietario',
     group: 'grupo',
     other: 'otro'
@@ -356,7 +356,7 @@ const lang = {
     saveAndCreateNew: 'guardar y crear nuevos',
     save: 'guardar',
     loginScript: 'ejecutar script',
-    loginScriptDelay: 'executar atraso do script',
+    loginScriptDelay: 'retraso al ejecutar el script',
     loginScriptTip: 'ejecutar script después de iniciar sesión',
     connect: 'conectar',
     testConnection: 'conexión de prueba',

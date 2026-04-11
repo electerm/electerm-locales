@@ -82,7 +82,7 @@ const lang = {
     unmaximize: 'Réduire',
     close: 'Fermer',
     restart: 'Redémarrer',
-    front: 'front',
+    front: 'premier plan',
 
     // help
     help: 'Aide',
@@ -143,7 +143,7 @@ const lang = {
     dependencies: 'Dépendances',
     env: 'Environnement',
     os: 'Système',
-    userTips: 'user tips',
+    userTips: 'conseils utilisateur',
     commandLineUsage: 'Utilisation de la ligne de commande',
     newBookmark: 'Nouveau signet',
     newWindow: 'nouvelle instance'
@@ -255,7 +255,7 @@ const lang = {
     customCss: 'CSS personnalisé',
     hideSshConfig: 'Catégorie Hide Ssh-Config',
     addTimeStampToTermLog: 'Ajouter l\'horodatage au journal terminal',
-    terminalBackSpaceMode: 'Séquence de borne de borne',
+    terminalBackSpaceMode: 'séquence de retour arrière du terminal',
     showHiddenFilesOnSftpStart: 'Afficher les fichiers cachés sur SFTP Start',
     hideIP: 'Masquer l\'adresse IP',
     disableConnectionHistory: 'désactiver l`historique des connexions',
@@ -322,7 +322,7 @@ const lang = {
     reset: 'Réinitialiser',
     showInDefaultFileMananger: 'afficher dans le gestionnaire de fichiers',
     compressAndDownload: 'compresser et télécharger',
-    compressAndUpload: 'Compresser et télécharger',
+    compressAndUpload: 'compresser et téléverser',
     editWithSystemEditor: 'Modifier avec l\'éditeur de système',
     gotoFolderInTerminal: 'Accédez à ce dossier depuis le terminal',
     calculate: 'calculer',
@@ -365,10 +365,10 @@ const lang = {
     proxyType: 'Type de proxy',
     proxyIpPlaceholder: 'Adresse IP du proxy',
     selectProxy: 'Sélectionner le proxy',
-    auth: 'auth',
-    proxy: 'proxy',
-    use: 'use',
-    encode: 'encode',
+    auth: 'authentification',
+    proxy: 'mandataire',
+    use: 'utiliser',
+    encode: 'encodage',
     terminalType: 'Type de terminal',
     startDirectory: 'répertoire de démarrage',
     ignoreKeyboardInteractive: 'ignorer le clavier interactif',
@@ -478,5 +478,5 @@ export default {
   lang,
   name: 'Français',
   match: 'fr',
-  flag: '🇮🇩'
+  flag: '🇫🇷'
 }

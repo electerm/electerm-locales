@@ -39,7 +39,7 @@ const lang = {
     registerDeepLink: '프로토콜 핸들러 등록',
     unregisterDeepLink: '프로토콜 핸들러 등록 취소',
     keyword2FA: '2단계 인증 키워드',
-    editWith: '편집',
+    editWith: '로 편집',
     autoReconnectTerminal: '연결 끊김 시 터미널 자동 재연결'
   },
 
@@ -115,15 +115,15 @@ const lang = {
     ignore: '무시',
     pin: '패널 열기 유지',
     keyboardShortcuts: '키보드 단축키',
-    delSelected: '선택된 것을 지워 라',
-    turnOff: '끄다',
+    delSelected: '선택 항목 삭제',
+    turnOff: '끄기',
     tasks: '작업',
-    batchOperation: '배치 작동',
+    batchOperation: '일괄 작업',
     examples: '예',
-    importFromCSV: 'CSV 파일에서 가져옵니다',
-    addToQueue: '목록에 추가해',
-    execute: '실행하다',
-    finished: '완성된',
+    importFromCSV: 'CSV 파일에서 가져오기',
+    addToQueue: '대기열에 추가',
+    execute: '실행',
+    finished: '완료됨',
     resolutions: '해상도',
     addressBookmarks: '주소 북마크',
     import: '가져오기',
@@ -242,7 +242,7 @@ const lang = {
     confirmBeforeExit: '종료하기 전에 확인',
     initDefaultTabOnStart: '앱을 시작할 때 기본 탭 열기',
     screenReaderMode: '터미널에서 화면 리더를 지원합니다',
-    makeItPortable: '휴대용으로 만드십시오',
+    makeItPortable: '휴대용으로 만들기',
     dataTransferedTo: '전송 된 데이터',
     autoRefreshWhenSwitchToSftp: 'SFTP로 전환 할 때 자동 새로 고침',
     terminalWordSeparator: '터미널 단어 분리기',
@@ -325,8 +325,8 @@ const lang = {
     compressAndUpload: '압축 및 업로드',
     editWithSystemEditor: '시스템 편집기에서 편집',
     gotoFolderInTerminal: '터미널에서이 폴더에 액세스하십시오',
-    calculate: '계산하다',
-    skipAll: '모두 건너 뛰십시오',
+    calculate: '계산',
+    skipAll: '모두 건너뛰기',
     compressAndTransfer: '압축 및 전송'
   },
 
@@ -380,7 +380,7 @@ const lang = {
     displayRaw: '터미널에 원시 텍스트를 표시합니다',
     supportRegexp: '정규 표현식 지원',
     keywordsHighlight: '키워드 하이라이트',
-    keyword: '예어',
+    keyword: '키워드',
     viewOnly: '보기만',
     scaleViewport: '뷰포트 크기 조정',
     credentialsRequired: '자격 증명 필요',
@@ -418,7 +418,7 @@ const lang = {
     socketCloseTip: '터미널 연결 끊김',
     sshTunnel: 'SSH 터널',
     remotePort: '원격 포트',
-    localPort: '로컬 항구',
+    localPort: '로컬 포트',
     localToRemote: '원격 서버로 로컬 연결을 전달합니다',
     remoteToLocal: '로컬 서버에 대한 원격 연결을 전달합니다',
     sftpPathFollowSsh: 'SFTP 경로 터미널과 동기화됩니다',
@@ -453,7 +453,7 @@ const lang = {
     newQuickCommand: '새 빠른 명령',
     inputOnly: '입력만 가능',
     labels: '라벨',
-    sortByFrequency: '주파수별로 정렬하십시오'
+    sortByFrequency: '사용 빈도순 정렬'
   },
 
   // setting sync
@@ -469,7 +469,7 @@ const lang = {
     autoSync: '자동 동기화',
     lastSyncTime: '마지막 동기화 시간',
     useExistingGistId: '기존으로 사용',
-    autoSyncTip: '데이터가 변경되었을 때 자동 업로드 (오버 글라이드) 데이터',
+    autoSyncTip: '데이터가 변경되었을 때 자동으로 데이터를 업로드(덮어쓰기)합니다',
     syncServerDataStatus: '동기화 서버의 데이터 상태'
   }
 }
