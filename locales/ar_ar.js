@@ -469,7 +469,6 @@ const lang = {
     autoSync: 'المزامنة التلقائية',
     lastSyncTime: 'آخر وقت مزامنة',
     useExistingGistId: 'استخدام الموجود',
-    autoSyncTip: 'بيانات التحميل التلقائي (الكتابة فوق) عند تغيير البيانات',
     syncServerDataStatus: 'حالة البيانات في خادم المزامنة'
   }
 }

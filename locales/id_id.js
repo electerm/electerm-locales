@@ -468,7 +468,6 @@ const lang = {
     autoSync: 'sinkronisasi otomatis',
     lastSyncTime: 'waktu sinkronisasi terakhir',
     useExistingGistId: 'gunakan yang sudah ada',
-    autoSyncTip: 'unggah otomatis (timpa) data ketika data berubah',
     syncServerDataStatus: 'status data di server sinkronisasi'
   }
 }

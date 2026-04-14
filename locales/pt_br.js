@@ -469,7 +469,6 @@ const lang = {
     autoSync: 'sincronização automática',
     lastSyncTime: 'hora da última sincronização',
     useExistingGistId: 'usar existente',
-    autoSyncTip: 'Dados de upload automaticamente (substituição) quando os dados foram alterados',
     syncServerDataStatus: 'status dos dados no servidor de sincronização'
   }
 }

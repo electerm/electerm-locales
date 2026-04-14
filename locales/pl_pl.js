@@ -468,7 +468,6 @@ const lang = {
     autoSync: 'Automatyczna synchronizacja',
     lastSyncTime: 'Ostatni czas synchronizacji',
     useExistingGistId: 'Użyj istniejącego',
-    autoSyncTip: 'Automatycznie wysyłaj (nadpisuj) dane po ich zmianie',
     syncServerDataStatus: 'Status danych na serwerze synchronizacji'
   }
 }

@@ -469,7 +469,6 @@ const lang = {
     autoSync: '자동 동기화',
     lastSyncTime: '마지막 동기화 시간',
     useExistingGistId: '기존으로 사용',
-    autoSyncTip: '데이터가 변경되었을 때 자동으로 데이터를 업로드(덮어쓰기)합니다',
     syncServerDataStatus: '동기화 서버의 데이터 상태'
   }
 }

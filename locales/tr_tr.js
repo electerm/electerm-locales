@@ -469,7 +469,6 @@ const lang = {
     autoSync: 'otomatik senkronizasyon',
     lastSyncTime: 'son senkronizasyon zamanı',
     useExistingGistId: 'var olanı kullan',
-    autoSyncTip: 'Veriler değiştiğinde verileri otomatik yükleme (üzerine yazın)',
     syncServerDataStatus: 'senkronizasyon sunucusundaki veri durumu'
   }
 }

@@ -450,7 +450,6 @@ const lang = {
     autoSync: 'Automatische Synchronisation',
     lastSyncTime: 'Letzte Synchronisation',
     useExistingGistId: 'Vorhandene Gist-ID verwenden',
-    autoSyncTip: 'Daten automatisch überschreiben, wenn Änderungen erkannt werden',
     syncServerDataStatus: 'Status der Serverdaten'
   }
 }
