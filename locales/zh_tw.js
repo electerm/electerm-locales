@@ -395,7 +395,10 @@ const lang = {
     createBookmarkByAI: 'AI 智能建立書籤',
     aiSecurityNotice: '請勿在描述中包含真實密碼、私鑰、密碼短語、API 金鑰或其他敏感憑證。除非使用本機大語言模型，否則資料將會發送至第三方 AI API。',
     quickConnect: '快速連線',
-    enableTerminalImage: '支援終端圖像'
+    enableTerminalImage: '支援終端圖像',
+    autoSyncOnChange: '變更時自動同步',
+    minutes: '分鐘',
+    hours: '小時'
   },
 
   // ssh terminal

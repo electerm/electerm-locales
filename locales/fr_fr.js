@@ -395,7 +395,10 @@ const lang = {
     createBookmarkByAI: 'créer un signet par IA',
     aiSecurityNotice: 'N`incluez PAS de mots de passe réels, de clés privées, de phrases de passe, de clés API ou d`autres informations d`identification sensibles dans la description. Les données sont envoyées à des API d`IA tierces sauf si vous utilisez un LLM local.',
     quickConnect: 'connexion rapide',
-    enableTerminalImage: 'prend en charge les images dans le terminal'
+    enableTerminalImage: 'prend en charge les images dans le terminal',
+    autoSyncOnChange: 'synchronisation automatique au changement',
+    minutes: 'minutes',
+    hours: 'heures'
   },
 
   // ssh terminal

@@ -394,7 +394,10 @@ const lang = {
     createBookmarkByAI: 'buat penanda oleh AI',
     aiSecurityNotice: 'JANGAN sertakan kata sandi asli, kunci pribadi, frasa sandi, kunci API, atau kredensial sensitif lainnya dalam deskripsi. Data dikirim ke API AI pihak ketiga kecuali Anda menggunakan LLM lokal.',
     quickConnect: 'sambung cepat',
-    enableTerminalImage: 'dukung gambar terminal'
+    enableTerminalImage: 'dukung gambar terminal',
+    autoSyncOnChange: 'sinkronisasi otomatis saat berubah',
+    minutes: 'menit',
+    hours: 'jam'
   },
 
   // ssh terminal

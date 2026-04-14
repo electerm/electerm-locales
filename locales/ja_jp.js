@@ -395,7 +395,10 @@ const lang = {
     createBookmarkByAI: 'AIでブックマークを作成',
     aiSecurityNotice: '説明に実際のパスワード、秘密鍵、パスフレーズ、APIキー、その他の機密情報を含めないでください。ローカルのLLMを使用しない限り、データはサードパーティのAI APIに送信されます。',
     quickConnect: 'クイック接続',
-    enableTerminalImage: 'ターミナル画像に対応'
+    enableTerminalImage: 'ターミナル画像に対応',
+    autoSyncOnChange: '変更時に自動同期',
+    minutes: '分',
+    hours: '時間'
   },
 
   // ssh terminal

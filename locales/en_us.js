@@ -394,7 +394,10 @@ const lang = {
     createBookmarkByAI: 'create bookmark by ai',
     aiSecurityNotice: 'Do NOT include real passwords, private keys, passphrases, API keys, or other sensitive credentials in the description. Data is sent to third‑party AI APIs unless you use a local LLM',
     quickConnect: 'quick connect',
-    enableTerminalImage: 'support terminal image'
+    enableTerminalImage: 'support terminal image',
+    autoSyncOnChange: 'auto sync on change',
+    minutes: 'minutes',
+    hours: 'hours'
   },
 
   // ssh terminal

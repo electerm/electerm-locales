@@ -396,7 +396,10 @@ const lang = {
     createBookmarkByAI: 'crear marcador con IA',
     aiSecurityNotice: 'NO incluyas contraseñas reales, claves privadas, frases de acceso, claves de API u otras credenciales sensibles en la descripción. Los datos se envían a API de IA de terceros a menos que uses un LLM local.',
     quickConnect: 'conexión rápida',
-    enableTerminalImage: 'compatible con imágenes de terminal'
+    enableTerminalImage: 'compatible con imágenes de terminal',
+    autoSyncOnChange: 'sincronización automática al cambiar',
+    minutes: 'minutos',
+    hours: 'horas'
   },
 
   // ssh terminal

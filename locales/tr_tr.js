@@ -395,7 +395,10 @@ const lang = {
     createBookmarkByAI: 'yapay zeka ile yer imi oluştur',
     aiSecurityNotice: 'Açıklamaya gerçek şifreleri, özel anahtarları, parola ifadelerini, API anahtarlarını veya diğer hassas kimlik bilgilerini EKLEMEYİN. Yerel bir LLM kullanmadığınız sürece veriler üçüncü taraf AI API`lerine gönderilir.',
     quickConnect: 'hızlı bağlan',
-    enableTerminalImage: 'terminal görüntüsünü destekle'
+    enableTerminalImage: 'terminal görüntüsünü destekle',
+    autoSyncOnChange: 'değişiklikte otomatik senkronizasyon',
+    minutes: 'dakika',
+    hours: 'saat'
   },
 
   // ssh terminal
