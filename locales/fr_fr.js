@@ -40,7 +40,8 @@ const lang = {
     unregisterDeepLink: 'désinscrire le gestionnaire de protocole',
     keyword2FA: 'mots-clés pour la vérification en deux étapes',
     editWith: 'éditer avec',
-    autoReconnectTerminal: 'reconnexion automatique du terminal en cas de déconnexion'
+    autoReconnectTerminal: 'reconnexion automatique du terminal en cas de déconnexion',
+    autoOpen: 'ouvrir automatiquement'
   },
 
   // app menu

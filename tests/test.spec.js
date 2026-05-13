@@ -1,9 +1,9 @@
-/* eslint-env jest */
-
 /**
  * makesure all lang files has matched keys
  */
 
+import { describe, it } from 'node:test'
+import assert from 'node:assert/strict'
 import { readdirSync, readFileSync } from 'fs'
 import { resolve } from 'path'
 import _ from 'lodash'
@@ -70,9 +70,9 @@ function compareObject (obj1, obj2) {
 
 describe(pack.name, function () {
   it('default export should be en_us', async function () {
-    expect(defaultLang).toBeDefined()
-    expect(defaultLang.lang).toBeDefined()
-    expect(defaultLang.name).toBe('English')
+    assert.notStrictEqual(defaultLang, undefined)
+    assert.notStrictEqual(defaultLang.lang, undefined)
+    assert.strictEqual(defaultLang.name, 'English')
   })
 
   it('all langs should have same shape', async function () {
@@ -90,17 +90,6 @@ describe(pack.name, function () {
         ...content.default
       }
     }
-    // const langs = files.reduce(async (pre, f) => {
-    //   const pp = resolve(
-    //     cwd, 'locales', f
-    //   )
-    //   const content = await import(pp)
-    //   pre[pp] = {
-    //     path: pp,
-    //     ...content
-    //   }
-    //   return pre
-    // }, {})
     const keys = Object.keys(langs)
     const len = keys.length
     for (let i = 0; i < len - 1; i++) {
@@ -119,7 +108,7 @@ describe(pack.name, function () {
           'do not match'
         )
       }
-      expect(eq).toBe(true)
+      assert.strictEqual(eq, true)
     }
   })
 })

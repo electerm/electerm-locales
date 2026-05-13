@@ -1,6 +1,6 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "2.2.9",
+  "version": "2.2.10",
   "description": "electerm multi-language support pack",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.mjs",
@@ -15,7 +15,7 @@
   "scripts": {
     "lint": "standard",
     "fix": "standard --fix",
-    "test": "npm run build && node --experimental-vm-modules ./node_modules/.bin/jest",
+    "test": "npm run build && node --test tests/*.spec.js",
     "pre-push": "npm run lint && npm run test",
     "build": "node bin/build.js",
     "pub": "npm run build && npm publish --access public"
@@ -39,7 +39,6 @@
   "devDependencies": {
     "country-flag-emoji": "^1.0.3",
     "dotenv": "^16.0.3",
-    "jest": "^28.1.3",
     "json5": "^2.2.1",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
@@ -52,10 +51,5 @@
     "dist",
     "README.md",
     "LICENSE"
-  ],
-  "jest": {
-    "roots": [
-      "tests"
-    ]
-  }
+  ]
 }

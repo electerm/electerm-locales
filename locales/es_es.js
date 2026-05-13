@@ -41,7 +41,8 @@ const lang = {
     unregisterDeepLink: 'anular el controlador de protocolo',
     keyword2FA: 'palabras clave para la autenticación en dos pasos',
     editWith: 'editar con',
-    autoReconnectTerminal: 'reconectar automáticamente la terminal al desconectarse'
+    autoReconnectTerminal: 'reconectar automáticamente la terminal al desconectarse',
+    autoOpen: 'abrir automáticamente'
   },
 
   // app menu

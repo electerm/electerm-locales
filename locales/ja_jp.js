@@ -40,7 +40,8 @@ const lang = {
     unregisterDeepLink: 'プロトコルハンドラの登録を解除',
     keyword2FA: '二段階認証キーワード',
     editWith: 'で編集',
-    autoReconnectTerminal: '切断時に端末を自動再接続'
+    autoReconnectTerminal: '切断時に端末を自動再接続',
+    autoOpen: '自動で開く'
   },
 
   // app menu
