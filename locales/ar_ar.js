@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'كلمات رئيسية للمصادقة ثنائية العوامل',
     editWith: 'تعديل باستخدام',
     autoReconnectTerminal: 'إعادة توصيل المحطة تلقائيًا عند انقطاع الاتصال',
-    autoOpen: 'فتح تلقائي'
+    autoOpen: 'فتح تلقائي',
+    dragDropBehavior: 'سلوك السحب والإفلات للملف إلى الطرفية',
+    ask: 'اسأل'
   },
 
   // app menu

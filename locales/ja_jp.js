@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: '二段階認証キーワード',
     editWith: 'で編集',
     autoReconnectTerminal: '切断時に端末を自動再接続',
-    autoOpen: '自動で開く'
+    autoOpen: '自動で開く',
+    dragDropBehavior: 'ターミナルへのファイルドラッグ＆ドロップの動作',
+    ask: '確認'
   },
 
   // app menu

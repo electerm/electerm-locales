@@ -40,7 +40,9 @@ const lang = {
     keyword2FA: 'Schlüsselwörter für die Zwei-Faktor-Authentifizierung',
     editWith: 'bearbeiten mit',
     autoReconnectTerminal: 'Terminal bei Verbindungsabbruch automatisch neu verbinden',
-    autoOpen: 'automatisch öffnen'
+    autoOpen: 'automatisch öffnen',
+    dragDropBehavior: 'Verhalten beim Ziehen/Ablegen von Dateien in das Terminal',
+    ask: 'fragen'
   },
 
   menu: {

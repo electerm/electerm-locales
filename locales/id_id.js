@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'kata kunci untuk autentikasi dua faktor',
     editWith: 'edit dengan',
     autoReconnectTerminal: 'sambungkan ulang terminal secara otomatis saat terputus',
-    autoOpen: 'buka otomatis'
+    autoOpen: 'buka otomatis',
+    dragDropBehavior: 'perilaku seret/lepas file ke terminal',
+    ask: 'tanya'
   },
 
   // app menu

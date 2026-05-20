@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'palavras-chave para autenticação em dois fatores',
     editWith: 'editar com',
     autoReconnectTerminal: 'reconectar automaticamente o terminal ao desconectar',
-    autoOpen: 'abrir automaticamente'
+    autoOpen: 'abrir automaticamente',
+    dragDropBehavior: 'comportamento de arrastar/soltar arquivo no terminal',
+    ask: 'perguntar'
   },
 
   // app menu

@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'mots-clés pour la vérification en deux étapes',
     editWith: 'éditer avec',
     autoReconnectTerminal: 'reconnexion automatique du terminal en cas de déconnexion',
-    autoOpen: 'ouvrir automatiquement'
+    autoOpen: 'ouvrir automatiquement',
+    dragDropBehavior: 'comportement de glisser-déposer de fichier dans le terminal',
+    ask: 'demander'
   },
 
   // app menu

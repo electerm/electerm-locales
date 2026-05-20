@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'iki aşamalı doğrulama için anahtar kelimeler',
     editWith: 'ile düzenle',
     autoReconnectTerminal: 'bağlantı kesildiğinde terminali otomatik yeniden bağla',
-    autoOpen: 'otomatik aç'
+    autoOpen: 'otomatik aç',
+    dragDropBehavior: 'terminale dosya sürükleme/bırakma davranışı',
+    ask: 'sor'
   },
 
   // app menu

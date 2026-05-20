@@ -42,7 +42,9 @@ const lang = {
     keyword2FA: 'palabras clave para la autenticación en dos pasos',
     editWith: 'editar con',
     autoReconnectTerminal: 'reconectar automáticamente la terminal al desconectarse',
-    autoOpen: 'abrir automáticamente'
+    autoOpen: 'abrir automáticamente',
+    dragDropBehavior: 'comportamiento de arrastrar/soltar archivo en el terminal',
+    ask: 'preguntar'
   },
 
   // app menu

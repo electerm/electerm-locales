@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: '雙因素認證關鍵詞',
     editWith: '使用...編輯',
     autoReconnectTerminal: '斷開連線時自動重新連接終端機',
-    autoOpen: '自動開啟'
+    autoOpen: '自動開啟',
+    dragDropBehavior: '拖放檔案到終端的行為',
+    ask: '詢問'
   },
 
   // app menu

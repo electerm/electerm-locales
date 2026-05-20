@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: '双因素认证关键词',
     editWith: '用...编辑',
     autoReconnectTerminal: '断开连接时自动重新连接终端',
-    autoOpen: '自动打开'
+    autoOpen: '自动打开',
+    dragDropBehavior: '拖放文件到终端的行为',
+    ask: '询问'
   },
 
   // app menu

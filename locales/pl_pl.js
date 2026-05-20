@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'słowa kluczowe do weryfikacji dwuetapowej',
     editWith: 'edytuj za pomocą',
     autoReconnectTerminal: 'automatyczne ponowne łączenie terminala po rozłączeniu',
-    autoOpen: 'otwórz automatycznie'
+    autoOpen: 'otwórz automatycznie',
+    dragDropBehavior: 'zachowanie przeciągnij/upuść plik do terminala',
+    ask: 'zapytaj'
   },
 
   // app menu

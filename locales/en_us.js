@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: 'keywords for 2FA',
     editWith: 'edit with',
     autoReconnectTerminal: 'auto reconnect terminal on disconnect',
-    autoOpen: 'auto open'
+    autoOpen: 'auto open',
+    dragDropBehavior: 'drag/drop file to terminal behavior',
+    ask: 'ask'
   },
 
   // app menu

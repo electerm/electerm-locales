@@ -41,7 +41,9 @@ const lang = {
     keyword2FA: '2단계 인증 키워드',
     editWith: '로 편집',
     autoReconnectTerminal: '연결 끊김 시 터미널 자동 재연결',
-    autoOpen: '자동 열기'
+    autoOpen: '자동 열기',
+    dragDropBehavior: '터미널로 파일 드래그 앤 드롭 동작',
+    ask: '묻기'
   },
 
   // app menu
