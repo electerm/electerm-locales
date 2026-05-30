@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'Ruang Kerja',
     saveAsNew: 'Simpan sebagai baru',
     reloadAll: 'muat ulang semua',
-    openInDefaultBrowser: 'Buka di browser default'
+    openInDefaultBrowser: 'Buka di browser default',
+    record: 'rekam',
+    stopRecord: 'hentikan rekaman'
   },
 
   // common

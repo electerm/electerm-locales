@@ -94,7 +94,9 @@ const lang = {
     workspaces: 'Arbeitsbereiche',
     saveAsNew: 'Als neue speichern',
     reloadAll: 'alle neu laden',
-    openInDefaultBrowser: 'Im Standardbrowser öffnen'
+    openInDefaultBrowser: 'Im Standardbrowser öffnen',
+    record: 'aufnehmen',
+    stopRecord: 'Aufnahme stoppen'
   },
 
   common: {

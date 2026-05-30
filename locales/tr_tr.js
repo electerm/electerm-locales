@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'Çalışma Alanları',
     saveAsNew: 'Yeni olarak kaydet',
     reloadAll: 'tümünü yeniden yükle',
-    openInDefaultBrowser: 'Varsayılan tarayıcıda aç'
+    openInDefaultBrowser: 'Varsayılan tarayıcıda aç',
+    record: 'kayıt',
+    stopRecord: 'kaydı durdur'
   },
 
   // common

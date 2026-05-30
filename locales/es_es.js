@@ -101,7 +101,9 @@ const lang = {
     workspaces: 'Espacios de trabajo',
     saveAsNew: 'Guardar como nuevo',
     reloadAll: 'recargar todo',
-    openInDefaultBrowser: 'Abrir en el navegador predeterminado'
+    openInDefaultBrowser: 'Abrir en el navegador predeterminado',
+    record: 'grabar',
+    stopRecord: 'detener grabación'
   },
 
   // common

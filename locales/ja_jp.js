@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'ワークスペース',
     saveAsNew: '新規保存',
     reloadAll: 'すべて再読み込み',
-    openInDefaultBrowser: 'デフォルトブラウザで開く'
+    openInDefaultBrowser: 'デフォルトブラウザで開く',
+    record: '録画',
+    stopRecord: '録画停止'
   },
 
   // common

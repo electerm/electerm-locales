@@ -1,6 +1,6 @@
 {
   "name": "@electerm/electerm-locales",
-  "version": "2.2.12",
+  "version": "2.2.14",
   "description": "electerm multi-language support pack",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.mjs",

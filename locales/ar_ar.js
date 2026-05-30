@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'مساحات العمل',
     saveAsNew: 'حفظ كملف جديد',
     reloadAll: 'إعادة تحميل الكل',
-    openInDefaultBrowser: 'فتح في المتصفح الافتراضي'
+    openInDefaultBrowser: 'فتح في المتصفح الافتراضي',
+    record: 'تسجيل',
+    stopRecord: 'إيقاف التسجيل'
   },
 
   // common

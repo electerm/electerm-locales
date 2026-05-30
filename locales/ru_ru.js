@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'Рабочие пространства',
     saveAsNew: 'Сохранить как новый',
     reloadAll: 'перезагрузить всё',
-    openInDefaultBrowser: 'Открыть в браузере по умолчанию'
+    openInDefaultBrowser: 'Открыть в браузере по умолчанию',
+    record: 'запись',
+    stopRecord: 'остановить запись'
   },
 
   // common

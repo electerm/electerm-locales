@@ -100,7 +100,9 @@ const lang = {
     workspaces: 'Espaces de travail',
     saveAsNew: 'Enregistrer comme nouveau',
     reloadAll: 'tout recharger',
-    openInDefaultBrowser: 'Ouvrir dans le navigateur par défaut'
+    openInDefaultBrowser: 'Ouvrir dans le navigateur par défaut',
+    record: 'enregistrer',
+    stopRecord: 'arrêter l\'enregistrement'
   },
 
   // common

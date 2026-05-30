@@ -100,7 +100,9 @@ const lang = {
     workspaces: '工作区',
     saveAsNew: '另存为新文件',
     reloadAll: '重新加载全部',
-    openInDefaultBrowser: '在默认浏览器中打开'
+    openInDefaultBrowser: '在默认浏览器中打开',
+    record: '记录',
+    stopRecord: '停止记录'
   },
 
   // common
