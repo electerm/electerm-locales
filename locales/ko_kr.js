@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: '연결 끊김 시 터미널 자동 재연결',
     autoOpen: '자동 열기',
     dragDropBehavior: '터미널로 파일 드래그 앤 드롭 동작',
-    ask: '묻기'
+    ask: '묻기',
+    downloadFromBrowser: '브라우저에서 다운로드',
+    uploadFromBrowser: '브라우저에서 업로드'
   },
 
   // app menu

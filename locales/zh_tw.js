@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: '斷開連線時自動重新連接終端機',
     autoOpen: '自動開啟',
     dragDropBehavior: '拖放檔案到終端的行為',
-    ask: '詢問'
+    ask: '詢問',
+    downloadFromBrowser: '從瀏覽器下載',
+    uploadFromBrowser: '從瀏覽器上傳'
   },
 
   // app menu

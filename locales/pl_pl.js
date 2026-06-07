@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'automatyczne ponowne łączenie terminala po rozłączeniu',
     autoOpen: 'otwórz automatycznie',
     dragDropBehavior: 'zachowanie przeciągnij/upuść plik do terminala',
-    ask: 'zapytaj'
+    ask: 'zapytaj',
+    downloadFromBrowser: 'pobierz z przeglądarki',
+    uploadFromBrowser: 'prześlij z przeglądarki'
   },
 
   // app menu

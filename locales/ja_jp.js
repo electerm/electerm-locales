@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: '切断時に端末を自動再接続',
     autoOpen: '自動で開く',
     dragDropBehavior: 'ターミナルへのファイルドラッグ＆ドロップの動作',
-    ask: '確認'
+    ask: '確認',
+    downloadFromBrowser: 'ブラウザからダウンロード',
+    uploadFromBrowser: 'ブラウザからアップロード'
   },
 
   // app menu

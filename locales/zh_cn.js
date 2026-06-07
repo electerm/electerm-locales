@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: '断开连接时自动重新连接终端',
     autoOpen: '自动打开',
     dragDropBehavior: '拖放文件到终端的行为',
-    ask: '询问'
+    ask: '询问',
+    downloadFromBrowser: '从浏览器下载',
+    uploadFromBrowser: '从浏览器上传'
   },
 
   // app menu

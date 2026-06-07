@@ -42,7 +42,9 @@ const lang = {
     autoReconnectTerminal: 'Terminal bei Verbindungsabbruch automatisch neu verbinden',
     autoOpen: 'automatisch öffnen',
     dragDropBehavior: 'Verhalten beim Ziehen/Ablegen von Dateien in das Terminal',
-    ask: 'fragen'
+    ask: 'fragen',
+    downloadFromBrowser: 'aus Browser herunterladen',
+    uploadFromBrowser: 'aus Browser hochladen'
   },
 
   menu: {

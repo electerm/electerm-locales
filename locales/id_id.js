@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'sambungkan ulang terminal secara otomatis saat terputus',
     autoOpen: 'buka otomatis',
     dragDropBehavior: 'perilaku seret/lepas file ke terminal',
-    ask: 'tanya'
+    ask: 'tanya',
+    downloadFromBrowser: 'unduh dari browser',
+    uploadFromBrowser: 'unggah dari browser'
   },
 
   // app menu

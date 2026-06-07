@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'bağlantı kesildiğinde terminali otomatik yeniden bağla',
     autoOpen: 'otomatik aç',
     dragDropBehavior: 'terminale dosya sürükleme/bırakma davranışı',
-    ask: 'sor'
+    ask: 'sor',
+    downloadFromBrowser: 'tarayıcıdan indir',
+    uploadFromBrowser: 'tarayıcıdan yükle'
   },
 
   // app menu

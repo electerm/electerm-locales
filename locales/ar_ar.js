@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'إعادة توصيل المحطة تلقائيًا عند انقطاع الاتصال',
     autoOpen: 'فتح تلقائي',
     dragDropBehavior: 'سلوك السحب والإفلات للملف إلى الطرفية',
-    ask: 'اسأل'
+    ask: 'اسأل',
+    downloadFromBrowser: 'التحميل من المتصفح',
+    uploadFromBrowser: 'الرفع من المتصفح'
   },
 
   // app menu

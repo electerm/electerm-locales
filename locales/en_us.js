@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'auto reconnect terminal on disconnect',
     autoOpen: 'auto open',
     dragDropBehavior: 'drag/drop file to terminal behavior',
-    ask: 'ask'
+    ask: 'ask',
+    downloadFromBrowser: 'download from browser',
+    uploadFromBrowser: 'upload from browser'
   },
 
   // app menu

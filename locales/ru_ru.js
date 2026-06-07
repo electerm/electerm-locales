@@ -43,7 +43,9 @@ const lang = {
     autoReconnectTerminal: 'автоматически переподключать терминал при отключении',
     autoOpen: 'автоматически открывать',
     dragDropBehavior: 'поведение перетаскивания файла в терминал',
-    ask: 'спросить'
+    ask: 'спросить',
+    downloadFromBrowser: 'скачать из браузера',
+    uploadFromBrowser: 'загрузить из браузера'
   },
 
   // app menu
