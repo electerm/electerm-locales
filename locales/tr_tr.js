@@ -409,6 +409,7 @@ const lang = {
   },
 
   // ssh terminal
+
   ssh: {
     clear: 'temizle',
     selectAll: 'tümünü seç',
@@ -437,7 +438,8 @@ const lang = {
     getAiSuggestions: 'AI önerileri al',
     showCmdSuggestions: 'komut önerilerini göster',
     broadcastInput: 'girişi tüm terminallere yansıt',
-    certificate: 'sertifika'
+    certificate: 'sertifika',
+    compress: 'sıkıştır'
   },
 
   // terminal themes

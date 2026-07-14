@@ -409,6 +409,7 @@ const lang = {
   },
 
   // ssh terminal
+
   ssh: {
     clear: '지우기',
     selectAll: '전체 선택',
@@ -437,7 +438,8 @@ const lang = {
     getAiSuggestions: 'AI 제안 받기',
     showCmdSuggestions: '명령어 제안 표시',
     broadcastInput: '모든 터미널에 입력 미러링',
-    certificate: '인증서'
+    certificate: '인증서',
+    compress: '압축'
   },
 
   // terminal themes

@@ -409,6 +409,7 @@ const lang = {
   },
 
   // ssh terminal
+
   ssh: {
     clear: '清空畫面',
     selectAll: '全選',
@@ -437,7 +438,8 @@ const lang = {
     getAiSuggestions: '取得AI建議',
     showCmdSuggestions: '顯示指令建議',
     broadcastInput: '將輸入鏡像至所有終端機',
-    certificate: '憑證'
+    certificate: '憑證',
+    compress: '壓縮'
   },
 
   // terminal themes

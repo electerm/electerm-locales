@@ -408,6 +408,7 @@ const lang = {
   },
 
   // ssh terminal
+
   ssh: {
     clear: 'bersihkan',
     selectAll: 'pilih semua',
@@ -436,7 +437,8 @@ const lang = {
     getAiSuggestions: 'dapatkan saran AI',
     showCmdSuggestions: 'tampilkan saran perintah',
     broadcastInput: 'cerminkan input ke semua terminal',
-    certificate: 'sertifikat'
+    certificate: 'sertifikat',
+    compress: 'kompres'
   },
 
   // terminal themes

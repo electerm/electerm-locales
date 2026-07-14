@@ -421,7 +421,8 @@ const lang = {
     getAiSuggestions: 'KI-Vorschläge erhalten',
     showCmdSuggestions: 'Befehlsvorschläge anzeigen',
     broadcastInput: 'Eingabe an alle Terminals spiegeln',
-    certificate: 'Zertifikat'
+    certificate: 'Zertifikat',
+    compress: 'komprimieren'
   },
 
   terminalThemes: {
