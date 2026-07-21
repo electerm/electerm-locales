@@ -45,7 +45,8 @@ const lang = {
     dragDropBehavior: '터미널로 파일 드래그 앤 드롭 동작',
     ask: '묻기',
     downloadFromBrowser: '브라우저에서 다운로드',
-    uploadFromBrowser: '브라우저에서 업로드'
+    uploadFromBrowser: '브라우저에서 업로드',
+    aiWarn: '타사 API 제공업체가 귀하의 데이터를 수집 및 저장할 수 있습니다. 주의하여 사용하고 비밀번호, API 키, 토큰 또는 개인 식별자를 포함한 개인 정보나 민감한 정보를 입력하지 마십시오.'
   },
 
   // app menu

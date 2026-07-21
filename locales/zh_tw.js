@@ -45,7 +45,8 @@ const lang = {
     dragDropBehavior: '拖放檔案到終端的行為',
     ask: '詢問',
     downloadFromBrowser: '從瀏覽器下載',
-    uploadFromBrowser: '從瀏覽器上傳'
+    uploadFromBrowser: '從瀏覽器上傳',
+    aiWarn: '第三方API提供者可能會收集並儲存您的資料。請謹慎使用，切勿輸入任何私人或敏感資訊——包括密碼、API金鑰、令牌或個人識別碼。'
   },
 
   // app menu
