@@ -405,7 +405,9 @@ const lang = {
     enableTerminalImage: 'képek támogatása a terminálban',
     autoSyncOnChange: 'automatikus szinkronizálás változáskor',
     minutes: 'perc',
-    hours: 'óra'
+    hours: 'óra',
+    enableWrap: 'soron tördelés engedélyezése',
+    disableWrap: 'soron tördelés letiltása'
   },
 
   // ssh terminal

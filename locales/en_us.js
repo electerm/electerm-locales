@@ -405,7 +405,9 @@ const lang = {
     enableTerminalImage: 'support terminal image',
     autoSyncOnChange: 'auto sync on change',
     minutes: 'minutes',
-    hours: 'hours'
+    hours: 'hours',
+    enableWrap: 'enable wrap',
+    disableWrap: 'disable wrap'
   },
 
   // ssh terminal

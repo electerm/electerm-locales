@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: '터미널 이미지 지원',
     autoSyncOnChange: '변경 시 자동 동기화',
     minutes: '분',
-    hours: '시간'
+    hours: '시간',
+    enableWrap: '줄 바꿈 사용',
+    disableWrap: '줄 바꿈 사용 안 함'
   },
 
   // ssh terminal

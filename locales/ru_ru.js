@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: 'поддержка изображений в терминале',
     autoSyncOnChange: 'автоматическая синхронизация при изменении',
     minutes: 'минуты',
-    hours: 'часы'
+    hours: 'часы',
+    enableWrap: 'включить перенос строк',
+    disableWrap: 'отключить перенос строк'
   },
 
   // ssh terminal

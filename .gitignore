@@ -37,3 +37,4 @@ venv
 /dist/
 .env
 /esm
+.workbuddy

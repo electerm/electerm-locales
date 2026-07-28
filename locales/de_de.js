@@ -391,7 +391,9 @@ const lang = {
     enableTerminalImage: 'unterstützt Terminal-Bild',
     autoSyncOnChange: 'bei Änderung automatisch synchronisieren',
     minutes: 'Minuten',
-    hours: 'Stunden'
+    hours: 'Stunden',
+    enableWrap: 'Zeilenumbruch aktivieren',
+    disableWrap: 'Zeilenumbruch deaktivieren'
   },
 
   ssh: {

@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: 'ターミナル画像に対応',
     autoSyncOnChange: '変更時に自動同期',
     minutes: '分',
-    hours: '時間'
+    hours: '時間',
+    enableWrap: '折り返しを有効にする',
+    disableWrap: '折り返しを無効にする'
   },
 
   // ssh terminal

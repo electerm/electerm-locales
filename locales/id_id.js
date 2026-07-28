@@ -405,7 +405,9 @@ const lang = {
     enableTerminalImage: 'dukung gambar terminal',
     autoSyncOnChange: 'sinkronisasi otomatis saat berubah',
     minutes: 'menit',
-    hours: 'jam'
+    hours: 'jam',
+    enableWrap: 'aktifkan pembungkusan baris',
+    disableWrap: 'nonaktifkan pembungkusan baris'
   },
 
   // ssh terminal

@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: '支持终端图像',
     autoSyncOnChange: '变更时自动同步',
     minutes: '分钟',
-    hours: '小时'
+    hours: '小时',
+    enableWrap: '启用换行',
+    disableWrap: '禁用换行'
   },
 
   // ssh terminal

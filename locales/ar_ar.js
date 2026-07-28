@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: 'دعم صورة طرفية',
     autoSyncOnChange: 'مزامنة تلقائية عند التغيير',
     minutes: 'دقائق',
-    hours: 'ساعات'
+    hours: 'ساعات',
+    enableWrap: 'تفعيل التفاف السطر',
+    disableWrap: 'تعطيل التفاف السطر'
   },
 
   // ssh terminal

@@ -406,7 +406,9 @@ const lang = {
     enableTerminalImage: 'terminal görüntüsünü destekle',
     autoSyncOnChange: 'değişiklikte otomatik senkronizasyon',
     minutes: 'dakika',
-    hours: 'saat'
+    hours: 'saat',
+    enableWrap: 'satır kaydırmayı etkinleştir',
+    disableWrap: 'satır kaydırmayı devre dışı bırak'
   },
 
   // ssh terminal
