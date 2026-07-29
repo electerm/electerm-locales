@@ -46,7 +46,8 @@ const lang = {
     ask: 'rákérdezés',
     downloadFromBrowser: 'letöltés a böngészőből',
     uploadFromBrowser: 'feltöltés a böngészőből',
-    aiWarn: 'A külső API-szolgáltatók összegyűjthetik és tárolhatják az adatokat. Használd körültekintően, és ne adj meg bizalmas vagy érzékeny adatot – például jelszót, API-kulcsot, tokent vagy személyes azonosítót.'
+    aiWarn: 'A külső API-szolgáltatók összegyűjthetik és tárolhatják az adatokat. Használd körültekintően, és ne adj meg bizalmas vagy érzékeny adatot – például jelszót, API-kulcsot, tokent vagy személyes azonosítót.',
+    exitGracefully: 'exit gracefully'
   },
 
   // app menu

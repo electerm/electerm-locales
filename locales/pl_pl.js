@@ -46,7 +46,8 @@ const lang = {
     ask: 'zapytaj',
     downloadFromBrowser: 'pobierz z przeglądarki',
     uploadFromBrowser: 'prześlij z przeglądarki',
-    aiWarn: 'Dostawcy API innych firm mogą gromadzić i przechowywać Twoje dane. Używaj ostrożnie i nie wprowadzaj żadnych prywatnych ani wrażliwych informacji — w tym haseł, kluczy API, tokenów lub identyfikatorów osobistych.'
+    aiWarn: 'Dostawcy API innych firm mogą gromadzić i przechowywać Twoje dane. Używaj ostrożnie i nie wprowadzaj żadnych prywatnych ani wrażliwych informacji — w tym haseł, kluczy API, tokenów lub identyfikatorów osobistych.',
+    exitGracefully: 'exit gracefully'
   },
 
   // app menu

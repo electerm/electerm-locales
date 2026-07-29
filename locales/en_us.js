@@ -46,7 +46,8 @@ const lang = {
     ask: 'ask',
     downloadFromBrowser: 'download from browser',
     uploadFromBrowser: 'upload from browser',
-    aiWarn: 'Third-party API providers may collect and store your data. Use with caution and do not enter any private or sensitive information — including passwords, API keys, tokens, or personal identifiers'
+    aiWarn: 'Third-party API providers may collect and store your data. Use with caution and do not enter any private or sensitive information — including passwords, API keys, tokens, or personal identifiers',
+    exitGracefully: 'exit gracefully'
   },
 
   // app menu

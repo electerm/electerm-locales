@@ -46,7 +46,8 @@ const lang = {
     ask: 'sor',
     downloadFromBrowser: 'tarayıcıdan indir',
     uploadFromBrowser: 'tarayıcıdan yükle',
-    aiWarn: 'Üçüncü taraf API sağlayıcıları verilerinizi toplayabilir ve saklayabilir. Dikkatli kullanın ve şifreler, API anahtarları, tokenlar veya kişisel tanımlayıcılar dahil olmak üzere herhangi bir özel veya hassas bilgi girmeyin.'
+    aiWarn: 'Üçüncü taraf API sağlayıcıları verilerinizi toplayabilir ve saklayabilir. Dikkatli kullanın ve şifreler, API anahtarları, tokenlar veya kişisel tanımlayıcılar dahil olmak üzere herhangi bir özel veya hassas bilgi girmeyin.',
+    exitGracefully: 'exit gracefully'
   },
 
   // app menu
