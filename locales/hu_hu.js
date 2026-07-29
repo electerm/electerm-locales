@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'letöltés a böngészőből',
     uploadFromBrowser: 'feltöltés a böngészőből',
     aiWarn: 'A külső API-szolgáltatók összegyűjthetik és tárolhatják az adatokat. Használd körültekintően, és ne adj meg bizalmas vagy érzékeny adatot – például jelszót, API-kulcsot, tokent vagy személyes azonosítót.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'Tiszta kilépés'
   },
 
   // app menu
@@ -408,7 +408,9 @@ const lang = {
     minutes: 'perc',
     hours: 'óra',
     enableWrap: 'soron tördelés engedélyezése',
-    disableWrap: 'soron tördelés letiltása'
+    disableWrap: 'soron tördelés letiltása',
+    closeSequence: 'Bezárási szekvencia',
+    closeSequenceDelay: 'Bezárási szekvencia késleltetése'
   },
 
   // ssh terminal

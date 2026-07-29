@@ -46,7 +46,7 @@ const lang = {
     downloadFromBrowser: 'aus Browser herunterladen',
     uploadFromBrowser: 'aus Browser hochladen',
     aiWarn: 'Drittanbieter-API-Anbieter können Ihre Daten sammeln und speichern. Verwenden Sie es mit Vorsicht und geben Sie keine privaten oder sensiblen Informationen ein – einschließlich Passwörter, API-Schlüssel, Token oder persönliche Identifikatoren.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'Sauber beenden'
   },
 
   menu: {
@@ -394,7 +394,9 @@ const lang = {
     minutes: 'Minuten',
     hours: 'Stunden',
     enableWrap: 'Zeilenumbruch aktivieren',
-    disableWrap: 'Zeilenumbruch deaktivieren'
+    disableWrap: 'Zeilenumbruch deaktivieren',
+    closeSequence: 'Schließsequenz',
+    closeSequenceDelay: 'Verzögerung der Schließsequenz'
   },
 
   ssh: {

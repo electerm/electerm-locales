@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: '从浏览器下载',
     uploadFromBrowser: '从浏览器上传',
     aiWarn: '第三方API提供商可能会收集并存储您的数据。请谨慎使用，切勿输入任何私人或敏感信息——包括密码、API密钥、令牌或个人标识符。',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: '优雅退出'
   },
 
   // app menu
@@ -409,7 +409,9 @@ const lang = {
     minutes: '分钟',
     hours: '小时',
     enableWrap: '启用换行',
-    disableWrap: '禁用换行'
+    disableWrap: '禁用换行',
+    closeSequence: '关闭序列',
+    closeSequenceDelay: '关闭序列延迟'
   },
 
   // ssh terminal

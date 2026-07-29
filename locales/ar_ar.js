@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'التحميل من المتصفح',
     uploadFromBrowser: 'الرفع من المتصفح',
     aiWarn: 'قد يقوم موفرو واجهة برمجة التطبيقات (API) من جهات خارجية بجمع بياناتك وتخزينها. استخدم بحذر ولا تدخل أي معلومات خاصة أو حساسة — بما في ذلك كلمات المرور أو مفاتيح API أو الرموز المميزة أو المعرفات الشخصية.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'خروج سلس'
   },
 
   // app menu
@@ -409,7 +409,9 @@ const lang = {
     minutes: 'دقائق',
     hours: 'ساعات',
     enableWrap: 'تفعيل التفاف السطر',
-    disableWrap: 'تعطيل التفاف السطر'
+    disableWrap: 'تعطيل التفاف السطر',
+    closeSequence: 'تسلسل الإغلاق',
+    closeSequenceDelay: 'تأخير تسلسل الإغلاق'
   },
 
   // ssh terminal

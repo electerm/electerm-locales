@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'скачать из браузера',
     uploadFromBrowser: 'загрузить из браузера',
     aiWarn: 'Сторонние поставщики API могут собирать и хранить ваши данные. Используйте с осторожностью и не вводите никакую личную или конфиденциальную информацию, включая пароли, ключи API, токены или личные идентификаторы.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'Корректное завершение'
   },
 
   // app menu
@@ -409,7 +409,9 @@ const lang = {
     minutes: 'минуты',
     hours: 'часы',
     enableWrap: 'включить перенос строк',
-    disableWrap: 'отключить перенос строк'
+    disableWrap: 'отключить перенос строк',
+    closeSequence: 'Последовательность закрытия',
+    closeSequenceDelay: 'Задержка последовательности закрытия'
   },
 
   // ssh terminal

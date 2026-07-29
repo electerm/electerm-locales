@@ -408,7 +408,9 @@ const lang = {
     minutes: 'minutes',
     hours: 'hours',
     enableWrap: 'enable wrap',
-    disableWrap: 'disable wrap'
+    disableWrap: 'disable wrap',
+    closeSequence: 'close sequence',
+    closeSequenceDelay: 'close sequence delay'
   },
 
   // ssh terminal

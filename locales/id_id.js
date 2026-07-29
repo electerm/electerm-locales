@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'unduh dari browser',
     uploadFromBrowser: 'unggah dari browser',
     aiWarn: 'Penyedia API pihak ketiga dapat mengumpulkan dan menyimpan data Anda. Gunakan dengan hati-hati dan jangan memasukkan informasi pribadi atau sensitif apa pun — termasuk kata sandi, kunci API, token, atau pengidentifikasi pribadi.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'Keluar dengan baik'
   },
 
   // app menu
@@ -408,7 +408,9 @@ const lang = {
     minutes: 'menit',
     hours: 'jam',
     enableWrap: 'aktifkan pembungkusan baris',
-    disableWrap: 'nonaktifkan pembungkusan baris'
+    disableWrap: 'nonaktifkan pembungkusan baris',
+    closeSequence: 'Urutan penutupan',
+    closeSequenceDelay: 'Penundaan urutan penutupan'
   },
 
   // ssh terminal

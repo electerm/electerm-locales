@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'télécharger depuis le navigateur',
     uploadFromBrowser: 'téléverser depuis le navigateur',
     aiWarn: 'Les fournisseurs d`API tiers peuvent collecter et stocker vos données. Utilisez avec prudence et ne saisissez aucune information privée ou sensible, y compris les mots de passe, les clés API, les jetons ou les identifiants personnels.',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: 'Quitter proprement'
   },
 
   // app menu
@@ -409,7 +409,9 @@ const lang = {
     minutes: 'minutes',
     hours: 'heures',
     enableWrap: 'activer le retour à la ligne',
-    disableWrap: 'désactiver le retour à la ligne'
+    disableWrap: 'désactiver le retour à la ligne',
+    closeSequence: 'Séquence de fermeture',
+    closeSequenceDelay: 'Délai de la séquence de fermeture'
   },
 
   // ssh terminal

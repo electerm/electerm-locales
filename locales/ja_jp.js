@@ -47,7 +47,7 @@ const lang = {
     downloadFromBrowser: 'ブラウザからダウンロード',
     uploadFromBrowser: 'ブラウザからアップロード',
     aiWarn: 'サードパーティのAPIプロバイダーがお客様のデータを収集および保存する可能性があります。注意して使用し、パスワード、APIキー、トークン、個人識別子などの個人情報や機密情報を入力しないでください。',
-    exitGracefully: 'exit gracefully'
+    exitGracefully: '正常に終了'
   },
 
   // app menu
@@ -409,7 +409,9 @@ const lang = {
     minutes: '分',
     hours: '時間',
     enableWrap: '折り返しを有効にする',
-    disableWrap: '折り返しを無効にする'
+    disableWrap: '折り返しを無効にする',
+    closeSequence: '終了シーケンス',
+    closeSequenceDelay: '終了シーケンスの遅延'
   },
 
   // ssh terminal
