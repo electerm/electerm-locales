@@ -47,7 +47,8 @@ const lang = {
     downloadFromBrowser: 'télécharger depuis le navigateur',
     uploadFromBrowser: 'téléverser depuis le navigateur',
     aiWarn: 'Les fournisseurs d`API tiers peuvent collecter et stocker vos données. Utilisez avec prudence et ne saisissez aucune information privée ou sensible, y compris les mots de passe, les clés API, les jetons ou les identifiants personnels.',
-    exitGracefully: 'Quitter proprement'
+    exitGracefully: 'Quitter proprement',
+    switchTabOnHover: 'changer d\'onglet au survol'
   },
 
   // app menu

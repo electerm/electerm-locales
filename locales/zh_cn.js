@@ -47,7 +47,8 @@ const lang = {
     downloadFromBrowser: '从浏览器下载',
     uploadFromBrowser: '从浏览器上传',
     aiWarn: '第三方API提供商可能会收集并存储您的数据。请谨慎使用，切勿输入任何私人或敏感信息——包括密码、API密钥、令牌或个人标识符。',
-    exitGracefully: '优雅退出'
+    exitGracefully: '优雅退出',
+    switchTabOnHover: '悬停切换标签'
   },
 
   // app menu

@@ -46,7 +46,8 @@ const lang = {
     downloadFromBrowser: 'aus Browser herunterladen',
     uploadFromBrowser: 'aus Browser hochladen',
     aiWarn: 'Drittanbieter-API-Anbieter können Ihre Daten sammeln und speichern. Verwenden Sie es mit Vorsicht und geben Sie keine privaten oder sensiblen Informationen ein – einschließlich Passwörter, API-Schlüssel, Token oder persönliche Identifikatoren.',
-    exitGracefully: 'Sauber beenden'
+    exitGracefully: 'Sauber beenden',
+    switchTabOnHover: 'Tab bei Hover wechseln'
   },
 
   menu: {

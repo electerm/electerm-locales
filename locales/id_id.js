@@ -47,7 +47,8 @@ const lang = {
     downloadFromBrowser: 'unduh dari browser',
     uploadFromBrowser: 'unggah dari browser',
     aiWarn: 'Penyedia API pihak ketiga dapat mengumpulkan dan menyimpan data Anda. Gunakan dengan hati-hati dan jangan memasukkan informasi pribadi atau sensitif apa pun — termasuk kata sandi, kunci API, token, atau pengidentifikasi pribadi.',
-    exitGracefully: 'Keluar dengan baik'
+    exitGracefully: 'Keluar dengan baik',
+    switchTabOnHover: 'ganti tab saat hover'
   },
 
   // app menu
