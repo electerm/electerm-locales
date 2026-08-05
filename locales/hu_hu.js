@@ -12,7 +12,7 @@ const lang = {
     knownIssues: 'ismert problémák',
     sponsorElecterm: 'az Electerm támogatása',
     privacyNotice: 'adatvédelmi tájékoztató',
-    desc: 'Terminál/SSH/SFTP/FTP/Telnet/soros port/RDP/VNC/Spice kliens (Linux, macOS, Windows)',
+    desc: 'Terminál/SSH/SFTP/FTP/Telnet/soros port/RDP/VNC/Spice kliens Linux, Windows, Mac, Android, HarmonyOS rendszerekhez',
     single: 'egyszeres',
     twoColumns: 'két oszlop',
     threeColumns: 'három oszlop',

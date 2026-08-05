@@ -11,7 +11,7 @@ const lang = {
     knownIssues: 'Bekannte Probleme',
     sponsorElecterm: 'Electerm unterstützen',
     privacyNotice: 'Datenschutzhinweis',
-    desc: 'Terminal-/SSH-/SFTP-/FTP-/Telnet-/Seriellport-/RDP-/VNC-Client (Linux, Mac, Windows)',
+    desc: 'Terminal-/SSH-/SFTP-/FTP-/Telnet-/Seriellport-/RDP-/VNC-Client für Linux, Windows, Mac, Android, HarmonyOS',
     single: 'Einzelansicht',
     twoColumns: 'Zweispaltig',
     threeColumns: 'Dreispaltig',
