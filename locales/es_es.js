@@ -49,7 +49,8 @@ const lang = {
     uploadFromBrowser: 'subir desde el navegador',
     aiWarn: 'Los proveedores de API de terceros pueden recopilar y almacenar sus datos. Úselo con precaución y no ingrese información privada o sensible, incluidas contraseñas, claves de API, tokens o identificadores personales.',
     exitGracefully: 'Salir correctamente',
-    switchTabOnHover: 'cambiar de pestaña al pasar el cursor'
+    switchTabOnHover: 'cambiar de pestaña al pasar el cursor',
+    leftSideBarIcons: 'iconos de la barra lateral izquierda',
   },
 
   // app menu

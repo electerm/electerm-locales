@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: 'upload from browser',
     aiWarn: 'Third-party API providers may collect and store your data. Use with caution and do not enter any private or sensitive information — including passwords, API keys, tokens, or personal identifiers',
     exitGracefully: 'exit gracefully',
-    switchTabOnHover: 'switch tab on hover'
+    switchTabOnHover: 'switch tab on hover',
+    leftSideBarIcons: 'left sidebar icons',
   },
 
   // app menu

@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: 'ブラウザからアップロード',
     aiWarn: 'サードパーティのAPIプロバイダーがお客様のデータを収集および保存する可能性があります。注意して使用し、パスワード、APIキー、トークン、個人識別子などの個人情報や機密情報を入力しないでください。',
     exitGracefully: '正常に終了',
-    switchTabOnHover: 'ホバーでタブを切り替え'
+    switchTabOnHover: 'ホバーでタブを切り替え',
+    leftSideBarIcons: '左サイドバーのアイコン',
   },
 
   // app menu

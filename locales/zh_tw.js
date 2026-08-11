@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: '從瀏覽器上傳',
     aiWarn: '第三方API提供者可能會收集並儲存您的資料。請謹慎使用，切勿輸入任何私人或敏感資訊——包括密碼、API金鑰、令牌或個人識別碼。',
     exitGracefully: '優雅退出',
-    switchTabOnHover: '懸停切換標籤'
+    switchTabOnHover: '懸停切換標籤',
+    leftSideBarIcons: '左側邊欄圖示',
   },
 
   // app menu

@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: 'feltöltés a böngészőből',
     aiWarn: 'A külső API-szolgáltatók összegyűjthetik és tárolhatják az adatokat. Használd körültekintően, és ne adj meg bizalmas vagy érzékeny adatot – például jelszót, API-kulcsot, tokent vagy személyes azonosítót.',
     exitGracefully: 'Tiszta kilépés',
-    switchTabOnHover: 'lap váltása rámutatáskor'
+    switchTabOnHover: 'lap váltása rámutatáskor',
+    leftSideBarIcons: 'bal oldali oldalsáv ikonok',
   },
 
   // app menu

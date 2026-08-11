@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: 'enviar do navegador',
     aiWarn: 'Provedores de API de terceiros podem coletar e armazenar seus dados. Use com cuidado e não insira nenhuma informação privada ou confidencial — incluindo senhas, chaves de API, tokens ou identificadores pessoais.',
     exitGracefully: 'Sair corretamente',
-    switchTabOnHover: 'trocar aba ao passar o mouse'
+    switchTabOnHover: 'trocar aba ao passar o mouse',
+    leftSideBarIcons: 'ícones da barra lateral esquerda',
   },
 
   // app menu

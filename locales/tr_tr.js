@@ -48,7 +48,8 @@ const lang = {
     uploadFromBrowser: 'tarayıcıdan yükle',
     aiWarn: 'Üçüncü taraf API sağlayıcıları verilerinizi toplayabilir ve saklayabilir. Dikkatli kullanın ve şifreler, API anahtarları, tokenlar veya kişisel tanımlayıcılar dahil olmak üzere herhangi bir özel veya hassas bilgi girmeyin.',
     exitGracefully: 'Düzgün çıkış',
-    switchTabOnHover: 'üzerine gelince sekmeyi değiştir'
+    switchTabOnHover: 'üzerine gelince sekmeyi değiştir',
+    leftSideBarIcons: 'sol kenar çubuğu simgeleri',
   },
 
   // app menu
