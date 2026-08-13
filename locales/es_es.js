@@ -51,6 +51,7 @@ const lang = {
     exitGracefully: 'Salir correctamente',
     switchTabOnHover: 'cambiar de pestaña al pasar el cursor',
     leftSideBarIcons: 'iconos de la barra lateral izquierda',
+    disableShortcutBar: 'desactivar barra de accesos directos para dispositivos táctiles'
   },
 
   // app menu

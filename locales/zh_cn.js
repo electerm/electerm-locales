@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: '优雅退出',
     switchTabOnHover: '悬停切换标签',
     leftSideBarIcons: '左侧边栏图标',
+    disableShortcutBar: '禁用触摸设备的快捷栏'
   },
 
   // app menu

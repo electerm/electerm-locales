@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'Keluar dengan baik',
     switchTabOnHover: 'ganti tab saat hover',
     leftSideBarIcons: 'ikon bilah sisi kiri',
+    disableShortcutBar: 'nonaktifkan bilah pintasan untuk perangkat sentuh'
   },
 
   // app menu

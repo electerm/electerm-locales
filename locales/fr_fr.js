@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'Quitter proprement',
     switchTabOnHover: 'changer d\'onglet au survol',
     leftSideBarIcons: 'icônes de la barre latérale gauche',
+    disableShortcutBar: 'désactiver la barre de raccourcis pour appareils tactiles'
   },
 
   // app menu

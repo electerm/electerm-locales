@@ -49,6 +49,7 @@ const lang = {
     exitGracefully: 'Sauber beenden',
     switchTabOnHover: 'Tab bei Hover wechseln',
     leftSideBarIcons: 'Symbole der linken Seitenleiste',
+    disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren'
   },
 
   menu: {

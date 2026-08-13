@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'Tiszta kilépés',
     switchTabOnHover: 'lap váltása rámutatáskor',
     leftSideBarIcons: 'bal oldali oldalsáv ikonok',
+    disableShortcutBar: 'parancsikon-sáv letiltása érintőképernyős eszközökhöz'
   },
 
   // app menu

@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'خروج سلس',
     switchTabOnHover: 'تبديل علامة التبويب عند التمرير',
     leftSideBarIcons: 'أيقونات الشريط الجانبي الأيسر',
+    disableShortcutBar: 'تعطيل شريط الاختصارات للأجهزة التي تعمل باللمس'
   },
 
   // app menu

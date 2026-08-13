@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'Czyste zakończenie',
     switchTabOnHover: 'przełączaj kartę po najechaniu',
     leftSideBarIcons: 'ikony lewego paska bocznego',
+    disableShortcutBar: 'wyłącz pasek skrótów dla urządzeń dotykowych'
   },
 
   // app menu

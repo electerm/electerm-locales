@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: '正常に終了',
     switchTabOnHover: 'ホバーでタブを切り替え',
     leftSideBarIcons: '左サイドバーのアイコン',
+    disableShortcutBar: 'タッチデバイス用のショートカットバーを無効にする'
   },
 
   // app menu

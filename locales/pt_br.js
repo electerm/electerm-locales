@@ -50,6 +50,7 @@ const lang = {
     exitGracefully: 'Sair corretamente',
     switchTabOnHover: 'trocar aba ao passar o mouse',
     leftSideBarIcons: 'ícones da barra lateral esquerda',
+    disableShortcutBar: 'desativar barra de atalhos para dispositivos de toque'
   },
 
   // app menu
