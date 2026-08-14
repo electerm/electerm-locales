@@ -6,6 +6,7 @@ import { describe, it } from 'node:test'
 import assert from 'node:assert/strict'
 import { readdirSync, readFileSync } from 'fs'
 import { resolve } from 'path'
+import { pathToFileURL } from 'url'
 import _ from 'lodash'
 import * as all from '../dist/esm/index.mjs'
 import defaultLang from '../dist/esm/index.mjs'
@@ -84,7 +85,7 @@ describe(pack.name, function () {
       const pp = resolve(
         cwd, 'locales', f
       )
-      const content = await import(pp)
+      const content = await import(pathToFileURL(pp))
       langs[pp] = {
         path: pp,
         ...content.default
