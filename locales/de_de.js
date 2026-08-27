@@ -119,6 +119,7 @@ const lang = {
     restoreSessions: 'Sitzungen wiederherstellen',
     ignore: 'Ignorieren',
     pin: 'Anheften',
+    unpin: 'Lösen',
     keyboardShortcuts: 'Tastatürkürzel',
     delSelected: 'ausgewählte löschen',
     turnOff: 'abschalten',

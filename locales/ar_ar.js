@@ -126,6 +126,7 @@ const lang = {
     restoreSessions: 'استعادة الجلسات',
     ignore: 'تجاهل',
     pin: 'تثبيت',
+    unpin: 'إلغاء التثبيت',
     keyboardShortcuts: 'اختصارات لوحة المفاتيح',
     delSelected: 'احذف المختار',
     turnOff: 'أطفأ',
