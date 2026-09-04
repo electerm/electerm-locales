@@ -276,7 +276,7 @@ const lang = {
     sshSftpSplitView: 'terminál és SFTP megjelenítése osztott nézetben',
     allowMultiInstance: 'több példány engedélyezése',
     disableDeveloperTool: 'fejlesztői eszközök kikapcsolása',
-    showTabIndex: 'lapsorszám megjelenítése'
+    disableTabIndex: 'lapsorszám kikapcsolása'
   },
 
   // sftp

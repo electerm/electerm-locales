@@ -276,7 +276,7 @@ const lang = {
     sshSftpSplitView: 'show terminal and sftp in split view',
     allowMultiInstance: 'allow multi instance',
     disableDeveloperTool: 'disable developer tool',
-    showTabIndex: 'show tab index'
+    disableTabIndex: 'disable tab index'
   },
 
   // sftp

@@ -277,7 +277,7 @@ const lang = {
     sshSftpSplitView: '以分割視窗顯示終端機和SFTP',
     allowMultiInstance: '允許多個執行個體',
     disableDeveloperTool: '停用開發者工具',
-    showTabIndex: '顯示分頁編號'
+    disableTabIndex: '停用分頁編號'
   },
 
   // sftp

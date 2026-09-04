@@ -277,7 +277,7 @@ const lang = {
     sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster',
     allowMultiInstance: 'çoklu örneğe izin ver',
     disableDeveloperTool: 'geliştirici aracını devre dışı bırak',
-    showTabIndex: 'sekme numarasını göster'
+    disableTabIndex: 'sekme numarasını devre dışı bırak'
   },
 
   // sftp

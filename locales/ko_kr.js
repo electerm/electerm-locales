@@ -277,7 +277,7 @@ const lang = {
     sshSftpSplitView: '터미널과 SFTP를 분할 보기로 표시',
     allowMultiInstance: '다중 인스턴스 허용',
     disableDeveloperTool: '개발자 도구 비활성화',
-    showTabIndex: '탭 인덱스 표시'
+    disableTabIndex: '탭 인덱스 비활성화'
   },
 
   // sftp
