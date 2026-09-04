@@ -276,7 +276,8 @@ const lang = {
     chooseFolder: 'フォルダを選択',
     sshSftpSplitView: 'ターミナルとSFTPを分割ビューで表示',
     allowMultiInstance: '複数インスタンスを許可',
-    disableDeveloperTool: '開発者ツールを無効にする'
+    disableDeveloperTool: '開発者ツールを無効にする',
+    showTabIndex: 'タブ番号を表示'
   },
 
   // sftp

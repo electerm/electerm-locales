@@ -275,7 +275,8 @@ const lang = {
     chooseFolder: 'pilih folder',
     sshSftpSplitView: 'tampilkan terminal dan sftp dalam tampilan terpisah',
     allowMultiInstance: 'izinkan banyak contoh',
-    disableDeveloperTool: 'nonaktifkan alat pengembang'
+    disableDeveloperTool: 'nonaktifkan alat pengembang',
+    showTabIndex: 'tampilkan indeks tab'
   },
 
   // sftp

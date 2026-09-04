@@ -276,7 +276,8 @@ const lang = {
     chooseFolder: '폴더 선택',
     sshSftpSplitView: '터미널과 SFTP를 분할 보기로 표시',
     allowMultiInstance: '다중 인스턴스 허용',
-    disableDeveloperTool: '개발자 도구 비활성화'
+    disableDeveloperTool: '개발자 도구 비활성화',
+    showTabIndex: '탭 인덱스 표시'
   },
 
   // sftp

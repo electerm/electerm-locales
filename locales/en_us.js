@@ -275,7 +275,8 @@ const lang = {
     chooseFolder: 'choose folder',
     sshSftpSplitView: 'show terminal and sftp in split view',
     allowMultiInstance: 'allow multi instance',
-    disableDeveloperTool: 'disable developer tool'
+    disableDeveloperTool: 'disable developer tool',
+    showTabIndex: 'show tab index'
   },
 
   // sftp
@@ -404,7 +405,7 @@ const lang = {
     editWithTextEditor: 'Edit with text editor',
     loadSshConfigs: 'load ssh configs',
     useSshAgent: 'use ssh agent',
-    createBookmarkByAI: 'create bookmark by ai',
+    createBookmarkByAI: 'create bookmark by AI',
     aiSecurityNotice: 'Do NOT include real passwords, private keys, passphrases, API keys, or other sensitive credentials in the description. Data is sent to third‑party AI APIs unless you use a local LLM',
     quickConnect: 'quick connect',
     enableTerminalImage: 'support terminal image',

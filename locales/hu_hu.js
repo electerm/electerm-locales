@@ -275,7 +275,8 @@ const lang = {
     chooseFolder: 'mappa kiválasztása',
     sshSftpSplitView: 'terminál és SFTP megjelenítése osztott nézetben',
     allowMultiInstance: 'több példány engedélyezése',
-    disableDeveloperTool: 'fejlesztői eszközök kikapcsolása'
+    disableDeveloperTool: 'fejlesztői eszközök kikapcsolása',
+    showTabIndex: 'lapsorszám megjelenítése'
   },
 
   // sftp

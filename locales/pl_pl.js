@@ -275,7 +275,8 @@ const lang = {
     chooseFolder: 'Wybierz folder',
     sshSftpSplitView: 'Pokaż terminal i SFTP w widoku dzielonym',
     allowMultiInstance: 'Zezwól na wiele instancji',
-    disableDeveloperTool: 'Wyłącz narzędzie deweloperskie'
+    disableDeveloperTool: 'Wyłącz narzędzie deweloperskie',
+    showTabIndex: 'pokaż indeks karty'
   },
 
   // sftp

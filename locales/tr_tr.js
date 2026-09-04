@@ -276,7 +276,8 @@ const lang = {
     chooseFolder: 'klasör seç',
     sshSftpSplitView: 'terminalleri ve SFTP`yi bölünmüş görünümde göster',
     allowMultiInstance: 'çoklu örneğe izin ver',
-    disableDeveloperTool: 'geliştirici aracını devre dışı bırak'
+    disableDeveloperTool: 'geliştirici aracını devre dışı bırak',
+    showTabIndex: 'sekme numarasını göster'
   },
 
   // sftp
