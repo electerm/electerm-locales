@@ -416,7 +416,8 @@ const lang = {
     enableWrap: 'تفعيل التفاف السطر',
     disableWrap: 'تعطيل التفاف السطر',
     closeSequence: 'تسلسل الإغلاق',
-    closeSequenceDelay: 'تأخير تسلسل الإغلاق'
+    closeSequenceDelay: 'تأخير تسلسل الإغلاق',
+    presets: 'إعدادات مسبقة'
   },
 
   // ssh terminal

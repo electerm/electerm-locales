@@ -416,7 +416,8 @@ const lang = {
     enableWrap: '折り返しを有効にする',
     disableWrap: '折り返しを無効にする',
     closeSequence: '終了シーケンス',
-    closeSequenceDelay: '終了シーケンスの遅延'
+    closeSequenceDelay: '終了シーケンスの遅延',
+    presets: 'プリセット'
   },
 
   // ssh terminal

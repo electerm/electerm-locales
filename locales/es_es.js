@@ -417,7 +417,8 @@ const lang = {
     enableWrap: 'activar ajuste de línea',
     disableWrap: 'desactivar ajuste de línea',
     closeSequence: 'Secuencia de cierre',
-    closeSequenceDelay: 'Retraso de la secuencia de cierre'
+    closeSequenceDelay: 'Retraso de la secuencia de cierre',
+    presets: 'preajustes'
   },
 
   // ssh terminal

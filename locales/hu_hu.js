@@ -415,7 +415,8 @@ const lang = {
     enableWrap: 'soron tördelés engedélyezése',
     disableWrap: 'soron tördelés letiltása',
     closeSequence: 'Bezárási szekvencia',
-    closeSequenceDelay: 'Bezárási szekvencia késleltetése'
+    closeSequenceDelay: 'Bezárási szekvencia késleltetése',
+    presets: 'Előbeállítások'
   },
 
   // ssh terminal

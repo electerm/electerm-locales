@@ -416,7 +416,8 @@ const lang = {
     enableWrap: '줄 바꿈 사용',
     disableWrap: '줄 바꿈 사용 안 함',
     closeSequence: '종료 시퀀스',
-    closeSequenceDelay: '종료 시퀀스 지연'
+    closeSequenceDelay: '종료 시퀀스 지연',
+    presets: '프리셋'
   },
 
   // ssh terminal

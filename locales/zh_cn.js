@@ -416,7 +416,8 @@ const lang = {
     enableWrap: '启用换行',
     disableWrap: '禁用换行',
     closeSequence: '关闭序列',
-    closeSequenceDelay: '关闭序列延迟'
+    closeSequenceDelay: '关闭序列延迟',
+    presets: '预设'
   },
 
   // ssh terminal

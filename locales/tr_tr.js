@@ -416,7 +416,8 @@ const lang = {
     enableWrap: 'satır kaydırmayı etkinleştir',
     disableWrap: 'satır kaydırmayı devre dışı bırak',
     closeSequence: 'Kapatma dizisi',
-    closeSequenceDelay: 'Kapatma dizisi gecikmesi'
+    closeSequenceDelay: 'Kapatma dizisi gecikmesi',
+    presets: 'hazır ayarlar'
   },
 
   // ssh terminal

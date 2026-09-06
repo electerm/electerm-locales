@@ -415,7 +415,8 @@ const lang = {
     enableWrap: 'aktifkan pembungkusan baris',
     disableWrap: 'nonaktifkan pembungkusan baris',
     closeSequence: 'Urutan penutupan',
-    closeSequenceDelay: 'Penundaan urutan penutupan'
+    closeSequenceDelay: 'Penundaan urutan penutupan',
+    presets: 'preset'
   },
 
   // ssh terminal

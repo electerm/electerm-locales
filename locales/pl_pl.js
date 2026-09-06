@@ -415,7 +415,8 @@ const lang = {
     enableWrap: 'włącz zawijanie wierszy',
     disableWrap: 'wyłącz zawijanie wierszy',
     closeSequence: 'Sekwencja zamykania',
-    closeSequenceDelay: 'Opóźnienie sekwencji zamykania'
+    closeSequenceDelay: 'Opóźnienie sekwencji zamykania',
+    presets: 'presety'
   },
 
   // ssh terminal

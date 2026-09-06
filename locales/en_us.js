@@ -415,7 +415,8 @@ const lang = {
     enableWrap: 'enable wrap',
     disableWrap: 'disable wrap',
     closeSequence: 'close sequence',
-    closeSequenceDelay: 'close sequence delay'
+    closeSequenceDelay: 'close sequence delay',
+    presets: 'presets'
   },
 
   // ssh terminal

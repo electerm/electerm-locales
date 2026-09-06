@@ -416,7 +416,8 @@ const lang = {
     enableWrap: 'включить перенос строк',
     disableWrap: 'отключить перенос строк',
     closeSequence: 'Последовательность закрытия',
-    closeSequenceDelay: 'Задержка последовательности закрытия'
+    closeSequenceDelay: 'Задержка последовательности закрытия',
+    presets: 'пресеты'
   },
 
   // ssh terminal

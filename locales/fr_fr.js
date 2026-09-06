@@ -416,7 +416,8 @@ const lang = {
     enableWrap: 'activer le retour à la ligne',
     disableWrap: 'désactiver le retour à la ligne',
     closeSequence: 'Séquence de fermeture',
-    closeSequenceDelay: 'Délai de la séquence de fermeture'
+    closeSequenceDelay: 'Délai de la séquence de fermeture',
+    presets: 'préréglages'
   },
 
   // ssh terminal

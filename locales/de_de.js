@@ -401,7 +401,8 @@ const lang = {
     enableWrap: 'Zeilenumbruch aktivieren',
     disableWrap: 'Zeilenumbruch deaktivieren',
     closeSequence: 'Schließsequenz',
-    closeSequenceDelay: 'Verzögerung der Schließsequenz'
+    closeSequenceDelay: 'Verzögerung der Schließsequenz',
+    presets: 'Presets'
   },
 
   ssh: {
