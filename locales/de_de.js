@@ -264,7 +264,8 @@ const lang = {
     sshSftpSplitView: 'Terminal und SFTP in geteilter Ansicht anzeigen',
     allowMultiInstance: 'mehrere Instanzen erlauben',
     disableDeveloperTool: 'Entwicklerwerkzeug deaktivieren',
-    disableTabIndex: 'Tab-Index deaktivieren'
+    disableTabIndex: 'Tab-Index deaktivieren',
+    restoreTerminalSessionOnReload: 'Terminal-Sitzung beim Neuladen wiederherstellen',
   },
 
   sftp: {

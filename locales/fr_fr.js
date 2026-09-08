@@ -277,7 +277,8 @@ const lang = {
     sshSftpSplitView: 'afficher le terminal et SFTP en vue fractionnée',
     allowMultiInstance: 'autoriser plusieurs instances',
     disableDeveloperTool: 'désactiver l`outil de développement',
-    disableTabIndex: 'désactiver l`index de l`onglet'
+    disableTabIndex: 'désactiver l`index de l`onglet',
+    restoreTerminalSessionOnReload: 'restaurer la session de terminal au rafraîchissement',
   },
 
   // sftp

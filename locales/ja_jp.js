@@ -277,7 +277,8 @@ const lang = {
     sshSftpSplitView: 'ターミナルとSFTPを分割ビューで表示',
     allowMultiInstance: '複数インスタンスを許可',
     disableDeveloperTool: '開発者ツールを無効にする',
-    disableTabIndex: 'タブ番号を無効にする'
+    disableTabIndex: 'タブ番号を無効にする',
+    restoreTerminalSessionOnReload: 'ターミナルセッションをリロード時に復元',
   },
 
   // sftp

@@ -277,7 +277,8 @@ const lang = {
     sshSftpSplitView: 'إظهار الطرفية و SFTP في عرض منقسم',
     allowMultiInstance: 'السماح بعدة نسخ',
     disableDeveloperTool: 'تعطيل أداة المطور',
-    disableTabIndex: 'تعطيل رقم التبويب'
+    disableTabIndex: 'تعطيل رقم التبويب',
+    restoreTerminalSessionOnReload: 'استعادة جلسة طرفية عند إعادة التحميل',
   },
 
   // sftp

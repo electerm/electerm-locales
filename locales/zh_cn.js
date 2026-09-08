@@ -277,7 +277,8 @@ const lang = {
     sshSftpSplitView: '在分屏视图中显示终端和SFTP',
     allowMultiInstance: '允许多实例',
     disableDeveloperTool: '禁用开发者工具',
-    disableTabIndex: '禁用选项卡序号'
+    disableTabIndex: '禁用选项卡序号',
+    restoreTerminalSessionOnReload: '在重新加载时恢复终端会话',
   },
 
   // sftp

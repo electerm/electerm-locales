@@ -277,7 +277,8 @@ const lang = {
     sshSftpSplitView: 'показать терминал и SFTP в разделенном виде',
     allowMultiInstance: 'разрешить несколько экземпляров',
     disableDeveloperTool: 'отключить инструмент разработчика',
-    disableTabIndex: 'отключить индекс вкладки'
+    disableTabIndex: 'отключить индекс вкладки',
+    restoreTerminalSessionOnReload: 'восстановить сеанс терминала при перезапуске',
   },
 
   // sftp
