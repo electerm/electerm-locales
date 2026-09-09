@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'resolusi',
     addressBookmarks: 'tandai bookmark',
     import: 'impor',
-    sshConfigNotice: 'ditemukan konfigurasi dari ~/.ssh/config, impor sebagai bookmark?'
+    sshConfigNotice: 'ditemukan konfigurasi dari ~/.ssh/config, impor sebagai bookmark?',
+    enabled: 'diaktifkan'
   },
 
   // control buttons

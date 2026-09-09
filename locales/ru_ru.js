@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'Разрешение',
     addressBookmarks: 'закладки адресов',
     import: 'импортировать',
-    sshConfigNotice: 'обнаруженные конфигурации из ~/.ssh/config, импортировать как закладки?'
+    sshConfigNotice: 'обнаруженные конфигурации из ~/.ssh/config, импортировать как закладки?',
+    enabled: 'включено'
   },
 
   // control buttons

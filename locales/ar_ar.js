@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'الدقة',
     addressBookmarks: 'إشارات مرجعية للعناوين',
     import: 'استيراد',
-    sshConfigNotice: 'تم الكشف عن التكوينات من /.ssh/config، هل تريد استيرادها كإشارات مرجعية؟'
+    sshConfigNotice: 'تم الكشف عن التكوينات من /.ssh/config، هل تريد استيرادها كإشارات مرجعية؟',
+    enabled: 'مفعّل'
   },
 
   // control buttons

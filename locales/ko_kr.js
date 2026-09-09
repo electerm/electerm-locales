@@ -140,7 +140,8 @@ const lang = {
     resolutions: '해상도',
     addressBookmarks: '주소 북마크',
     import: '가져오기',
-    sshConfigNotice: '/.ssh/config에서 감지된 설정을 북마크로 가져오시겠습니까?'
+    sshConfigNotice: '/.ssh/config에서 감지된 설정을 북마크로 가져오시겠습니까?',
+    enabled: '활성화됨'
   },
 
   // control buttons

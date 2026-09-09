@@ -140,7 +140,8 @@ const lang = {
     resolutions: '分辨率',
     addressBookmarks: '地址书签',
     import: '导入',
-    sshConfigNotice: '检测到 ~/.ssh/config 中的配置，将其导入为书签？'
+    sshConfigNotice: '检测到 ~/.ssh/config 中的配置，将其导入为书签？',
+    enabled: '已启用'
   },
 
   // control buttons

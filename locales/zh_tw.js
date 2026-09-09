@@ -140,7 +140,8 @@ const lang = {
     resolutions: '解析度',
     addressBookmarks: '位址書籤',
     import: '匯入',
-    sshConfigNotice: '偵測到 ~/.ssh/config 中的設定，要將它們匯入為書籤嗎？'
+    sshConfigNotice: '偵測到 ~/.ssh/config 中的設定，要將它們匯入為書籤嗎？',
+    enabled: '已啟用'
   },
 
   // control buttons

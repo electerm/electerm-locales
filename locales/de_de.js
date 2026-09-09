@@ -133,7 +133,8 @@ const lang = {
     resolutions: 'Auflösung',
     addressBookmarks: 'Adress-Lesezeichen',
     import: 'importieren',
-    sshConfigNotice: 'Konfigurationen aus ~/.ssh/config erkannt, als Lesezeichen importieren?'
+    sshConfigNotice: 'Konfigurationen aus ~/.ssh/config erkannt, als Lesezeichen importieren?',
+    enabled: 'aktiviert'
   },
 
   control: {

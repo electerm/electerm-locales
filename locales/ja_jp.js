@@ -140,7 +140,8 @@ const lang = {
     resolutions: '解像度',
     addressBookmarks: 'アドレスブックマーク',
     import: 'インポート',
-    sshConfigNotice: '/.ssh/config から検出された設定をブックマークとしてインポートしますか？'
+    sshConfigNotice: '/.ssh/config から検出された設定をブックマークとしてインポートしますか？',
+    enabled: '有効'
   },
 
   // control buttons

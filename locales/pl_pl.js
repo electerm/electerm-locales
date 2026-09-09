@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'Rozdzielczości',
     addressBookmarks: 'Zakładki adresów',
     import: 'Importuj',
-    sshConfigNotice: 'Wykryto konfigurację z ~/.ssh/config, zaimportować jako zakładki?'
+    sshConfigNotice: 'Wykryto konfigurację z ~/.ssh/config, zaimportować jako zakładki?',
+    enabled: 'włączone'
   },
 
   // control buttons

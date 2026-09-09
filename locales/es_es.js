@@ -141,7 +141,8 @@ const lang = {
     resolutions: 'resolución',
     addressBookmarks: 'marcadores de direcciones',
     import: 'importar',
-    sshConfigNotice: 'configuraciones detectadas desde ~/.ssh/config, ¿importarlas como marcadores?'
+    sshConfigNotice: 'configuraciones detectadas desde ~/.ssh/config, ¿importarlas como marcadores?',
+    enabled: 'activado'
   },
 
   // control buttons

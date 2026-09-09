@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'Resolução',
     addressBookmarks: 'favoritos de endereços',
     import: 'importar',
-    sshConfigNotice: 'configurações detectadas de ~/.ssh/config, importá-las como favoritos?'
+    sshConfigNotice: 'configurações detectadas de ~/.ssh/config, importá-las como favoritos?',
+    enabled: 'ativado'
   },
 
   // control buttons

@@ -140,7 +140,8 @@ const lang = {
     resolutions: 'felbontások',
     addressBookmarks: 'címkönyvjelzők',
     import: 'importálás',
-    sshConfigNotice: 'A rendszer konfigurációkat talált a ~/.ssh/config fájlban. Importálod őket könyvjelzőként?'
+    sshConfigNotice: 'A rendszer konfigurációkat talált a ~/.ssh/config fájlban. Importálod őket könyvjelzőként?',
+    enabled: 'engedélyezve'
   },
 
   // control buttons
