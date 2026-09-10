@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: '開発者ツールを無効にする',
     disableTabIndex: 'タブ番号を無効にする',
     restoreTerminalSessionOnReload: 'ターミナルセッションをリロード時に復元',
+    monitorBar: 'モニターバー',
   },
 
   // sftp

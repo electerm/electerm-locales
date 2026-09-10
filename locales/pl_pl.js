@@ -279,6 +279,7 @@ const lang = {
     disableDeveloperTool: 'Wyłącz narzędzie deweloperskie',
     disableTabIndex: 'Wyłącz indeks karty',
     restoreTerminalSessionOnReload: 'przywróć sesję terminala przy przeładowaniu',
+    monitorBar: 'pasek monitorowania',
   },
 
   // sftp

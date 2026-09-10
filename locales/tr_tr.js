@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: 'geliştirici aracını devre dışı bırak',
     disableTabIndex: 'sekme numarasını devre dışı bırak',
     restoreTerminalSessionOnReload: 'yeniden yüklemede terminal oturumunu geri yükle',
+    monitorBar: 'izleme çubuğu',
   },
 
   // sftp

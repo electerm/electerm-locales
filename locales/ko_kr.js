@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: '개발자 도구 비활성화',
     disableTabIndex: '탭 인덱스 비활성화',
     restoreTerminalSessionOnReload: '새로 고침 시 터미널 세션 복원',
+    monitorBar: '모니터 바',
   },
 
   // sftp

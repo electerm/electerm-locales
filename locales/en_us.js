@@ -279,6 +279,7 @@ const lang = {
     disableDeveloperTool: 'disable developer tool',
     disableTabIndex: 'disable tab index',
     restoreTerminalSessionOnReload: 'restore terminal session on reload',
+    monitorBar: 'monitor bar',
   },
 
   // sftp

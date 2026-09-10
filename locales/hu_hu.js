@@ -279,6 +279,7 @@ const lang = {
     disableDeveloperTool: 'fejlesztői eszközök kikapcsolása',
     disableTabIndex: 'lapsorszám kikapcsolása',
     restoreTerminalSessionOnReload: 'terminál munkamenet visszaállítása újratöltéskor',
+    monitorBar: 'monitor sáv',
   },
 
   // sftp

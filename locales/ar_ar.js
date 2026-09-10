@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: 'تعطيل أداة المطور',
     disableTabIndex: 'تعطيل رقم التبويب',
     restoreTerminalSessionOnReload: 'استعادة جلسة طرفية عند إعادة التحميل',
+    monitorBar: 'شريط المراقبة',
   },
 
   // sftp

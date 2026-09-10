@@ -279,6 +279,7 @@ const lang = {
     disableDeveloperTool: 'nonaktifkan alat pengembang',
     disableTabIndex: 'nonaktifkan indeks tab',
     restoreTerminalSessionOnReload: 'pulihkan sesi terminal saat muat ulang',
+    monitorBar: 'bilah monitor',
   },
 
   // sftp

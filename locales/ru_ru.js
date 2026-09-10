@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: 'отключить инструмент разработчика',
     disableTabIndex: 'отключить индекс вкладки',
     restoreTerminalSessionOnReload: 'восстановить сеанс терминала при перезапуске',
+    monitorBar: 'панель мониторинга',
   },
 
   // sftp

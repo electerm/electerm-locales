@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: '禁用开发者工具',
     disableTabIndex: '禁用选项卡序号',
     restoreTerminalSessionOnReload: '在重新加载时恢复终端会话',
+    monitorBar: '监控栏',
   },
 
   // sftp

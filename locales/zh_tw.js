@@ -280,6 +280,7 @@ const lang = {
     disableDeveloperTool: '停用開發者工具',
     disableTabIndex: '停用分頁編號',
     restoreTerminalSessionOnReload: '重新載入時回復終端連線',
+    monitorBar: '監控列',
   },
 
   // sftp

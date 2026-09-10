@@ -267,6 +267,7 @@ const lang = {
     disableDeveloperTool: 'Entwicklerwerkzeug deaktivieren',
     disableTabIndex: 'Tab-Index deaktivieren',
     restoreTerminalSessionOnReload: 'Terminal-Sitzung beim Neuladen wiederherstellen',
+    monitorBar: 'Monitorleiste',
   },
 
   sftp: {

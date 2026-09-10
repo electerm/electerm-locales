@@ -281,6 +281,7 @@ const lang = {
     disableDeveloperTool: 'desactivar herramienta de desarrollo',
     disableTabIndex: 'deshabilitar el índice de la pestaña',
     restoreTerminalSessionOnReload: 'restaurar sesión de terminal al recargar',
+    monitorBar: 'barra de monitoreo',
   },
 
   // sftp
