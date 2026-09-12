@@ -281,6 +281,7 @@ const lang = {
     disableTabIndex: '탭 인덱스 비활성화',
     restoreTerminalSessionOnReload: '새로 고침 시 터미널 세션 복원',
     monitorBar: '모니터 바',
+    disableConfirmForLargeClipboardContent: '큰 클립보드 내용 붙여넣기 확인 비활성화'
   },
 
   // sftp

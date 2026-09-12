@@ -281,6 +281,7 @@ const lang = {
     disableTabIndex: 'タブ番号を無効にする',
     restoreTerminalSessionOnReload: 'ターミナルセッションをリロード時に復元',
     monitorBar: 'モニターバー',
+    disableConfirmForLargeClipboardContent: '大きなクリップボード内容の貼り付け確認を無効にする'
   },
 
   // sftp

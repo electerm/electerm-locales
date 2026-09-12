@@ -281,6 +281,7 @@ const lang = {
     disableTabIndex: '停用分頁編號',
     restoreTerminalSessionOnReload: '重新載入時回復終端連線',
     monitorBar: '監控列',
+    disableConfirmForLargeClipboardContent: '禁用大段剪貼簿內容貼上確認'
   },
 
   // sftp

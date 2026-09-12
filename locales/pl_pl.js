@@ -280,6 +280,7 @@ const lang = {
     disableTabIndex: 'Wyłącz indeks karty',
     restoreTerminalSessionOnReload: 'przywróć sesję terminala przy przeładowaniu',
     monitorBar: 'pasek monitorowania',
+    disableConfirmForLargeClipboardContent: 'wyłącz potwierdzanie dla dużej zawartości schowka'
   },
 
   // sftp

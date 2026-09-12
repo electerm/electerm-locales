@@ -280,6 +280,7 @@ const lang = {
     disableTabIndex: 'lapsorszám kikapcsolása',
     restoreTerminalSessionOnReload: 'terminál munkamenet visszaállítása újratöltéskor',
     monitorBar: 'monitor sáv',
+    disableConfirmForLargeClipboardContent: 'nagy vágólap-tartalom megerősítésének letiltása'
   },
 
   // sftp

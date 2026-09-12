@@ -280,6 +280,7 @@ const lang = {
     disableTabIndex: 'nonaktifkan indeks tab',
     restoreTerminalSessionOnReload: 'pulihkan sesi terminal saat muat ulang',
     monitorBar: 'bilah monitor',
+    disableConfirmForLargeClipboardContent: 'nonaktifkan konfirmasi untuk konten papan klip besar'
   },
 
   // sftp
