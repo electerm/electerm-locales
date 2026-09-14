@@ -103,7 +103,8 @@ const lang = {
     reloadAll: 'alle neu laden',
     openInDefaultBrowser: 'Im Standardbrowser öffnen',
     record: 'aufnehmen',
-    stopRecord: 'Aufnahme stoppen'
+    stopRecord: 'Aufnahme stoppen',
+    selectText: 'Text auswählen'
   },
 
   common: {

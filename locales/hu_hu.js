@@ -109,7 +109,8 @@ const lang = {
     reloadAll: 'összes újratöltése',
     openInDefaultBrowser: 'megnyitás az alapértelmezett böngészőben',
     record: 'rögzítés',
-    stopRecord: 'rögzítés leállítása'
+    stopRecord: 'rögzítés leállítása',
+    selectText: 'szöveg kijelölése'
   },
 
   // common

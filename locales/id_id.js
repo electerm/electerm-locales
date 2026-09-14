@@ -109,7 +109,8 @@ const lang = {
     reloadAll: 'muat ulang semua',
     openInDefaultBrowser: 'Buka di browser default',
     record: 'rekam',
-    stopRecord: 'hentikan rekaman'
+    stopRecord: 'hentikan rekaman',
+    selectText: 'pilih teks'
   },
 
   // common

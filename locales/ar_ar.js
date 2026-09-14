@@ -109,7 +109,8 @@ const lang = {
     reloadAll: 'إعادة تحميل الكل',
     openInDefaultBrowser: 'فتح في المتصفح الافتراضي',
     record: 'تسجيل',
-    stopRecord: 'إيقاف التسجيل'
+    stopRecord: 'إيقاف التسجيل',
+    selectText: 'تحديد النص'
   },
 
   // common

@@ -109,7 +109,8 @@ const lang = {
     reloadAll: '重新載入全部',
     openInDefaultBrowser: '在預設瀏覽器中開啟',
     record: '記錄',
-    stopRecord: '停止記錄'
+    stopRecord: '停止記錄',
+    selectText: '選取文字'
   },
 
   // common

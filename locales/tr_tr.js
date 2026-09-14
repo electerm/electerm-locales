@@ -109,7 +109,8 @@ const lang = {
     reloadAll: 'tümünü yeniden yükle',
     openInDefaultBrowser: 'Varsayılan tarayıcıda aç',
     record: 'kayıt',
-    stopRecord: 'kaydı durdur'
+    stopRecord: 'kaydı durdur',
+    selectText: 'metni seç'
   },
 
   // common

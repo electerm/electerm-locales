@@ -109,7 +109,8 @@ const lang = {
     reloadAll: '모두 다시 로드',
     openInDefaultBrowser: '기본 브라우저에서 열기',
     record: '녹화',
-    stopRecord: '녹화 중지'
+    stopRecord: '녹화 중지',
+    selectText: '텍스트 선택'
   },
 
   // common

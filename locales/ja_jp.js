@@ -109,7 +109,8 @@ const lang = {
     reloadAll: 'すべて再読み込み',
     openInDefaultBrowser: 'デフォルトブラウザで開く',
     record: '録画',
-    stopRecord: '録画停止'
+    stopRecord: '録画停止',
+    selectText: 'テキストを選択'
   },
 
   // common

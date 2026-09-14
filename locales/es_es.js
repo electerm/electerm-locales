@@ -110,7 +110,8 @@ const lang = {
     reloadAll: 'recargar todo',
     openInDefaultBrowser: 'Abrir en el navegador predeterminado',
     record: 'grabar',
-    stopRecord: 'detener grabación'
+    stopRecord: 'detener grabación',
+    selectText: 'seleccionar texto'
   },
 
   // common

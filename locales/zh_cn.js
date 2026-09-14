@@ -109,7 +109,8 @@ const lang = {
     reloadAll: '重新加载全部',
     openInDefaultBrowser: '在默认浏览器中打开',
     record: '记录',
-    stopRecord: '停止记录'
+    stopRecord: '停止记录',
+    selectText: '选择文本'
   },
 
   // common
