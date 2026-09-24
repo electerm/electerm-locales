@@ -50,7 +50,8 @@ const lang = {
     exitGracefully: 'Корректное завершение',
     switchTabOnHover: 'переключать вкладку при наведении',
     leftSideBarIcons: 'значки левой боковой панели',
-    disableShortcutBar: 'отключить панель ярлыков для сенсорных устройств'
+    disableShortcutBar: 'отключить панель ярлыков для сенсорных устройств',
+    doubleClickToOpenBookmark: 'открывать закладку двойным щелчком'
   },
 
   // app menu

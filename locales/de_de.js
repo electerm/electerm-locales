@@ -49,7 +49,8 @@ const lang = {
     exitGracefully: 'Sauber beenden',
     switchTabOnHover: 'Tab bei Hover wechseln',
     leftSideBarIcons: 'Symbole der linken Seitenleiste',
-    disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren'
+    disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren',
+    doubleClickToOpenBookmark: 'Lesezeichen per Doppelklick öffnen'
   },
 
   menu: {

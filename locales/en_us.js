@@ -50,7 +50,8 @@ const lang = {
     exitGracefully: 'exit gracefully',
     switchTabOnHover: 'switch tab on hover',
     leftSideBarIcons: 'left sidebar icons',
-    disableShortcutBar: 'disable shortcut bar for touch device'
+    disableShortcutBar: 'disable shortcut bar for touch device',
+    doubleClickToOpenBookmark: 'open bookmark on double click'
   },
 
   // app menu

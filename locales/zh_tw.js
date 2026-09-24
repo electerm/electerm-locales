@@ -50,7 +50,8 @@ const lang = {
     exitGracefully: '優雅退出',
     switchTabOnHover: '懸停切換標籤',
     leftSideBarIcons: '左側邊欄圖示',
-    disableShortcutBar: '停用觸控裝置的快捷列'
+    disableShortcutBar: '停用觸控裝置的快捷列',
+    doubleClickToOpenBookmark: '雙擊開啟書籤'
   },
 
   // app menu

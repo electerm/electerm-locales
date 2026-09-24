@@ -50,7 +50,8 @@ const lang = {
     exitGracefully: 'Sair corretamente',
     switchTabOnHover: 'trocar aba ao passar o mouse',
     leftSideBarIcons: 'ícones da barra lateral esquerda',
-    disableShortcutBar: 'desativar barra de atalhos para dispositivos de toque'
+    disableShortcutBar: 'desativar barra de atalhos para dispositivos de toque',
+    doubleClickToOpenBookmark: 'abrir favorito com clique duplo'
   },
 
   // app menu

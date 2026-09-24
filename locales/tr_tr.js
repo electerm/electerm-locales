@@ -50,7 +50,8 @@ const lang = {
     exitGracefully: 'Düzgün çıkış',
     switchTabOnHover: 'üzerine gelince sekmeyi değiştir',
     leftSideBarIcons: 'sol kenar çubuğu simgeleri',
-    disableShortcutBar: 'dokunmatik cihazlar için kısayol çubuğunu devre dışı bırak'
+    disableShortcutBar: 'dokunmatik cihazlar için kısayol çubuğunu devre dışı bırak',
+    doubleClickToOpenBookmark: 'yer imini çift tıklamayla aç'
   },
 
   // app menu
