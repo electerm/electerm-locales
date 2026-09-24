@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'ホバーでタブを切り替え',
     leftSideBarIcons: '左サイドバーのアイコン',
     disableShortcutBar: 'タッチデバイス用のショートカットバーを無効にする',
-    doubleClickToOpenBookmark: 'ダブルクリックでブックマークを開く'
+    doubleClickToOpenBookmark: 'ダブルクリックでブックマークを開く',
+    onlyShowTitleInTab: 'タブにはタイトルのみを表示'
   },
 
   // app menu

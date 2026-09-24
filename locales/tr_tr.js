@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'üzerine gelince sekmeyi değiştir',
     leftSideBarIcons: 'sol kenar çubuğu simgeleri',
     disableShortcutBar: 'dokunmatik cihazlar için kısayol çubuğunu devre dışı bırak',
-    doubleClickToOpenBookmark: 'yer imini çift tıklamayla aç'
+    doubleClickToOpenBookmark: 'yer imini çift tıklamayla aç',
+    onlyShowTitleInTab: 'sekmede yalnızca başlığı göster'
   },
 
   // app menu

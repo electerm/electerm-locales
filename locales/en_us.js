@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'switch tab on hover',
     leftSideBarIcons: 'left sidebar icons',
     disableShortcutBar: 'disable shortcut bar for touch device',
-    doubleClickToOpenBookmark: 'open bookmark on double click'
+    doubleClickToOpenBookmark: 'open bookmark on double click',
+    onlyShowTitleInTab: 'only show title in tab'
   },
 
   // app menu

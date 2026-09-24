@@ -50,7 +50,8 @@ const lang = {
     switchTabOnHover: 'Tab bei Hover wechseln',
     leftSideBarIcons: 'Symbole der linken Seitenleiste',
     disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren',
-    doubleClickToOpenBookmark: 'Lesezeichen per Doppelklick öffnen'
+    doubleClickToOpenBookmark: 'Lesezeichen per Doppelklick öffnen',
+    onlyShowTitleInTab: 'im Tab nur den Titel anzeigen'
   },
 
   menu: {

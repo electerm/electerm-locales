@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'переключать вкладку при наведении',
     leftSideBarIcons: 'значки левой боковой панели',
     disableShortcutBar: 'отключить панель ярлыков для сенсорных устройств',
-    doubleClickToOpenBookmark: 'открывать закладку двойным щелчком'
+    doubleClickToOpenBookmark: 'открывать закладку двойным щелчком',
+    onlyShowTitleInTab: 'показывать только заголовок во вкладке'
   },
 
   // app menu

@@ -52,7 +52,8 @@ const lang = {
     switchTabOnHover: 'cambiar de pestaña al pasar el cursor',
     leftSideBarIcons: 'iconos de la barra lateral izquierda',
     disableShortcutBar: 'desactivar barra de accesos directos para dispositivos táctiles',
-    doubleClickToOpenBookmark: 'abrir marcador con doble clic'
+    doubleClickToOpenBookmark: 'abrir marcador con doble clic',
+    onlyShowTitleInTab: 'mostrar solo el título en la pestaña'
   },
 
   // app menu

@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: '懸停切換標籤',
     leftSideBarIcons: '左側邊欄圖示',
     disableShortcutBar: '停用觸控裝置的快捷列',
-    doubleClickToOpenBookmark: '雙擊開啟書籤'
+    doubleClickToOpenBookmark: '雙擊開啟書籤',
+    onlyShowTitleInTab: '分頁只顯示標題'
   },
 
   // app menu

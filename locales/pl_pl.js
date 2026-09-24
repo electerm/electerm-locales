@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'przełączaj kartę po najechaniu',
     leftSideBarIcons: 'ikony lewego paska bocznego',
     disableShortcutBar: 'wyłącz pasek skrótów dla urządzeń dotykowych',
-    doubleClickToOpenBookmark: 'otwieraj zakładkę podwójnym kliknięciem'
+    doubleClickToOpenBookmark: 'otwieraj zakładkę podwójnym kliknięciem',
+    onlyShowTitleInTab: 'pokazuj tylko tytuł w karcie'
   },
 
   // app menu

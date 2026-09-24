@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'ganti tab saat hover',
     leftSideBarIcons: 'ikon bilah sisi kiri',
     disableShortcutBar: 'nonaktifkan bilah pintasan untuk perangkat sentuh',
-    doubleClickToOpenBookmark: 'buka bookmark dengan klik ganda'
+    doubleClickToOpenBookmark: 'buka bookmark dengan klik ganda',
+    onlyShowTitleInTab: 'hanya tampilkan judul di tab'
   },
 
   // app menu

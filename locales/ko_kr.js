@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: '마우스 오버 시 탭 전환',
     leftSideBarIcons: '왼쪽 사이드바 아이콘',
     disableShortcutBar: '터치 기기용 단축 바 비활성화',
-    doubleClickToOpenBookmark: '더블 클릭으로 북마크 열기'
+    doubleClickToOpenBookmark: '더블 클릭으로 북마크 열기',
+    onlyShowTitleInTab: '탭에 제목만 표시'
   },
 
   // app menu

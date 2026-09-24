@@ -51,7 +51,8 @@ const lang = {
     switchTabOnHover: 'تبديل علامة التبويب عند التمرير',
     leftSideBarIcons: 'أيقونات الشريط الجانبي الأيسر',
     disableShortcutBar: 'تعطيل شريط الاختصارات للأجهزة التي تعمل باللمس',
-    doubleClickToOpenBookmark: 'فتح الإشارة المرجعية بالنقر المزدوج'
+    doubleClickToOpenBookmark: 'فتح الإشارة المرجعية بالنقر المزدوج',
+    onlyShowTitleInTab: 'إظهار العنوان فقط في علامة التبويب'
   },
 
   // app menu
