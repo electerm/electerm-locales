@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: 'آخر وقت مزامنة',
     useExistingGistId: 'استخدام الموجود',
     syncServerDataStatus: 'حالة البيانات في خادم المزامنة'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'سجل الأوامر',
+    moveToRightPanel: 'النقل إلى اللوحة اليمنى',
+    moveToFooter: 'النقل إلى الشريط السفلي'
   }
 }
 

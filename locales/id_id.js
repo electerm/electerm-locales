@@ -500,6 +500,13 @@ const lang = {
     lastSyncTime: 'waktu sinkronisasi terakhir',
     useExistingGistId: 'gunakan yang sudah ada',
     syncServerDataStatus: 'status data di server sinkronisasi'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'riwayat perintah',
+    moveToRightPanel: 'pindahkan ke panel kanan',
+    moveToFooter: 'pindahkan ke footer'
   }
 }
 

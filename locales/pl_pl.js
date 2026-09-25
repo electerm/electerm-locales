@@ -500,6 +500,13 @@ const lang = {
     lastSyncTime: 'Ostatni czas synchronizacji',
     useExistingGistId: 'Użyj istniejącego',
     syncServerDataStatus: 'Status danych na serwerze synchronizacji'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'historia poleceń',
+    moveToRightPanel: 'przenieś do prawego panelu',
+    moveToFooter: 'przenieś do stopki'
   }
 }
 

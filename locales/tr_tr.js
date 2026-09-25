@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: 'son senkronizasyon zamanı',
     useExistingGistId: 'var olanı kullan',
     syncServerDataStatus: 'senkronizasyon sunucusundaki veri durumu'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'komut geçmişi',
+    moveToRightPanel: 'sağ panele taşı',
+    moveToFooter: 'alt bilgiye taşı'
   }
 }
 

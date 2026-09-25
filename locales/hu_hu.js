@@ -500,6 +500,13 @@ const lang = {
     lastSyncTime: 'utolsó szinkronizálás',
     useExistingGistId: 'meglévő használata',
     syncServerDataStatus: 'adatok állapota a szinkronizáló kiszolgálón'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'parancselőzmények',
+    moveToRightPanel: 'áthelyezés a jobb oldali panelre',
+    moveToFooter: 'áthelyezés a láblécbe'
   }
 }
 

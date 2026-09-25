@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: 'hora da última sincronização',
     useExistingGistId: 'usar existente',
     syncServerDataStatus: 'status dos dados no servidor de sincronização'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'histórico de comandos',
+    moveToRightPanel: 'mover para o painel direito',
+    moveToFooter: 'mover para o rodapé'
   }
 }
 

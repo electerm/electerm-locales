@@ -481,6 +481,13 @@ const lang = {
     lastSyncTime: 'Letzte Synchronisation',
     useExistingGistId: 'Vorhandene Gist-ID verwenden',
     syncServerDataStatus: 'Status der Serverdaten'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'Befehlsverlauf',
+    moveToRightPanel: 'In rechtes Panel verschieben',
+    moveToFooter: 'In die Fußzeile verschieben'
   }
 }
 

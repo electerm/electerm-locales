@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: '前回同期の時間',
     useExistingGistId: '既存を使用',
     syncServerDataStatus: '同期サーバー内のデータステータス'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'コマンド履歴',
+    moveToRightPanel: '右パネルへ移動',
+    moveToFooter: 'フッターへ移動'
   }
 }
 

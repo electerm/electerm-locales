@@ -501,8 +501,14 @@ const lang = {
     lastSyncTime: 'Время последней синхронизации',
     useExistingGistId: 'Использовать существующий gist',
     syncServerDataStatus: 'статус данных на сервере синхронизации'
-  }
+  },
 
+  // cmd history
+  cmdHistory: {
+    cmdHistory: 'история команд',
+    moveToRightPanel: 'переместить в правую панель',
+    moveToFooter: 'переместить в нижнюю панель'
+  }
 }
 
 export default {

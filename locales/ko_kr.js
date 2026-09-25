@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: '마지막 동기화 시간',
     useExistingGistId: '기존으로 사용',
     syncServerDataStatus: '동기화 서버의 데이터 상태'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: '명령 기록',
+    moveToRightPanel: '오른쪽 패널로 이동',
+    moveToFooter: '바닥글로 이동'
   }
 }
 

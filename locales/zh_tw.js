@@ -501,6 +501,13 @@ const lang = {
     lastSyncTime: '最後同步時間',
     useExistingGistId: '利用現有的',
     syncServerDataStatus: '同步伺服器中的資料狀態'
+  },
+
+  // cmd history
+  cmdHistory: {
+    cmdHistory: '命令歷史',
+    moveToRightPanel: '移動到右側面板',
+    moveToFooter: '移到底部'
   }
 }
 
