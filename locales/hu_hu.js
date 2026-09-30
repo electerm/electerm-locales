@@ -413,6 +413,7 @@ const lang = {
     editWithTextEditor: 'szerkesztés szövegszerkesztővel',
     loadSshConfigs: 'SSH-konfigurációk betöltése',
     useSshAgent: 'SSH-agent használata',
+    agentForward: 'ügynök-továbbítás',
     createBookmarkByAI: 'könyvjelző létrehozása AI-val',
     aiSecurityNotice: 'NE adj meg valódi jelszót, privát kulcsot, jelmondatot, API-kulcsot vagy más érzékeny hitelesítő adatot a leírásban. Az adatok külső AI API-khoz kerülnek, kivéve, ha helyi nyelvi modellt használsz.',
     quickConnect: 'gyors kapcsolódás',

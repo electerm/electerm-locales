@@ -414,6 +414,7 @@ const lang = {
     editWithTextEditor: '텍스트 편집기로 편집',
     loadSshConfigs: 'SSH 구성 로드',
     useSshAgent: 'SSH 에이전트 사용',
+    agentForward: '에이전트 포워딩',
     createBookmarkByAI: 'AI로 북마크 생성',
     aiSecurityNotice: '설명에 실제 비밀번호, 개인 키, 암호 문구, API 키 또는 기타 민감한 인증 정보를 포함하지 마십시오. 로컬 LLM을 사용하지 않는 한 데이터는 제3자 AI API로 전송됩니다.',
     quickConnect: '빠른 연결',

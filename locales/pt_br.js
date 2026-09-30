@@ -414,6 +414,7 @@ const lang = {
     editWithTextEditor: 'Editar com editor de texto',
     loadSshConfigs: 'carregar configurações ssh',
     useSshAgent: 'usar agente ssh',
+    agentForward: 'encaminhamento de agente',
     createBookmarkByAI: 'criar favorito por IA',
     aiSecurityNotice: 'NÃO inclua senhas reais, chaves privadas, frases‑senha, chaves de API ou outras credenciais sensíveis na descrição. Os dados são enviados a APIs de IA de terceiros, a menos que você use um LLM local.',
     quickConnect: 'conectar rapidamente',
