@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'ikony lewego paska bocznego',
     disableShortcutBar: 'wyłącz pasek skrótów dla urządzeń dotykowych',
     doubleClickToOpenBookmark: 'otwieraj zakładkę podwójnym kliknięciem',
-    onlyShowTitleInTab: 'pokazuj tylko tytuł w karcie'
+    onlyShowTitleInTab: 'pokazuj tylko tytuł w karcie',
+    autoCompress: 'Automatyczna kompresja'
   },
 
   // app menu

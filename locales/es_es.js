@@ -53,7 +53,8 @@ const lang = {
     leftSideBarIcons: 'iconos de la barra lateral izquierda',
     disableShortcutBar: 'desactivar barra de accesos directos para dispositivos táctiles',
     doubleClickToOpenBookmark: 'abrir marcador con doble clic',
-    onlyShowTitleInTab: 'mostrar solo el título en la pestaña'
+    onlyShowTitleInTab: 'mostrar solo el título en la pestaña',
+    autoCompress: 'Compresión automática'
   },
 
   // app menu

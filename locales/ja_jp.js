@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: '左サイドバーのアイコン',
     disableShortcutBar: 'タッチデバイス用のショートカットバーを無効にする',
     doubleClickToOpenBookmark: 'ダブルクリックでブックマークを開く',
-    onlyShowTitleInTab: 'タブにはタイトルのみを表示'
+    onlyShowTitleInTab: 'タブにはタイトルのみを表示',
+    autoCompress: '自動圧縮'
   },
 
   // app menu

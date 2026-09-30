@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: '左側邊欄圖示',
     disableShortcutBar: '停用觸控裝置的快捷列',
     doubleClickToOpenBookmark: '雙擊開啟書籤',
-    onlyShowTitleInTab: '分頁只顯示標題'
+    onlyShowTitleInTab: '分頁只顯示標題',
+    autoCompress: '自動壓縮'
   },
 
   // app menu

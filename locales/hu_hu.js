@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'bal oldali oldalsáv ikonok',
     disableShortcutBar: 'parancsikon-sáv letiltása érintőképernyős eszközökhöz',
     doubleClickToOpenBookmark: 'könyvjelző megnyitása dupla kattintással',
-    onlyShowTitleInTab: 'csak a cím megjelenítése a lapon'
+    onlyShowTitleInTab: 'csak a cím megjelenítése a lapon',
+    autoCompress: 'Automatikus tömörítés'
   },
 
   // app menu

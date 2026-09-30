@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: '左侧边栏图标',
     disableShortcutBar: '禁用触摸设备的快捷栏',
     doubleClickToOpenBookmark: '双击打开书签',
-    onlyShowTitleInTab: '标签页只显示标题'
+    onlyShowTitleInTab: '标签页只显示标题',
+    autoCompress: '自动压缩'
   },
 
   // app menu

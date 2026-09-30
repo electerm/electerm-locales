@@ -51,7 +51,8 @@ const lang = {
     leftSideBarIcons: 'Symbole der linken Seitenleiste',
     disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren',
     doubleClickToOpenBookmark: 'Lesezeichen per Doppelklick öffnen',
-    onlyShowTitleInTab: 'im Tab nur den Titel anzeigen'
+    onlyShowTitleInTab: 'im Tab nur den Titel anzeigen',
+    autoCompress: 'Automatisch komprimieren'
   },
 
   menu: {

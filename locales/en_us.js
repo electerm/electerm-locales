@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'left sidebar icons',
     disableShortcutBar: 'disable shortcut bar for touch device',
     doubleClickToOpenBookmark: 'open bookmark on double click',
-    onlyShowTitleInTab: 'only show title in tab'
+    onlyShowTitleInTab: 'only show title in tab',
+    autoCompress: 'Auto compress'
   },
 
   // app menu

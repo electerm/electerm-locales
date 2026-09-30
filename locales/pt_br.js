@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'ícones da barra lateral esquerda',
     disableShortcutBar: 'desativar barra de atalhos para dispositivos de toque',
     doubleClickToOpenBookmark: 'abrir favorito com clique duplo',
-    onlyShowTitleInTab: 'mostrar apenas o título na aba'
+    onlyShowTitleInTab: 'mostrar apenas o título na aba',
+    autoCompress: 'Compressão automática'
   },
 
   // app menu

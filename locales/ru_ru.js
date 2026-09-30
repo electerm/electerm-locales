@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'значки левой боковой панели',
     disableShortcutBar: 'отключить панель ярлыков для сенсорных устройств',
     doubleClickToOpenBookmark: 'открывать закладку двойным щелчком',
-    onlyShowTitleInTab: 'показывать только заголовок во вкладке'
+    onlyShowTitleInTab: 'показывать только заголовок во вкладке',
+    autoCompress: 'Автоматическое сжатие'
   },
 
   // app menu

@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'أيقونات الشريط الجانبي الأيسر',
     disableShortcutBar: 'تعطيل شريط الاختصارات للأجهزة التي تعمل باللمس',
     doubleClickToOpenBookmark: 'فتح الإشارة المرجعية بالنقر المزدوج',
-    onlyShowTitleInTab: 'إظهار العنوان فقط في علامة التبويب'
+    onlyShowTitleInTab: 'إظهار العنوان فقط في علامة التبويب',
+    autoCompress: 'ضغط تلقائي'
   },
 
   // app menu

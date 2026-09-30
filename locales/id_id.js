@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'ikon bilah sisi kiri',
     disableShortcutBar: 'nonaktifkan bilah pintasan untuk perangkat sentuh',
     doubleClickToOpenBookmark: 'buka bookmark dengan klik ganda',
-    onlyShowTitleInTab: 'hanya tampilkan judul di tab'
+    onlyShowTitleInTab: 'hanya tampilkan judul di tab',
+    autoCompress: 'Kompres otomatis'
   },
 
   // app menu

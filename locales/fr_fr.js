@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'icônes de la barre latérale gauche',
     disableShortcutBar: 'désactiver la barre de raccourcis pour appareils tactiles',
     doubleClickToOpenBookmark: 'ouvrir le signet par double-clic',
-    onlyShowTitleInTab: 'afficher uniquement le titre dans l\'onglet'
+    onlyShowTitleInTab: 'afficher uniquement le titre dans l\'onglet',
+    autoCompress: 'Compression automatique'
   },
 
   // app menu

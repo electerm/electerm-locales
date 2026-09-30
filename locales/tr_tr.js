@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: 'sol kenar çubuğu simgeleri',
     disableShortcutBar: 'dokunmatik cihazlar için kısayol çubuğunu devre dışı bırak',
     doubleClickToOpenBookmark: 'yer imini çift tıklamayla aç',
-    onlyShowTitleInTab: 'sekmede yalnızca başlığı göster'
+    onlyShowTitleInTab: 'sekmede yalnızca başlığı göster',
+    autoCompress: 'Otomatik sıkıştır'
   },
 
   // app menu

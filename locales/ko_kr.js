@@ -52,7 +52,8 @@ const lang = {
     leftSideBarIcons: '왼쪽 사이드바 아이콘',
     disableShortcutBar: '터치 기기용 단축 바 비활성화',
     doubleClickToOpenBookmark: '더블 클릭으로 북마크 열기',
-    onlyShowTitleInTab: '탭에 제목만 표시'
+    onlyShowTitleInTab: '탭에 제목만 표시',
+    autoCompress: '자동 압축'
   },
 
   // app menu
