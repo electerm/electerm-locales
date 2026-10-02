@@ -285,7 +285,8 @@ const lang = {
     disableTabIndex: 'تعطيل رقم التبويب',
     restoreTerminalSessionOnReload: 'استعادة جلسة طرفية عند إعادة التحميل',
     monitorBar: 'شريط المراقبة',
-    disableConfirmForLargeClipboardContent: 'تعطيل التأكيد لمحتوى الحافظة الكبير'
+    disableConfirmForLargeClipboardContent: 'تعطيل التأكيد لمحتوى الحافظة الكبير',
+    mouseEventsRequireAlt: 'أحداث الماوس تتطلب مفتاح Alt'
   },
 
   // sftp

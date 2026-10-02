@@ -284,7 +284,8 @@ const lang = {
     disableTabIndex: 'Wyłącz indeks karty',
     restoreTerminalSessionOnReload: 'przywróć sesję terminala przy przeładowaniu',
     monitorBar: 'pasek monitorowania',
-    disableConfirmForLargeClipboardContent: 'wyłącz potwierdzanie dla dużej zawartości schowka'
+    disableConfirmForLargeClipboardContent: 'wyłącz potwierdzanie dla dużej zawartości schowka',
+    mouseEventsRequireAlt: 'zdarzenia myszy wymagają klawisza Alt'
   },
 
   // sftp

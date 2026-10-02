@@ -285,7 +285,8 @@ const lang = {
     disableTabIndex: 'sekme numarasını devre dışı bırak',
     restoreTerminalSessionOnReload: 'yeniden yüklemede terminal oturumunu geri yükle',
     monitorBar: 'izleme çubuğu',
-    disableConfirmForLargeClipboardContent: 'büyük pano içeriği için onayı devre dışı bırak'
+    disableConfirmForLargeClipboardContent: 'büyük pano içeriği için onayı devre dışı bırak',
+    mouseEventsRequireAlt: 'fare olayları Alt tuşunu gerektirir'
   },
 
   // sftp

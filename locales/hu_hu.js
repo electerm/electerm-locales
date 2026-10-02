@@ -284,7 +284,8 @@ const lang = {
     disableTabIndex: 'lapsorszám kikapcsolása',
     restoreTerminalSessionOnReload: 'terminál munkamenet visszaállítása újratöltéskor',
     monitorBar: 'monitor sáv',
-    disableConfirmForLargeClipboardContent: 'nagy vágólap-tartalom megerősítésének letiltása'
+    disableConfirmForLargeClipboardContent: 'nagy vágólap-tartalom megerősítésének letiltása',
+    mouseEventsRequireAlt: 'az egér eseményeihez Alt billentyű szükséges'
   },
 
   // sftp

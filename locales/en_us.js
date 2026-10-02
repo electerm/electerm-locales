@@ -284,7 +284,8 @@ const lang = {
     disableTabIndex: 'disable tab index',
     restoreTerminalSessionOnReload: 'restore terminal session on reload',
     monitorBar: 'monitor bar',
-    disableConfirmForLargeClipboardContent: 'disable confirm for large clipboard content'
+    disableConfirmForLargeClipboardContent: 'disable confirm for large clipboard content',
+    mouseEventsRequireAlt: 'mouse event requires alt key'
   },
 
   // sftp

@@ -285,7 +285,8 @@ const lang = {
     disableTabIndex: '禁用选项卡序号',
     restoreTerminalSessionOnReload: '在重新加载时恢复终端会话',
     monitorBar: '监控栏',
-    disableConfirmForLargeClipboardContent: '禁用大段剪贴板内容粘贴确认'
+    disableConfirmForLargeClipboardContent: '禁用大段剪贴板内容粘贴确认',
+    mouseEventsRequireAlt: '鼠标事件需要按下 Alt 键'
   },
 
   // sftp

@@ -285,7 +285,8 @@ const lang = {
     disableTabIndex: 'отключить индекс вкладки',
     restoreTerminalSessionOnReload: 'восстановить сеанс терминала при перезапуске',
     monitorBar: 'панель мониторинга',
-    disableConfirmForLargeClipboardContent: 'отключить подтверждение для большого содержимого буфера обмена'
+    disableConfirmForLargeClipboardContent: 'отключить подтверждение для большого содержимого буфера обмена',
+    mouseEventsRequireAlt: 'события мыши требуют клавишу Alt'
   },
 
   // sftp

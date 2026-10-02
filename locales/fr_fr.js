@@ -285,7 +285,8 @@ const lang = {
     disableTabIndex: 'désactiver l`index de l`onglet',
     restoreTerminalSessionOnReload: 'restaurer la session de terminal au rafraîchissement',
     monitorBar: 'barre de surveillance',
-    disableConfirmForLargeClipboardContent: 'désactiver la confirmation pour le contenu volumineux du presse-papiers'
+    disableConfirmForLargeClipboardContent: 'désactiver la confirmation pour le contenu volumineux du presse-papiers',
+    mouseEventsRequireAlt: 'les événements de souris nécessitent la touche Alt'
   },
 
   // sftp
