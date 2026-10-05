@@ -285,7 +285,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'pulihkan sesi terminal saat muat ulang',
     monitorBar: 'bilah monitor',
     disableConfirmForLargeClipboardContent: 'nonaktifkan konfirmasi untuk konten papan klip besar',
-    mouseEventsRequireAlt: 'peristiwa mouse memerlukan tombol Alt'
+    mouseEventsRequireAlt: 'peristiwa mouse memerlukan tombol Alt',
+    install: 'pasang',
+    uninstall: 'copot',
+    command: 'perintah'
   },
 
   // sftp

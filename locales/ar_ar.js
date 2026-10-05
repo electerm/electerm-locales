@@ -286,7 +286,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'استعادة جلسة طرفية عند إعادة التحميل',
     monitorBar: 'شريط المراقبة',
     disableConfirmForLargeClipboardContent: 'تعطيل التأكيد لمحتوى الحافظة الكبير',
-    mouseEventsRequireAlt: 'أحداث الماوس تتطلب مفتاح Alt'
+    mouseEventsRequireAlt: 'أحداث الماوس تتطلب مفتاح Alt',
+    install: 'تثبيت',
+    uninstall: 'إلغاء التثبيت',
+    command: 'أمر'
   },
 
   // sftp

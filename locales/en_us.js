@@ -285,7 +285,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'restore terminal session on reload',
     monitorBar: 'monitor bar',
     disableConfirmForLargeClipboardContent: 'disable confirm for large clipboard content',
-    mouseEventsRequireAlt: 'mouse event requires alt key'
+    mouseEventsRequireAlt: 'mouse event requires alt key',
+    install: 'install',
+    uninstall: 'uninstall',
+    command: 'command'
   },
 
   // sftp

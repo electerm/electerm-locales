@@ -273,7 +273,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'Terminal-Sitzung beim Neuladen wiederherstellen',
     monitorBar: 'Monitorleiste',
     disableConfirmForLargeClipboardContent: 'Bestätigung für große Zwischenablageinhalte deaktivieren',
-    mouseEventsRequireAlt: 'Mausereignisse erfordern die Alt-Taste'
+    mouseEventsRequireAlt: 'Mausereignisse erfordern die Alt-Taste',
+    install: 'installieren',
+    uninstall: 'deinstallieren',
+    command: 'Befehl'
   },
 
   sftp: {

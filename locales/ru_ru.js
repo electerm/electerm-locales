@@ -286,7 +286,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'восстановить сеанс терминала при перезапуске',
     monitorBar: 'панель мониторинга',
     disableConfirmForLargeClipboardContent: 'отключить подтверждение для большого содержимого буфера обмена',
-    mouseEventsRequireAlt: 'события мыши требуют клавишу Alt'
+    mouseEventsRequireAlt: 'события мыши требуют клавишу Alt',
+    install: 'установить',
+    uninstall: 'удалить',
+    command: 'команда'
   },
 
   // sftp

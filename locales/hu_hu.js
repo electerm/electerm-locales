@@ -285,7 +285,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'terminál munkamenet visszaállítása újratöltéskor',
     monitorBar: 'monitor sáv',
     disableConfirmForLargeClipboardContent: 'nagy vágólap-tartalom megerősítésének letiltása',
-    mouseEventsRequireAlt: 'az egér eseményeihez Alt billentyű szükséges'
+    mouseEventsRequireAlt: 'az egér eseményeihez Alt billentyű szükséges',
+    install: 'telepítés',
+    uninstall: 'eltávolítás',
+    command: 'parancs'
   },
 
   // sftp

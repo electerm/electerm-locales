@@ -285,7 +285,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'przywróć sesję terminala przy przeładowaniu',
     monitorBar: 'pasek monitorowania',
     disableConfirmForLargeClipboardContent: 'wyłącz potwierdzanie dla dużej zawartości schowka',
-    mouseEventsRequireAlt: 'zdarzenia myszy wymagają klawisza Alt'
+    mouseEventsRequireAlt: 'zdarzenia myszy wymagają klawisza Alt',
+    install: 'zainstaluj',
+    uninstall: 'odinstaluj',
+    command: 'polecenie'
   },
 
   // sftp

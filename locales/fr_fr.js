@@ -286,7 +286,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'restaurer la session de terminal au rafraîchissement',
     monitorBar: 'barre de surveillance',
     disableConfirmForLargeClipboardContent: 'désactiver la confirmation pour le contenu volumineux du presse-papiers',
-    mouseEventsRequireAlt: 'les événements de souris nécessitent la touche Alt'
+    mouseEventsRequireAlt: 'les événements de souris nécessitent la touche Alt',
+    install: 'installer',
+    uninstall: 'désinstaller',
+    command: 'commande'
   },
 
   // sftp

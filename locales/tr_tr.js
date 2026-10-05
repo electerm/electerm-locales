@@ -286,7 +286,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'yeniden yüklemede terminal oturumunu geri yükle',
     monitorBar: 'izleme çubuğu',
     disableConfirmForLargeClipboardContent: 'büyük pano içeriği için onayı devre dışı bırak',
-    mouseEventsRequireAlt: 'fare olayları Alt tuşunu gerektirir'
+    mouseEventsRequireAlt: 'fare olayları Alt tuşunu gerektirir',
+    install: 'yükle',
+    uninstall: 'kaldır',
+    command: 'komut'
   },
 
   // sftp

@@ -286,7 +286,10 @@ const lang = {
     restoreTerminalSessionOnReload: 'ターミナルセッションをリロード時に復元',
     monitorBar: 'モニターバー',
     disableConfirmForLargeClipboardContent: '大きなクリップボード内容の貼り付け確認を無効にする',
-    mouseEventsRequireAlt: 'マウスイベントには Alt キーが必要です'
+    mouseEventsRequireAlt: 'マウスイベントには Alt キーが必要です',
+    install: 'インストール',
+    uninstall: 'アンインストール',
+    command: 'コマンド'
   },
 
   // sftp
