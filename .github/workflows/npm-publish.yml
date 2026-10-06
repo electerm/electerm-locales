@@ -1,0 +1,116 @@
+name: Publish to npm
+
+# Publishes @electerm/electerm-locales whenever the version in package.json is
+# bumped on master. Publishing is done via npm trusted publishing (OIDC), so no
+# NPM_TOKEN secret is needed anywhere.
+#
+# Flow:
+#   check   -> is package.json's version already on the registry?
+#   publish -> only runs when it is NOT (otherwise the whole run is a no-op)
+#
+# One-time setup on npmjs.com (https://www.npmjs.com/package/@electerm/electerm-locales/access):
+#   Provider ............ GitHub Actions
+#   Organization ........ electerm
+#   Repository .......... electerm-locales
+#   Workflow filename ... npm-publish.yml   <- file name, NOT the `name:` above
+#   Environment ......... (leave empty)
+#   Allowed actions ..... npm publish
+# Every field is case-sensitive and npm does not validate it on save, so a typo
+# only shows up as `ENEEDAUTH` at publish time.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# id-token: write is REQUIRED for trusted publishing (and provenance) to work.
+permissions:
+  contents: read
+  id-token: write
+
+# Never let two publishes race for the same version. A queued run re-checks the
+# registry after the first one finishes, finds the version published, and skips.
+concurrency:
+  group: npm-publish
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    outputs:
+      publish: ${{ steps.version.outputs.publish }}
+    # `[skip ci]` is already honoured natively by GitHub Actions; `[skip npm]`
+    # lets a commit run the other workflows but skip this one. Because `publish`
+    # needs this job, skipping here skips the whole workflow.
+    if: ${{ !contains(github.event.head_commit.message, '[skip npm]') }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          registry-url: https://registry.npmjs.org/
+
+      - name: Check whether this version is already published
+        id: version
+        run: |
+          set -eu
+          pkg="$(node -p "require('./package.json').name")"
+          ver="$(node -p "require('./package.json').version")"
+          echo "package.json says $pkg@$ver"
+
+          # `npm view <pkg>@<ver> version` exits 0 when the version exists and
+          # exits 1 with E404 when it does not.
+          if npm view "$pkg@$ver" version >/dev/null 2>&1; then
+            echo "$pkg@$ver is already on npm — nothing to do."
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "$pkg@$ver is not published yet — will build and publish."
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Summary
+        run: |
+          if [ "${{ steps.version.outputs.publish }}" = "true" ]; then
+            echo "### New version to publish :rocket:" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### Already published — skipping build and publish :white_check_mark:" \
+              >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+  publish:
+    needs: check
+    if: needs.check.outputs.publish == 'true'
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          # Node 24 bundles npm >= 11.5.1, the minimum for trusted publishing.
+          node-version: '24'
+          registry-url: https://registry.npmjs.org/
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Test
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+      - name: Publish
+        # Belt and braces: this also compares against the registry and no-ops if
+        # the version appeared between the `check` job and now.
+        run: npx --yes @jsdevtools/npm-publish --access public --provenance
