@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: 'события мыши требуют клавишу Alt',
     install: 'установить',
     uninstall: 'удалить',
-    command: 'команда'
+    command: 'команда',
+    autoDistributeTabsWhenLayoutChange: 'автоматически распределять вкладки при смене раскладки'
   },
 
   // sftp

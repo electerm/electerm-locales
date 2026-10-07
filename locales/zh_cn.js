@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: '鼠标事件需要按下 Alt 键',
     install: '安装',
     uninstall: '卸载',
-    command: '命令'
+    command: '命令',
+    autoDistributeTabsWhenLayoutChange: '布局变化时自动分配标签页'
   },
 
   // sftp

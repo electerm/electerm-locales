@@ -288,7 +288,8 @@ const lang = {
     mouseEventsRequireAlt: 'az egér eseményeihez Alt billentyű szükséges',
     install: 'telepítés',
     uninstall: 'eltávolítás',
-    command: 'parancs'
+    command: 'parancs',
+    autoDistributeTabsWhenLayoutChange: 'elrendezésváltáskor a lapok automatikus szétosztása'
   },
 
   // sftp

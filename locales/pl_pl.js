@@ -288,7 +288,8 @@ const lang = {
     mouseEventsRequireAlt: 'zdarzenia myszy wymagają klawisza Alt',
     install: 'zainstaluj',
     uninstall: 'odinstaluj',
-    command: 'polecenie'
+    command: 'polecenie',
+    autoDistributeTabsWhenLayoutChange: 'automatycznie rozdzielaj karty przy zmianie układu'
   },
 
   // sftp

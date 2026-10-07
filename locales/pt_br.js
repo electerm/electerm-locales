@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: 'eventos de mouse exigem a tecla Alt',
     install: 'instalar',
     uninstall: 'desinstalar',
-    command: 'comando'
+    command: 'comando',
+    autoDistributeTabsWhenLayoutChange: 'Distribuir automaticamente as abas ao mudar o layout'
   },
 
   // sftp

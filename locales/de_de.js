@@ -276,7 +276,8 @@ const lang = {
     mouseEventsRequireAlt: 'Mausereignisse erfordern die Alt-Taste',
     install: 'installieren',
     uninstall: 'deinstallieren',
-    command: 'Befehl'
+    command: 'Befehl',
+    autoDistributeTabsWhenLayoutChange: 'Tabs beim Layoutwechsel automatisch verteilen'
   },
 
   sftp: {

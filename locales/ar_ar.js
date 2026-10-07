@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: 'أحداث الماوس تتطلب مفتاح Alt',
     install: 'تثبيت',
     uninstall: 'إلغاء التثبيت',
-    command: 'أمر'
+    command: 'أمر',
+    autoDistributeTabsWhenLayoutChange: 'توزيع علامات التبويب تلقائيًا عند تغيير التخطيط'
   },
 
   // sftp

@@ -288,7 +288,8 @@ const lang = {
     mouseEventsRequireAlt: 'peristiwa mouse memerlukan tombol Alt',
     install: 'pasang',
     uninstall: 'copot',
-    command: 'perintah'
+    command: 'perintah',
+    autoDistributeTabsWhenLayoutChange: 'distribusikan tab secara otomatis saat tata letak berubah'
   },
 
   // sftp

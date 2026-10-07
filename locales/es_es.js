@@ -290,7 +290,8 @@ const lang = {
     mouseEventsRequireAlt: 'los eventos del ratón requieren la tecla Alt',
     install: 'instalar',
     uninstall: 'desinstalar',
-    command: 'comando'
+    command: 'comando',
+    autoDistributeTabsWhenLayoutChange: 'Distribuir automáticamente las pestañas al cambiar la disposición'
   },
 
   // sftp

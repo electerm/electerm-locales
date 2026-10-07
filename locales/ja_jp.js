@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: 'マウスイベントには Alt キーが必要です',
     install: 'インストール',
     uninstall: 'アンインストール',
-    command: 'コマンド'
+    command: 'コマンド',
+    autoDistributeTabsWhenLayoutChange: 'レイアウト変更時にタブを自動分配'
   },
 
   // sftp

@@ -289,7 +289,8 @@ const lang = {
     mouseEventsRequireAlt: 'fare olayları Alt tuşunu gerektirir',
     install: 'yükle',
     uninstall: 'kaldır',
-    command: 'komut'
+    command: 'komut',
+    autoDistributeTabsWhenLayoutChange: 'düzen değiştiğinde sekmeleri otomatik dağıt'
   },
 
   // sftp
