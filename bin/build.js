@@ -14,6 +14,27 @@ const dist = resolve(cwd, 'dist')
 const esm = resolve(dist, 'esm')
 const cjs = resolve(dist, 'cjs')
 
+// Display order for consumers (e.g. the language dropdown in electerm):
+// English and Simplified Chinese first, then the rest by total speakers desc.
+// Any locale not listed here is appended after these, alphabetically.
+const langOrder = [
+  'en_us',
+  'zh_cn',
+  'zh_tw',
+  'es_es',
+  'fr_fr',
+  'ar_ar',
+  'pt_br',
+  'ru_ru',
+  'id_id',
+  'de_de',
+  'ja_jp',
+  'tr_tr',
+  'ko_kr',
+  'pl_pl',
+  'hu_hu'
+]
+
 function flattenLangObject (obj) {
   return Object.keys(obj).reduce((pre, k) => {
     const v = obj[k]
@@ -24,12 +45,20 @@ function flattenLangObject (obj) {
   }, {})
 }
 
+function sortLocaleFiles (files) {
+  const rank = f => {
+    const i = langOrder.indexOf(f.replace('.js', ''))
+    return i === -1 ? langOrder.length : i
+  }
+  return files.slice().sort((a, b) => rank(a) - rank(b) || a.localeCompare(b))
+}
+
 async function run () {
   rm('-rf', dist)
   mkdir(dist)
   mkdir(esm)
   mkdir(cjs)
-  const list = fs.readdirSync(p)
+  const list = sortLocaleFiles(fs.readdirSync(p).filter(f => f.endsWith('.js')))
   const prefix = 'module.exports=exports.default='
   const arr = []
   let esmStr = ''
