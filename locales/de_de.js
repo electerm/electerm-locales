@@ -416,7 +416,8 @@ const lang = {
     disableWrap: 'Zeilenumbruch deaktivieren',
     closeSequence: 'Schließsequenz',
     closeSequenceDelay: 'Verzögerung der Schließsequenz',
-    presets: 'Presets'
+    presets: 'Presets',
+    exportDataWarn: 'die exportierte Datei ist Klartext und kann sensible Daten wie Passwörter und private Schlüssel enthalten, bewahren Sie sie sicher auf'
   },
 
   ssh: {

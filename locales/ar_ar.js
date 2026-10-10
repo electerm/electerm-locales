@@ -431,7 +431,8 @@ const lang = {
     disableWrap: 'تعطيل التفاف السطر',
     closeSequence: 'تسلسل الإغلاق',
     closeSequenceDelay: 'تأخير تسلسل الإغلاق',
-    presets: 'إعدادات مسبقة'
+    presets: 'إعدادات مسبقة',
+    exportDataWarn: 'الملف المُصدَّر نص عادي وقد يحتوي على بيانات حساسة مثل كلمات المرور والمفاتيح الخاصة، احتفظ به في مكان آمن'
   },
 
   // ssh terminal

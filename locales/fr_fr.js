@@ -431,7 +431,8 @@ const lang = {
     disableWrap: 'désactiver le retour à la ligne',
     closeSequence: 'Séquence de fermeture',
     closeSequenceDelay: 'Délai de la séquence de fermeture',
-    presets: 'préréglages'
+    presets: 'préréglages',
+    exportDataWarn: 'le fichier exporté est en texte brut et peut contenir des données sensibles comme des mots de passe et des clés privées, conservez-le en lieu sûr'
   },
 
   // ssh terminal

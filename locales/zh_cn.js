@@ -431,7 +431,8 @@ const lang = {
     disableWrap: '禁用换行',
     closeSequence: '关闭序列',
     closeSequenceDelay: '关闭序列延迟',
-    presets: '预设'
+    presets: '预设',
+    exportDataWarn: '导出的文件为明文，可能包含密码、私钥等敏感信息，请妥善保管'
   },
 
   // ssh terminal

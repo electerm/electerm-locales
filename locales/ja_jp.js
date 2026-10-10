@@ -431,7 +431,8 @@ const lang = {
     disableWrap: '折り返しを無効にする',
     closeSequence: '終了シーケンス',
     closeSequenceDelay: '終了シーケンスの遅延',
-    presets: 'プリセット'
+    presets: 'プリセット',
+    exportDataWarn: 'エクスポートしたファイルは平文で、パスワードや秘密鍵などの機密情報が含まれる可能性があります。安全に保管してください'
   },
 
   // ssh terminal

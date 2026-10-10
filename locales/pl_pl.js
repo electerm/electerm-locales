@@ -430,7 +430,8 @@ const lang = {
     disableWrap: 'wyłącz zawijanie wierszy',
     closeSequence: 'Sekwencja zamykania',
     closeSequenceDelay: 'Opóźnienie sekwencji zamykania',
-    presets: 'presety'
+    presets: 'presety',
+    exportDataWarn: 'wyeksportowany plik jest zwykłym tekstem i może zawierać dane wrażliwe, takie jak hasła i klucze prywatne, przechowuj go w bezpiecznym miejscu'
   },
 
   // ssh terminal

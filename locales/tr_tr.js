@@ -431,7 +431,8 @@ const lang = {
     disableWrap: 'satır kaydırmayı devre dışı bırak',
     closeSequence: 'Kapatma dizisi',
     closeSequenceDelay: 'Kapatma dizisi gecikmesi',
-    presets: 'hazır ayarlar'
+    presets: 'hazır ayarlar',
+    exportDataWarn: 'dışa aktarılan dosya düz metindir ve parola, özel anahtar gibi hassas veriler içerebilir; güvenli bir yerde saklayın'
   },
 
   // ssh terminal

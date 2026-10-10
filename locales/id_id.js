@@ -430,7 +430,8 @@ const lang = {
     disableWrap: 'nonaktifkan pembungkusan baris',
     closeSequence: 'Urutan penutupan',
     closeSequenceDelay: 'Penundaan urutan penutupan',
-    presets: 'preset'
+    presets: 'preset',
+    exportDataWarn: 'file yang diekspor berupa teks biasa dan mungkin berisi data sensitif seperti kata sandi dan kunci privat, simpan di tempat yang aman'
   },
 
   // ssh terminal

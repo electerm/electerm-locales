@@ -430,7 +430,8 @@ const lang = {
     disableWrap: 'disable wrap',
     closeSequence: 'close sequence',
     closeSequenceDelay: 'close sequence delay',
-    presets: 'presets'
+    presets: 'presets',
+    exportDataWarn: 'exported file is plain text and may contain sensitive data like passwords and private keys, keep it safe'
   },
 
   // ssh terminal
