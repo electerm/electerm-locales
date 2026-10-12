@@ -290,7 +290,8 @@ const lang = {
     install: 'تثبيت',
     uninstall: 'إلغاء التثبيت',
     command: 'أمر',
-    autoDistributeTabsWhenLayoutChange: 'توزيع علامات التبويب تلقائيًا عند تغيير التخطيط'
+    autoDistributeTabsWhenLayoutChange: 'توزيع علامات التبويب تلقائيًا عند تغيير التخطيط',
+    coverMode: 'وضع التغطية'
   },
 
   // sftp

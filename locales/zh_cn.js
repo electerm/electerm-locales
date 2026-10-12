@@ -290,7 +290,8 @@ const lang = {
     install: '安装',
     uninstall: '卸载',
     command: '命令',
-    autoDistributeTabsWhenLayoutChange: '布局变化时自动分配标签页'
+    autoDistributeTabsWhenLayoutChange: '布局变化时自动分配标签页',
+    coverMode: '铺满模式'
   },
 
   // sftp

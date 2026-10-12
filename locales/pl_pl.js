@@ -289,7 +289,8 @@ const lang = {
     install: 'zainstaluj',
     uninstall: 'odinstaluj',
     command: 'polecenie',
-    autoDistributeTabsWhenLayoutChange: 'automatycznie rozdzielaj karty przy zmianie układu'
+    autoDistributeTabsWhenLayoutChange: 'automatycznie rozdzielaj karty przy zmianie układu',
+    coverMode: 'tryb wypełnienia'
   },
 
   // sftp

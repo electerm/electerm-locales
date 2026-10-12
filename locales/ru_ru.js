@@ -290,7 +290,8 @@ const lang = {
     install: 'установить',
     uninstall: 'удалить',
     command: 'команда',
-    autoDistributeTabsWhenLayoutChange: 'автоматически распределять вкладки при смене раскладки'
+    autoDistributeTabsWhenLayoutChange: 'автоматически распределять вкладки при смене раскладки',
+    coverMode: 'режим заполнения'
   },
 
   // sftp

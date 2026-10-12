@@ -290,7 +290,8 @@ const lang = {
     install: '설치',
     uninstall: '제거',
     command: '명령',
-    autoDistributeTabsWhenLayoutChange: '레이아웃 변경 시 탭 자동 분배'
+    autoDistributeTabsWhenLayoutChange: '레이아웃 변경 시 탭 자동 분배',
+    coverMode: '커버 모드'
   },
 
   // sftp

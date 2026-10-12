@@ -290,7 +290,8 @@ const lang = {
     install: 'instalar',
     uninstall: 'desinstalar',
     command: 'comando',
-    autoDistributeTabsWhenLayoutChange: 'Distribuir automaticamente as abas ao mudar o layout'
+    autoDistributeTabsWhenLayoutChange: 'Distribuir automaticamente as abas ao mudar o layout',
+    coverMode: 'modo cobrir'
   },
 
   // sftp

@@ -291,7 +291,8 @@ const lang = {
     install: 'instalar',
     uninstall: 'desinstalar',
     command: 'comando',
-    autoDistributeTabsWhenLayoutChange: 'Distribuir automáticamente las pestañas al cambiar la disposición'
+    autoDistributeTabsWhenLayoutChange: 'Distribuir automáticamente las pestañas al cambiar la disposición',
+    coverMode: 'modo cubrir'
   },
 
   // sftp

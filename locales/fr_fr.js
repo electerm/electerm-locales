@@ -290,7 +290,8 @@ const lang = {
     install: 'installer',
     uninstall: 'désinstaller',
     command: 'commande',
-    autoDistributeTabsWhenLayoutChange: 'répartir automatiquement les onglets lors d\'un changement de disposition'
+    autoDistributeTabsWhenLayoutChange: 'répartir automatiquement les onglets lors d\'un changement de disposition',
+    coverMode: 'mode couverture'
   },
 
   // sftp

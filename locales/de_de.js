@@ -277,7 +277,8 @@ const lang = {
     install: 'installieren',
     uninstall: 'deinstallieren',
     command: 'Befehl',
-    autoDistributeTabsWhenLayoutChange: 'Tabs beim Layoutwechsel automatisch verteilen'
+    autoDistributeTabsWhenLayoutChange: 'Tabs beim Layoutwechsel automatisch verteilen',
+    coverMode: 'Abdeckmodus'
   },
 
   sftp: {

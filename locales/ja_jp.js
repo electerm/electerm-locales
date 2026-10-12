@@ -290,7 +290,8 @@ const lang = {
     install: 'インストール',
     uninstall: 'アンインストール',
     command: 'コマンド',
-    autoDistributeTabsWhenLayoutChange: 'レイアウト変更時にタブを自動分配'
+    autoDistributeTabsWhenLayoutChange: 'レイアウト変更時にタブを自動分配',
+    coverMode: 'カバーモード'
   },
 
   // sftp

@@ -290,7 +290,8 @@ const lang = {
     install: 'yükle',
     uninstall: 'kaldır',
     command: 'komut',
-    autoDistributeTabsWhenLayoutChange: 'düzen değiştiğinde sekmeleri otomatik dağıt'
+    autoDistributeTabsWhenLayoutChange: 'düzen değiştiğinde sekmeleri otomatik dağıt',
+    coverMode: 'kaplama modu'
   },
 
   // sftp

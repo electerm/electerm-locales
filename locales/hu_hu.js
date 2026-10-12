@@ -289,7 +289,8 @@ const lang = {
     install: 'telepítés',
     uninstall: 'eltávolítás',
     command: 'parancs',
-    autoDistributeTabsWhenLayoutChange: 'elrendezésváltáskor a lapok automatikus szétosztása'
+    autoDistributeTabsWhenLayoutChange: 'elrendezésváltáskor a lapok automatikus szétosztása',
+    coverMode: 'kitöltési mód'
   },
 
   // sftp

@@ -289,7 +289,8 @@ const lang = {
     install: 'pasang',
     uninstall: 'copot',
     command: 'perintah',
-    autoDistributeTabsWhenLayoutChange: 'distribusikan tab secara otomatis saat tata letak berubah'
+    autoDistributeTabsWhenLayoutChange: 'distribusikan tab secara otomatis saat tata letak berubah',
+    coverMode: 'mode penuh'
   },
 
   // sftp
