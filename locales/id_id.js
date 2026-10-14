@@ -372,6 +372,7 @@ const lang = {
     privateKey: 'kunci privat',
     privateKeyDesc: 'string kunci privat',
     importFromFile: 'impor dari file',
+    selectFilePath: 'pilih jalur file',
     passphrase: 'frasa sandi',
     passphraseDesc: 'frasa sandi untuk kunci privat',
     host: 'host',

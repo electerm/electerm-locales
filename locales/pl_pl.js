@@ -372,6 +372,7 @@ const lang = {
     privateKey: 'Klucz prywatny',
     privateKeyDesc: 'Ciąg klucza prywatnego',
     importFromFile: 'Importuj z pliku',
+    selectFilePath: 'Wybierz ścieżkę pliku',
     passphrase: 'Hasło klucza',
     passphraseDesc: 'Hasło dla klucza prywatnego',
     host: 'Host',

@@ -373,6 +373,7 @@ const lang = {
     privateKey: '私鑰',
     privateKeyDesc: '私鑰字串',
     importFromFile: '從檔案匯入',
+    selectFilePath: '選擇檔案路徑',
     passphrase: '私鑰密碼',
     passphraseDesc: '私鑰的密碼',
     host: '主機位址',

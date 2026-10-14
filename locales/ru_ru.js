@@ -373,6 +373,7 @@ const lang = {
     privateKey: 'Приватный ключ',
     privateKeyDesc: 'Строка приватного ключа',
     importFromFile: 'Загрузить из файла',
+    selectFilePath: 'выбрать путь к файлу',
     passphrase: 'Фраза-пароль',
     passphraseDesc: 'Фраза-пароль для приватного ключа',
     host: 'Адрес',

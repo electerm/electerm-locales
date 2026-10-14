@@ -372,6 +372,7 @@ const lang = {
     privateKey: 'privateKey',
     privateKeyDesc: 'private key string',
     importFromFile: 'import from file',
+    selectFilePath: 'select file path',
     passphrase: 'passphrase',
     passphraseDesc: 'passphrase for privateKey',
     host: 'host',

@@ -373,6 +373,7 @@ const lang = {
     privateKey: '개인 키',
     privateKeyDesc: '개인 키 문자열',
     importFromFile: '파일에서 가져오기',
+    selectFilePath: '파일 경로 선택',
     passphrase: '암호',
     passphraseDesc: '개인 키용 암호',
     host: '호스트',

@@ -358,6 +358,7 @@ const lang = {
     privateKey: 'Privater Schlüssel',
     privateKeyDesc: 'Inhalt des privaten Schlüssels',
     importFromFile: 'Aus Datei importieren',
+    selectFilePath: 'Dateipfad auswählen',
     passphrase: 'Passphrase',
     passphraseDesc: 'Passphrase für den privaten Schlüssel',
     host: 'Host',

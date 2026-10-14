@@ -373,6 +373,7 @@ const lang = {
     privateKey: 'مفتاح خاص',
     privateKeyDesc: 'سلسلة المفتاح الخاص',
     importFromFile: 'استيراد من ملف',
+    selectFilePath: 'اختيار مسار الملف',
     passphrase: 'عبارة المرور',
     passphraseDesc: 'عبارة مرور المفتاح الخاص',
     host: 'المضيف',

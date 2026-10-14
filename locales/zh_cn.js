@@ -373,6 +373,7 @@ const lang = {
     privateKey: '私钥',
     privateKeyDesc: '私钥字符串',
     importFromFile: '从文件导入',
+    selectFilePath: '选择文件路径',
     passphrase: '私钥密码',
     passphraseDesc: '私钥的密码',
     host: '主机地址',

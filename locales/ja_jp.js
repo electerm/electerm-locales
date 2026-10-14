@@ -373,6 +373,7 @@ const lang = {
     privateKey: '秘密鍵',
     privateKeyDesc: '秘密鍵テキスト',
     importFromFile: 'ファイルからインポート',
+    selectFilePath: 'ファイルパスを選択',
     passphrase: '秘密鍵パスワード',
     passphraseDesc: '秘密鍵のパスワード',
     host: 'ホスト',

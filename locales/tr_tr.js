@@ -373,6 +373,7 @@ const lang = {
     privateKey: 'özel anahtar',
     privateKeyDesc: 'özel anahtar açıklaması',
     importFromFile: 'dosyadan içeri aktar',
+    selectFilePath: 'dosya yolu seç',
     passphrase: 'anahtar parolası',
     passphraseDesc: 'anahtar parolası açıklaması',
     host: 'sunucu',

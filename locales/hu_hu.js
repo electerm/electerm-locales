@@ -372,6 +372,7 @@ const lang = {
     privateKey: 'privát kulcs',
     privateKeyDesc: 'privát kulcs szövege',
     importFromFile: 'importálás fájlból',
+    selectFilePath: 'fájlútvonal kiválasztása',
     passphrase: 'jelmondat',
     passphraseDesc: 'a privát kulcs jelmondata',
     host: 'gépnév vagy IP-cím',
