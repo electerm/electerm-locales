@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: 'Nouveau raccourci',
     inputOnly: 'Saisie uniquement (ne termine pas par la touche entrée)',
     labels: 'Étiquettes',
-    sortByFrequency: 'trier par fréquence'
+    sortByFrequency: 'trier par fréquence',
+    templates: 'modèles',
+    steps: 'étapes',
+    key: 'touche',
+    delay: 'délai',
+    waitForText: 'attendre le texte',
+    askForInput: 'demander une saisie',
+    repeat: 'répéter',
+    waitTimeout: 'délai en secondes, 0 sans limite',
+    insertAbove: 'insérer au-dessus',
+    insertBelow: 'insérer en dessous',
+    runInTerminals: 'exécuter dans des terminaux...',
+    stop: 'arrêter',
+    stopQuickCommand: 'arrêter la commande rapide',
+    waitTimedOut: 'délai dépassé en attendant',
+    recording: 'enregistrement en cours',
+    nothingRecorded: 'rien n\'a été enregistré',
+    recordingSecretsWarning: 'tout ce que vous avez tapé a été enregistré, vérifiez les étapes avant de sauvegarder'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: 'historique des commandes',
     moveToRightPanel: 'déplacer vers le panneau de droite',
     moveToFooter: 'déplacer vers le pied de page'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'déclencheurs'
   }
 }
 

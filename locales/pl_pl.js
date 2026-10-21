@@ -493,7 +493,24 @@ const lang = {
     newQuickCommand: 'Nowe szybkie polecenie',
     inputOnly: 'Tylko wprowadzanie',
     labels: 'Etykiety',
-    sortByFrequency: 'Sortuj według częstotliwości'
+    sortByFrequency: 'Sortuj według częstotliwości',
+    templates: 'szablony',
+    steps: 'kroki',
+    key: 'klawisz',
+    delay: 'opóźnienie',
+    waitForText: 'czekaj na tekst',
+    askForInput: 'poproś o wartość',
+    repeat: 'powtórz',
+    waitTimeout: 'limit czasu w sekundach, 0 bez limitu',
+    insertAbove: 'wstaw powyżej',
+    insertBelow: 'wstaw poniżej',
+    runInTerminals: 'uruchom w terminalach...',
+    stop: 'zatrzymaj',
+    stopQuickCommand: 'zatrzymaj szybkie polecenie',
+    waitTimedOut: 'przekroczono czas oczekiwania na',
+    recording: 'nagrywanie',
+    nothingRecorded: 'nic nie nagrano',
+    recordingSecretsWarning: 'wszystko, co wpisano, zostało nagrane — sprawdź kroki przed zapisaniem'
   },
 
   // setting sync
@@ -517,6 +534,11 @@ const lang = {
     cmdHistory: 'historia poleceń',
     moveToRightPanel: 'przenieś do prawego panelu',
     moveToFooter: 'przenieś do stopki'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'wyzwalacze'
   }
 }
 

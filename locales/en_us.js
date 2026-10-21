@@ -493,7 +493,24 @@ const lang = {
     newQuickCommand: 'new quick command',
     inputOnly: 'input only',
     labels: 'labels',
-    sortByFrequency: 'sort by frequency'
+    sortByFrequency: 'sort by frequency',
+    templates: 'templates',
+    steps: 'steps',
+    key: 'key',
+    delay: 'delay',
+    waitForText: 'wait for text',
+    askForInput: 'ask for input',
+    repeat: 'repeat',
+    waitTimeout: 'timeout in seconds, 0 waits with no limit',
+    insertAbove: 'insert above',
+    insertBelow: 'insert below',
+    runInTerminals: 'run in terminals...',
+    stop: 'stop',
+    stopQuickCommand: 'stop quick command',
+    waitTimedOut: 'timed out waiting for',
+    recording: 'recording',
+    nothingRecorded: 'nothing was recorded',
+    recordingSecretsWarning: 'everything you typed was recorded, check the steps for secrets before saving'
   },
 
   // setting sync
@@ -517,6 +534,11 @@ const lang = {
     cmdHistory: 'command history',
     moveToRightPanel: 'move to right panel',
     moveToFooter: 'move to footer'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'triggers'
   }
 }
 

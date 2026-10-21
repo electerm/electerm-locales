@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: 'Новая быстрая команда',
     inputOnly: 'Только ввод',
     labels: 'Ярлыки',
-    sortByFrequency: 'Сортировать по частоте'
+    sortByFrequency: 'Сортировать по частоте',
+    templates: 'шаблоны',
+    steps: 'шаги',
+    key: 'клавиша',
+    delay: 'задержка',
+    waitForText: 'ждать текст',
+    askForInput: 'запросить ввод',
+    repeat: 'повторить',
+    waitTimeout: 'таймаут в секундах, 0 — без ограничения',
+    insertAbove: 'вставить выше',
+    insertBelow: 'вставить ниже',
+    runInTerminals: 'выполнить в терминалах...',
+    stop: 'остановить',
+    stopQuickCommand: 'остановить быструю команду',
+    waitTimedOut: 'время ожидания истекло для',
+    recording: 'идёт запись',
+    nothingRecorded: 'ничего не записано',
+    recordingSecretsWarning: 'записано всё, что вы вводили; проверьте шаги на секреты перед сохранением'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: 'история команд',
     moveToRightPanel: 'переместить в правую панель',
     moveToFooter: 'переместить в нижнюю панель'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'триггеры'
   }
 }
 

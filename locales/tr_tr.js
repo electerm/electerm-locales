@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: 'yeni hızlı komut',
     inputOnly: 'sadece giriş',
     labels: 'etiket',
-    sortByFrequency: 'kullanım sıklığına göre sırala'
+    sortByFrequency: 'kullanım sıklığına göre sırala',
+    templates: 'şablonlar',
+    steps: 'adımlar',
+    key: 'tuş',
+    delay: 'gecikme',
+    waitForText: 'metin bekle',
+    askForInput: 'giriş iste',
+    repeat: 'tekrar',
+    waitTimeout: 'saniye cinsinden zaman aşımı, 0 sınırsız',
+    insertAbove: 'yukarıya ekle',
+    insertBelow: 'aşağıya ekle',
+    runInTerminals: 'terminallerde çalıştır...',
+    stop: 'durdur',
+    stopQuickCommand: 'hızlı komutu durdur',
+    waitTimedOut: 'bekleme zaman aşımına uğradı',
+    recording: 'kaydediliyor',
+    nothingRecorded: 'hiçbir şey kaydedilmedi',
+    recordingSecretsWarning: 'yazdığınız her şey kaydedildi, kaydetmeden önce adımları gizli bilgi için kontrol edin'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: 'komut geçmişi',
     moveToRightPanel: 'sağ panele taşı',
     moveToFooter: 'alt bilgiye taşı'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'tetikleyiciler'
   }
 }
 

@@ -495,7 +495,24 @@ const lang = {
     newQuickCommand: 'nuevo comando rápido',
     inputOnly: 'solo entrada',
     labels: 'etiquetas',
-    sortByFrequency: 'ordenar por frecuencia'
+    sortByFrequency: 'ordenar por frecuencia',
+    templates: 'plantillas',
+    steps: 'pasos',
+    key: 'tecla',
+    delay: 'retraso',
+    waitForText: 'esperar texto',
+    askForInput: 'pedir una entrada',
+    repeat: 'repetir',
+    waitTimeout: 'tiempo de espera en segundos, 0 sin límite',
+    insertAbove: 'insertar arriba',
+    insertBelow: 'insertar abajo',
+    runInTerminals: 'ejecutar en terminales...',
+    stop: 'detener',
+    stopQuickCommand: 'detener comando rápido',
+    waitTimedOut: 'tiempo de espera agotado para',
+    recording: 'grabando',
+    nothingRecorded: 'no se grabó nada',
+    recordingSecretsWarning: 'se grabó todo lo que escribiste, revisa los pasos por si hay secretos antes de guardar'
   },
 
   // setting sync
@@ -519,6 +536,11 @@ const lang = {
     cmdHistory: 'historial de comandos',
     moveToRightPanel: 'mover al panel derecho',
     moveToFooter: 'mover al pie de página'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'disparadores'
   }
 }
 

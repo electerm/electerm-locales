@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: '新建快速命令',
     inputOnly: '仅输入',
     labels: '标签',
-    sortByFrequency: '按频率排序'
+    sortByFrequency: '按频率排序',
+    templates: '模板',
+    steps: '步骤',
+    key: '按键',
+    delay: '延迟',
+    waitForText: '等待文本',
+    askForInput: '请求输入',
+    repeat: '重复',
+    waitTimeout: '超时秒数，0 表示不限制',
+    insertAbove: '在上方插入',
+    insertBelow: '在下方插入',
+    runInTerminals: '在终端中运行…',
+    stop: '停止',
+    stopQuickCommand: '停止快速命令',
+    waitTimedOut: '等待超时',
+    recording: '录制中',
+    nothingRecorded: '没有录制到任何内容',
+    recordingSecretsWarning: '你输入的所有内容都被录制了，保存前请检查步骤里是否包含密码等敏感信息'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: '命令历史',
     moveToRightPanel: '移动到右侧面板',
     moveToFooter: '移到底部'
+  },
+
+  // triggers
+  trigger: {
+    triggers: '触发器'
   }
 }
 

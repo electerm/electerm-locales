@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: 'أمر سريع جديد',
     inputOnly: 'إدخال فقط',
     labels: 'التصنيفات',
-    sortByFrequency: 'فرز حسب التردد'
+    sortByFrequency: 'فرز حسب التردد',
+    templates: 'القوالب',
+    steps: 'الخطوات',
+    key: 'مفتاح',
+    delay: 'التأخير',
+    waitForText: 'انتظار نص',
+    askForInput: 'طلب إدخال',
+    repeat: 'تكرار',
+    waitTimeout: 'المهلة بالثواني، 0 بدون حد',
+    insertAbove: 'إدراج أعلى',
+    insertBelow: 'إدراج أسفل',
+    runInTerminals: 'التشغيل في الطرفيات...',
+    stop: 'إيقاف',
+    stopQuickCommand: 'إيقاف الأمر السريع',
+    waitTimedOut: 'انتهت مهلة الانتظار لـ',
+    recording: 'جارٍ التسجيل',
+    nothingRecorded: 'لم يتم تسجيل أي شيء',
+    recordingSecretsWarning: 'تم تسجيل كل ما كتبته، تحقق من الخطوات قبل الحفظ'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: 'سجل الأوامر',
     moveToRightPanel: 'النقل إلى اللوحة اليمنى',
     moveToFooter: 'النقل إلى الشريط السفلي'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'المشغّلات'
   }
 }
 

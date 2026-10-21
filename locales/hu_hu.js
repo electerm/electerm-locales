@@ -493,7 +493,24 @@ const lang = {
     newQuickCommand: 'új gyorsparancs',
     inputOnly: 'csak bevitel',
     labels: 'címkék',
-    sortByFrequency: 'rendezés gyakoriság szerint'
+    sortByFrequency: 'rendezés gyakoriság szerint',
+    templates: 'sablonok',
+    steps: 'lépések',
+    key: 'billentyű',
+    delay: 'késleltetés',
+    waitForText: 'várakozás szövegre',
+    askForInput: 'kérjen bevitelt',
+    repeat: 'ismétlés',
+    waitTimeout: 'időtúllépés másodpercben, 0 = korlátlan',
+    insertAbove: 'beszúrás fölé',
+    insertBelow: 'beszúrás alá',
+    runInTerminals: 'futtatás terminálokban...',
+    stop: 'leállítás',
+    stopQuickCommand: 'gyorsparancs leállítása',
+    waitTimedOut: 'időtúllépés várakozás közben',
+    recording: 'rögzítés folyamatban',
+    nothingRecorded: 'nem történt rögzítés',
+    recordingSecretsWarning: 'minden beírt szöveg rögzítésre került, mentés előtt ellenőrizze a lépéseket titkok után'
   },
 
   // setting sync
@@ -517,6 +534,11 @@ const lang = {
     cmdHistory: 'parancselőzmények',
     moveToRightPanel: 'áthelyezés a jobb oldali panelre',
     moveToFooter: 'áthelyezés a láblécbe'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'eseménykiváltók'
   }
 }
 

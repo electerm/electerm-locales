@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: '새 빠른 명령',
     inputOnly: '입력만 가능',
     labels: '라벨',
-    sortByFrequency: '사용 빈도순 정렬'
+    sortByFrequency: '사용 빈도순 정렬',
+    templates: '템플릿',
+    steps: '단계',
+    key: '키',
+    delay: '지연',
+    waitForText: '텍스트 대기',
+    askForInput: '입력 요청',
+    repeat: '반복',
+    waitTimeout: '제한 시간(초), 0은 무제한',
+    insertAbove: '위에 삽입',
+    insertBelow: '아래에 삽입',
+    runInTerminals: '터미널에서 실행…',
+    stop: '중지',
+    stopQuickCommand: '빠른 명령 중지',
+    waitTimedOut: '대기 시간 초과',
+    recording: '녹화 중',
+    nothingRecorded: '녹화된 내용이 없습니다',
+    recordingSecretsWarning: '입력한 내용이 모두 녹화되었습니다. 저장 전에 비밀 정보가 있는지 확인하세요'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: '명령 기록',
     moveToRightPanel: '오른쪽 패널로 이동',
     moveToFooter: '바닥글로 이동'
+  },
+
+  // triggers
+  trigger: {
+    triggers: '트리거'
   }
 }
 

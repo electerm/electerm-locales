@@ -494,7 +494,24 @@ const lang = {
     newQuickCommand: '新規コマンド',
     inputOnly: '入力のみ',
     labels: 'ラベル',
-    sortByFrequency: '使用頻度でソート'
+    sortByFrequency: '使用頻度でソート',
+    templates: 'テンプレート',
+    steps: 'ステップ',
+    key: 'キー',
+    delay: '遅延',
+    waitForText: 'テキストを待つ',
+    askForInput: '入力を受け付ける',
+    repeat: '繰り返し',
+    waitTimeout: 'タイムアウト秒（0 は無制限）',
+    insertAbove: '上に挿入',
+    insertBelow: '下に挿入',
+    runInTerminals: 'ターミナルで実行…',
+    stop: '停止',
+    stopQuickCommand: 'クイックコマンドを停止',
+    waitTimedOut: '待機がタイムアウトしました',
+    recording: '録画中',
+    nothingRecorded: '何も録画されていません',
+    recordingSecretsWarning: '入力した内容はすべて録画されています。保存前に秘密情報がないか確認してください'
   },
 
   // setting sync
@@ -518,6 +535,11 @@ const lang = {
     cmdHistory: 'コマンド履歴',
     moveToRightPanel: '右パネルへ移動',
     moveToFooter: 'フッターへ移動'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'トリガー'
   }
 }
 

@@ -493,7 +493,24 @@ const lang = {
     newQuickCommand: 'perintah cepat baru',
     inputOnly: 'input saja',
     labels: 'label',
-    sortByFrequency: 'urutkan berdasarkan frekuensi'
+    sortByFrequency: 'urutkan berdasarkan frekuensi',
+    templates: 'templat',
+    steps: 'langkah',
+    key: 'tombol',
+    delay: 'jeda',
+    waitForText: 'tunggu teks',
+    askForInput: 'minta masukan',
+    repeat: 'ulangi',
+    waitTimeout: 'batas waktu dalam detik, 0 tanpa batas',
+    insertAbove: 'sisipkan di atas',
+    insertBelow: 'sisipkan di bawah',
+    runInTerminals: 'jalankan di terminal...',
+    stop: 'hentikan',
+    stopQuickCommand: 'hentikan perintah cepat',
+    waitTimedOut: 'waktu habis menunggu',
+    recording: 'merekam',
+    nothingRecorded: 'tidak ada yang terekam',
+    recordingSecretsWarning: 'semua yang Anda ketik terekam, periksa langkah sebelum menyimpan'
   },
 
   // setting sync
@@ -517,6 +534,11 @@ const lang = {
     cmdHistory: 'riwayat perintah',
     moveToRightPanel: 'pindahkan ke panel kanan',
     moveToFooter: 'pindahkan ke footer'
+  },
+
+  // triggers
+  trigger: {
+    triggers: 'pemicu'
   }
 }
 
