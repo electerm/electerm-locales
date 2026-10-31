@@ -436,7 +436,8 @@ const lang = {
     closeSequence: 'Séquence de fermeture',
     closeSequenceDelay: 'Délai de la séquence de fermeture',
     presets: 'préréglages',
-    exportDataWarn: 'le fichier exporté est en texte brut et peut contenir des données sensibles comme des mots de passe et des clés privées, conservez-le en lieu sûr'
+    exportDataWarn: 'le fichier exporté est en texte brut et peut contenir des données sensibles comme des mots de passe et des clés privées, conservez-le en lieu sûr',
+    publicKey: 'clé publique'
   },
 
   // ssh terminal

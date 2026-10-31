@@ -435,7 +435,8 @@ const lang = {
     closeSequence: 'Urutan penutupan',
     closeSequenceDelay: 'Penundaan urutan penutupan',
     presets: 'preset',
-    exportDataWarn: 'file yang diekspor berupa teks biasa dan mungkin berisi data sensitif seperti kata sandi dan kunci privat, simpan di tempat yang aman'
+    exportDataWarn: 'file yang diekspor berupa teks biasa dan mungkin berisi data sensitif seperti kata sandi dan kunci privat, simpan di tempat yang aman',
+    publicKey: 'kunci publik'
   },
 
   // ssh terminal

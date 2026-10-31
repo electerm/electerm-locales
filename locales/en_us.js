@@ -435,7 +435,8 @@ const lang = {
     closeSequence: 'close sequence',
     closeSequenceDelay: 'close sequence delay',
     presets: 'presets',
-    exportDataWarn: 'exported file is plain text and may contain sensitive data like passwords and private keys, keep it safe'
+    exportDataWarn: 'exported file is plain text and may contain sensitive data like passwords and private keys, keep it safe',
+    publicKey: 'public key'
   },
 
   // ssh terminal

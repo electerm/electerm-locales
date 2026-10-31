@@ -436,7 +436,8 @@ const lang = {
     closeSequence: '종료 시퀀스',
     closeSequenceDelay: '종료 시퀀스 지연',
     presets: '프리셋',
-    exportDataWarn: '내보낸 파일은 일반 텍스트이며 비밀번호, 개인 키 등 민감한 정보가 포함될 수 있으니 안전하게 보관하세요'
+    exportDataWarn: '내보낸 파일은 일반 텍스트이며 비밀번호, 개인 키 등 민감한 정보가 포함될 수 있으니 안전하게 보관하세요',
+    publicKey: '공개 키'
   },
 
   // ssh terminal

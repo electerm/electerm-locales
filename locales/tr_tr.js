@@ -436,7 +436,8 @@ const lang = {
     closeSequence: 'Kapatma dizisi',
     closeSequenceDelay: 'Kapatma dizisi gecikmesi',
     presets: 'hazır ayarlar',
-    exportDataWarn: 'dışa aktarılan dosya düz metindir ve parola, özel anahtar gibi hassas veriler içerebilir; güvenli bir yerde saklayın'
+    exportDataWarn: 'dışa aktarılan dosya düz metindir ve parola, özel anahtar gibi hassas veriler içerebilir; güvenli bir yerde saklayın',
+    publicKey: 'ortak anahtar'
   },
 
   // ssh terminal

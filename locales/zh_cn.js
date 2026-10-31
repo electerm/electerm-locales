@@ -436,7 +436,8 @@ const lang = {
     closeSequence: '关闭序列',
     closeSequenceDelay: '关闭序列延迟',
     presets: '预设',
-    exportDataWarn: '导出的文件为明文，可能包含密码、私钥等敏感信息，请妥善保管'
+    exportDataWarn: '导出的文件为明文，可能包含密码、私钥等敏感信息，请妥善保管',
+    publicKey: '公钥'
   },
 
   // ssh terminal

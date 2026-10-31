@@ -436,7 +436,8 @@ const lang = {
     closeSequence: '終了シーケンス',
     closeSequenceDelay: '終了シーケンスの遅延',
     presets: 'プリセット',
-    exportDataWarn: 'エクスポートしたファイルは平文で、パスワードや秘密鍵などの機密情報が含まれる可能性があります。安全に保管してください'
+    exportDataWarn: 'エクスポートしたファイルは平文で、パスワードや秘密鍵などの機密情報が含まれる可能性があります。安全に保管してください',
+    publicKey: '公開鍵'
   },
 
   // ssh terminal

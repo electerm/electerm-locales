@@ -435,7 +435,8 @@ const lang = {
     closeSequence: 'Bezárási szekvencia',
     closeSequenceDelay: 'Bezárási szekvencia késleltetése',
     presets: 'Előbeállítások',
-    exportDataWarn: 'az exportált fájl egyszerű szöveg, és tartalmazhat érzékeny adatokat, például jelszavakat és privát kulcsokat; tartsa biztonságos helyen'
+    exportDataWarn: 'az exportált fájl egyszerű szöveg, és tartalmazhat érzékeny adatokat, például jelszavakat és privát kulcsokat; tartsa biztonságos helyen',
+    publicKey: 'nyilvános kulcs'
   },
 
   // ssh terminal

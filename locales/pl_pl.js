@@ -435,7 +435,8 @@ const lang = {
     closeSequence: 'Sekwencja zamykania',
     closeSequenceDelay: 'Opóźnienie sekwencji zamykania',
     presets: 'presety',
-    exportDataWarn: 'wyeksportowany plik jest zwykłym tekstem i może zawierać dane wrażliwe, takie jak hasła i klucze prywatne, przechowuj go w bezpiecznym miejscu'
+    exportDataWarn: 'wyeksportowany plik jest zwykłym tekstem i może zawierać dane wrażliwe, takie jak hasła i klucze prywatne, przechowuj go w bezpiecznym miejscu',
+    publicKey: 'klucz publiczny'
   },
 
   // ssh terminal

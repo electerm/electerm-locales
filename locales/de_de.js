@@ -421,7 +421,8 @@ const lang = {
     closeSequence: 'Schließsequenz',
     closeSequenceDelay: 'Verzögerung der Schließsequenz',
     presets: 'Presets',
-    exportDataWarn: 'die exportierte Datei ist Klartext und kann sensible Daten wie Passwörter und private Schlüssel enthalten, bewahren Sie sie sicher auf'
+    exportDataWarn: 'die exportierte Datei ist Klartext und kann sensible Daten wie Passwörter und private Schlüssel enthalten, bewahren Sie sie sicher auf',
+    publicKey: 'Öffentlicher Schlüssel'
   },
 
   ssh: {
