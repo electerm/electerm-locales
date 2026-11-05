@@ -95,7 +95,6 @@ jobs:
         with:
           # Node 24 bundles npm >= 11.5.1, the minimum for trusted publishing.
           node-version: '24'
-          registry-url: https://registry.npmjs.org/
           cache: npm
 
       - name: Install dependencies
@@ -111,6 +110,8 @@ jobs:
         run: npm run build
 
       - name: Publish
-        # Belt and braces: this also compares against the registry and no-ops if
-        # the version appeared between the `check` job and now.
-        run: npx --yes @jsdevtools/npm-publish --access public --provenance
+        # `npm publish` directly, not @jsdevtools/npm-publish: the wrapper writes
+        # a .npmrc with `_authToken=${NODE_AUTH_TOKEN}` and sets the token empty,
+        # so npm takes the token path and dies with ENEEDAUTH instead of doing
+        # the OIDC exchange for trusted publishing.
+        run: npm publish --access public --provenance
