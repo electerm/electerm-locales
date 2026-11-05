@@ -422,6 +422,7 @@ const lang = {
     editWithTextEditor: 'Edytuj w edytorze tekstu',
     loadSshConfigs: 'Wczytaj konfiguracje SSH',
     useSshAgent: 'użyj agenta ssh',
+    usePasswordManager: 'użyj menedżera haseł',
     agentForward: 'przekazywanie agenta',
     createBookmarkByAI: 'utwórz zakładkę za pomocą AI',
     aiSecurityNotice: 'NIE umieszczaj w opisie rzeczywistych haseł, kluczy prywatnych, fraz dostępu, kluczy API ani innych poufnych danych uwierzytelniających. Dane są wysyłane do zewnętrznych interfejsów API AI, chyba że używasz lokalnego modelu LLM.',

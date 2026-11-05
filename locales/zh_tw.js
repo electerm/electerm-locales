@@ -423,6 +423,7 @@ const lang = {
     editWithTextEditor: '用文本編輯器編輯',
     loadSshConfigs: '載入SSH設定',
     useSshAgent: '使用SSH代理',
+    usePasswordManager: '使用密碼管理器',
     agentForward: '代理轉發',
     createBookmarkByAI: 'AI 智能建立書籤',
     aiSecurityNotice: '請勿在描述中包含真實密碼、私鑰、密碼短語、API 金鑰或其他敏感憑證。除非使用本機大語言模型，否則資料將會發送至第三方 AI API。',

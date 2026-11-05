@@ -422,6 +422,7 @@ const lang = {
     editWithTextEditor: 'Edit dengan editor teks',
     loadSshConfigs: 'muat konfigurasi ssh',
     useSshAgent: 'gunakan agen ssh',
+    usePasswordManager: 'gunakan pengelola kata sandi',
     agentForward: 'penerusan agen',
     createBookmarkByAI: 'buat penanda oleh AI',
     aiSecurityNotice: 'JANGAN sertakan kata sandi asli, kunci pribadi, frasa sandi, kunci API, atau kredensial sensitif lainnya dalam deskripsi. Data dikirim ke API AI pihak ketiga kecuali Anda menggunakan LLM lokal.',
