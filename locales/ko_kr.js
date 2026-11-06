@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: '사전 정의된 키보드 인터랙티브 값',
     chooseFromBookmarks: '북마크에서 선택',
     editWithColorPicker: '색상 선택기로 편집',
+    color: '색상',
     icon: '아이콘',
     editWithTextEditor: '텍스트 편집기로 편집',
     loadSshConfigs: 'SSH 구성 로드',

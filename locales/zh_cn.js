@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: '预定义的键盘交互值',
     chooseFromBookmarks: '从书签中选择',
     editWithColorPicker: '用颜色选择器编辑',
+    color: '颜色',
     icon: '图标',
     editWithTextEditor: '用文本编辑器编辑',
     loadSshConfigs: '加载 SSH 配置',

@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: 'القيم التفاعلية المحددة مسبقًا للوحة المفاتيح',
     chooseFromBookmarks: 'اختر من العلامات المرجعية',
     editWithColorPicker: 'تعديل باستخدام منتقي الألوان',
+    color: 'لون',
     icon: 'أيقونة',
     editWithTextEditor: 'تعديل باستخدام محرر النصوص',
     loadSshConfigs: 'تحميل تكوينات ssh',

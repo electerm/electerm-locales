@@ -419,6 +419,7 @@ const lang = {
     interactiveValues: 'nilai interaktif yang sudah ditentukan',
     chooseFromBookmarks: 'pilih dari bookmark',
     editWithColorPicker: 'Edit dengan pemilih warna',
+    color: 'Warna',
     icon: 'ikon',
     editWithTextEditor: 'Edit dengan editor teks',
     loadSshConfigs: 'muat konfigurasi ssh',

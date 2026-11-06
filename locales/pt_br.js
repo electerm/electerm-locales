@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: 'valores interativos do teclado predefinidos',
     chooseFromBookmarks: 'Escolher dos favoritos',
     editWithColorPicker: 'Editar com seletor de cor',
+    color: 'Cor',
     icon: 'ícone',
     editWithTextEditor: 'Editar com editor de texto',
     loadSshConfigs: 'carregar configurações ssh',
