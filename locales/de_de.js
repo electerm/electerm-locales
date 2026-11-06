@@ -405,6 +405,7 @@ const lang = {
     interactiveValues: 'Vordefinierte Werte für Keyboard-Interactive',
     chooseFromBookmarks: 'Aus Lesezeichen auswählen',
     editWithColorPicker: 'Mit Farbauswahl bearbeiten',
+    icon: 'Symbol',
     editWithTextEditor: 'Mit Texteditor bearbeiten',
     loadSshConfigs: 'SSH-Konfigurationen laden',
     useSshAgent: 'SSH-Agent verwenden',

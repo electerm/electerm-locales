@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: '事前定義されたキーボードインタラクティブな値',
     chooseFromBookmarks: 'ブックマークから選択',
     editWithColorPicker: 'カラーピッカーで編集',
+    icon: 'アイコン',
     editWithTextEditor: 'テキストエディタで編集',
     loadSshConfigs: 'SSH 設定を読み込む',
     useSshAgent: 'SSH エージェントを使用',

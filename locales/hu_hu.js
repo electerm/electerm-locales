@@ -419,6 +419,7 @@ const lang = {
     interactiveValues: 'előre megadott interaktív billentyűzetértékek',
     chooseFromBookmarks: 'választás a könyvjelzőkből',
     editWithColorPicker: 'szerkesztés színválasztóval',
+    icon: 'ikon',
     editWithTextEditor: 'szerkesztés szövegszerkesztővel',
     loadSshConfigs: 'SSH-konfigurációk betöltése',
     useSshAgent: 'SSH-agent használata',

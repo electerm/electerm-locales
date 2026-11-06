@@ -419,6 +419,7 @@ const lang = {
     interactiveValues: 'Wstępnie zdefiniowane wartości interaktywne klawiatury',
     chooseFromBookmarks: 'Wybierz z zakładek',
     editWithColorPicker: 'Edytuj za pomocą selektora kolorów',
+    icon: 'ikona',
     editWithTextEditor: 'Edytuj w edytorze tekstu',
     loadSshConfigs: 'Wczytaj konfiguracje SSH',
     useSshAgent: 'użyj agenta ssh',

@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: '預定義的鍵盤交互值',
     chooseFromBookmarks: '從書籤中選擇',
     editWithColorPicker: '用顏色選擇器編輯',
+    icon: '圖示',
     editWithTextEditor: '用文本編輯器編輯',
     loadSshConfigs: '載入SSH設定',
     useSshAgent: '使用SSH代理',

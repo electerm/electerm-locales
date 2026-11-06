@@ -420,6 +420,7 @@ const lang = {
     interactiveValues: 'önceden tanımlanmış etkileşimli klavye değerleri',
     chooseFromBookmarks: 'Yer imlerinden seç',
     editWithColorPicker: 'Renk seçici ile düzenle',
+    icon: 'simge',
     editWithTextEditor: 'Metin düzenleyici ile düzenle',
     loadSshConfigs: 'ssh yapılandırmalarını yükle',
     useSshAgent: 'ssh ajanı kullan',
