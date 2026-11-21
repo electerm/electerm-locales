@@ -440,7 +440,10 @@ const lang = {
     closeSequenceDelay: 'تأخير تسلسل الإغلاق',
     presets: 'إعدادات مسبقة',
     exportDataWarn: 'الملف المُصدَّر نص عادي وقد يحتوي على بيانات حساسة مثل كلمات المرور والمفاتيح الخاصة، احتفظ به في مكان آمن',
-    publicKey: 'المفتاح العام'
+    publicKey: 'المفتاح العام',
+    openedWithExternalRdp: 'تم الفتح باستخدام عميل RDP الخارجي',
+    switchToBuiltInRdp: 'التبديل إلى RDP المدمج',
+    openWithLocalRdp: 'الفتح باستخدام عميل RDP المحلي'
   },
 
   // ssh terminal

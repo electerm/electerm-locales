@@ -441,7 +441,10 @@ const lang = {
     closeSequenceDelay: 'Retraso de la secuencia de cierre',
     presets: 'preajustes',
     exportDataWarn: 'el archivo exportado es texto sin formato y puede contener datos sensibles como contraseñas y claves privadas, guárdalo en un lugar seguro',
-    publicKey: 'clave pública'
+    publicKey: 'clave pública',
+    openedWithExternalRdp: 'abierto con el cliente RDP externo',
+    switchToBuiltInRdp: 'cambiar al RDP integrado',
+    openWithLocalRdp: 'abrir con el cliente RDP local'
   },
 
   // ssh terminal

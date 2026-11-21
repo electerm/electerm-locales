@@ -440,7 +440,10 @@ const lang = {
     closeSequenceDelay: '終了シーケンスの遅延',
     presets: 'プリセット',
     exportDataWarn: 'エクスポートしたファイルは平文で、パスワードや秘密鍵などの機密情報が含まれる可能性があります。安全に保管してください',
-    publicKey: '公開鍵'
+    publicKey: '公開鍵',
+    openedWithExternalRdp: '外部の RDP クライアントで開きました',
+    switchToBuiltInRdp: '組み込み RDP に切り替える',
+    openWithLocalRdp: 'ローカルの RDP クライアントで開く'
   },
 
   // ssh terminal

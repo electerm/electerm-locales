@@ -439,7 +439,10 @@ const lang = {
     closeSequenceDelay: 'Penundaan urutan penutupan',
     presets: 'preset',
     exportDataWarn: 'file yang diekspor berupa teks biasa dan mungkin berisi data sensitif seperti kata sandi dan kunci privat, simpan di tempat yang aman',
-    publicKey: 'kunci publik'
+    publicKey: 'kunci publik',
+    openedWithExternalRdp: 'dibuka dengan klien RDP eksternal',
+    switchToBuiltInRdp: 'beralih ke RDP bawaan',
+    openWithLocalRdp: 'buka dengan klien RDP lokal'
   },
 
   // ssh terminal

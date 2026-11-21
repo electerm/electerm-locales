@@ -439,7 +439,10 @@ const lang = {
     closeSequenceDelay: 'Bezárási szekvencia késleltetése',
     presets: 'Előbeállítások',
     exportDataWarn: 'az exportált fájl egyszerű szöveg, és tartalmazhat érzékeny adatokat, például jelszavakat és privát kulcsokat; tartsa biztonságos helyen',
-    publicKey: 'nyilvános kulcs'
+    publicKey: 'nyilvános kulcs',
+    openedWithExternalRdp: 'megnyitva a külső RDP-klienssel',
+    switchToBuiltInRdp: 'váltás a beépített RDP-re',
+    openWithLocalRdp: 'megnyitás a helyi RDP-klienssel'
   },
 
   // ssh terminal

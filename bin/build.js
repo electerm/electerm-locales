@@ -5,6 +5,7 @@
 import fs from 'fs'
 import pkg from 'shelljs'
 import { resolve } from 'path'
+import { pathToFileURL } from 'url'
 import json5 from 'json5'
 
 const { rm, mkdir } = pkg
@@ -67,7 +68,7 @@ async function run () {
     const name = f.replace('.js', '')
     const pp = resolve(p, f)
     arr.push(f)
-    const js = await import(pp)
+    const js = await import(pathToFileURL(pp).href)
     js.default.lang = flattenLangObject(js.default.lang)
     const tt = resolve(cjs, f)
     fs.writeFileSync(tt, prefix + json5.stringify(js.default))

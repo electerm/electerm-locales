@@ -440,7 +440,10 @@ const lang = {
     closeSequenceDelay: '关闭序列延迟',
     presets: '预设',
     exportDataWarn: '导出的文件为明文，可能包含密码、私钥等敏感信息，请妥善保管',
-    publicKey: '公钥'
+    publicKey: '公钥',
+    openedWithExternalRdp: '已使用外部 RDP 客户端打开',
+    switchToBuiltInRdp: '切换到内置 RDP',
+    openWithLocalRdp: '使用本地 RDP 客户端打开'
   },
 
   // ssh terminal

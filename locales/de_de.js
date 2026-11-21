@@ -425,7 +425,10 @@ const lang = {
     closeSequenceDelay: 'Verzögerung der Schließsequenz',
     presets: 'Presets',
     exportDataWarn: 'die exportierte Datei ist Klartext und kann sensible Daten wie Passwörter und private Schlüssel enthalten, bewahren Sie sie sicher auf',
-    publicKey: 'Öffentlicher Schlüssel'
+    publicKey: 'Öffentlicher Schlüssel',
+    openedWithExternalRdp: 'mit dem externen RDP-Client geöffnet',
+    switchToBuiltInRdp: 'zum integrierten RDP wechseln',
+    openWithLocalRdp: 'mit dem lokalen RDP-Client öffnen'
   },
 
   ssh: {

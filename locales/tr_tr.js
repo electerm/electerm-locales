@@ -440,7 +440,10 @@ const lang = {
     closeSequenceDelay: 'Kapatma dizisi gecikmesi',
     presets: 'hazır ayarlar',
     exportDataWarn: 'dışa aktarılan dosya düz metindir ve parola, özel anahtar gibi hassas veriler içerebilir; güvenli bir yerde saklayın',
-    publicKey: 'ortak anahtar'
+    publicKey: 'ortak anahtar',
+    openedWithExternalRdp: 'harici RDP istemcisiyle açıldı',
+    switchToBuiltInRdp: "yerleşik RDP'ye geç",
+    openWithLocalRdp: 'yerel RDP istemcisiyle aç'
   },
 
   // ssh terminal
