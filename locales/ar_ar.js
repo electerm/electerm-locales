@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: 'النقل إلى الشريط السفلي'
   },
 
+  // widgets
+  widget: {
+    widgets: 'الأدوات',
+    runningInstances: 'المثيلات قيد التشغيل',
+    autoRun: 'التشغيل التلقائي',
+    online: 'عبر الإنترنت',
+    selectWidgetToConfigure: 'اختر أداة لتهيئتها',
+    update: 'تحديث',
+    source: 'الشيفرة المصدرية',
+    retry: 'إعادة المحاولة',
+    installed: 'مثبّت',
+    run: 'تشغيل',
+    running: 'قيد التشغيل',
+    stopped: 'متوقف',
+    generate: 'توليد',
+    start: 'بدء',
+    staticFileServer: 'خادم الملفات الثابتة',
+    localFtpServer: 'خادم FTP محلي',
+    sshServer: 'خادم SSH',
+    mcpServer: 'خادم MCP',
+    fileRenamer: 'أداة إعادة تسمية الملفات'
+  },
+
   // triggers
   trigger: {
     triggers: 'المشغّلات'

@@ -545,6 +545,29 @@ const lang = {
     moveToFooter: 'áthelyezés a láblécbe'
   },
 
+  // widgets
+  widget: {
+    widgets: 'widgetek',
+    runningInstances: 'futó példányok',
+    autoRun: 'automatikus futtatás',
+    online: 'online',
+    selectWidgetToConfigure: 'válasszon egy beállítandó widgetet',
+    update: 'frissítés',
+    source: 'forráskód',
+    retry: 'újrapróbálkozás',
+    installed: 'telepítve',
+    run: 'futtatás',
+    running: 'fut',
+    stopped: 'leállítva',
+    generate: 'létrehozás',
+    start: 'indítás',
+    staticFileServer: 'Statikus fájlkiszolgáló',
+    localFtpServer: 'Helyi FTP-kiszolgáló',
+    sshServer: 'SSH-kiszolgáló',
+    mcpServer: 'MCP-kiszolgáló',
+    fileRenamer: 'Fájlátnevező'
+  },
+
   // triggers
   trigger: {
     triggers: 'eseménykiváltók'

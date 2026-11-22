@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: 'alt bilgiye taşı'
   },
 
+  // widgets
+  widget: {
+    widgets: 'araçlar',
+    runningInstances: 'çalışan örnekler',
+    autoRun: 'otomatik çalıştırma',
+    online: 'çevrimiçi',
+    selectWidgetToConfigure: 'yapılandırılacak bir araç seçin',
+    update: 'güncelle',
+    source: 'kaynak kodu',
+    retry: 'yeniden dene',
+    installed: 'yüklü',
+    run: 'çalıştır',
+    running: 'çalışıyor',
+    stopped: 'durduruldu',
+    generate: 'oluştur',
+    start: 'başlat',
+    staticFileServer: 'Statik Dosya Sunucusu',
+    localFtpServer: 'Yerel FTP Sunucusu',
+    sshServer: 'SSH Sunucusu',
+    mcpServer: 'MCP Sunucusu',
+    fileRenamer: 'Dosya Yeniden Adlandırma'
+  },
+
   // triggers
   trigger: {
     triggers: 'tetikleyiciler'

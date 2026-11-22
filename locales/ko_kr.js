@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: '바닥글로 이동'
   },
 
+  // widgets
+  widget: {
+    widgets: '위젯',
+    runningInstances: '실행 중인 인스턴스',
+    autoRun: '자동 실행',
+    online: '온라인',
+    selectWidgetToConfigure: '설정할 위젯을 선택하세요',
+    update: '업데이트',
+    source: '소스 코드',
+    retry: '다시 시도',
+    installed: '설치됨',
+    run: '실행',
+    running: '실행 중',
+    stopped: '중지됨',
+    generate: '생성',
+    start: '시작',
+    staticFileServer: '정적 파일 서버',
+    localFtpServer: '로컬 FTP 서버',
+    sshServer: 'SSH 서버',
+    mcpServer: 'MCP 서버',
+    fileRenamer: '파일 이름 일괄 변경'
+  },
+
   // triggers
   trigger: {
     triggers: '트리거'
