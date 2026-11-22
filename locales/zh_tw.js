@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: '移到底部'
   },
 
+  // widgets
+  widget: {
+    widgets: '小工具',
+    runningInstances: '執行中的執行個體',
+    autoRun: '自動執行',
+    online: '線上',
+    selectWidgetToConfigure: '選擇要設定的小工具',
+    update: '更新',
+    source: '原始碼',
+    retry: '重試',
+    installed: '已安裝',
+    run: '執行',
+    running: '執行中',
+    stopped: '已停止',
+    generate: '產生',
+    start: '啟動',
+    staticFileServer: '靜態檔案伺服器',
+    localFtpServer: '本機 FTP 伺服器',
+    sshServer: 'SSH 伺服器',
+    mcpServer: 'MCP 伺服器',
+    fileRenamer: '批次重新命名'
+  },
+
   // triggers
   trigger: {
     triggers: '觸發器'

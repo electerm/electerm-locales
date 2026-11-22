@@ -545,6 +545,29 @@ const lang = {
     moveToFooter: 'pindahkan ke footer'
   },
 
+  // widgets
+  widget: {
+    widgets: 'widget',
+    runningInstances: 'instans yang sedang berjalan',
+    autoRun: 'jalankan otomatis',
+    online: 'daring',
+    selectWidgetToConfigure: 'pilih widget untuk dikonfigurasi',
+    update: 'perbarui',
+    source: 'kode sumber',
+    retry: 'coba lagi',
+    installed: 'terpasang',
+    run: 'jalankan',
+    running: 'sedang berjalan',
+    stopped: 'dihentikan',
+    generate: 'buat',
+    start: 'mulai',
+    staticFileServer: 'Server Berkas Statis',
+    localFtpServer: 'Server FTP Lokal',
+    sshServer: 'Server SSH',
+    mcpServer: 'Server MCP',
+    fileRenamer: 'Pengubah Nama Berkas'
+  },
+
   // triggers
   trigger: {
     triggers: 'pemicu'

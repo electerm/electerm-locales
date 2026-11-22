@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: 'フッターへ移動'
   },
 
+  // widgets
+  widget: {
+    widgets: 'ウィジェット',
+    runningInstances: '実行中のインスタンス',
+    autoRun: '自動実行',
+    online: 'オンライン',
+    selectWidgetToConfigure: '設定するウィジェットを選択',
+    update: '更新',
+    source: 'ソースコード',
+    retry: '再試行',
+    installed: 'インストール済み',
+    run: '実行',
+    running: '実行中',
+    stopped: '停止済み',
+    generate: '生成',
+    start: '起動',
+    staticFileServer: '静的ファイルサーバー',
+    localFtpServer: 'ローカル FTP サーバー',
+    sshServer: 'SSH サーバー',
+    mcpServer: 'MCP サーバー',
+    fileRenamer: 'ファイル名の一括変更'
+  },
+
   // triggers
   trigger: {
     triggers: 'トリガー'

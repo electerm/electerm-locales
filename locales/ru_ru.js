@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: 'переместить в нижнюю панель'
   },
 
+  // widgets
+  widget: {
+    widgets: 'виджеты',
+    runningInstances: 'запущенные экземпляры',
+    autoRun: 'автозапуск',
+    online: 'онлайн',
+    selectWidgetToConfigure: 'выберите виджет для настройки',
+    update: 'обновить',
+    source: 'исходный код',
+    retry: 'повторить',
+    installed: 'установлено',
+    run: 'выполнить',
+    running: 'выполняется',
+    stopped: 'остановлено',
+    generate: 'сгенерировать',
+    start: 'запустить',
+    staticFileServer: 'Сервер статических файлов',
+    localFtpServer: 'Локальный FTP-сервер',
+    sshServer: 'SSH-сервер',
+    mcpServer: 'MCP-сервер',
+    fileRenamer: 'Переименование файлов'
+  },
+
   // triggers
   trigger: {
     triggers: 'триггеры'

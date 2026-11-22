@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: 'mover para o rodapé'
   },
 
+  // widgets
+  widget: {
+    widgets: 'widgets',
+    runningInstances: 'instâncias em execução',
+    autoRun: 'execução automática',
+    online: 'online',
+    selectWidgetToConfigure: 'selecione um widget para configurar',
+    update: 'atualizar',
+    source: 'código-fonte',
+    retry: 'tentar novamente',
+    installed: 'instalado',
+    run: 'executar',
+    running: 'em execução',
+    stopped: 'parado',
+    generate: 'gerar',
+    start: 'iniciar',
+    staticFileServer: 'Servidor de arquivos estáticos',
+    localFtpServer: 'Servidor FTP local',
+    sshServer: 'Servidor SSH',
+    mcpServer: 'Servidor MCP',
+    fileRenamer: 'Renomeador de arquivos'
+  },
+
   // triggers
   trigger: {
     triggers: 'gatilhos'

@@ -546,6 +546,29 @@ const lang = {
     moveToFooter: '移到底部'
   },
 
+  // widgets
+  widget: {
+    widgets: '小组件',
+    runningInstances: '运行中的实例',
+    autoRun: '自动运行',
+    online: '在线',
+    selectWidgetToConfigure: '选择要配置的小组件',
+    update: '更新',
+    source: '源码',
+    retry: '重试',
+    installed: '已安装',
+    run: '运行',
+    running: '运行中',
+    stopped: '已停止',
+    generate: '生成',
+    start: '启动',
+    staticFileServer: '静态文件服务器',
+    localFtpServer: '本地 FTP 服务器',
+    sshServer: 'SSH 服务器',
+    mcpServer: 'MCP 服务器',
+    fileRenamer: '批量重命名'
+  },
+
   // triggers
   trigger: {
     triggers: '触发器'

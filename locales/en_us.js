@@ -545,6 +545,29 @@ const lang = {
     moveToFooter: 'move to footer'
   },
 
+  // widgets
+  widget: {
+    widgets: 'widgets',
+    runningInstances: 'running instances',
+    autoRun: 'auto-run',
+    online: 'online',
+    selectWidgetToConfigure: 'select a widget to configure',
+    update: 'update',
+    source: 'source',
+    retry: 'retry',
+    installed: 'installed',
+    run: 'run',
+    running: 'running',
+    stopped: 'stopped',
+    generate: 'generate',
+    start: 'start',
+    staticFileServer: 'Static File Server',
+    localFtpServer: 'Local FTP Server',
+    sshServer: 'SSH Server',
+    mcpServer: 'MCP Server',
+    fileRenamer: 'File Renamer'
+  },
+
   // triggers
   trigger: {
     triggers: 'triggers'
