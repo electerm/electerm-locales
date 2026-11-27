@@ -254,6 +254,7 @@ const lang = {
     openAll: 'فتح كل الإشارات المرجعية في هذه الفئة',
     useSystemTitleBar: 'استخدام شريط عنوان النظام',
     useSystemTitleBarTip: 'أعد تشغيل التطبيق لتطبيق التغيير. شفافية النافذة غير متاحة عند استخدام شريط عنوان النظام.',
+    restoreSessionOnStart: 'استعادة الجلسة عند بدء التشغيل',
     onStartBookmarks: 'فتح الإشارات المرجعية عند بدء التشغيل',
     pleaseSelect: 'الرجاء تحديد',
     keepaliveIntervalDesc: 'الفاصل الزمني للحفاظ على الاتصال',

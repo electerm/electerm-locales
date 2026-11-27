@@ -254,6 +254,7 @@ const lang = {
     openAll: 'Открыть все закладки в этой категории',
     useSystemTitleBar: 'Использовать системный заголовок окна',
     useSystemTitleBarTip: 'Чтобы применить изменение, перезапустите приложение. При использовании системного заголовка окна прозрачность недоступна.',
+    restoreSessionOnStart: 'Восстанавливать сеанс при запуске',
     onStartBookmarks: 'Открыть закладки при запуске',
     pleaseSelect: 'Пожалуйста, выберите',
     keepaliveIntervalDesc: 'Интервал keepalive',

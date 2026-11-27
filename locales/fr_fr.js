@@ -254,6 +254,7 @@ const lang = {
     openAll: 'Ouvrir tous les signets de cette catégorie',
     useSystemTitleBar: 'Utiliser la barre de titre du système',
     useSystemTitleBarTip: 'Redémarrez l’application pour appliquer ce changement. La transparence des fenêtres est indisponible avec la barre de titre du système.',
+    restoreSessionOnStart: 'Restaurer la session au démarrage',
     onStartBookmarks: 'Ouvrir des signets au démarrage',
     pleaseSelect: 'Veuillez sélectionner',
     keepaliveIntervalDesc: 'intervalle de garde',

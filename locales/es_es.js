@@ -255,6 +255,7 @@ const lang = {
     openAll: 'Abrir todos los marcadores de esta categoría',
     useSystemTitleBar: 'Usa la barra de título del sistema',
     useSystemTitleBarTip: 'Reinicia la aplicación para aplicar el cambio. La transparencia de la ventana no está disponible con la barra de título del sistema.',
+    restoreSessionOnStart: 'Restaurar la sesión al iniciar',
     onStartBookmarks: 'Marcadores que se abren al iniciar',
     pleaseSelect: 'por favor seleccione',
     keepaliveIntervalDesc: 'intervalo de keepalive',

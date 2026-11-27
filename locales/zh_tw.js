@@ -254,6 +254,7 @@ const lang = {
     openAll: '在此類別中打開所有書籤',
     useSystemTitleBar: '使用系統標題列',
     useSystemTitleBarTip: '重新啟動應用程式後生效。使用系統標題列時，視窗不支援透明效果。',
+    restoreSessionOnStart: '啟動時還原上次工作階段',
     onStartBookmarks: '在啟動時打開書籤',
     pleaseSelect: '請選擇',
     keepaliveIntervalDesc: 'Keepalive間隔',

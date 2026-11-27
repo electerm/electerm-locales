@@ -254,6 +254,7 @@ const lang = {
     openAll: 'abrir todos os favoritos nesta categoria',
     useSystemTitleBar: 'Use a barra de título do sistema',
     useSystemTitleBarTip: 'Reinicie o aplicativo para aplicar a alteração. A transparência da janela fica indisponível com a barra de título do sistema.',
+    restoreSessionOnStart: 'Restaurar sessão ao iniciar',
     onStartBookmarks: 'Abra os marcadores na inicialização',
     pleaseSelect: 'por favor selecione',
     keepaliveIntervalDesc: 'Intervalo Keepalive',
