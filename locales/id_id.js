@@ -253,6 +253,7 @@ const lang = {
     openAll: 'buka semua bookmark di kategori ini',
     useSystemTitleBar: 'gunakan bilah judul sistem',
     useSystemTitleBarTip: 'Mulai ulang aplikasi untuk menerapkan perubahan. Transparansi jendela tidak tersedia saat menggunakan bilah judul sistem.',
+    restoreSessionOnStart: 'Pulihkan sesi saat aplikasi dimulai',
     onStartBookmarks: 'buka bookmark saat aplikasi dimulai',
     pleaseSelect: 'silakan pilih',
     keepaliveIntervalDesc: 'interval keepalive',

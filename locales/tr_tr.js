@@ -254,6 +254,7 @@ const lang = {
     openAll: 'Bu kategorideki tüm yer imini aç',
     useSystemTitleBar: 'Sistem başlık çubuğunu kullanın',
     useSystemTitleBarTip: 'Değişikliği uygulamak için uygulamayı yeniden başlatın. Sistem başlık çubuğu kullanıldığında pencere saydamlığı kullanılamaz.',
+    restoreSessionOnStart: 'Başlangıçta oturumu geri yükle',
     onStartBookmarks: 'Başlangıçta yer imlerini açın',
     pleaseSelect: 'lütfen seçin',
     keepaliveIntervalDesc: 'Keepalive aralığı',

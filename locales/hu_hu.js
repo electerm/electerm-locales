@@ -253,6 +253,7 @@ const lang = {
     openAll: 'a kategória összes könyvjelzőjének megnyitása',
     useSystemTitleBar: 'rendszer címsorának használata',
     useSystemTitleBarTip: 'A módosítás az alkalmazás újraindítása után lép életbe. A rendszer címsorával az ablak nem lehet átlátszó.',
+    restoreSessionOnStart: 'Munkamenet visszaállítása indításkor',
     onStartBookmarks: 'könyvjelzők megnyitása indításkor',
     pleaseSelect: 'válassz',
     keepaliveIntervalDesc: 'kapcsolatfenntartási időköz',

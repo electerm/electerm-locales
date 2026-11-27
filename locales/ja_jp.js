@@ -254,6 +254,7 @@ const lang = {
     openAll: 'このカテゴリのすべてのブックマークを開く',
     useSystemTitleBar: 'システムタイトルバーを使用してください',
     useSystemTitleBarTip: '変更を反映するにはアプリを再起動してください。システムのタイトルバーを使用すると、ウィンドウを透明にできません。',
+    restoreSessionOnStart: '起動時にセッションを復元',
     onStartBookmarks: '起動時のブックマークを開く',
     pleaseSelect: '選んでください',
     keepaliveIntervalDesc: 'キープアライブ間隔',

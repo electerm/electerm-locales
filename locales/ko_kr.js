@@ -254,6 +254,7 @@ const lang = {
     openAll: '이 카테고리의 모든 북마크 열기',
     useSystemTitleBar: '시스템 제목 표시줄 사용',
     useSystemTitleBarTip: '변경 사항을 적용하려면 앱을 다시 시작하세요. 시스템 제목 표시줄을 사용하면 창 투명도를 적용할 수 없습니다.',
+    restoreSessionOnStart: '시작 시 세션 복원',
     onStartBookmarks: '시작 시 북마크 열기',
     pleaseSelect: '선택해주세요.',
     keepaliveIntervalDesc: 'KeepAlive 주기',

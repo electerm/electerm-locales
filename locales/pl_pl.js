@@ -253,6 +253,7 @@ const lang = {
     openAll: 'Otwórz wszystkie zakładki w tej kategorii',
     useSystemTitleBar: 'Użyj systemowego paska tytułu',
     useSystemTitleBarTip: 'Uruchom ponownie aplikację, aby zastosować zmianę. Systemowy pasek tytułu wyklucza przezroczystość okna.',
+    restoreSessionOnStart: 'Przywróć sesję przy uruchomieniu',
     onStartBookmarks: 'Otwórz zakładki przy starcie',
     pleaseSelect: 'Proszę wybrać',
     keepaliveIntervalDesc: 'Interwał keepalive',

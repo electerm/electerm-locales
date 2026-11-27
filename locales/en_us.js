@@ -253,6 +253,7 @@ const lang = {
     openAll: 'Open all bookmarks in this category',
     useSystemTitleBar: 'use system title bar',
     useSystemTitleBarTip: 'Restart the app to apply this change. Window transparency is unavailable with the system title bar.',
+    restoreSessionOnStart: 'Restore session on start',
     onStartBookmarks: 'open bookmarks on startup',
     pleaseSelect: 'please select',
     keepaliveIntervalDesc: 'keepalive interval',

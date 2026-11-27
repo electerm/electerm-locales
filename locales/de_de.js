@@ -241,6 +241,7 @@ const lang = {
     openAll: 'Alle Lesezeichen in dieser Kategorie öffnen',
     useSystemTitleBar: 'System-Titelleiste verwenden',
     useSystemTitleBarTip: 'Starten Sie die Anwendung neu, um die Änderung zu übernehmen. Mit der Systemtitelleiste ist keine Fenstertransparenz möglich.',
+    restoreSessionOnStart: 'Sitzung beim Start wiederherstellen',
     onStartBookmarks: 'Öffne Lesezeichen beim Start',
     pleaseSelect: 'Bitte wählen',
     keepaliveIntervalDesc: 'Keepalive-Intervall(in Millisekunden)',

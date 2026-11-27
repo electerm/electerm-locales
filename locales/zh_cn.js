@@ -254,6 +254,7 @@ const lang = {
     openAll: '在此类别中打开所有书签',
     useSystemTitleBar: '使用系统标题栏',
     useSystemTitleBarTip: '重启应用后生效。使用系统标题栏时，窗口不支持透明效果。',
+    restoreSessionOnStart: '启动时恢复上次会话',
     onStartBookmarks: '在启动时打开书签',
     pleaseSelect: '请选择',
     keepaliveIntervalDesc: 'Keepalive间隔',
