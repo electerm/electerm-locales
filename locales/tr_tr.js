@@ -57,7 +57,9 @@ const lang = {
     agentManualApproval: 'Manuel onay',
     agentAutoApproval: 'Otomatik onay',
     agentCommandAllowlist: 'İzin verilen komutlar (her satıra bir komut)',
-    agentAlwaysAllowCommand: 'Tüm terminallerde bu komutun tam olarak bu biçimde çalıştırılmasına her zaman izin ver'
+    agentAlwaysAllowCommand: 'Tüm terminallerde bu komutun tam olarak bu biçimde çalıştırılmasına her zaman izin ver',
+    agentCommandApprovedOnceNotSaved: 'Bu çalıştırma onaylandı ancak komut izin verilen komutlar listesine kaydedilemedi.',
+    agentPermissionSaveFailed: 'Bu izin ayarı kaydedilemedi.'
   },
 
   // app menu

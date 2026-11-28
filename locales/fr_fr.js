@@ -57,7 +57,9 @@ const lang = {
     agentManualApproval: 'Approbation manuelle',
     agentAutoApproval: 'Approbation automatique',
     agentCommandAllowlist: 'Commandes autorisées (une par ligne)',
-    agentAlwaysAllowCommand: 'Toujours autoriser cette commande à l’identique dans tous les terminaux'
+    agentAlwaysAllowCommand: 'Toujours autoriser cette commande à l’identique dans tous les terminaux',
+    agentCommandApprovedOnceNotSaved: 'L’exécution a été autorisée cette fois-ci, mais la commande n’a pas pu être enregistrée dans la liste des commandes autorisées.',
+    agentPermissionSaveFailed: 'Impossible d’enregistrer ce réglage d’autorisation.'
   },
 
   // app menu
