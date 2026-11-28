@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: 'Persetujuan manual',
     agentAutoApproval: 'Persetujuan otomatis',
     agentCommandAllowlist: 'Perintah yang diizinkan (satu per baris)',
-    agentAlwaysAllowCommand: 'Selalu izinkan perintah yang sama persis dengan ini di semua terminal',
-    agentCommandApprovedOnceNotSaved: 'Perintah disetujui untuk kali ini, tetapi tidak dapat disimpan ke daftar perintah yang diizinkan.',
-    agentPermissionSaveFailed: 'Pengaturan izin ini tidak dapat disimpan.'
+    agentAlwaysAllowCommand: 'Selalu izinkan perintah yang sama persis dengan ini di semua terminal'
   },
 
   // app menu

@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: '수동 승인',
     agentAutoApproval: '자동 승인',
     agentCommandAllowlist: '허용할 명령어 (한 줄에 하나씩)',
-    agentAlwaysAllowCommand: '모든 터미널에서 이 명령어와 정확히 일치하는 경우 항상 허용',
-    agentCommandApprovedOnceNotSaved: '이번 실행은 승인했지만 명령을 허용 목록에 저장하지 못했습니다.',
-    agentPermissionSaveFailed: '권한 설정을 저장하지 못했습니다.'
+    agentAlwaysAllowCommand: '모든 터미널에서 이 명령어와 정확히 일치하는 경우 항상 허용'
   },
 
   // app menu

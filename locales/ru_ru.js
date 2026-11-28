@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: 'Ручное подтверждение',
     agentAutoApproval: 'Автоматическое подтверждение',
     agentCommandAllowlist: 'Разрешённые команды (по одной в строке)',
-    agentAlwaysAllowCommand: 'Всегда разрешать именно эту команду во всех терминалах',
-    agentCommandApprovedOnceNotSaved: 'Запуск одобрен, но сохранить команду в списке разрешённых команд не удалось.',
-    agentPermissionSaveFailed: 'Не удалось сохранить эту настройку разрешений.'
+    agentAlwaysAllowCommand: 'Всегда разрешать именно эту команду во всех терминалах'
   },
 
   // app menu
