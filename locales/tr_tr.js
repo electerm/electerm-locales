@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'dokunmatik cihazlar için kısayol çubuğunu devre dışı bırak',
     doubleClickToOpenBookmark: 'yer imini çift tıklamayla aç',
     onlyShowTitleInTab: 'sekmede yalnızca başlığı göster',
-    autoCompress: 'Otomatik sıkıştır'
+    autoCompress: 'Otomatik sıkıştır',
+    agentManualApproval: 'Manuel onay',
+    agentAutoApproval: 'Otomatik onay',
+    agentCommandAllowlist: 'İzin verilen komutlar (her satıra bir komut)',
+    agentAlwaysAllowCommand: 'Tüm terminallerde bu komutun tam olarak bu biçimde çalıştırılmasına her zaman izin ver'
   },
 
   // app menu

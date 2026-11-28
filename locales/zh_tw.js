@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: '停用觸控裝置的快捷列',
     doubleClickToOpenBookmark: '雙擊開啟書籤',
     onlyShowTitleInTab: '分頁只顯示標題',
-    autoCompress: '自動壓縮'
+    autoCompress: '自動壓縮',
+    agentManualApproval: '手動核准',
+    agentAutoApproval: '自動核准',
+    agentCommandAllowlist: '允許的指令（每行一條）',
+    agentAlwaysAllowCommand: '在所有終端機中一律允許與此完全相同的指令'
   },
 
   // app menu

@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'wyłącz pasek skrótów dla urządzeń dotykowych',
     doubleClickToOpenBookmark: 'otwieraj zakładkę podwójnym kliknięciem',
     onlyShowTitleInTab: 'pokazuj tylko tytuł w karcie',
-    autoCompress: 'Automatyczna kompresja'
+    autoCompress: 'Automatyczna kompresja',
+    agentManualApproval: 'Ręczne zatwierdzanie',
+    agentAutoApproval: 'Automatyczne zatwierdzanie',
+    agentCommandAllowlist: 'Dozwolone polecenia (po jednym w wierszu)',
+    agentAlwaysAllowCommand: 'Zawsze zezwalaj na dokładnie to polecenie we wszystkich terminalach'
   },
 
   // app menu

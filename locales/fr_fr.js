@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'désactiver la barre de raccourcis pour appareils tactiles',
     doubleClickToOpenBookmark: 'ouvrir le signet par double-clic',
     onlyShowTitleInTab: 'afficher uniquement le titre dans l\'onglet',
-    autoCompress: 'Compression automatique'
+    autoCompress: 'Compression automatique',
+    agentManualApproval: 'Approbation manuelle',
+    agentAutoApproval: 'Approbation automatique',
+    agentCommandAllowlist: 'Commandes autorisées (une par ligne)',
+    agentAlwaysAllowCommand: 'Toujours autoriser cette commande à l’identique dans tous les terminaux'
   },
 
   // app menu

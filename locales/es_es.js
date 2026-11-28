@@ -54,7 +54,11 @@ const lang = {
     disableShortcutBar: 'desactivar barra de accesos directos para dispositivos táctiles',
     doubleClickToOpenBookmark: 'abrir marcador con doble clic',
     onlyShowTitleInTab: 'mostrar solo el título en la pestaña',
-    autoCompress: 'Compresión automática'
+    autoCompress: 'Compresión automática',
+    agentManualApproval: 'Aprobación manual',
+    agentAutoApproval: 'Aprobación automática',
+    agentCommandAllowlist: 'Comandos permitidos (uno por línea)',
+    agentAlwaysAllowCommand: 'Permitir siempre este comando exacto en todos los terminales'
   },
 
   // app menu

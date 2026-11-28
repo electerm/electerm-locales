@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'parancsikon-sáv letiltása érintőképernyős eszközökhöz',
     doubleClickToOpenBookmark: 'könyvjelző megnyitása dupla kattintással',
     onlyShowTitleInTab: 'csak a cím megjelenítése a lapon',
-    autoCompress: 'Automatikus tömörítés'
+    autoCompress: 'Automatikus tömörítés',
+    agentManualApproval: 'Kézi jóváhagyás',
+    agentAutoApproval: 'Automatikus jóváhagyás',
+    agentCommandAllowlist: 'Engedélyezett parancsok (soronként egy)',
+    agentAlwaysAllowCommand: 'Mindig engedélyezd ezt a parancsot pontosan ebben a formában minden terminálban'
   },
 
   // app menu
