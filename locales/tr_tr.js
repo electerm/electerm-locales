@@ -531,6 +531,7 @@ const lang = {
     syncing: 'senkronize ediliyor',
     syncSettings: 'senkronizasyon ayarları',
     uploadSettings: 'Ayarları yükle',
+    unencryptedSyncDetails: 'Eşitleme parolası olmadan electerm seçilen verileri düz metin olarak gönderir',
     downloadSettings: 'Ayarları indir',
     synced: 'senkronize edildi',
     syncDesc: 'yer imlerini / geçmişi / ayarları gizli github gist adresine senkronize et',

@@ -531,6 +531,7 @@ const lang = {
     syncing: '동기화중',
     syncSettings: '동기화 설정',
     uploadSettings: '설정 업로드',
+    unencryptedSyncDetails: '동기화 비밀번호가 없으면 electerm은 선택한 데이터를 평문으로 전송합니다',
     downloadSettings: '설정 다운로드',
     synced: '동기화됨',
     syncDesc: '북마크, 기록, 설정을 GitHub 비밀 Gist와 동기화합니다.',

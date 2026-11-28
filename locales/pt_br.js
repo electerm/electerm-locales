@@ -531,6 +531,7 @@ const lang = {
     syncing: 'sincronização',
     syncSettings: 'configurações de sincronização',
     uploadSettings: 'Enviar configurações',
+    unencryptedSyncDetails: 'Sem uma senha de sincronização, o electerm envia os dados selecionados em texto claro',
     downloadSettings: 'Baixar configurações',
     synced: 'sincronizado',
     syncDesc: 'Sincronizar favoritos, histórico e configurações com um gist secreto do GitHub.',

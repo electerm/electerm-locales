@@ -531,6 +531,7 @@ const lang = {
     syncing: 'Синхронизация',
     syncSettings: 'Настройки синхронизации',
     uploadSettings: 'Отправить настройки на сервер',
+    unencryptedSyncDetails: 'Без пароля синхронизации electerm передаёт выбранные данные в открытом виде',
     downloadSettings: 'Скачать настройки с сервера',
     synced: 'Синхронизировано',
     syncDesc: 'Синхронизировать закладки / историю / настройки в GitHub gist',

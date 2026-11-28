@@ -531,6 +531,7 @@ const lang = {
     syncing: 'جاري المزامنة',
     syncSettings: 'إعدادات المزامنة',
     uploadSettings: 'رفع الإعدادات',
+    unencryptedSyncDetails: 'بدون كلمة مرور للمزامنة، يرسل electerm البيانات المحددة كنص صريح',
     downloadSettings: 'تنزيل الإعدادات',
     synced: 'تمت المزامنة',
     syncDesc: 'مزامنة الإشارة المرجعية / السجل / الإعداد إلى github secret gist',
