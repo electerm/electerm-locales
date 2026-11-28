@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: '禁用触摸设备的快捷栏',
     doubleClickToOpenBookmark: '双击打开书签',
     onlyShowTitleInTab: '标签页只显示标题',
-    autoCompress: '自动压缩'
+    autoCompress: '自动压缩',
+    agentManualApproval: '手动审批',
+    agentAutoApproval: '自动审批',
+    agentCommandAllowlist: '命令白名单（每行一条）',
+    agentAlwaysAllowCommand: '在所有终端中始终允许这条命令（精确匹配）'
   },
 
   // app menu

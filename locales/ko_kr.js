@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: '터치 기기용 단축 바 비활성화',
     doubleClickToOpenBookmark: '더블 클릭으로 북마크 열기',
     onlyShowTitleInTab: '탭에 제목만 표시',
-    autoCompress: '자동 압축'
+    autoCompress: '자동 압축',
+    agentManualApproval: '수동 승인',
+    agentAutoApproval: '자동 승인',
+    agentCommandAllowlist: '허용할 명령어 (한 줄에 하나씩)',
+    agentAlwaysAllowCommand: '모든 터미널에서 이 명령어와 정확히 일치하는 경우 항상 허용'
   },
 
   // app menu

@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'تعطيل شريط الاختصارات للأجهزة التي تعمل باللمس',
     doubleClickToOpenBookmark: 'فتح الإشارة المرجعية بالنقر المزدوج',
     onlyShowTitleInTab: 'إظهار العنوان فقط في علامة التبويب',
-    autoCompress: 'ضغط تلقائي'
+    autoCompress: 'ضغط تلقائي',
+    agentManualApproval: 'موافقة يدوية',
+    agentAutoApproval: 'موافقة تلقائية',
+    agentCommandAllowlist: 'الأوامر المسموح بها (أمر واحد في كل سطر)',
+    agentAlwaysAllowCommand: 'السماح دائمًا بتنفيذ هذا الأمر كما هو في جميع الطرفيات'
   },
 
   // app menu

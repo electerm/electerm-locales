@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'タッチデバイス用のショートカットバーを無効にする',
     doubleClickToOpenBookmark: 'ダブルクリックでブックマークを開く',
     onlyShowTitleInTab: 'タブにはタイトルのみを表示',
-    autoCompress: '自動圧縮'
+    autoCompress: '自動圧縮',
+    agentManualApproval: '手動承認',
+    agentAutoApproval: '自動承認',
+    agentCommandAllowlist: '許可するコマンド（1 行に 1 件）',
+    agentAlwaysAllowCommand: 'すべてのターミナルで、このコマンドと完全に一致する場合は常に許可する'
   },
 
   // app menu

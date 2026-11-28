@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'disable shortcut bar for touch device',
     doubleClickToOpenBookmark: 'open bookmark on double click',
     onlyShowTitleInTab: 'only show title in tab',
-    autoCompress: 'Auto compress'
+    autoCompress: 'Auto compress',
+    agentManualApproval: 'Manual approval',
+    agentAutoApproval: 'Auto approval',
+    agentCommandAllowlist: 'Allowed commands (one per line)',
+    agentAlwaysAllowCommand: 'Always allow this exact command in all terminals'
   },
 
   // app menu

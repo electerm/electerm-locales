@@ -52,7 +52,11 @@ const lang = {
     disableShortcutBar: 'Verknüpfungsleiste für Touch-Geräte deaktivieren',
     doubleClickToOpenBookmark: 'Lesezeichen per Doppelklick öffnen',
     onlyShowTitleInTab: 'im Tab nur den Titel anzeigen',
-    autoCompress: 'Automatisch komprimieren'
+    autoCompress: 'Automatisch komprimieren',
+    agentManualApproval: 'Manuelle Genehmigung',
+    agentAutoApproval: 'Automatische Genehmigung',
+    agentCommandAllowlist: 'Erlaubte Befehle (ein Befehl pro Zeile)',
+    agentAlwaysAllowCommand: 'Genau diesen Befehl in allen Terminals immer erlauben'
   },
 
   menu: {

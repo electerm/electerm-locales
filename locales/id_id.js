@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'nonaktifkan bilah pintasan untuk perangkat sentuh',
     doubleClickToOpenBookmark: 'buka bookmark dengan klik ganda',
     onlyShowTitleInTab: 'hanya tampilkan judul di tab',
-    autoCompress: 'Kompres otomatis'
+    autoCompress: 'Kompres otomatis',
+    agentManualApproval: 'Persetujuan manual',
+    agentAutoApproval: 'Persetujuan otomatis',
+    agentCommandAllowlist: 'Perintah yang diizinkan (satu per baris)',
+    agentAlwaysAllowCommand: 'Selalu izinkan perintah yang sama persis dengan ini di semua terminal'
   },
 
   // app menu

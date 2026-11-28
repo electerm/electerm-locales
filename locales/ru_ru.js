@@ -53,7 +53,11 @@ const lang = {
     disableShortcutBar: 'отключить панель ярлыков для сенсорных устройств',
     doubleClickToOpenBookmark: 'открывать закладку двойным щелчком',
     onlyShowTitleInTab: 'показывать только заголовок во вкладке',
-    autoCompress: 'Автоматическое сжатие'
+    autoCompress: 'Автоматическое сжатие',
+    agentManualApproval: 'Ручное подтверждение',
+    agentAutoApproval: 'Автоматическое подтверждение',
+    agentCommandAllowlist: 'Разрешённые команды (по одной в строке)',
+    agentAlwaysAllowCommand: 'Всегда разрешать именно эту команду во всех терминалах'
   },
 
   // app menu
