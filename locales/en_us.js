@@ -530,6 +530,7 @@ const lang = {
     syncing: 'syncing',
     syncSettings: 'sync settings',
     uploadSettings: 'upload settings',
+    unencryptedSyncDetails: 'without a sync password, electerm transfer the selected data as plaintext',
     downloadSettings: 'download settings',
     synced: 'synced',
     syncDesc: 'Sync bookmarks, history, and settings with a secret GitHub gist.',

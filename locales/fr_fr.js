@@ -531,6 +531,7 @@ const lang = {
     syncing: 'Synchronisation en cours',
     syncSettings: 'Synchroniser les paramètres',
     uploadSettings: 'Envoyer les paramètres',
+    unencryptedSyncDetails: 'Sans mot de passe de synchronisation, electerm transmet les données sélectionnées en clair',
     downloadSettings: 'Télécharger les paramètres',
     synced: 'Synchronisé',
     syncDesc: 'Synchroniser les favoris, l’historique et les paramètres avec un gist secret sur GitHub.',

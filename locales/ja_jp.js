@@ -531,6 +531,7 @@ const lang = {
     syncing: '同期中',
     syncSettings: '同期の設定',
     uploadSettings: '設定をアップロード',
+    unencryptedSyncDetails: '同期パスワードを設定していない場合、electerm は選択したデータを平文で送信します',
     downloadSettings: '設定をダウンロード',
     synced: '同期しました',
     syncDesc: 'ブックマーク、履歴、設定を GitHub のシークレット Gist と同期します。',

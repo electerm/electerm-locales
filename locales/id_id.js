@@ -530,6 +530,7 @@ const lang = {
     syncing: 'sedang disinkronkan',
     syncSettings: 'sinkronkan pengaturan',
     uploadSettings: 'unggah pengaturan',
+    unencryptedSyncDetails: 'Tanpa kata sandi sinkronisasi, electerm mengirim data yang dipilih sebagai teks biasa',
     downloadSettings: 'unduh pengaturan',
     synced: 'tersinkronkan',
     syncDesc: 'sinkronkan bookmark / riwayat / pengaturan ke github secret gist',

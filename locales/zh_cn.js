@@ -531,6 +531,7 @@ const lang = {
     syncing: '同步中...',
     syncSettings: '同步设置',
     uploadSettings: '上传设置',
+    unencryptedSyncDetails: '未设置同步密码时，electerm 会以明文传输所选数据',
     downloadSettings: '下载设置',
     synced: '已同步',
     syncDesc: '把书签/历史/系统设置同步到Github的私有Gist',

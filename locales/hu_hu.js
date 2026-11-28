@@ -530,6 +530,7 @@ const lang = {
     syncing: 'szinkronizálás folyamatban',
     syncSettings: 'szinkronizálási beállítások',
     uploadSettings: 'beállítások feltöltése',
+    unencryptedSyncDetails: 'Szinkronizálási jelszó nélkül az electerm nyílt szövegként küldi el a kiválasztott adatokat',
     downloadSettings: 'beállítások letöltése',
     synced: 'szinkronizálva',
     syncDesc: 'könyvjelzők, előzmények és beállítások szinkronizálása titkos GitHub Gistbe',

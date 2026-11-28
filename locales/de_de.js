@@ -511,6 +511,7 @@ const lang = {
     syncing: 'Synchronisiere...',
     syncSettings: 'Einstellungen synchronisieren',
     uploadSettings: 'Einstellungen hochladen',
+    unencryptedSyncDetails: 'Ohne Synchronisierungspasswort überträgt electerm die ausgewählten Daten im Klartext',
     downloadSettings: 'Einstellungen herunterladen',
     synced: 'Synchronisiert',
     syncDesc: 'Synchronisiert Lesezeichen/Verlauf/Einstellungen mit GitHub Secret Gist',
