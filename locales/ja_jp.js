@@ -57,7 +57,9 @@ const lang = {
     agentManualApproval: '手動承認',
     agentAutoApproval: '自動承認',
     agentCommandAllowlist: '許可するコマンド（1 行に 1 件）',
-    agentAlwaysAllowCommand: 'すべてのターミナルで、このコマンドと完全に一致する場合は常に許可する'
+    agentAlwaysAllowCommand: 'すべてのターミナルで、このコマンドと完全に一致する場合は常に許可する',
+    agentCommandApprovedOnceNotSaved: '今回は実行を許可しましたが、コマンドを許可リストに保存できませんでした。',
+    agentPermissionSaveFailed: '権限設定を保存できませんでした。'
   },
 
   // app menu

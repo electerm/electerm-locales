@@ -56,7 +56,9 @@ const lang = {
     agentManualApproval: 'Manuelle Genehmigung',
     agentAutoApproval: 'Automatische Genehmigung',
     agentCommandAllowlist: 'Erlaubte Befehle (ein Befehl pro Zeile)',
-    agentAlwaysAllowCommand: 'Genau diesen Befehl in allen Terminals immer erlauben'
+    agentAlwaysAllowCommand: 'Genau diesen Befehl in allen Terminals immer erlauben',
+    agentCommandApprovedOnceNotSaved: 'Die Ausführung wurde einmalig erlaubt. Der Befehl konnte nicht in der Liste erlaubter Befehle gespeichert werden.',
+    agentPermissionSaveFailed: 'Diese Berechtigungseinstellung konnte nicht gespeichert werden.'
   },
 
   menu: {

@@ -57,7 +57,9 @@ const lang = {
     agentManualApproval: 'Ręczne zatwierdzanie',
     agentAutoApproval: 'Automatyczne zatwierdzanie',
     agentCommandAllowlist: 'Dozwolone polecenia (po jednym w wierszu)',
-    agentAlwaysAllowCommand: 'Zawsze zezwalaj na dokładnie to polecenie we wszystkich terminalach'
+    agentAlwaysAllowCommand: 'Zawsze zezwalaj na dokładnie to polecenie we wszystkich terminalach',
+    agentCommandApprovedOnceNotSaved: 'Zatwierdzono to wykonanie, ale nie udało się zapisać polecenia na liście dozwolonych poleceń.',
+    agentPermissionSaveFailed: 'Nie udało się zapisać tego ustawienia uprawnień.'
   },
 
   // app menu

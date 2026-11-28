@@ -57,7 +57,9 @@ const lang = {
     agentManualApproval: 'Aprovação manual',
     agentAutoApproval: 'Aprovação automática',
     agentCommandAllowlist: 'Comandos permitidos (um por linha)',
-    agentAlwaysAllowCommand: 'Sempre permitir este comando exato em todos os terminais'
+    agentAlwaysAllowCommand: 'Sempre permitir este comando exato em todos os terminais',
+    agentCommandApprovedOnceNotSaved: 'A execução foi aprovada desta vez, mas não foi possível salvar o comando na lista de comandos permitidos.',
+    agentPermissionSaveFailed: 'Não foi possível salvar esta configuração de permissão.'
   },
 
   // app menu
