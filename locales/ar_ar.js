@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: 'موافقة يدوية',
     agentAutoApproval: 'موافقة تلقائية',
     agentCommandAllowlist: 'الأوامر المسموح بها (أمر واحد في كل سطر)',
-    agentAlwaysAllowCommand: 'السماح دائمًا بتنفيذ هذا الأمر كما هو في جميع الطرفيات',
-    agentCommandApprovedOnceNotSaved: 'تمت الموافقة على هذا التنفيذ، لكن تعذّر حفظ الأمر في قائمة الأوامر المسموح بها.',
-    agentPermissionSaveFailed: 'تعذّر حفظ إعداد الصلاحية هذا.'
+    agentAlwaysAllowCommand: 'السماح دائمًا بتنفيذ هذا الأمر كما هو في جميع الطرفيات'
   },
 
   // app menu

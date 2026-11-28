@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: '手动审批',
     agentAutoApproval: '自动审批',
     agentCommandAllowlist: '命令白名单（每行一条）',
-    agentAlwaysAllowCommand: '在所有终端中始终允许这条命令（精确匹配）',
-    agentCommandApprovedOnceNotSaved: '本次已批准，但未能将命令保存到允许列表。',
-    agentPermissionSaveFailed: '未能保存此权限设置。'
+    agentAlwaysAllowCommand: '在所有终端中始终允许这条命令（精确匹配）'
   },
 
   // app menu

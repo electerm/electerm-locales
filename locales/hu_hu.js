@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: 'Kézi jóváhagyás',
     agentAutoApproval: 'Automatikus jóváhagyás',
     agentCommandAllowlist: 'Engedélyezett parancsok (soronként egy)',
-    agentAlwaysAllowCommand: 'Mindig engedélyezd ezt a parancsot pontosan ebben a formában minden terminálban',
-    agentCommandApprovedOnceNotSaved: 'A parancs futtatását ezúttal jóváhagyta, de a parancsot nem sikerült az engedélyezett parancsok listájába menteni.',
-    agentPermissionSaveFailed: 'Nem sikerült menteni ezt a jogosultságbeállítást.'
+    agentAlwaysAllowCommand: 'Mindig engedélyezd ezt a parancsot pontosan ebben a formában minden terminálban'
   },
 
   // app menu

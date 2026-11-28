@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: 'Manual approval',
     agentAutoApproval: 'Auto approval',
     agentCommandAllowlist: 'Allowed commands (one per line)',
-    agentAlwaysAllowCommand: 'Always allow this exact command in all terminals',
-    agentCommandApprovedOnceNotSaved: 'Approved for this run. The command couldn’t be saved to the allowed commands list.',
-    agentPermissionSaveFailed: 'Couldn’t save this permission setting.'
+    agentAlwaysAllowCommand: 'Always allow this exact command in all terminals'
   },
 
   // app menu

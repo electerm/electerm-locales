@@ -57,9 +57,7 @@ const lang = {
     agentManualApproval: '手動核准',
     agentAutoApproval: '自動核准',
     agentCommandAllowlist: '允許的指令（每行一條）',
-    agentAlwaysAllowCommand: '在所有終端機中一律允許與此完全相同的指令',
-    agentCommandApprovedOnceNotSaved: '已核准這次執行，但無法將指令儲存到允許清單。',
-    agentPermissionSaveFailed: '無法儲存這項權限設定。'
+    agentAlwaysAllowCommand: '在所有終端機中一律允許與此完全相同的指令'
   },
 
   // app menu
